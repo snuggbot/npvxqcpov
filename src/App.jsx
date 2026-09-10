@@ -126,8 +126,7 @@ export default function App() {
 
   const getDayOptionLabel = (dayNum, dayInfo) => {
     const count = dayInfo.eventsCount || dayInfo.events?.length || 0;
-    const status = dayInfo.isLive ? ' • LIVE' : '';
-    return `Day ${dayNum} (${count} moments)${status}`;
+    return `Day ${dayNum} (${count} moments)`;
   };
 
   return (
@@ -165,16 +164,8 @@ export default function App() {
                         : 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-800/40'
                     }`}
                   >
-                    {dayInfo.isLive && (
-                      <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
-                    )}
                     <span>Day {dayNum}</span>
                     <span className="font-mono text-[10px] tabular-nums opacity-75">({count})</span>
-                    {dayInfo.isLive && (
-                      <span className="px-1 py-0.2 rounded bg-red-500/20 text-red-400 text-[9px] font-bold">
-                        LIVE
-                      </span>
-                    )}
                   </button>
                 );
               })}
@@ -199,7 +190,7 @@ export default function App() {
 
               {/* Quick jump pills for the 2 most recent days */}
               <div className="hidden sm:flex items-center gap-1 bg-zinc-900/90 p-1 rounded-lg border border-white/[0.08]">
-                {Object.entries(days).slice(-2).map(([dayNum, dayInfo]) => {
+                {Object.entries(days).slice(-2).map(([dayNum]) => {
                   const isSelected = selectedDay === dayNum;
                   return (
                     <button
@@ -211,15 +202,7 @@ export default function App() {
                           : 'text-zinc-400 hover:text-zinc-200'
                       }`}
                     >
-                      {dayInfo.isLive && (
-                        <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
-                      )}
                       <span>Day {dayNum}</span>
-                      {dayInfo.isLive && (
-                        <span className="px-1 py-0.2 rounded bg-red-500/20 text-red-400 text-[9px] font-bold">
-                          LIVE
-                        </span>
-                      )}
                     </button>
                   );
                 })}
