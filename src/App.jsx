@@ -5,6 +5,7 @@ import Navbar from './components/Navbar.jsx';
 import TimelineView from './components/TimelineView.jsx';
 import ExtrasModal from './components/ExtrasModal.jsx';
 import { ArrowUp, ArrowDown, ChevronDown } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   const [days, setDays] = useState(initialDaysData.days || {});
@@ -275,6 +276,9 @@ export default function App() {
           <ArrowDown className="w-4 h-4" />
         </button>
       </div>
+
+      {/* Vercel Analytics */}
+      <Analytics />
     </div>
   );
 }
