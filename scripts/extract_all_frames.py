@@ -1,135 +1,257 @@
+"""
+extract_all_frames.py
+
+Automatically captures screenshot frames for every event in every day in
+daysData.json that is missing an image. Works for any future days added
+without code changes — it reads the Twitch VOD URL directly from each day's
+events.
+
+  python3 scripts/extract_all_frames.py           # all days, skip existing
+  python3 scripts/extract_all_frames.py --force   # re-capture even if image exists
+  python3 scripts/extract_all_frames.py --day 2   # only a specific day
+"""
+
 import os
 import re
+import sys
 import json
+import shutil
 import subprocess
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC_DATA_DIR = os.path.join(BASE_DIR, "src", "data")
-PUBLIC_FRAMES_DIR = os.path.join(BASE_DIR, "public", "images", "frames")
-DIST_FRAMES_DIR = os.path.join(BASE_DIR, "dist", "images", "frames")
+# ---------------------------------------------------------------------------
+# Paths
+# ---------------------------------------------------------------------------
+BASE_DIR      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SRC_DATA_DIR  = os.path.join(BASE_DIR, "src", "data")
+PUBLIC_FRAMES = os.path.join(BASE_DIR, "public", "images", "frames")
+DIST_FRAMES   = os.path.join(BASE_DIR, "dist",   "images", "frames")
+DAYS_FILE     = os.path.join(SRC_DATA_DIR, "daysData.json")
+RECAP_FILE    = os.path.join(SRC_DATA_DIR, "recapData.json")
 
-for d in [PUBLIC_FRAMES_DIR, DIST_FRAMES_DIR]:
-    try:
-        os.makedirs(d, exist_ok=True)
-    except Exception as e:
-        print(f"Directory create error: {e}")
+try:
+    os.makedirs(PUBLIC_FRAMES, exist_ok=True)
+    os.makedirs(DIST_FRAMES,   exist_ok=True)
+except OSError as e:
+    print(f"Warning: could not create frames directories: {e}")
 
-DAY1_TWITCH_VOD = "https://www.twitch.tv/videos/2868715967"
+# ---------------------------------------------------------------------------
+# CLI flags
+# ---------------------------------------------------------------------------
+FORCE_RECAPTURE = "--force" in sys.argv
+ONLY_DAY = None
+for i, arg in enumerate(sys.argv):
+    if arg == "--day" and i + 1 < len(sys.argv):
+        ONLY_DAY = sys.argv[i + 1]
 
-def get_stream_url(vod_url):
-    print(f"Resolving direct HLS stream for {vod_url}...")
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+def vod_id_from_url(url):
+    m = re.search(r"twitch\.tv/videos/(\d+)", url or "")
+    return m.group(1) if m else None
+
+
+def resolve_hls(vod_url):
+    """Use yt-dlp to get a direct HLS stream URL (<=480p for faster seeking)."""
+    print(f"  [yt-dlp] Resolving HLS for {vod_url} ...")
     try:
         res = subprocess.run(
             ["yt-dlp", "-g", "-f", "[height<=480]", vod_url],
-            capture_output=True, text=True, check=True, timeout=20
+            capture_output=True, text=True, check=True, timeout=30
         )
-        url = res.stdout.strip()
-        print("HLS URL resolved successfully.")
+        url = res.stdout.strip().splitlines()[0]
+        print("  [yt-dlp] HLS URL resolved")
         return url
-    except Exception as e:
-        print("Error resolving stream URL:", e)
-        return None
+    except subprocess.TimeoutExpired:
+        print("  [yt-dlp] Timeout resolving HLS URL")
+    except subprocess.CalledProcessError as e:
+        print(f"  [yt-dlp] Error: {e.stderr.strip()[:200]}")
+    return None
 
-def extract_frame(stream_url, ts, out_path):
-    if os.path.exists(out_path) and os.path.getsize(out_path) > 1000:
-        return True
+
+def extract_frame(stream_url, timestamp, out_path):
+    """Seek to timestamp in stream_url and save a single JPEG frame."""
+    if not stream_url:
+        return False
+    if not FORCE_RECAPTURE and os.path.exists(out_path) and os.path.getsize(out_path) > 1000:
+        return True  # already captured
     try:
         cmd = [
-            "ffmpeg", "-ss", ts, "-i", stream_url,
+            "ffmpeg", "-ss", timestamp, "-i", stream_url,
             "-vframes", "1", "-q:v", "2", "-y", out_path
         ]
-        res = subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=20)
+        res = subprocess.run(
+            cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=25
+        )
         return res.returncode == 0 and os.path.exists(out_path) and os.path.getsize(out_path) > 1000
     except Exception as e:
+        print(f"    [ffmpeg] {e}")
         return False
 
-def process_day1():
-    days_file = os.path.join(SRC_DATA_DIR, "daysData.json")
-    if not os.path.exists(days_file):
-        print("daysData.json not found!")
-        return
+
+def copy_to_dist(src, filename):
+    """Mirror a captured frame into dist/ for the local preview server."""
+    try:
+        shutil.copy2(src, os.path.join(DIST_FRAMES, filename))
+    except Exception:
+        pass  # dist/ is optional
+
+
+def frame_filename(day_number, evt_index, timestamp):
+    """e.g. d2_evt_027_04_52_10.jpg"""
+    slug = timestamp.replace(":", "_")
+    return f"d{day_number}_evt_{evt_index:03d}_{slug}.jpg"
+
+
+def discover_vod_url(events):
+    """Find the Twitch VOD base URL from any event's twitchUrl."""
+    for evt in events:
+        vid = vod_id_from_url(evt.get("twitchUrl", ""))
+        if vid:
+            return f"https://www.twitch.tv/videos/{vid}"
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def run():
+    if not os.path.exists(DAYS_FILE):
+        print(f"ERROR: {DAYS_FILE} not found.")
+        sys.exit(1)
 
     try:
-        with open(days_file, "r") as f:
+        with open(DAYS_FILE, "r") as f:
             data = json.load(f)
-    except Exception as e:
-        print("Failed to read daysData.json:", e)
-        return
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"ERROR: could not read {DAYS_FILE}: {e}")
+        sys.exit(1)
 
-    day1 = data.get("days", {}).get("1")
-    if not day1:
-        print("Day 1 data not found!")
-        return
-
-    events = day1.get("events", [])
-    print(f"Day 1 has {len(events)} events.")
-
-    stream_url = get_stream_url(DAY1_TWITCH_VOD)
-    if not stream_url:
-        print("Could not obtain stream URL, exiting.")
-        return
-
-    to_extract = []
-    for idx, e in enumerate(events):
-        # If no image or existing image was missing
-        if not e.get("image"):
-            slug = e["timestamp"].replace(":", "_")
-            fname = f"d1_evt_{idx+1:03d}_{slug}.jpg"
-            out_pub = os.path.join(PUBLIC_FRAMES_DIR, fname)
-            to_extract.append((idx, e, e["timestamp"], out_pub, fname))
-
-    print(f"{len(to_extract)} events need screenshot frame extraction.")
-
-    def worker(item):
-        idx, evt, ts, out_pub, fname = item
-        success = extract_frame(stream_url, ts, out_pub)
-        if success:
-            out_dist = os.path.join(DIST_FRAMES_DIR, fname)
-            try:
-                with open(out_pub, "rb") as rf:
-                    b = rf.read()
-                with open(out_dist, "wb") as wf:
-                    wf.write(b)
-            except Exception as e:
-                print(f"File copy error: {e}")
-            return idx, f"/images/frames/{fname}", f"Stream snapshot @ {ts}"
-        return idx, None, None
-
-    # Run in parallel with 6 worker threads
-    with ThreadPoolExecutor(max_workers=6) as executor:
-        results = list(executor.map(worker, to_extract))
-
-    success_count = 0
-    for idx, img_path, caption in results:
-        if img_path:
-            events[idx]["image"] = img_path
-            events[idx]["imageCaption"] = caption
-            success_count += 1
-
-    print(f"Successfully extracted and attached {success_count} screenshots!")
-    day1["events"] = events
-    data["days"]["1"] = day1
+    days = data.get("days", {})
 
     try:
-        with open(days_file, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
-        print("Saved updated daysData.json")
-    except Exception as e:
-        print("Failed writing daysData.json:", e)
+        day_keys = sorted(days.keys(), key=lambda k: int(k))
+    except (ValueError, TypeError) as e:
+        print(f"ERROR: unexpected day key format in daysData.json: {e}")
+        sys.exit(1)
 
-    # Also update recapData.json
-    recap_file = os.path.join(SRC_DATA_DIR, "recapData.json")
-    if os.path.exists(recap_file):
+    if ONLY_DAY:
+        if ONLY_DAY not in days:
+            print(f"ERROR: Day '{ONLY_DAY}' not found (available: {', '.join(day_keys)})")
+            sys.exit(1)
+        day_keys = [ONLY_DAY]
+
+    total_captured = 0
+    total_skipped  = 0
+    total_failed   = 0
+
+    for day_key in day_keys:
+        day = days[day_key]
+        events = day.get("events", [])
+
         try:
-            with open(recap_file, "r") as f:
-                rdata = json.load(f)
-            rdata["events"] = events
-            with open(recap_file, "w", encoding="utf-8") as f:
-                json.dump(rdata, f, indent=2)
-            print("Saved updated recapData.json")
+            day_num = day.get("dayNumber", int(day_key))
+        except (ValueError, TypeError):
+            day_num = day_key
+
+        # Decide which events still need frames
+        targets = []
+        for idx, evt in enumerate(events):
+            img = evt.get("image", "")
+            frame_exists = (
+                img
+                and "/images/frames/" in img
+                and os.path.exists(os.path.join(BASE_DIR, "public", img.lstrip("/")))
+            )
+            if FORCE_RECAPTURE or not frame_exists:
+                fname   = frame_filename(day_num, idx + 1, evt["timestamp"])
+                out     = os.path.join(PUBLIC_FRAMES, fname)
+                targets.append((idx, evt, fname, out))
+
+        skipped = len(events) - len(targets)
+        print(f"\n── Day {day_key} {'─' * 40}")
+        print(f"   {len(events)} events | {skipped} already captured | {len(targets)} need frames")
+
+        if not targets:
+            total_skipped += skipped
+            continue
+
+        vod_url = discover_vod_url(events)
+        if not vod_url:
+            print(f"   SKIP: No Twitch VOD URL found for Day {day_key}.")
+            print(f"         Add twitchUrl to any event in this day to enable frame capture.")
+            total_skipped += len(targets)
+            continue
+
+        stream_url = resolve_hls(vod_url)
+        if not stream_url:
+            print(f"   SKIP: Could not resolve HLS stream for {vod_url}")
+            total_skipped += len(targets)
+            continue
+
+        # Capture frames in parallel
+        def worker(item):
+            idx, evt, fname, out_path = item
+            ok = extract_frame(stream_url, evt["timestamp"], out_path)
+            return idx, evt, fname, out_path, ok
+
+        day_ok   = 0
+        day_fail = 0
+        print(f"   Capturing {len(targets)} frames (6 parallel threads) ...")
+
+        with ThreadPoolExecutor(max_workers=6) as pool:
+            futures = {pool.submit(worker, t): t for t in targets}
+            for future in as_completed(futures):
+                idx, evt, fname, out_path, ok = future.result()
+                if ok:
+                    copy_to_dist(out_path, fname)
+                    events[idx]["image"]        = f"/images/frames/{fname}"
+                    events[idx]["imageCaption"] = f"Stream snapshot @ {evt['timestamp']}"
+                    day_ok += 1
+                    print(f"   + [{day_ok}/{len(targets)}] {fname}")
+                else:
+                    day_fail += 1
+                    print(f"   x FAILED  Day {day_key} @ {evt['timestamp']}")
+
+        day["events"] = events
+        total_captured += day_ok
+        total_failed   += day_fail
+        total_skipped  += skipped
+
+    # Save daysData.json
+    try:
+        with open(DAYS_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print(f"\n+ Saved {DAYS_FILE}")
+    except OSError as e:
+        print(f"ERROR: could not write {DAYS_FILE}: {e}")
+
+    # Mirror Day 1 events into recapData.json (legacy)
+    if os.path.exists(RECAP_FILE) and not ONLY_DAY:
+        try:
+            with open(RECAP_FILE, "r") as f:
+                recap = json.load(f)
+            if "1" in days:
+                recap["events"] = days["1"]["events"]
+                with open(RECAP_FILE, "w", encoding="utf-8") as f:
+                    json.dump(recap, f, indent=2, ensure_ascii=False)
+                print(f"+ Saved {RECAP_FILE}")
         except Exception as e:
-            print("Failed updating recapData.json:", e)
+            print(f"  Warning: could not update recapData.json: {e}")
+
+    print(f"""
+==============================================
+  Captured : {total_captured}
+  Skipped  : {total_skipped}  (already had frames)
+  Failed   : {total_failed}
+==============================================
+""")
+    if total_failed:
+        print("Tip: Re-run the script to retry failed events.")
+
 
 if __name__ == "__main__":
-    process_day1()
+    run()
