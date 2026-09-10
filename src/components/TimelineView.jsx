@@ -805,19 +805,19 @@ export default function TimelineView({
                     href={focusedEvent.twitchUrl || 'https://www.twitch.tv/xqc'}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-[#9146ff] hover:bg-[#772ce8] text-white text-xs font-semibold transition-colors shadow-sm cursor-pointer"
+                    className="p-1.5 rounded-md bg-[#9146ff] hover:bg-[#772ce8] text-white transition-colors shadow-sm flex items-center justify-center cursor-pointer"
+                    title={`Jump to ${focusedEvent.timestamp} on Twitch`}
                   >
                     <TwitchIcon className="w-3.5 h-3.5 fill-current" />
-                    <span>Twitch</span>
                   </a>
                   <a
                     href={focusedEvent.kickUrl || 'https://kick.com/xqc'}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 text-xs font-semibold transition-colors cursor-pointer"
+                    className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
+                    title={`Jump to ${focusedEvent.timestamp} on Kick`}
                   >
                     <KickIcon className="w-3.5 h-3.5 fill-current" />
-                    <span>Kick</span>
                   </a>
                 </div>
 
