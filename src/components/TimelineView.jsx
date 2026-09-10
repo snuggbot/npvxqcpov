@@ -20,6 +20,11 @@ const CATEGORY_CONFIG = {
   social: { label: 'Social', accentColor: 'bg-teal-500', dotColor: 'bg-teal-500' }
 };
 
+const KICK_STREAM_FALLBACKS = {
+  '1': 'https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/8/14/59/8wZGxx2ttqbw/media/hls/master.m3u8',
+  '2': 'https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/9/16/26/2oh2tsSCFYxW/media/hls/master.m3u8'
+};
+
 export default function TimelineView({ 
   events, 
   bookmarks, 
@@ -42,6 +47,24 @@ export default function TimelineView({
   const [tappedId, setTappedId] = useState(null);
   const [focusedEvent, setFocusedEvent] = useState(null);
   const [isPlayingKick, setIsPlayingKick] = useState(false);
+  const [isMobile, setIsMobile] = useState(() => {
+    if (typeof window === 'undefined') return false;
+    return /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent) || 
+           (window.innerWidth < 768 && ('ontouchstart' in window || navigator.maxTouchPoints > 0));
+  });
+
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(
+        /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent) || 
+        (window.innerWidth < 768 && ('ontouchstart' in window || navigator.maxTouchPoints > 0))
+      );
+    };
+    window.addEventListener('resize', checkMobile);
+    return () => window.removeEventListener('resize', checkMobile);
+  }, []);
+
+  const activeKickStream = kickStreamUrl || KICK_STREAM_FALLBACKS[focusedEvent?.id?.startsWith('d2') ? '2' : '1'] || KICK_STREAM_FALLBACKS['1'];
 
   // Character list derived from events
   const allCharacters = useMemo(() => {
@@ -174,6 +197,10 @@ export default function TimelineView({
   }, [events, selectedCharacter, selectedCategory]);
 
   const hasActiveFilters = selectedCategory !== 'all' || selectedCharacter !== 'all' || isMajorOnly || searchQuery || showOnlyBookmarks;
+
+  const kickBtnClass = isPlayingKick
+    ? 'bg-[#53fc18] text-black border-[#53fc18] shadow-md'
+    : 'bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30';
 
   return (
     <div className="max-w-5xl mx-auto space-y-3 pb-16">
@@ -770,9 +797,9 @@ export default function TimelineView({
             </div>
 
             {/* Large 16:9 Screenshot or In-App Kick Player */}
-            {isPlayingKick && kickStreamUrl ? (
+            {isPlayingKick && activeKickStream ? (
               <KickPlayer
-                streamUrl={kickStreamUrl}
+                streamUrl={activeKickStream}
                 seconds={focusedEvent.seconds}
                 timestamp={focusedEvent.timestamp}
                 kickUrl={focusedEvent.kickUrl}
@@ -785,22 +812,6 @@ export default function TimelineView({
                   alt={focusedEvent.description}
                   className="w-full h-full object-contain"
                 />
-
-                {/* Big Centered Play Button (1-Click In-App Kick Stream) */}
-                <div 
-                  onClick={() => setIsPlayingKick(true)}
-                  className="absolute inset-0 flex items-center justify-center cursor-pointer group/play z-10"
-                >
-                  <div className="flex items-center gap-2.5 px-4 py-2.5 rounded-full bg-black/80 hover:bg-black/95 text-white backdrop-blur-md border border-[#53fc18]/40 shadow-2xl hover:scale-105 active:scale-95 transition-all">
-                    <div className="w-8 h-8 rounded-full bg-[#53fc18] text-black flex items-center justify-center shadow-lg">
-                      <Play className="w-4 h-4 fill-current ml-0.5" />
-                    </div>
-                    <div className="flex flex-col text-left pr-1.5">
-                      <span className="text-xs font-bold text-white leading-tight">Watch on Kick</span>
-                      <span className="text-[10px] text-[#53fc18] font-mono leading-tight font-semibold">0 Ads • Auto-seek @ {focusedEvent.timestamp}</span>
-                    </div>
-                  </div>
-                </div>
 
                 {/* Prev / Next Navigation Buttons */}
                 <button
@@ -858,6 +869,7 @@ export default function TimelineView({
                   <span className="text-xs text-zinc-400 font-mono">
                     Jump to VOD:
                   </span>
+                  {/* Twitch VOD jump */}
                   <a
                     href={focusedEvent.twitchUrl || 'https://www.twitch.tv/xqc'}
                     target="_blank"
@@ -867,27 +879,40 @@ export default function TimelineView({
                   >
                     <TwitchIcon className="w-3.5 h-3.5 fill-current" />
                   </a>
-                  <button
-                    onClick={() => setIsPlayingKick(!isPlayingKick)}
-                    className={`px-2.5 py-1.5 rounded-md border text-xs font-semibold transition-all flex items-center gap-1.5 cursor-pointer ${
-                      isPlayingKick
-                        ? 'bg-[#53fc18] text-black border-[#53fc18] shadow-md'
-                        : 'bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30'
-                    }`}
-                    title={isPlayingKick ? "Close in-app player" : `Play Kick VOD in-app @ ${focusedEvent.timestamp} (0 ads)`}
-                  >
-                    <KickIcon className="w-3.5 h-3.5 fill-current" />
-                    <span>{isPlayingKick ? 'Close Video' : 'Watch on Kick (0 Ads)'}</span>
-                  </button>
-                  <a
-                    href={focusedEvent.kickUrl || 'https://kick.com/xqc'}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="p-1.5 rounded-md bg-zinc-900 hover:bg-zinc-800 text-zinc-400 hover:text-white border border-white/10 transition-colors flex items-center justify-center cursor-pointer"
-                    title="Open on Kick website"
-                  >
-                    <ExternalLink className="w-3.5 h-3.5" />
-                  </a>
+
+                  {isMobile ? (
+                    /* Mobile: Play in browser button + external link icon */
+                    <>
+                      <button
+                        onClick={() => setIsPlayingKick(!isPlayingKick)}
+                        className={`px-3 py-1.5 rounded-md border text-xs font-semibold transition-all flex items-center gap-1.5 cursor-pointer ${kickBtnClass}`}
+                        title={isPlayingKick ? "Close player" : `Play stream in browser @ ${focusedEvent.timestamp}`}
+                      >
+                        <KickIcon className="w-3.5 h-3.5 fill-current" />
+                        <span>{isPlayingKick ? 'Close player' : 'Play in browser'}</span>
+                      </button>
+                      <a
+                        href={focusedEvent.kickUrl || 'https://kick.com/xqc'}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="p-1.5 rounded-md bg-zinc-900 hover:bg-zinc-800 text-zinc-400 hover:text-white border border-white/10 transition-colors flex items-center justify-center cursor-pointer"
+                        title="Open in Kick app/website"
+                      >
+                        <ExternalLink className="w-3.5 h-3.5" />
+                      </a>
+                    </>
+                  ) : (
+                    /* Desktop: Clean icon-only Kick button linking directly to Kick */
+                    <a
+                      href={focusedEvent.kickUrl || 'https://kick.com/xqc'}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
+                      title={`Jump to ${focusedEvent.timestamp} on Kick`}
+                    >
+                      <KickIcon className="w-3.5 h-3.5 fill-current" />
+                    </a>
+                  )}
                 </div>
 
                 {/* Switch to single column view button */}

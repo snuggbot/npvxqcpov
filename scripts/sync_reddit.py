@@ -28,6 +28,11 @@ KNOWN_KICK_VODS = {
     2: "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc"
 }
 
+KNOWN_KICK_STREAMS = {
+    1: "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/8/14/59/8wZGxx2ttqbw/media/hls/master.m3u8",
+    2: "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/9/16/26/2oh2tsSCFYxW/media/hls/master.m3u8"
+}
+
 def fetch_rss_entries(username="HurricaneRein"):
     url = f"https://www.reddit.com/user/{username}/submitted/.rss"
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -280,6 +285,7 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
         "events": events,
         "twitchVod": twitch_base,
         "kickVod": kick_base,
+        "kickStreamUrl": KNOWN_KICK_STREAMS.get(day_num, ""),
         "characterInfo": character_info
     }
 
@@ -336,6 +342,7 @@ def sync_all():
                 "isLive": "work in progress" in html.lower() or "keep updating" in html.lower(),
                 "twitchVod": parsed["twitchVod"] or "https://www.twitch.tv/videos/2868715967",
                 "kickVod": parsed["kickVod"] or KNOWN_KICK_VODS.get(p["dayNumber"], "https://kick.com/xqc"),
+                "kickStreamUrl": parsed.get("kickStreamUrl") or KNOWN_KICK_STREAMS.get(p["dayNumber"], ""),
                 "eventsCount": len(parsed["events"]),
                 "events": parsed["events"],
                 "characterInfo": parsed.get("characterInfo") or existing_data.get("days", {}).get(day_str, {}).get("characterInfo") or {}
