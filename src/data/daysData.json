@@ -4411,7 +4411,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2870490310",
       "kickVod": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2",
       "kickStreamUrl": "",
-      "eventsCount": 18,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d3-evt-001",
@@ -4788,6 +4788,244 @@
           "imageCaption": "Stream snapshot @ 01:30:30",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h30m30s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=5428"
+        },
+        {
+          "id": "d3-evt-019",
+          "timestamp": "01:36:25",
+          "seconds": 5785,
+          "isMajor": true,
+          "title": "The group (x",
+          "description": "The group (x, Marty, Lang, Tony and Speedy) currently have around 30k$ in total according to Marty (x messaged him telling him to lie about the amount), the group agreed that each person is going to do two money runs for the moment, they disband into different cars shortly after",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony",
+            "Speedy"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h36m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=5783"
+        },
+        {
+          "id": "d3-evt-020",
+          "timestamp": "01:41:00",
+          "seconds": 6060,
+          "isMajor": true,
+          "title": "Marty reveals to x that they have an extra 8",
+          "description": "Marty reveals to x that they have an extra 8.6k apart from the 30k for the two of them",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h41m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=6058"
+        },
+        {
+          "id": "d3-evt-021",
+          "timestamp": "01:44:20",
+          "seconds": 6260,
+          "isMajor": false,
+          "title": "Starts his first money run",
+          "description": "x starts his first money run",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h44m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=6258"
+        },
+        {
+          "id": "d3-evt-022",
+          "timestamp": "01:49:35",
+          "seconds": 6575,
+          "isMajor": true,
+          "title": "Tony calls x saying that they should try to break into ",
+          "description": "Tony calls x saying that they should try to break into the movie studio tonight as the doors are locked and seem to be breakable into?",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h49m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=6573"
+        },
+        {
+          "id": "d3-evt-023",
+          "timestamp": "01:59:20",
+          "seconds": 7160,
+          "isMajor": false,
+          "title": "Completes all 6 debt collections",
+          "description": "x completes all 6 debt collections",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h59m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7158"
+        },
+        {
+          "id": "d3-evt-024",
+          "timestamp": "02:02:20",
+          "seconds": 7340,
+          "isMajor": false,
+          "title": "Arrives at the cash exchange and gets his paycheck of 4",
+          "description": "x arrives at the cash exchange and gets his paycheck of 4k$",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h02m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7338"
+        },
+        {
+          "id": "d3-evt-025",
+          "timestamp": "02:10:15",
+          "seconds": 7815,
+          "isMajor": true,
+          "title": "Calls speedy asking him about car chopping",
+          "description": "x calls Speedy asking him about car chopping, he directs him as where to go",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h10m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7813"
+        },
+        {
+          "id": "d3-evt-026",
+          "timestamp": "02:12:00",
+          "seconds": 7920,
+          "isMajor": false,
+          "title": "Breaks a couple of atms on his own (the server is about",
+          "description": "x breaks a couple of ATMs on his own (the server is about to reset in a couple of minutes)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h12m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7918"
+        },
+        {
+          "id": "d3-evt-027",
+          "timestamp": "02:20:40",
+          "seconds": 8440,
+          "isMajor": false,
+          "title": "Logs back in after server reset",
+          "description": "x logs back in after server reset, he continues to break more ATM machines",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h20m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=8438"
+        },
+        {
+          "id": "d3-evt-028",
+          "timestamp": "02:37:00",
+          "seconds": 9420,
+          "isMajor": false,
+          "title": "Continues to break more atms",
+          "description": "x continues to break more ATMs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h37m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=9418"
+        },
+        {
+          "id": "d3-evt-029",
+          "timestamp": "02:39:30",
+          "seconds": 9570,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty, Lang and Tony group up together",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h39m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=9568"
+        },
+        {
+          "id": "d3-evt-030",
+          "timestamp": "02:48:35",
+          "seconds": 10115,
+          "isMajor": false,
+          "title": "Finds a berry bush",
+          "description": "x finds a berry bush, they need the berries to feed them to the caged birds",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h48m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=10113"
         }
       ],
       "characterInfo": {

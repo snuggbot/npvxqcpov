@@ -185,14 +185,18 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
     existing_img_map = {}
     existing_tags_map = {}
     if existing_events:
+        timestamp_occurrences = {}
         for e in existing_events:
+            timestamp = e["timestamp"]
+            occurrence = timestamp_occurrences.get(timestamp, 0)
+            timestamp_occurrences[timestamp] = occurrence + 1
             if e.get("image"):
-                existing_img_map[e["timestamp"]] = {
+                existing_img_map[(timestamp, occurrence)] = {
                     "image": e["image"],
-                    "imageCaption": e.get("imageCaption") or f"Snapshot @ {e['timestamp']}"
+                    "imageCaption": e.get("imageCaption") or f"Snapshot @ {timestamp}"
                 }
             if e.get("tags"):
-                existing_tags_map[e["timestamp"]] = e["tags"]
+                existing_tags_map[(timestamp, occurrence)] = e["tags"]
 
     # Extract slot="text-body"
     pos = html.find("slot=\"text-body\"")
@@ -242,8 +246,11 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
     
     events = []
     img_idx = 0
+    timestamp_occurrences = {}
     for idx, m in enumerate(ts_matches):
         ts = m.group(2)
+        occurrence = timestamp_occurrences.get(ts, 0)
+        timestamp_occurrences[ts] = occurrence + 1
         raw_desc = m.group(4)
         is_major = ("**" in m.group(0)) or ("**" in raw_desc) or raw_desc.startswith("**") or raw_desc.endswith("**")
         clean_desc = html_lib.unescape(raw_desc.replace("**", "").strip())
@@ -255,9 +262,9 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
             img_src = downloaded_images[img_idx]["src"]
             img_cap = downloaded_images[img_idx]["caption"]
             img_idx += 1
-        elif ts in existing_img_map:
-            img_src = existing_img_map[ts]["image"]
-            img_cap = existing_img_map[ts]["imageCaption"]
+        elif (ts, occurrence) in existing_img_map:
+            img_src = existing_img_map[(ts, occurrence)]["image"]
+            img_cap = existing_img_map[(ts, occurrence)]["imageCaption"]
         else:
             slug = ts.replace(":", "_")
             possible_frame = f"d{day_num}_evt_{idx+1:03d}_{slug}.jpg"
@@ -272,7 +279,7 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
         event_kick = f"{kick_base}?t={kick_sec}" if "/videos/" in kick_base else kick_base
         category = categorize_event(clean_desc)
         # Preserve manually-curated tags if they exist, otherwise default to [category]
-        tags = existing_tags_map.get(ts, [category])
+        tags = existing_tags_map.get((ts, occurrence), [category])
         events.append({
             "id": f"d{day_num}-evt-{idx+1:03d}",
             "timestamp": ts,
@@ -352,14 +359,22 @@ def sync_all():
             existing_data = {"days": {}}
 
     updated_any = False
+    parsed_posts = 0
     for p in recap_posts:
         day_str = str(p["dayNumber"])
         print(f"\nProcessing Day {day_str}...")
-        html = fetch_reddit_post_html(p["url"])
-        prev_events = existing_data.get("days", {}).get(day_str, {}).get("events", [])
-        parsed = parse_post_content(html, p["dayNumber"], p["url"], existing_events=prev_events)
-        
+        try:
+            html = fetch_reddit_post_html(p["url"])
+            prev_events = existing_data.get("days", {}).get(day_str, {}).get("events", [])
+            parsed = parse_post_content(html, p["dayNumber"], p["url"], existing_events=prev_events)
+        except Exception as e:
+            # A malformed or temporarily unavailable post must not abort updates
+            # for every other day. The workflow will retry if all posts fail.
+            print(f"  -> Failed to parse Day {day_str}: {e}")
+            continue
+
         if parsed and parsed["events"]:
+            parsed_posts += 1
             print(f"  -> Successfully parsed {len(parsed['events'])} events for Day {day_str}!")
             existing_data["days"][day_str] = {
                 "dayNumber": p["dayNumber"],
@@ -376,6 +391,9 @@ def sync_all():
                 "characterInfo": parsed.get("characterInfo") or existing_data.get("days", {}).get(day_str, {}).get("characterInfo") or {}
             }
             updated_any = True
+
+    if not parsed_posts:
+        raise RuntimeError("Reddit posts could not be fetched or parsed; refusing to publish stale data")
 
     if updated_any:
         try:
