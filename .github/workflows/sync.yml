@@ -1,6 +1,8 @@
 name: Auto-Sync Stream Timelines & Deploy to Vercel
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Run every 30 minutes automatically
     - cron: '*/30 * * * *'
