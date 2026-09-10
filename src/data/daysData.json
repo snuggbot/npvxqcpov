@@ -2068,7 +2068,6 @@
         }
       ],
       "characterInfo": {
-        "name": "Jean Paul",
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "~ 23.5 hours",
         "timesJailed": "0"
@@ -4395,7 +4394,6 @@
         }
       ],
       "characterInfo": {
-        "name": "Jean Paul",
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "11.10 hours",
         "timesJailed": "0"
@@ -4411,7 +4409,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2870490310",
       "kickVod": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 49,
       "events": [
         {
           "id": "d3-evt-001",
@@ -4807,8 +4805,8 @@
             "Tony",
             "Speedy"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_019_01_36_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:36:25",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h36m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=5783"
         },
@@ -4827,8 +4825,8 @@
             "Jean Paul (X)",
             "Marty Banks"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_020_01_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:41:00",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h41m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=6058"
         },
@@ -4846,8 +4844,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_021_01_44_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:44:20",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h44m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=6258"
         },
@@ -4866,8 +4864,8 @@
             "Jean Paul (X)",
             "Tony"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_022_01_49_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:49:35",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h49m35s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=6573"
         },
@@ -4885,8 +4883,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_023_01_59_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:59:20",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=01h59m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7158"
         },
@@ -4904,8 +4902,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_024_02_02_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:02:20",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h02m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7338"
         },
@@ -4924,8 +4922,8 @@
             "Jean Paul (X)",
             "Speedy"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_025_02_10_15.jpg",
+          "imageCaption": "Stream snapshot @ 02:10:15",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h10m15s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7813"
         },
@@ -4943,8 +4941,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_026_02_12_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:12:00",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h12m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=7918"
         },
@@ -4962,8 +4960,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_027_02_20_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:20:40",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h20m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=8438"
         },
@@ -4981,8 +4979,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_028_02_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:37:00",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h37m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=9418"
         },
@@ -5003,8 +5001,8 @@
             "Mista Lang",
             "Tony"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_029_02_39_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:39:30",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h39m30s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=9568"
         },
@@ -5022,14 +5020,385 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d3_evt_030_02_48_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:48:35",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h48m35s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=10113"
+        },
+        {
+          "id": "d3-evt-031",
+          "timestamp": "02:49:20",
+          "seconds": 10160,
+          "isMajor": false,
+          "title": "And tony are attacked by a cougar and gets incapacitate",
+          "description": "x and Tony are attacked by a cougar and gets incapacitated",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d3_evt_031_02_49_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:49:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=02h49m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=10158"
+        },
+        {
+          "id": "d3-evt-032",
+          "timestamp": "03:08:00",
+          "seconds": 11280,
+          "isMajor": false,
+          "title": "Marty finally finds x and tony",
+          "description": "Marty finally finds x and Tony",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d3_evt_032_03_08_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:08:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h08m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=11278"
+        },
+        {
+          "id": "d3-evt-033",
+          "timestamp": "03:14:20",
+          "seconds": 11660,
+          "isMajor": false,
+          "title": "They arrive at the hospital",
+          "description": "they arrive at the hospital",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_033_03_14_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:14:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h14m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=11658"
+        },
+        {
+          "id": "d3-evt-034",
+          "timestamp": "03:20:20",
+          "seconds": 12020,
+          "isMajor": true,
+          "title": "They encounter zuck (for the first time)",
+          "description": "they encounter Zuck (for the first time), he says that he's made 20k$ in a day, he's going to help x and the crew make more money",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_034_03_20_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:20:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h20m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=12018"
+        },
+        {
+          "id": "d3-evt-035",
+          "timestamp": "03:32:20",
+          "seconds": 12740,
+          "isMajor": false,
+          "title": "They check on the birds in marty's apartment and feed t",
+          "description": "they check on the birds in Marty's apartment and feed them",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d3_evt_035_03_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h32m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=12738"
+        },
+        {
+          "id": "d3-evt-036",
+          "timestamp": "03:34:15",
+          "seconds": 12855,
+          "isMajor": true,
+          "title": "Buys 10k$ worth of snackbits coin at 42$ per",
+          "description": "x buys 10k$ worth of SnackBits coin at 42$ per",
+          "category": "crypto",
+          "tags": [
+            "crypto"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_036_03_34_15.jpg",
+          "imageCaption": "Stream snapshot @ 03:34:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h34m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=12853"
+        },
+        {
+          "id": "d3-evt-037",
+          "timestamp": "03:37:00",
+          "seconds": 13020,
+          "isMajor": true,
+          "title": "Snackbits drops down to 13$ shortly after x's buy in (l",
+          "description": "SnackBits drops down to 13$ shortly after x's buy in (losing 7k)",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_037_03_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h37m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=13018"
+        },
+        {
+          "id": "d3-evt-038",
+          "timestamp": "03:38:40",
+          "seconds": 13120,
+          "isMajor": false,
+          "title": "The cops spot x breaking into an atm and it turns into ",
+          "description": "the cops spot x breaking into an ATM and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_038_03_38_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:38:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h38m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=13118"
+        },
+        {
+          "id": "d3-evt-039",
+          "timestamp": "03:41:50",
+          "seconds": 13310,
+          "isMajor": true,
+          "title": "They escape the cops",
+          "description": "they escape the cops, SnackBits is back up, x sells his shares and makes around 9k back after buying a little more at the dip",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_039_03_41_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h41m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=13308"
+        },
+        {
+          "id": "d3-evt-040",
+          "timestamp": "03:50:45",
+          "seconds": 13845,
+          "isMajor": true,
+          "title": "They meet up with zuck and his group",
+          "description": "they meet up with Zuck and his group, x offers either to sell them the rolled money for 10% off or they clean the cash for him and he gives them a cut, they ended up selling him 12k$ of rolled money for 10.8k$, he transfers the 10.8k$ to Marty's account, Marty transfers half of it to x's account, they also exchange contacts",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d3_evt_040_03_50_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:50:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=03h50m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=13843"
+        },
+        {
+          "id": "d3-evt-041",
+          "timestamp": "04:01:30",
+          "seconds": 14490,
+          "isMajor": true,
+          "title": "(the animation to pick up stuff at the convenience stor",
+          "description": "(the animation to pick up stuff at the convenience store is so much faster now)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_041_04_01_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:01:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h01m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=14488"
+        },
+        {
+          "id": "d3-evt-042",
+          "timestamp": "04:03:00",
+          "seconds": 14580,
+          "isMajor": false,
+          "title": "Gets a call from someone wanting to buy a bird",
+          "description": "x gets a call from someone wanting to buy a bird, she agrees to buy one bird for 1.4k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_042_04_03_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:03:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h03m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=14578"
+        },
+        {
+          "id": "d3-evt-043",
+          "timestamp": "04:11:30",
+          "seconds": 15090,
+          "isMajor": false,
+          "title": "They pretend to be asleep in the car as a gruppe 6 memb",
+          "description": "they pretend to be asleep in the car as a gruppe 6 member and a police officer approach a broken ATM machine to fix it",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_043_04_11_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h11m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=15088"
+        },
+        {
+          "id": "d3-evt-044",
+          "timestamp": "04:15:25",
+          "seconds": 15325,
+          "isMajor": false,
+          "title": "Currently has 20$ rolled money stashed in his apartment",
+          "description": "x currently has 20$ rolled money stashed in his apartment",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_044_04_15_25.jpg",
+          "imageCaption": "Stream snapshot @ 04:15:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h15m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=15323"
+        },
+        {
+          "id": "d3-evt-045",
+          "timestamp": "04:17:00",
+          "seconds": 15420,
+          "isMajor": false,
+          "title": "They meet up with the bird lady (she never mentioned he",
+          "description": "they meet up with the bird lady (she never mentioned her name), she pays 1.4k in cash for one bird, Marty gives her some berries for free to feed the bird",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d3_evt_045_04_17_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:17:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h17m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=15418"
+        },
+        {
+          "id": "d3-evt-046",
+          "timestamp": "04:19:30",
+          "seconds": 15570,
+          "isMajor": true,
+          "title": "They take a look at the locked movie studio but it says",
+          "description": "they take a look at the locked movie studio but it says that the lock is too strong, a normal lockpick won't do it",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_046_04_19_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:19:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h19m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=15568"
+        },
+        {
+          "id": "d3-evt-047",
+          "timestamp": "04:22:20",
+          "seconds": 15740,
+          "isMajor": true,
+          "title": "M1 messages x saying that he's going to collect some of",
+          "description": "M1 messages x saying that he's going to collect some of the promised jewelry tonight, x says that he will have a lot on hand soon",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_047_04_22_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:22:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h22m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=15738"
+        },
+        {
+          "id": "d3-evt-048",
+          "timestamp": "04:27:50",
+          "seconds": 16070,
+          "isMajor": false,
+          "title": "Tests if stealing from the convenience store affects th",
+          "description": "x tests if stealing from the convenience store affects the price of SnackBits, but it doesn't seem to affect the price really",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_048_04_27_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:27:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h27m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=16068"
+        },
+        {
+          "id": "d3-evt-049",
+          "timestamp": "04:34:00",
+          "seconds": 16440,
+          "isMajor": true,
+          "title": "Looks at the car chopping system",
+          "description": "x looks at the car chopping system",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_049_04_34_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:34:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h34m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=16438"
         }
       ],
       "characterInfo": {
-        "name": "Jean Paul",
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "~ 23.5 hours",
         "timesJailed": "0"
