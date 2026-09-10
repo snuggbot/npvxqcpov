@@ -23,7 +23,6 @@ export default function TimelineView({
   events, 
   bookmarks, 
   toggleBookmark, 
-  onSelectImage,
   showOnlyBookmarks,
   setShowOnlyBookmarks,
   searchQuery,
@@ -385,11 +384,11 @@ export default function TimelineView({
                     </span>
                   )}
 
-                  {/* Clickable mini thumbnail (zoom modal) */}
+                  {/* Clickable mini thumbnail (opens 1-column card modal) */}
                   <button
-                    onClick={() => onSelectImage({ src: imgSrc, caption: event.description, timestamp: event.timestamp })}
+                    onClick={() => setFocusedEvent(event)}
                     className="relative w-12 sm:w-14 aspect-video rounded overflow-hidden border border-white/10 shrink-0 group/thumb hover:border-zinc-500 transition-colors cursor-pointer"
-                    title="Click to zoom screenshot"
+                    title="Click to view details"
                   >
                     <img
                       src={imgSrc}
@@ -740,22 +739,12 @@ export default function TimelineView({
             </div>
 
             {/* Large 16:9 Screenshot */}
-            <div 
-              className="relative aspect-video w-full bg-black overflow-hidden group/img cursor-pointer"
-              onClick={() => onSelectImage({ src: focusedEvent.image || '/images/hes_back.png', caption: focusedEvent.description, timestamp: focusedEvent.timestamp })}
-              title="Click for full-screen zoom"
-            >
+            <div className="relative aspect-video w-full bg-black overflow-hidden select-none">
               <img
                 src={focusedEvent.image || '/images/hes_back.png'}
                 alt={focusedEvent.description}
                 className="w-full h-full object-contain"
               />
-              <div className="absolute inset-0 bg-black/20 opacity-0 group-hover/img:opacity-100 flex items-center justify-center transition-opacity">
-                <span className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-black/70 backdrop-blur-md text-white text-xs font-medium border border-white/20">
-                  <Maximize2 className="w-3.5 h-3.5" />
-                  <span>Full Screen Zoom</span>
-                </span>
-              </div>
 
               {/* Prev / Next Navigation Buttons */}
               <button

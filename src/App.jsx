@@ -3,7 +3,6 @@ import recapData from './data/recapData.json';
 import initialDaysData from './data/daysData.json';
 import Navbar from './components/Navbar.jsx';
 import TimelineView from './components/TimelineView.jsx';
-import ImageModal from './components/ImageModal.jsx';
 import ExtrasModal from './components/ExtrasModal.jsx';
 import { ArrowUp, ArrowDown, ChevronDown } from 'lucide-react';
 
@@ -12,7 +11,6 @@ export default function App() {
   const [selectedDay, setSelectedDay] = useState('1');
   const [searchQuery, setSearchQuery] = useState('');
   const [showOnlyBookmarks, setShowOnlyBookmarks] = useState(false);
-  const [modalImage, setModalImage] = useState(null);
   const [showExtras, setShowExtras] = useState(false);
   const [isSyncing, setIsSyncing] = useState(false);
   const [syncStatus, setSyncStatus] = useState('idle'); // 'idle', 'syncing', 'synced'
@@ -243,7 +241,6 @@ export default function App() {
           events={activeEvents}
           bookmarks={bookmarks}
           toggleBookmark={toggleBookmark}
-          onSelectImage={setModalImage}
           showOnlyBookmarks={showOnlyBookmarks}
           setShowOnlyBookmarks={setShowOnlyBookmarks}
           searchQuery={searchQuery}
@@ -251,12 +248,6 @@ export default function App() {
           onCharacterClick={handleCharacterFilter}
         />
       </main>
-
-      {/* Image Lightbox Modal */}
-      <ImageModal
-        imageInfo={modalImage}
-        onClose={() => setModalImage(null)}
-      />
 
       {/* Extras & Character Intel Modal */}
       <ExtrasModal
