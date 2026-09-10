@@ -3,9 +3,10 @@ import {
   Clock, Star, Play, 
   Bookmark, Check, Share2, 
   AlertTriangle, ArrowUpDown, Maximize2, LayoutGrid, Square, X, ChevronDown,
-  ChevronLeft, ChevronRight
+  ChevronLeft, ChevronRight, ExternalLink
 } from 'lucide-react';
 import { TwitchIcon, KickIcon } from './Icons';
+import KickPlayer from './KickPlayer.jsx';
 
 const CATEGORY_CONFIG = {
   all: { label: 'All Tags', accentColor: 'bg-zinc-600', dotColor: 'bg-zinc-400' },
@@ -27,7 +28,8 @@ export default function TimelineView({
   setShowOnlyBookmarks,
   searchQuery,
   setSearchQuery,
-  onCharacterClick
+  onCharacterClick,
+  kickStreamUrl
 }) {
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [selectedCharacter, setSelectedCharacter] = useState('all');
@@ -39,6 +41,7 @@ export default function TimelineView({
   const [toastText, setToastText] = useState('');
   const [tappedId, setTappedId] = useState(null);
   const [focusedEvent, setFocusedEvent] = useState(null);
+  const [isPlayingKick, setIsPlayingKick] = useState(false);
 
   // Character list derived from events
   const allCharacters = useMemo(() => {
@@ -118,6 +121,7 @@ export default function TimelineView({
     if (!focusedEvent) return;
     const idx = filteredEvents.findIndex(e => e.id === focusedEvent.id);
     if (idx > 0) {
+      setIsPlayingKick(false);
       setFocusedEvent(filteredEvents[idx - 1]);
     }
   };
@@ -126,6 +130,7 @@ export default function TimelineView({
     if (!focusedEvent) return;
     const idx = filteredEvents.findIndex(e => e.id === focusedEvent.id);
     if (idx !== -1 && idx < filteredEvents.length - 1) {
+      setIsPlayingKick(false);
       setFocusedEvent(filteredEvents[idx + 1]);
     }
   };
@@ -764,36 +769,62 @@ export default function TimelineView({
               </div>
             </div>
 
-            {/* Large 16:9 Screenshot */}
-            <div className="relative aspect-video w-full bg-black overflow-hidden select-none">
-              <img
-                src={focusedEvent.image || '/images/hes_back.png'}
-                alt={focusedEvent.description}
-                className="w-full h-full object-contain"
+            {/* Large 16:9 Screenshot or In-App Kick Player */}
+            {isPlayingKick && kickStreamUrl ? (
+              <KickPlayer
+                streamUrl={kickStreamUrl}
+                seconds={focusedEvent.seconds}
+                timestamp={focusedEvent.timestamp}
+                kickUrl={focusedEvent.kickUrl}
+                onClose={() => setIsPlayingKick(false)}
               />
+            ) : (
+              <div className="relative aspect-video w-full bg-black overflow-hidden select-none group/img">
+                <img
+                  src={focusedEvent.image || '/images/hes_back.png'}
+                  alt={focusedEvent.description}
+                  className="w-full h-full object-contain"
+                />
 
-              {/* Prev / Next Navigation Buttons */}
-              <button
-                onClick={(e) => {
-                  e.stopPropagation();
-                  handlePrevFocused();
-                }}
-                className="absolute left-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-black/60 hover:bg-black/80 text-white backdrop-blur-md border border-white/10 transition-all opacity-80 hover:opacity-100 cursor-pointer"
-                title="Previous moment (←)"
-              >
-                <ChevronLeft className="w-5 h-5" />
-              </button>
-              <button
-                onClick={(e) => {
-                  e.stopPropagation();
-                  handleNextFocused();
-                }}
-                className="absolute right-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-black/60 hover:bg-black/80 text-white backdrop-blur-md border border-white/10 transition-all opacity-80 hover:opacity-100 cursor-pointer"
-                title="Next moment (→)"
-              >
-                <ChevronRight className="w-5 h-5" />
-              </button>
-            </div>
+                {/* Big Centered Play Button (1-Click In-App Kick Stream) */}
+                <div 
+                  onClick={() => setIsPlayingKick(true)}
+                  className="absolute inset-0 flex items-center justify-center cursor-pointer group/play z-10"
+                >
+                  <div className="flex items-center gap-2.5 px-4 py-2.5 rounded-full bg-black/80 hover:bg-black/95 text-white backdrop-blur-md border border-[#53fc18]/40 shadow-2xl hover:scale-105 active:scale-95 transition-all">
+                    <div className="w-8 h-8 rounded-full bg-[#53fc18] text-black flex items-center justify-center shadow-lg">
+                      <Play className="w-4 h-4 fill-current ml-0.5" />
+                    </div>
+                    <div className="flex flex-col text-left pr-1.5">
+                      <span className="text-xs font-bold text-white leading-tight">Watch on Kick</span>
+                      <span className="text-[10px] text-[#53fc18] font-mono leading-tight font-semibold">0 Ads • Auto-seek @ {focusedEvent.timestamp}</span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Prev / Next Navigation Buttons */}
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handlePrevFocused();
+                  }}
+                  className="absolute left-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-black/60 hover:bg-black/80 text-white backdrop-blur-md border border-white/10 transition-all opacity-80 hover:opacity-100 cursor-pointer z-20"
+                  title="Previous moment (←)"
+                >
+                  <ChevronLeft className="w-5 h-5" />
+                </button>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleNextFocused();
+                  }}
+                  className="absolute right-3 top-1/2 -translate-y-1/2 p-2 rounded-full bg-black/60 hover:bg-black/80 text-white backdrop-blur-md border border-white/10 transition-all opacity-80 hover:opacity-100 cursor-pointer z-20"
+                  title="Next moment (→)"
+                >
+                  <ChevronRight className="w-5 h-5" />
+                </button>
+              </div>
+            )}
 
             {/* Bottom Card Content: Description + Characters + VOD Jump */}
             <div className="p-4 sm:p-5 bg-zinc-950 space-y-3 border-t border-white/[0.08]">
@@ -836,15 +867,26 @@ export default function TimelineView({
                   >
                     <TwitchIcon className="w-3.5 h-3.5 fill-current" />
                   </a>
+                  <button
+                    onClick={() => setIsPlayingKick(!isPlayingKick)}
+                    className={`px-2.5 py-1.5 rounded-md border text-xs font-semibold transition-all flex items-center gap-1.5 cursor-pointer ${
+                      isPlayingKick
+                        ? 'bg-[#53fc18] text-black border-[#53fc18] shadow-md'
+                        : 'bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30'
+                    }`}
+                    title={isPlayingKick ? "Close in-app player" : `Play Kick VOD in-app @ ${focusedEvent.timestamp} (0 ads)`}
+                  >
+                    <KickIcon className="w-3.5 h-3.5 fill-current" />
+                    <span>{isPlayingKick ? 'Close Video' : 'Watch on Kick (0 Ads)'}</span>
+                  </button>
                   <a
                     href={focusedEvent.kickUrl || 'https://kick.com/xqc'}
                     target="_blank"
                     rel="noopener noreferrer"
-                    onClick={() => handleKickClick(focusedEvent)}
-                    className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
-                    title={`Jump to ${focusedEvent.timestamp} on Kick`}
+                    className="p-1.5 rounded-md bg-zinc-900 hover:bg-zinc-800 text-zinc-400 hover:text-white border border-white/10 transition-colors flex items-center justify-center cursor-pointer"
+                    title="Open on Kick website"
                   >
-                    <KickIcon className="w-3.5 h-3.5 fill-current" />
+                    <ExternalLink className="w-3.5 h-3.5" />
                   </a>
                 </div>
 

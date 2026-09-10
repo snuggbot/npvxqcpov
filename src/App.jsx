@@ -247,6 +247,7 @@ export default function App() {
           searchQuery={searchQuery}
           setSearchQuery={setSearchQuery}
           onCharacterClick={handleCharacterFilter}
+          kickStreamUrl={currentDayInfo?.kickStreamUrl || recapData.meta.links.kickStreamUrl}
         />
       </main>
 

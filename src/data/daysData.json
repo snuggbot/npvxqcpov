@@ -9,6 +9,7 @@
       "isLive": true,
       "twitchVod": "https://www.twitch.tv/videos/2869633607",
       "kickVod": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc",
+      "kickStreamUrl": "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/9/16/26/2oh2tsSCFYxW/media/hls/master.m3u8",
       "eventsCount": 42,
       "events": [
         {
@@ -853,6 +854,7 @@
       "isLive": false,
       "twitchVod": "https://www.twitch.tv/videos/2868715967",
       "kickVod": "https://kick.com/xqc/videos/01a08187-d570-7940-9f3f-d5cd8c8cdabc",
+      "kickStreamUrl": "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/8/14/59/8wZGxx2ttqbw/media/hls/master.m3u8",
       "eventsCount": 117,
       "events": [
         {
