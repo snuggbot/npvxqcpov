@@ -36,6 +36,7 @@ export default function TimelineView({
   const [layoutMode, setLayoutMode] = useState('feed'); // 'feed' (1-col), 'grid' (2-col/3-col), or 'list' (compact timestamps)
   const [copiedId, setCopiedId] = useState(null);
   const [copiedToast, setCopiedToast] = useState(false);
+  const [toastText, setToastText] = useState('');
   const [tappedId, setTappedId] = useState(null);
   const [focusedEvent, setFocusedEvent] = useState(null);
 
@@ -46,16 +47,37 @@ export default function TimelineView({
     return Array.from(set);
   }, [events]);
 
+  const showToast = (text, duration = 2000) => {
+    setToastText(text);
+    setCopiedToast(true);
+    setTimeout(() => {
+      setCopiedToast(false);
+      setToastText('');
+    }, duration);
+  };
+
   // Copy share link
   const copyEventLink = (event) => {
     const url = `${window.location.origin}${window.location.pathname}#${event.id}`;
-    navigator.clipboard.writeText(url);
+    try {
+      navigator.clipboard.writeText(url);
+    } catch {}
     setCopiedId(event.id);
-    setCopiedToast(true);
+    showToast('timestamp link copied', 2000);
     setTimeout(() => {
       setCopiedId(null);
-      setCopiedToast(false);
     }, 2000);
+  };
+
+  // On mobile, Kick's mobile app/web player often fails to seek ?t= from deep links
+  const handleKickClick = (event) => {
+    const isMobile = window.innerWidth < 768 || ('ontouchstart' in window);
+    if (isMobile && event?.timestamp) {
+      try {
+        navigator.clipboard.writeText(event.timestamp);
+      } catch {}
+      showToast(`Kick mobile starts at 0:00 — scrub to ${event.timestamp} (copied!)`, 3500);
+    }
   };
 
   // Filtered & sorted events (Combined with AND logic)
@@ -457,6 +479,7 @@ export default function TimelineView({
                       href={event.kickUrl || 'https://kick.com/xqc'}
                       target="_blank"
                       rel="noopener noreferrer"
+                      onClick={() => handleKickClick(event)}
                       className="p-1.5 rounded bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center"
                       title={`Jump to ${event.timestamp} on Kick`}
                     >
@@ -660,7 +683,10 @@ export default function TimelineView({
                         href={event.kickUrl || 'https://kick.com/xqc'}
                         target="_blank"
                         rel="noopener noreferrer"
-                        onClick={(e) => e.stopPropagation()}
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          handleKickClick(event);
+                        }}
                         className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
                         title={`Jump to ${event.timestamp} on Kick`}
                       >
@@ -814,6 +840,7 @@ export default function TimelineView({
                     href={focusedEvent.kickUrl || 'https://kick.com/xqc'}
                     target="_blank"
                     rel="noopener noreferrer"
+                    onClick={() => handleKickClick(focusedEvent)}
                     className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
                     title={`Jump to ${focusedEvent.timestamp} on Kick`}
                   >
@@ -842,17 +869,17 @@ export default function TimelineView({
         </div>
       )}
 
-      {/* Quick Toast Popup when Share Link is Copied */}
+      {/* Quick Toast Popup when Share Link or Kick Timestamp is Copied */}
       <div
         className={`fixed bottom-6 left-1/2 -translate-x-1/2 z-50 transition-all duration-300 pointer-events-none ${
           copiedToast ? 'opacity-100 translate-y-0 scale-100' : 'opacity-0 translate-y-2 scale-95'
         }`}
       >
-        <div className="flex items-center gap-2 px-3.5 py-2 rounded-lg bg-zinc-900/95 text-zinc-100 border border-white/15 shadow-2xl backdrop-blur-md text-xs font-medium">
+        <div className="flex items-center gap-2 px-3.5 py-2 rounded-lg bg-zinc-900/95 text-zinc-100 border border-white/15 shadow-2xl backdrop-blur-md text-xs font-medium max-w-[90vw] text-center">
           <div className="w-4 h-4 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center shrink-0">
             <Check className="w-2.5 h-2.5 stroke-[2.5]" />
           </div>
-          <span>timestamp link copied</span>
+          <span className="truncate sm:whitespace-normal">{toastText || 'timestamp link copied'}</span>
         </div>
       </div>
     </div>
