@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # Run every 30 minutes automatically
-    - cron: '*/30 * * * *'
+    # Try every 15 minutes; GitHub may delay scheduled jobs under load.
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Allows manual 1-click trigger from GitHub Actions tab
 
 permissions:
@@ -49,6 +49,7 @@ jobs:
           exit 1
 
       - name: Extract Missing Frame Screenshots
+        continue-on-error: true
         run: |
           python3 scripts/extract_all_frames.py
 

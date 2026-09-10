@@ -4409,7 +4409,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2870490310",
       "kickVod": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2",
       "kickStreamUrl": "",
-      "eventsCount": 49,
+      "eventsCount": 54,
       "events": [
         {
           "id": "d3-evt-001",
@@ -5396,6 +5396,109 @@
           "imageCaption": "Stream snapshot @ 04:34:00",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h34m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=16438"
+        },
+        {
+          "id": "d3-evt-050",
+          "timestamp": "04:41:25",
+          "seconds": 16885,
+          "isMajor": true,
+          "title": "Zuck wants to buy more rolled money from x and marty",
+          "description": "Zuck wants to buy more rolled money from x and Marty, they offered the same 10% discount deal, they want to sell 30k rolled money for 27k$, he's going to get in touch with them again soon once he put the money together for it",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h41m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=16883"
+        },
+        {
+          "id": "d3-evt-051",
+          "timestamp": "04:44:00",
+          "seconds": 17040,
+          "isMajor": true,
+          "title": "Is car chopping (first time)",
+          "description": "x is car chopping (first time)",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=04h44m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=17038"
+        },
+        {
+          "id": "d3-evt-052",
+          "timestamp": "05:00:50",
+          "seconds": 18050,
+          "isMajor": false,
+          "title": "Marty says lang is pissed off since he's not getting a ",
+          "description": "Marty says Lang is pissed off since he's not getting a cut from the 30k they're selling to Zuck, x says that he'll take care of it",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h00m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=18048"
+        },
+        {
+          "id": "d3-evt-053",
+          "timestamp": "05:02:10",
+          "seconds": 18130,
+          "isMajor": true,
+          "title": "Meets up with zuck",
+          "description": "x meets up with Zuck, he hands over the 30k Rolled money and they get 27k in return transferred to Marty's account, x wants to invest it all in Octane which he does shortly after, Lang is insisting to get a cut, x sells 7k worth of Octane and transfers it to Lang which is enough to satisfy him, they also decide to do house robberies since it's late night and probably buy a storage unit later tonight",
+          "category": "crypto",
+          "tags": [
+            "crypto",
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h02m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=18128"
+        },
+        {
+          "id": "d3-evt-054",
+          "timestamp": "05:18:10",
+          "seconds": 19090,
+          "isMajor": false,
+          "title": "They break into a luxurious apartment",
+          "description": "they break into a luxurious apartment, the house looks nice and it has a weird basement with what looks like a vault in it but there doesn't seem to be any loot to steal, everything is just cosmetic",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h18m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=19088"
         }
       ],
       "characterInfo": {
