@@ -5,7 +5,7 @@ import Navbar from './components/Navbar.jsx';
 import TimelineView from './components/TimelineView.jsx';
 import ImageModal from './components/ImageModal.jsx';
 import ExtrasModal from './components/ExtrasModal.jsx';
-import { ArrowUp, ChevronDown } from 'lucide-react';
+import { ArrowUp, ArrowDown, ChevronDown } from 'lucide-react';
 
 export default function App() {
   const [days, setDays] = useState(initialDaysData.days || {});
@@ -114,6 +114,10 @@ export default function App() {
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const scrollToBottom = () => {
+    window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' });
   };
 
   // Resolve current active day's events
@@ -245,8 +249,6 @@ export default function App() {
           searchQuery={searchQuery}
           setSearchQuery={setSearchQuery}
           onCharacterClick={handleCharacterFilter}
-          activeRedditUrl={activeRedditUrl}
-          currentDayTitle={currentDayInfo?.title || `Day ${selectedDay}`}
         />
       </main>
 
@@ -265,14 +267,23 @@ export default function App() {
         onCharacterSelect={handleCharacterFilter}
       />
 
-      {/* Floating Scroll-to-Top Button */}
-      <button
-        onClick={scrollToTop}
-        className="fixed bottom-6 right-6 z-30 p-2.5 rounded-full bg-zinc-800/90 hover:bg-zinc-700 text-zinc-300 hover:text-white shadow-xl border border-white/10 hover:scale-105 transition-all"
-        title="Scroll to top"
-      >
-        <ArrowUp className="w-4 h-4" />
-      </button>
+      {/* Floating Scroll Navigation (Top & Bottom) */}
+      <div className="fixed bottom-6 right-6 z-30 flex flex-col gap-2">
+        <button
+          onClick={scrollToTop}
+          className="p-2.5 rounded-full bg-zinc-800/90 hover:bg-zinc-700 text-zinc-300 hover:text-white shadow-xl border border-white/10 hover:scale-105 active:scale-95 transition-all cursor-pointer backdrop-blur-md"
+          title="Scroll to top"
+        >
+          <ArrowUp className="w-4 h-4" />
+        </button>
+        <button
+          onClick={scrollToBottom}
+          className="p-2.5 rounded-full bg-zinc-800/90 hover:bg-zinc-700 text-zinc-300 hover:text-white shadow-xl border border-white/10 hover:scale-105 active:scale-95 transition-all cursor-pointer backdrop-blur-md"
+          title="Scroll to bottom"
+        >
+          <ArrowDown className="w-4 h-4" />
+        </button>
+      </div>
     </div>
   );
 }

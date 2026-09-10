@@ -3,7 +3,7 @@ import {
   Clock, Star, Play, 
   Bookmark, Check, Share2, 
   AlertTriangle, ArrowUpDown, Maximize2, LayoutGrid, Square, X, ChevronDown,
-  ChevronLeft, ChevronRight, MessageSquare, ExternalLink
+  ChevronLeft, ChevronRight
 } from 'lucide-react';
 import { TwitchIcon, KickIcon } from './Icons';
 
@@ -28,9 +28,7 @@ export default function TimelineView({
   setShowOnlyBookmarks,
   searchQuery,
   setSearchQuery,
-  onCharacterClick,
-  activeRedditUrl,
-  currentDayTitle
+  onCharacterClick
 }) {
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [selectedCharacter, setSelectedCharacter] = useState('all');
@@ -677,31 +675,6 @@ export default function TimelineView({
           })}
         </div>
       )}
-
-      {/* Community & Reddit Discussion Footer */}
-      <div className="mt-14 mb-8 p-6 sm:p-8 rounded-2xl bg-gradient-to-b from-zinc-900/60 to-zinc-950 border border-white/[0.08] text-center space-y-3 shadow-lg">
-        <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs font-medium">
-          <MessageSquare className="w-3.5 h-3.5" />
-          <span>Community Discussion & Live Stream Notes</span>
-        </div>
-        <h3 className="text-lg sm:text-xl font-bold text-white tracking-tight">
-          Want to discuss these moments or suggest corrections?
-        </h3>
-        <p className="text-xs sm:text-sm text-zinc-400 max-w-xl mx-auto leading-relaxed">
-          Timestamps are compiled live by <span className="text-zinc-200 font-medium">u/HurricaneRein</span>. Join the daily recap discussion and support the author directly on Reddit!
-        </p>
-        <div className="pt-2 flex flex-wrap items-center justify-center gap-3">
-          <a
-            href={activeRedditUrl || 'https://www.reddit.com/r/xqcow/'}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-[#ff4500]/15 hover:bg-[#ff4500]/25 text-[#ff4500] border border-[#ff4500]/30 text-xs font-semibold transition-all shadow-sm cursor-pointer"
-          >
-            <span>💬 Discuss on Reddit ({currentDayTitle || 'Day Recap'})</span>
-            <ExternalLink className="w-3.5 h-3.5" />
-          </a>
-        </div>
-      </div>
 
       {/* Big One-Column Card Modal (when clicked in multi-column view) */}
       {focusedEvent && (

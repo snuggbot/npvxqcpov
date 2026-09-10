@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { 
   X, User, TrendingUp, Users, 
   ExternalLink, Clock, ShieldAlert, Award, 
-  Coins, Siren, HeartPulse, Star
+  Coins, Siren, HeartPulse, Star, MessageSquare
 } from 'lucide-react';
 
 export default function ExtrasModal({ isOpen, onClose, dayInfo, meta, onCharacterSelect }) {
@@ -161,6 +161,18 @@ export default function ExtrasModal({ isOpen, onClose, dayInfo, meta, onCharacte
             <Users className="w-3.5 h-3.5 text-sky-400" />
             <span>Key Cast ({castList.length})</span>
           </button>
+
+          <button
+            onClick={() => setActiveTab('community')}
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg transition-colors cursor-pointer shrink-0 ${
+              activeTab === 'community'
+                ? 'bg-zinc-800 text-white shadow-sm border border-white/10'
+                : 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-800/40'
+            }`}
+          >
+            <MessageSquare className="w-3.5 h-3.5 text-amber-400" />
+            <span>Community Notes</span>
+          </button>
         </div>
 
         {/* Tab Content Area */}
@@ -251,6 +263,31 @@ export default function ExtrasModal({ isOpen, onClose, dayInfo, meta, onCharacte
                       <ExternalLink className="w-2.5 h-2.5 opacity-60" />
                     </a>
                   )}
+                </div>
+              </div>
+
+              {/* Community Discussion & Stream Notes Card */}
+              <div className="p-4 sm:p-5 rounded-xl bg-zinc-900/60 border border-white/[0.08] text-center space-y-2.5 shadow-md">
+                <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-300 text-[11px] font-medium">
+                  <MessageSquare className="w-3 h-3" />
+                  <span>Community Discussion & Live Notes</span>
+                </div>
+                <h4 className="text-sm sm:text-base font-bold text-white tracking-tight">
+                  Want to discuss these moments or suggest corrections?
+                </h4>
+                <p className="text-xs text-zinc-400 max-w-md mx-auto leading-relaxed">
+                  Timestamps are compiled live by <span className="text-zinc-200 font-medium">u/HurricaneRein</span>. Join the daily recap discussion and support the author directly on Reddit!
+                </p>
+                <div className="pt-1 flex justify-center">
+                  <a
+                    href={dayInfo?.redditUrl || meta?.links?.redditPost || 'https://www.reddit.com/r/xqcow/'}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-[#ff4500]/15 hover:bg-[#ff4500]/25 text-[#ff4500] border border-[#ff4500]/30 text-xs font-semibold transition-all shadow-sm cursor-pointer"
+                  >
+                    <span>💬 Discuss on Reddit ({dayInfo?.title || `Day ${dayInfo?.dayNumber || 1}`})</span>
+                    <ExternalLink className="w-3 h-3" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -402,6 +439,33 @@ export default function ExtrasModal({ isOpen, onClose, dayInfo, meta, onCharacte
                   ))}
                 </div>
               )}
+            </div>
+          )}
+
+          {/* TAB 4: Community Discussion & Reddit Notes */}
+          {activeTab === 'community' && (
+            <div className="p-6 sm:p-8 rounded-2xl bg-zinc-900/60 border border-white/[0.08] text-center space-y-4 shadow-lg">
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs font-medium">
+                <MessageSquare className="w-3.5 h-3.5" />
+                <span>Community Discussion & Live Stream Notes</span>
+              </div>
+              <h3 className="text-lg sm:text-xl font-bold text-white tracking-tight">
+                Want to discuss these moments or suggest corrections?
+              </h3>
+              <p className="text-xs sm:text-sm text-zinc-400 max-w-lg mx-auto leading-relaxed">
+                Timestamps are compiled live by <span className="text-zinc-200 font-medium">u/HurricaneRein</span>. Join the daily recap discussion and support the author directly on Reddit!
+              </p>
+              <div className="pt-2 flex flex-wrap items-center justify-center gap-3">
+                <a
+                  href={dayInfo?.redditUrl || meta?.links?.redditPost || 'https://www.reddit.com/r/xqcow/'}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-[#ff4500]/15 hover:bg-[#ff4500]/25 text-[#ff4500] border border-[#ff4500]/30 text-xs font-semibold transition-all shadow-sm cursor-pointer"
+                >
+                  <span>💬 Discuss on Reddit ({dayInfo?.title || `Day ${dayInfo?.dayNumber || 1}`})</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
+              </div>
             </div>
           )}
         </div>
