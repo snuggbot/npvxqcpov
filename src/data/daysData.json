@@ -4404,12 +4404,12 @@
       "title": "Day 3",
       "redditTitle": "NoPixel V | Day 3 Recap Sep 10th | xQc's POV With Timestamps",
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wcknq7/nopixel_v_day_3_recap_sep_10th_xqcs_pov_with/",
-      "updated": "2099-01-01T00:00:00+00:00",
+      "updated": "2026-09-10T14:23:02+00:00",
       "isLive": true,
       "twitchVod": "https://www.twitch.tv/videos/2870490310",
       "kickVod": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2",
       "kickStreamUrl": "",
-      "eventsCount": 54,
+      "eventsCount": 58,
       "events": [
         {
           "id": "d3-evt-001",
@@ -5499,6 +5499,83 @@
           "imageCaption": "Stream snapshot @ 05:18:10",
           "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h18m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=19088"
+        },
+        {
+          "id": "d3-evt-055",
+          "timestamp": "05:28:30",
+          "seconds": 19710,
+          "isMajor": false,
+          "title": "They continue breaking into random houses",
+          "description": "they continue breaking into random houses",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_055_05_28_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:28:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h28m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=19708"
+        },
+        {
+          "id": "d3-evt-056",
+          "timestamp": "05:36:35",
+          "seconds": 20195,
+          "isMajor": false,
+          "title": "They're ambushed by cops while breaking into a house",
+          "description": "they're ambushed by cops while breaking into a house, they split up and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_056_05_36_35.jpg",
+          "imageCaption": "Stream snapshot @ 05:36:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h36m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=20193"
+        },
+        {
+          "id": "d3-evt-057",
+          "timestamp": "05:44:35",
+          "seconds": 20675,
+          "isMajor": false,
+          "title": "They switch cars mid chase",
+          "description": "they switch cars mid chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d3_evt_057_05_44_35.jpg",
+          "imageCaption": "Stream snapshot @ 05:44:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h44m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=20673"
+        },
+        {
+          "id": "d3-evt-058",
+          "timestamp": "05:48:00",
+          "seconds": 20880,
+          "isMajor": false,
+          "title": "Tony escapes the cops",
+          "description": "Tony escapes the cops, everyone's out",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d3_evt_058_05_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2870490310?t=05h48m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2?t=20878"
         }
       ],
       "characterInfo": {
