@@ -10,7 +10,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2869633607",
       "kickVod": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc",
       "kickStreamUrl": "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/9/16/26/2oh2tsSCFYxW/media/hls/master.m3u8",
-      "eventsCount": 42,
+      "eventsCount": 64,
       "events": [
         {
           "id": "d2-evt-001",
@@ -836,12 +836,459 @@
           "imageCaption": "Stream snapshot @ 07:03:00",
           "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h03m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=25378"
+        },
+        {
+          "id": "d2-evt-043",
+          "timestamp": "07:07:50",
+          "seconds": 25670,
+          "isMajor": false,
+          "title": "And marty discuss the conversion of raw materials vs pr",
+          "description": "x and Marty discuss the conversion of raw materials vs processed ones",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d2_evt_043_07_07_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:07:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h07m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=25668"
+        },
+        {
+          "id": "d2-evt-044",
+          "timestamp": "07:20:10",
+          "seconds": 26410,
+          "isMajor": true,
+          "title": "They rob a cash register of a liquor store",
+          "description": "they rob a cash register of a liquor store, the police arrives shortly and it turns into a chase, the total amount stolen is 420$ , x drives off and escapes the cops easily",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_044_07_20_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:20:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h20m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=26408"
+        },
+        {
+          "id": "d2-evt-045",
+          "timestamp": "07:28:45",
+          "seconds": 26925,
+          "isMajor": false,
+          "title": "Robs a supermarket but this time he takes care of the e",
+          "description": "x robs a supermarket but this time he takes care of the employee there first so he won't call the cops",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_045_07_28_45.jpg",
+          "imageCaption": "Stream snapshot @ 07:28:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h28m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=26923"
+        },
+        {
+          "id": "d2-evt-046",
+          "timestamp": "07:31:40",
+          "seconds": 27100,
+          "isMajor": false,
+          "title": "Attacking the employee first may have not worked since ",
+          "description": "attacking the employee first may have not worked since the cops are chasing x again",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_046_07_31_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:31:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h31m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=27098"
+        },
+        {
+          "id": "d2-evt-047",
+          "timestamp": "07:42:15",
+          "seconds": 27735,
+          "isMajor": false,
+          "title": "X's car gets too damaged during the chase",
+          "description": "x's car gets too damaged during the chase, the cop is being a good Samaritan, he repairs x's car, x pretends to surrender but Marty comes just in time and x gets into Marty's car, the chase continues",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d2_evt_047_07_42_15.jpg",
+          "imageCaption": "Stream snapshot @ 07:42:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h42m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=27733"
+        },
+        {
+          "id": "d2-evt-048",
+          "timestamp": "07:47:45",
+          "seconds": 28065,
+          "isMajor": false,
+          "title": "Flies through the windshield during the chase",
+          "description": "x flies through the windshield during the chase, he's incapacitated but Marty picks him up and puts him into the passenger seat, the chase continues",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d2_evt_048_07_47_45.jpg",
+          "imageCaption": "Stream snapshot @ 07:47:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h47m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=28063"
+        },
+        {
+          "id": "d2-evt-049",
+          "timestamp": "07:55:50",
+          "seconds": 28550,
+          "isMajor": false,
+          "title": "They escape the cops",
+          "description": "they escape the cops, Marty switches vehicles and drives x to the hospital",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d2_evt_049_07_55_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:55:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h55m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=28548"
+        },
+        {
+          "id": "d2-evt-050",
+          "timestamp": "07:58:50",
+          "seconds": 28730,
+          "isMajor": false,
+          "title": "They arrive at the hospital",
+          "description": "they arrive at the hospital",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_050_07_58_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:58:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=07h58m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=28728"
+        },
+        {
+          "id": "d2-evt-051",
+          "timestamp": "08:11:30",
+          "seconds": 29490,
+          "isMajor": false,
+          "title": "They're back to house robbing",
+          "description": "they're back to house robbing, things go smoothly and they steal a few items",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_051_08_11_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:11:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=08h11m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=29488"
+        },
+        {
+          "id": "d2-evt-052",
+          "timestamp": "08:17:10",
+          "seconds": 29830,
+          "isMajor": false,
+          "title": "They rob another house",
+          "description": "they rob another house, the cops arrive but they use the back door to escape, they leave the car behind but luckily most of the stolen stuff were stashed in the trash bin",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_052_08_17_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:17:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=08h17m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=29828"
+        },
+        {
+          "id": "d2-evt-053",
+          "timestamp": "08:32:30",
+          "seconds": 30750,
+          "isMajor": false,
+          "title": "They drive back to the trash bin and collect the stolen",
+          "description": "they drive back to the trash bin and collect the stolen stuff, the car was wiped out",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_053_08_32_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:32:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=08h32m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=30748"
+        },
+        {
+          "id": "d2-evt-054",
+          "timestamp": "08:38:20",
+          "seconds": 31100,
+          "isMajor": false,
+          "title": "They rob a convenience store",
+          "description": "they rob a convenience store",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_054_08_38_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:38:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=08h38m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=31098"
+        },
+        {
+          "id": "d2-evt-055",
+          "timestamp": "08:43:00",
+          "seconds": 31380,
+          "isMajor": true,
+          "title": "And marty meets up with lang and tony at the hideout",
+          "description": "x and Marty meets up with Lang and Tony at the hideout, they say that they're having a hard time doing crime and breaking into houses",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d2_evt_055_08_43_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:43:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=08h43m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=31378"
+        },
+        {
+          "id": "d2-evt-056",
+          "timestamp": "08:48:00",
+          "seconds": 31680,
+          "isMajor": true,
+          "title": "Informs lang",
+          "description": "x informs Lang, Tony and Marty about the offer he got from Mr. C and M1 about being a potential future pawn shop owner",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d2_evt_056_08_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=08h48m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=31678"
+        },
+        {
+          "id": "d2-evt-057",
+          "timestamp": "08:56:00",
+          "seconds": 32160,
+          "isMajor": false,
+          "title": "They get pulled over by a cop on their way to the pawn ",
+          "description": "they get pulled over by a cop on their way to the pawn shop but they escape really easily, Tony is a great driver",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d2_evt_057_08_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=08h56m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=32158"
+        },
+        {
+          "id": "d2-evt-058",
+          "timestamp": "09:00:00",
+          "seconds": 32400,
+          "isMajor": false,
+          "title": "They arrive at the pawn shop (each pawn shop has differ",
+          "description": "they arrive at the pawn shop (each pawn shop has different contracts to fulfill)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_058_09_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=09h00m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=32398"
+        },
+        {
+          "id": "d2-evt-059",
+          "timestamp": "09:27:00",
+          "seconds": 34020,
+          "isMajor": false,
+          "title": "They buy a few things from the hunting store",
+          "description": "they buy a few things from the hunting store, bird cage, bird stand and tranq ammo, prio right now is catching birds to get their feathers and fulfill pawn shop contracts",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_059_09_27_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:27:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=09h27m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=34018"
+        },
+        {
+          "id": "d2-evt-060",
+          "timestamp": "09:42:30",
+          "seconds": 34950,
+          "isMajor": true,
+          "title": "Tranqs and captures his first bird and marty cages it",
+          "description": "x tranqs and captures his first bird and Marty cages it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d2_evt_060_09_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=09h42m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=34948"
+        },
+        {
+          "id": "d2-evt-061",
+          "timestamp": "09:56:20",
+          "seconds": 35780,
+          "isMajor": false,
+          "title": "They continue hunting and caging birds",
+          "description": "they continue hunting and caging birds",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_061_09_56_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:56:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=09h56m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=35778"
+        },
+        {
+          "id": "d2-evt-062",
+          "timestamp": "09:59:35",
+          "seconds": 35975,
+          "isMajor": false,
+          "title": "Tony gets 13 red feathers from chickens",
+          "description": "Tony gets 13 red feathers from chickens",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d2_evt_062_09_59_35.jpg",
+          "imageCaption": "Stream snapshot @ 09:59:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=09h59m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=35973"
+        },
+        {
+          "id": "d2-evt-063",
+          "timestamp": "10:13:50",
+          "seconds": 36830,
+          "isMajor": false,
+          "title": "They get to the top of mount chiliad and continue bird ",
+          "description": "they get to the top of mount Chiliad and continue bird hunting",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d2_evt_063_10_13_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:13:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=10h13m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=36828"
+        },
+        {
+          "id": "d2-evt-064",
+          "timestamp": "10:28:30",
+          "seconds": 37710,
+          "isMajor": true,
+          "title": "Marty displays the two birds in his apartment using the",
+          "description": "Marty displays the two birds in his apartment using the bird stand (they might get feather drops this way?)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d2_evt_064_10_28_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:28:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2869633607?t=10h28m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc?t=37708"
         }
       ],
       "characterInfo": {
         "name": "Jean Paul",
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "11.10 hours",
+        "timeLoggedIn": "~ 23.5 hours",
         "timesJailed": "0"
       }
     },
