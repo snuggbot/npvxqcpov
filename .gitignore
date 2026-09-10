@@ -5,3 +5,6 @@ dist
 .pi
 /tmp
 *.log
+
+# kb knowledge base index
+/.pi/dashboard/kb/index.db
