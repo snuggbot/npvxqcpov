@@ -8,7 +8,7 @@
     "score": 225,
     "totalComments": 21,
     "characterName": "Jean Paul (X)",
-    "characterLore": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he\u2019s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed \u2014 stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0. Jean Paul also has a brother named Pierre Paul (police officer, played by xQc), a sister called Jolie Paul (played by Pokimane), and in-game girlfriend Ginger Ale (played by Aikobliss).",
+    "characterLore": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0. Jean Paul also has a brother named Pierre Paul (police officer, played by xQc), a sister called Jolie Paul (played by Pokimane), and in-game girlfriend Ginger Ale (played by Aikobliss).",
     "stats": {
       "timeLoggedIn": "11.10 hours",
       "timesJailed": 0,
@@ -47,6 +47,9 @@
       "title": "Logs in for the first time and starts his character cre",
       "description": "x Logs in for the first time and starts his character creation",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -62,7 +65,10 @@
       "isMajor": false,
       "title": "Chooses a bank account",
       "description": "x chooses a bank account",
-      "category": "general",
+      "category": "crypto",
+      "tags": [
+        "crypto"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -79,6 +85,9 @@
       "title": "Loads into the city",
       "description": "x loads into the city",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -95,6 +104,9 @@
       "title": "Buys a couple of bandages and splints",
       "description": "x buys a couple of bandages and splints",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -110,7 +122,10 @@
       "isMajor": true,
       "title": "Creates a socials account in game (calls himself justx)",
       "description": "x creates a socials account in game (calls himself JustX)",
-      "category": "general",
+      "category": "lore",
+      "tags": [
+        "lore"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -126,7 +141,10 @@
       "isMajor": false,
       "title": "Tweets for the first time",
       "description": "tweets for the first time",
-      "category": "general",
+      "category": "lore",
+      "tags": [
+        "lore"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -142,7 +160,10 @@
       "isMajor": false,
       "title": "Banters with mista lang on socials",
       "description": "x banters with Mista Lang on socials",
-      "category": "general",
+      "category": "lore",
+      "tags": [
+        "lore"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Mista Lang"
@@ -159,7 +180,10 @@
       "isMajor": false,
       "title": "Hotwires his first vehicle",
       "description": "x hotwires his first vehicle, a motorcycle",
-      "category": "general",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -176,6 +200,10 @@
       "title": "Arrives at burger shot (first visit) where he encounter",
       "description": "x arrives at burger shot (first visit) where he encounters Chatterbox",
       "category": "job",
+      "tags": [
+        "job",
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Chatterbox"
@@ -193,6 +221,9 @@
       "title": "Clocks in at burger shot (first time)",
       "description": "x clocks in at burger shot (first time)",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -208,7 +239,11 @@
       "isMajor": false,
       "title": "Leaves burger shot after charging someone extra for the",
       "description": "x leaves burger shot after charging someone extra for their meal and not preparing it, chatterbox then tweets about x being a scammer calling x 'banana boy'",
-      "category": "crime",
+      "category": "lore",
+      "tags": [
+        "lore",
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -225,6 +260,9 @@
       "title": "Goes back to burger shot (trying to figure out how to p",
       "description": "x goes back to burger shot (trying to figure out how to prepare the meals)",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -241,6 +279,9 @@
       "title": "Is confused",
       "description": "x is confused, he leaves burger shot again",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -257,6 +298,9 @@
       "title": "Buys some ingredients at the mart opposite to burger sh",
       "description": "x buys some ingredients at the mart opposite to burger shot",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -273,6 +317,9 @@
       "title": "Leaves the mart with the ingredients without paying for",
       "description": "x leaves the mart with the ingredients without paying for any",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -289,6 +336,9 @@
       "title": "Returns to burger shot and changes into uniform to serv",
       "description": "x returns to burger shot and changes into uniform to serve people along with Ken-Sama",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Ken-Sama"
@@ -306,6 +356,9 @@
       "title": "Serves his first meal correctly",
       "description": "x serves his first meal correctly",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -322,6 +375,10 @@
       "title": "Encounters mista lang for the first time while he's wor",
       "description": "x encounters Mista Lang for the first time while he's working at burger shot",
       "category": "job",
+      "tags": [
+        "job",
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Mista Lang"
@@ -339,6 +396,9 @@
       "title": "A third employee (idk what her name is) joins x and ken",
       "description": "a third employee (idk what her name is) joins x and ken-sama to work at burger shot since there are many clients in line",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -355,6 +415,10 @@
       "title": "Encounters speedy at burger shot",
       "description": "x encounters Speedy at burger shot, Speedy joins them as a fourth employee",
       "category": "job",
+      "tags": [
+        "job",
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Speedy"
@@ -372,6 +436,10 @@
       "title": "Encounters marty (first time) while working at burger s",
       "description": "x encounters Marty (first time) while working at burger shot, Marty then joins them as a fifth employee at burger shot",
       "category": "job",
+      "tags": [
+        "job",
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -389,6 +457,9 @@
       "title": "A police officer places an order of 50 combos",
       "description": "a police officer places an order of 50 combos",
       "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -405,6 +476,9 @@
       "title": "Continues to work at burger shot preparing the 50 combo",
       "description": "x continues to work at burger shot preparing the 50 combos with the rest of the employees",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -421,6 +495,9 @@
       "title": "The burger shot team is having trouble serving the 50 c",
       "description": "the burger shot team is having trouble serving the 50 combos order since they can't fill more than 5 combos at a time in one bag, x is trying to figure out a way to refund the initial 50 combos order",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -436,7 +513,10 @@
       "isMajor": true,
       "title": "The 50 combos order gets too overwhelming for x and mar",
       "description": "the 50 combos order gets too overwhelming for x and Marty so they decided to clock out and leave",
-      "category": "general",
+      "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -453,7 +533,10 @@
       "isMajor": false,
       "title": "Drives off with marty",
       "description": "x drives off with Marty",
-      "category": "general",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -470,7 +553,10 @@
       "isMajor": false,
       "title": "Installs apps within the phone including a trading app",
       "description": "x installs apps within the phone including a trading app, x looks at the banking app and it says that he has 5$ only",
-      "category": "general",
+      "category": "social",
+      "tags": [
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -487,6 +573,9 @@
       "title": "Cashes out his paycheck from working at burger shot",
       "description": "x cashes out his paycheck from working at burger shot, he gets around 1.3k$, his current balance is 1.6k",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -503,6 +592,9 @@
       "title": "And marty are looking to buy coins using the trading ap",
       "description": "x and Marty are looking to buy coins using the trading app on their phones, x buys 500$ worth of Octane",
       "category": "crypto",
+      "tags": [
+        "crypto"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -520,6 +612,10 @@
       "title": "Informs marty about stealing ingredients from the conve",
       "description": "x informs Marty about stealing ingredients from the convenience store earlier, they're planning to do it again",
       "category": "crime",
+      "tags": [
+        "crime",
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -536,7 +632,11 @@
       "isMajor": true,
       "title": "And marty are buy masks preparing for the convenience s",
       "description": "x and Marty are buy masks preparing for the convenience store heist",
-      "category": "general",
+      "category": "crime",
+      "tags": [
+        "crime",
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -554,6 +654,11 @@
       "title": "Tweets about buying octane trying to pump up the price",
       "description": "x tweets about buying Octane trying to pump up the price",
       "category": "crypto",
+      "tags": [
+        "crypto",
+        "lore",
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -569,7 +674,10 @@
       "isMajor": false,
       "title": "They get a bike as a backup escape vehicle if needed",
       "description": "They get a bike as a backup escape vehicle if needed",
-      "category": "general",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -586,6 +694,9 @@
       "title": "They visit the pawn shop looking to do some work",
       "description": "They visit the pawn shop looking to do some work, there are pawn orders that can be fulfilled for good payouts",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -601,7 +712,10 @@
       "isMajor": true,
       "title": "Creates a business (calls it 'stalling') using the busi",
       "description": "x creates a business (calls it 'Stalling') using the business app on his phone, he then invites Marty to join his business, they eventually accept solo pawn orders since group orders aren't available",
-      "category": "job",
+      "category": "social",
+      "tags": [
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -618,7 +732,10 @@
       "isMajor": false,
       "title": "Marty punches a local",
       "description": "Marty punches a local, the local drops a rolex watch, they then attack a few more locals and get a wallet, a phone and 5$",
-      "category": "general",
+      "category": "crypto",
+      "tags": [
+        "crypto"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -636,6 +753,9 @@
       "title": "They arrive at vinewood and attack a few more civilians",
       "description": "they arrive at Vinewood and attack a few more civilians",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -652,6 +772,9 @@
       "title": "A police officer sees marty punching a local",
       "description": "A police officer sees Marty punching a local, x hides",
       "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -669,6 +792,9 @@
       "title": "Calls marty",
       "description": "x calls Marty, Marty is giving his statement to the police saying he thinks he's good to go",
       "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -686,6 +812,9 @@
       "title": "Marty calls x saying the coast is clear",
       "description": "Marty calls x saying the coast is clear, the police let him go",
       "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -703,6 +832,9 @@
       "title": "Is wearing a heart rate monitor (irl)",
       "description": "x is wearing a heart rate monitor (IRL)",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -719,6 +851,9 @@
       "title": "Rejoins marty",
       "description": "x rejoins Marty, they continue to rob locals",
       "category": "crime",
+      "tags": [
+        "crime"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -736,6 +871,9 @@
       "title": "They continue robbing locals hoping to steal phones whi",
       "description": "they continue robbing locals hoping to steal phones which they can return to complete the pawn orders",
       "category": "crime",
+      "tags": [
+        "crime"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -752,6 +890,9 @@
       "title": "They arrive at a cash exchange but it's useless for the",
       "description": "they arrive at a cash exchange but it's useless for the moment",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -768,6 +909,9 @@
       "title": "They arrive at the mega mall",
       "description": "they arrive at the mega mall, there are a lot of tools to buy, x buys a pickaxe",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -784,6 +928,10 @@
       "title": "They get pulled over by the police for running a red li",
       "description": "They get pulled over by the police for running a red light, they talk their way out of it",
       "category": "chase",
+      "tags": [
+        "chase",
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -800,6 +948,10 @@
       "title": "Attacked the pharmacist while trying hit the cash regis",
       "description": "x attacked the pharmacist while trying hit the cash register, the pharmacist pulls up a shotgun and kills x, Marty carries x to the car and drives him to the hospital",
       "category": "medical",
+      "tags": [
+        "medical",
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -817,6 +969,9 @@
       "title": "They arrive at the hospital",
       "description": "they arrive at the hospital, x gets healed, a blood sample is taken from him",
       "category": "medical",
+      "tags": [
+        "medical"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -832,7 +987,10 @@
       "isMajor": true,
       "title": "Looks at the available events on his phone and selects ",
       "description": "x looks at the available events on his phone and selects an event called 'metal detecting'",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -849,6 +1007,9 @@
       "title": "Octane is now at 60$",
       "description": "Octane is now at 60$, x buys 300$ more worth of Octane",
       "category": "crypto",
+      "tags": [
+        "crypto"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -864,7 +1025,10 @@
       "isMajor": true,
       "title": "And marty buy a metal detector and a trowel and they st",
       "description": "x and Marty buy a metal detector and a trowel and they start metal detecting at the beach",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -881,7 +1045,10 @@
       "isMajor": true,
       "title": "Gets a strong signal using the metal detector",
       "description": "x gets a strong signal using the metal detector, he then uses the trowel to dig and finds a tiny aluminum bag",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -898,6 +1065,9 @@
       "title": "Finds more aluminum",
       "description": "x finds more aluminum",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -914,6 +1084,10 @@
       "title": "Tweets about octane shares/coin trying to pump up the p",
       "description": "x tweets about Octane shares/coin trying to pump up the price",
       "category": "crypto",
+      "tags": [
+        "crypto",
+        "lore"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -929,7 +1103,10 @@
       "isMajor": false,
       "title": "Continues metal detecting",
       "description": "x continues metal detecting, he finds a wooden plank",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -946,6 +1123,10 @@
       "title": "Gets around 1",
       "description": "x gets around 1.3k likes on his tweet about Octane",
       "category": "crypto",
+      "tags": [
+        "crypto",
+        "lore"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -962,9 +1143,12 @@
       "title": "Runs into bogg (for the first time)",
       "description": "x runs into Bogg (for the first time)",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)",
-        "Bogg Dann"
+        "Bogg"
       ],
       "image": "/images/frames/d1_evt_057_05_59_00.jpg",
       "imageCaption": "Stream snapshot @ 05:59:00",
@@ -978,7 +1162,10 @@
       "isMajor": false,
       "title": "And marty hotwire a truck since their rental car is too",
       "description": "x and Marty hotwire a truck since their rental car is too damaged",
-      "category": "general",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -995,7 +1182,10 @@
       "isMajor": false,
       "title": "They drive all the way up to the mines to see if they c",
       "description": "they drive all the way up to the mines to see if they can use their pickaxe but the mines are closed off",
-      "category": "general",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1011,7 +1201,12 @@
       "isMajor": true,
       "title": "They decide to look at the hunting store",
       "description": "they decide to look at the hunting store, x sells his Octane so that they can buy a couple of hunting equipment (tranq rifle, ammo and a knife)",
-      "category": "crypto",
+      "category": "crime",
+      "tags": [
+        "crime",
+        "crypto",
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1027,7 +1222,10 @@
       "isMajor": true,
       "title": "They visit the butcher",
       "description": "They visit the butcher, he gives out hunting tips, they can also get a hunting license",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1044,6 +1242,9 @@
       "title": "They hunt and skin a couple of coyotes",
       "description": "They hunt and skin a couple of coyotes, they get animal fat, meat chunks and coyote pelts",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1059,7 +1260,10 @@
       "isMajor": true,
       "title": "X's character seem to have some sort of a disease (ther",
       "description": "x's character seem to have some sort of a disease (there's an indicator near his health bar)",
-      "category": "medical",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1076,6 +1280,10 @@
       "title": "Steals all the donuts from a convenience store",
       "description": "x steals all the donuts from a convenience store",
       "category": "crime",
+      "tags": [
+        "crime",
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1091,7 +1299,10 @@
       "isMajor": false,
       "title": "They continue hunting more coyotes",
       "description": "they continue hunting more coyotes",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1108,6 +1319,9 @@
       "title": "They get a legendary coyote pelt",
       "description": "they get a legendary coyote pelt",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1124,6 +1338,9 @@
       "title": "They return to the butcher but he won't buy the pelts s",
       "description": "they return to the butcher but he won't buy the pelts since they're illegal",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1139,7 +1356,10 @@
       "isMajor": false,
       "title": "Attempts to tranquilize a security guard but it doesn't",
       "description": "x attempts to tranquilize a security guard but it doesn't work, the security guard starts shooting at x eventually killing him",
-      "category": "mechanic",
+      "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1156,6 +1376,10 @@
       "title": "Marty gets a new car and drives x to the hospital",
       "description": "Marty gets a new car and drives x to the hospital",
       "category": "medical",
+      "tags": [
+        "medical",
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -1173,6 +1397,9 @@
       "title": "They arrive at the hospital (second time today)",
       "description": "they arrive at the hospital (second time today), EMS are still trying to learn more about the disease",
       "category": "medical",
+      "tags": [
+        "medical"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1188,10 +1415,13 @@
       "isMajor": false,
       "title": "Encounters kyle",
       "description": "x encounters Kyle, a funny encounter",
-      "category": "general",
+      "category": "social",
+      "tags": [
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
-        "Kyle Pred"
+        "Kyle"
       ],
       "image": "/images/frames/d1_evt_071_07_09_00.jpg",
       "imageCaption": "Stream snapshot @ 07:09:00",
@@ -1206,6 +1436,9 @@
       "title": "And marty try to sell their loot at the pawn shop",
       "description": "x and Marty try to sell their loot at the pawn shop",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -1222,11 +1455,15 @@
       "isMajor": false,
       "title": "They encounter lang and tony at the pawn shop",
       "description": "they encounter Lang and Tony at the pawn shop, x tells them about his disease",
-      "category": "medical",
+      "category": "job",
+      "tags": [
+        "job",
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Mista Lang",
-        "Tony Corleone"
+        "Tony"
       ],
       "image": "/images/frames/d1_evt_073_07_12_40.jpg",
       "imageCaption": "Stream snapshot @ 07:12:40",
@@ -1241,6 +1478,9 @@
       "title": "Accepts a delivery order at the pawn shop but then tsun",
       "description": "x accepts a delivery order at the pawn shop but then tsunami hits (server reset), seems like the way the pawn shop contracts work is first you get the contract, you fulfill it and then you deliver it",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1256,7 +1496,10 @@
       "isMajor": false,
       "title": "Server is back up",
       "description": "server is back up, x is completing the delivery but it seems to be scuffed after tsunami",
-      "category": "general",
+      "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1272,12 +1515,15 @@
       "isMajor": false,
       "title": "X",
       "description": "x, Marty, Tony and Lang drive off together",
-      "category": "general",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks",
         "Mista Lang",
-        "Tony Corleone"
+        "Tony"
       ],
       "image": "/images/frames/d1_evt_076_07_30_30.jpg",
       "imageCaption": "Stream snapshot @ 07:30:30",
@@ -1291,7 +1537,10 @@
       "isMajor": true,
       "title": "Arrives at the delivery location but he's unable to put",
       "description": "x arrives at the delivery location but he's unable to put the box in the back of the truck initially but then he's able to",
-      "category": "general",
+      "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1308,6 +1557,9 @@
       "title": "Arrives at the pawn shop and collects his payment after",
       "description": "x arrives at the pawn shop and collects his payment after delivery (350$),",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1323,11 +1575,15 @@
       "isMajor": false,
       "title": "Buys 350$ worth of octane (after the the price has pumm",
       "description": "x buys 350$ worth of Octane (after the the price has pummeled down to 46$), Lang and Tony buy some as well",
-      "category": "crypto",
+      "category": "medical",
+      "tags": [
+        "medical",
+        "crypto"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Mista Lang",
-        "Tony Corleone"
+        "Tony"
       ],
       "image": "/images/frames/d1_evt_079_07_39_30.jpg",
       "imageCaption": "Stream snapshot @ 07:39:30",
@@ -1341,11 +1597,14 @@
       "isMajor": false,
       "title": "Tony and lang say that guber (taxi service) pays really",
       "description": "Tony and Lang say that Guber (taxi service) pays really well",
-      "category": "job",
+      "category": "social",
+      "tags": [
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Mista Lang",
-        "Tony Corleone"
+        "Tony"
       ],
       "image": "/images/frames/d1_evt_080_07_42_30.jpg",
       "imageCaption": "Stream snapshot @ 07:42:30",
@@ -1359,7 +1618,10 @@
       "isMajor": true,
       "title": "Accepts his first guber ride for 143$",
       "description": "x accepts his first Guber ride for 143$, he then picks up the customer, he has to drive within the speed limit, he drops the customer off at their destination and drives back to pick up Marty",
-      "category": "job",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -1376,7 +1638,10 @@
       "isMajor": false,
       "title": "Completes another guber ride for 364$ his current profi",
       "description": "x completes another Guber ride for 364$ his current profile rating is 4.5 out of 5",
-      "category": "job",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1392,11 +1657,14 @@
       "isMajor": false,
       "title": "Accepts another guber ride for 615$ but he gets 431$ fo",
       "description": "x accepts another Guber ride for 615$ but he gets 431$ for it for poor driving",
-      "category": "job",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
-      "image": "/images/frames/d1_evt_083_08_00_00.jpg",
+      "image": "/images/frames/d1_evt_084_08_00_00.jpg",
       "imageCaption": "Stream snapshot @ 08:00:00",
       "twitchUrl": "https://www.twitch.tv/videos/2868715967?t=08h00m00s",
       "kickUrl": "https://kick.com/xqc/videos/01a08187-d570-7940-9f3f-d5cd8c8cdabc?t=28798"
@@ -1408,7 +1676,10 @@
       "isMajor": false,
       "title": "Completes another guber ride for 645$",
       "description": "x completes another Guber ride for 645$",
-      "category": "job",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1424,7 +1695,10 @@
       "isMajor": false,
       "title": "Looks at his guber rating and it's currently at 3",
       "description": "x looks at his Guber rating and it's currently at 3.75 stars",
-      "category": "job",
+      "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1440,7 +1714,10 @@
       "isMajor": false,
       "title": "Rents a 4 seater car for 200$",
       "description": "x rents a 4 seater car for 200$",
-      "category": "general",
+      "category": "mechanic",
+      "tags": [
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1456,7 +1733,10 @@
       "isMajor": false,
       "title": "Completes another guber ride for 244$",
       "description": "x completes another Guber ride for 244$",
-      "category": "job",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1472,7 +1752,10 @@
       "isMajor": false,
       "title": "Joins up with marty after doing a bunch of guber rides ",
       "description": "x joins up with Marty after doing a bunch of Guber rides (current rating is 4.22 stars)",
-      "category": "job",
+      "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -1489,7 +1772,10 @@
       "isMajor": true,
       "title": "They buy a backbag",
       "description": "They buy a backbag, a gold panning bowl and a screwdriver",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1505,7 +1791,10 @@
       "isMajor": true,
       "title": "Uses the gold panning bowl (first time) but finds nothi",
       "description": "x uses the gold panning bowl (first time) but finds nothing",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1521,7 +1810,10 @@
       "isMajor": true,
       "title": "Finds 6 gold nuggets while panning for gold",
       "description": "x finds 6 gold nuggets while panning for gold",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1537,7 +1829,10 @@
       "isMajor": false,
       "title": "Finds 9 more gold nuggets",
       "description": "x finds 9 more gold nuggets",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1554,6 +1849,9 @@
       "title": "And marty buy a crowbar",
       "description": "x and Marty buy a crowbar",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -1571,6 +1869,9 @@
       "title": "A new feature where you can put a call on speaker so th",
       "description": "a new feature where you can put a call on speaker so that others can hear the caller too",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1587,6 +1888,10 @@
       "title": "And marty get pulled over",
       "description": "x and Marty get pulled over, x baits the cops and then drives off",
       "category": "chase",
+      "tags": [
+        "chase",
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -1603,7 +1908,10 @@
       "isMajor": false,
       "title": "They arrive at a clothing store and change clothes",
       "description": "they arrive at a clothing store and change clothes",
-      "category": "general",
+      "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1619,7 +1927,10 @@
       "isMajor": false,
       "title": "They do some more hunting",
       "description": "they do some more hunting",
-      "category": "mechanic",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1635,13 +1946,17 @@
       "isMajor": true,
       "title": "X",
       "description": "x, Marty, Tony and Lang meet up at the ranch with a stranger (Mr. Cement?) who's offering future opportunities for them as a team, he gives them a challenge, he wants to be escorted around the city with cops following them, the challenge is to loose the cops safely",
-      "category": "lore",
+      "category": "chase",
+      "tags": [
+        "chase",
+        "lore"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks",
         "Mista Lang",
-        "Tony Corleone",
-        "Mr. Cement"
+        "Tony",
+        "Cement"
       ],
       "image": "/images/frames/d1_evt_098_10_24_00.jpg",
       "imageCaption": "Stream snapshot @ 10:24:00",
@@ -1656,6 +1971,9 @@
       "title": "The four of them are cooking an escape plan",
       "description": "The four of them are cooking an escape plan",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1671,10 +1989,15 @@
       "isMajor": true,
       "title": "They meet up with mr",
       "description": "They meet up with Mr. Cement again to start the police chase challenge, however; they're unable to fit Mr. Cement into the back of the car",
-      "category": "lore",
+      "category": "chase",
+      "tags": [
+        "chase",
+        "lore",
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)",
-        "Mr. Cement"
+        "Cement"
       ],
       "image": "/images/frames/d1_evt_100_10_53_40.jpg",
       "imageCaption": "Stream snapshot @ 10:53:40",
@@ -1689,6 +2012,9 @@
       "title": "Finds a 12 seater tourists' bus",
       "description": "x finds a 12 seater tourists' bus",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1705,6 +2031,9 @@
       "title": "They re-discuss the escape plan",
       "description": "They re-discuss the escape plan",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1720,13 +2049,13 @@
       "isMajor": true,
       "title": "The police chase begins",
       "description": "The police chase begins, Mr Cement pretends to be a hostage",
-      "category": "lore",
+      "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)",
-        "Mr. Cement",
-        "Marty Banks",
-        "Mista Lang",
-        "Tony Corleone"
+        "Cement"
       ],
       "image": "/images/frames/d1_evt_103_11_37_20.jpg",
       "imageCaption": "Stream snapshot @ 11:37:20",
@@ -1740,13 +2069,13 @@
       "isMajor": true,
       "title": "They switch vehicles leaving mr cement behind",
       "description": "They switch vehicles leaving Mr Cement behind",
-      "category": "lore",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)",
-        "Mr. Cement",
-        "Marty Banks",
-        "Mista Lang",
-        "Tony Corleone"
+        "Cement"
       ],
       "image": "/images/frames/d1_evt_104_11_41_00.jpg",
       "imageCaption": "Stream snapshot @ 11:41:00",
@@ -1761,6 +2090,9 @@
       "title": "And marty escapes the cops",
       "description": "x and Marty escapes the cops",
       "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks"
@@ -1777,7 +2109,12 @@
       "isMajor": false,
       "title": "Finds and steals a cop bike",
       "description": "x finds and steals a cop bike",
-      "category": "crime",
+      "category": "chase",
+      "tags": [
+        "chase",
+        "crime",
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1794,6 +2131,9 @@
       "title": "Does some parkour",
       "description": "x does some parkour",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1809,7 +2149,12 @@
       "isMajor": false,
       "title": "Parks the cop bike on the roof of a building and then t",
       "description": "x parks the cop bike on the roof of a building and then tweets about it saying 'you can't park there'",
-      "category": "general",
+      "category": "chase",
+      "tags": [
+        "chase",
+        "lore",
+        "mechanic"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1826,11 +2171,14 @@
       "title": "And marty rendezvous with lang and tony after losing th",
       "description": "x and Marty rendezvous with Lang and Tony after losing the cops",
       "category": "chase",
+      "tags": [
+        "chase"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks",
         "Mista Lang",
-        "Tony Corleone"
+        "Tony"
       ],
       "image": "/images/frames/d1_evt_109_12_03_00.jpg",
       "imageCaption": "Stream snapshot @ 12:03:00",
@@ -1845,6 +2193,9 @@
       "title": "They change fit",
       "description": "they change fit",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1861,11 +2212,14 @@
       "title": "Lang and tony escort x and marty to their hangout spot",
       "description": "Lang and Tony escort x and Marty to their hangout spot",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks",
         "Mista Lang",
-        "Tony Corleone"
+        "Tony"
       ],
       "image": "/images/frames/d1_evt_111_12_23_15.jpg",
       "imageCaption": "Stream snapshot @ 12:23:15",
@@ -1880,6 +2234,9 @@
       "title": "Tries out the arcade machine at the hideout",
       "description": "x tries out the arcade machine at the hideout",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1894,14 +2251,16 @@
       "seconds": 45050,
       "isMajor": true,
       "title": "The four of them meet up again with mr",
-      "description": "The four of them meet up again with Mr. Cement",
-      "category": "lore",
+      "description": "The four of them meet up again with Mr. Cement, he says that was impressed that everyone escaped the cops, he wants to introduce the group to a friend of his called 'M1' at a later time (probably tomorrow) and that he has special opportunities coming up for them",
+      "category": "chase",
+      "tags": [
+        "chase",
+        "lore",
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
-        "Mr. Cement",
-        "Marty Banks",
-        "Mista Lang",
-        "Tony Corleone"
+        "Cement"
       ],
       "image": "/images/frames/d1_evt_113_12_30_50.jpg",
       "imageCaption": "Stream snapshot @ 12:30:50",
@@ -1915,11 +2274,14 @@
       "isMajor": true,
       "title": "Messages marty during the meeting with mr cement",
       "description": "x messages Marty during the meeting with Mr Cement, they don't seem to be interested in what he has to offer",
-      "category": "lore",
+      "category": "social",
+      "tags": [
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
         "Marty Banks",
-        "Mr. Cement"
+        "Cement"
       ],
       "image": "/images/frames/d1_evt_114_12_38_40.jpg",
       "imageCaption": "Stream snapshot @ 12:38:40",
@@ -1933,13 +2295,13 @@
       "isMajor": true,
       "title": "Mr",
       "description": "Mr. Cement suggests that the group should be called the 'C-Men' and that they should kiss the ring but everyone disagrees, they will come up with their own group name, they then part ways saying they will stay in touch with him",
-      "category": "lore",
+      "category": "social",
+      "tags": [
+        "social"
+      ],
       "characters": [
         "Jean Paul (X)",
-        "Mr. Cement",
-        "Marty Banks",
-        "Mista Lang",
-        "Tony Corleone"
+        "Cement"
       ],
       "image": "/images/frames/d1_evt_115_12_38_00.jpg",
       "imageCaption": "Stream snapshot @ 12:38:00",
@@ -1954,6 +2316,9 @@
       "title": "Uses the safe at the pawn shop to store items (other pl",
       "description": "x uses the safe at the pawn shop to store items (other players can't see what you store in it) but then a few minutes later he finds out that he shouldn't store things in there so he takes them out of the safe",
       "category": "job",
+      "tags": [
+        "job"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1967,9 +2332,12 @@
       "timestamp": "13:25:00",
       "seconds": 48300,
       "isMajor": false,
-      "title": "Goes to his apartment ending the day 1!",
-      "description": "x goes to his apartment ending the day 1!",
+      "title": "Goes to his apartment ending day 1!",
+      "description": "x goes to his apartment ending day 1!",
       "category": "general",
+      "tags": [
+        "general"
+      ],
       "characters": [
         "Jean Paul (X)"
       ],
@@ -1998,7 +2366,7 @@
       ],
       "stats": {
         "jailings": 0,
-        "guberScore": "4.22\u2605",
+        "guberScore": "4.22★",
         "gold": 15,
         "deaths": 2
       }
@@ -2119,7 +2487,7 @@
       "tips": [
         "Clock in using the employee terminal to start earning hourly wages",
         "Ingredients can be purchased at the mart opposite the restaurant",
-        "Limit of 5 combos per takeout bag \u2014 larger orders require multiple bags",
+        "Limit of 5 combos per takeout bag — larger orders require multiple bags",
         "Paychecks must be cashed out at the banking terminal"
       ]
     },
@@ -2179,7 +2547,7 @@
         "Check the pawn contract terminal for active item requests",
         "Items can be obtained by mugging NPC locals or looting crime scenes",
         "Deliveries require loading cargo into vehicle trunks and driving to drop-off spots",
-        "Tsunami / server resets can scuff ongoing contracts \u2014 cash out promptly"
+        "Tsunami / server resets can scuff ongoing contracts — cash out promptly"
       ]
     },
     {
@@ -2188,7 +2556,7 @@
       "category": "Transportation Hustle",
       "icon": "Car",
       "difficulty": "Skill & Traffic Law Compliance",
-      "day1Earnings": "$1,827 Total ($143, $364, $431, $645, $244) | 4.22\u2605 Rating",
+      "day1Earnings": "$1,827 Total ($143, $364, $431, $645, $244) | 4.22★ Rating",
       "summary": "The Guber app allows players to accept passenger fares across the city. Fares scale with distance, but passenger ratings and payouts plummet if you speed, collide with vehicles, or drive recklessly!",
       "tips": [
         "Accept ride requests via the Guber phone app",
@@ -2203,7 +2571,7 @@
       "id": "tw-1",
       "author": "Jean Paul",
       "handle": "@JustX",
-      "avatar": "\u26a1",
+      "avatar": "⚡",
       "timestamp": "02:35:30",
       "content": "IM IN THE CITY. WATCH OUT. #NoPixelV",
       "likes": 842,
@@ -2220,7 +2588,7 @@
       "id": "tw-2",
       "author": "Chatterbox",
       "handle": "@ChatterboxClown",
-      "avatar": "\ud83e\udd21",
+      "avatar": "🤡",
       "timestamp": "02:51:10",
       "content": "WARNING TO ALL CITIZENS: @JustX IS A FRAUD! Took my money at Burger Shot, charged extra, and gave me NO BURGERS! Scammer banana boy!",
       "likes": 412,
@@ -2237,9 +2605,9 @@
       "id": "tw-3",
       "author": "Jean Paul",
       "handle": "@JustX",
-      "avatar": "\u26a1",
+      "avatar": "⚡",
       "timestamp": "04:39:40",
-      "content": "JUST APE IN TO $OCTANE COIN RIGHT NOW! \ud83d\ude80\ud83d\ude80\ud83d\ude80 NEXT GENERATION LOS SANTOS CRYPTO. TO THE MOON! BUY BUY BUY! #Octane",
+      "content": "JUST APE IN TO $OCTANE COIN RIGHT NOW! 🚀🚀🚀 NEXT GENERATION LOS SANTOS CRYPTO. TO THE MOON! BUY BUY BUY! #Octane",
       "likes": 1340,
       "retweets": 512,
       "replies": [
@@ -2259,7 +2627,7 @@
       "id": "tw-4",
       "author": "Jean Paul",
       "handle": "@JustX",
-      "avatar": "\u26a1",
+      "avatar": "⚡",
       "timestamp": "12:01:40",
       "content": "Mate you can't park there. [Photo: Cop motorcycle parked on skyscraper rooftop]",
       "likes": 2490,
@@ -2431,7 +2799,7 @@
       "score": 2,
       "time": "2026-09-08T11:16:12.339000+0000",
       "avatar": "https://preview.redd.it/snoovatar/avatars/3811ec06-ee21-430a-9aa2-acd0be2a6e84-headshot.png?width=64&height=64&crop=smart&auto=webp&s=dc3c5e08bb4338b29f1a616b90bdbdcc5851a317",
-      "text": "the absolute biggest IF in the world hahah i don\u2019t remember the last time he was on that early"
+      "text": "the absolute biggest IF in the world hahah i don’t remember the last time he was on that early"
     },
     {
       "author": "ihaveapc17",
@@ -2445,7 +2813,7 @@
       "score": 5,
       "time": "2026-09-08T13:23:12.450000+0000",
       "avatar": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png",
-      "text": "No shot he\u2019s roleplaying again let\u2019s gooo"
+      "text": "No shot he’s roleplaying again let’s gooo"
     },
     {
       "author": "Spookymcslave",
@@ -2508,7 +2876,7 @@
       "score": 2,
       "time": "2026-09-09T13:32:10.320000+0000",
       "avatar": "https://styles.redditmedia.com/t5_5mzrg9/styles/profileIcon_snoo5ee7851f-e223-459b-9d59-9ddb641f7795-headshot.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=c233d31149b18434cc92c878c27fca40ca093146",
-      "text": "\ud83d\udc10"
+      "text": "🐐"
     },
     {
       "author": "lucariolova",

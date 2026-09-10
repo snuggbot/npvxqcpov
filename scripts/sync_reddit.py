@@ -25,7 +25,8 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 KNOWN_KICK_VODS = {
     1: "https://kick.com/xqc/videos/01a08187-d570-7940-9f3f-d5cd8c8cdabc",
-    2: "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc"
+    2: "https://kick.com/xqc/videos/01a086fe-0ec0-7302-b693-f16820ea41cc",
+    3: "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2"
 }
 
 KNOWN_KICK_STREAMS = {
@@ -65,6 +66,11 @@ def fetch_rss_entries(username="HurricaneRein"):
                 "title": "NoPixel V | Day 2 Recap Sep 9th | xQc's POV With Timestamps",
                 "url": "https://www.reddit.com/r/xqcow/comments/1wbpmio/nopixel_v_day_2_recap_sep_9th_xqcs_pov_with/",
                 "updated": "2026-09-09T15:59:23+00:00"
+            },
+            {
+                "title": "NoPixel V | Day 3 Recap Sep 10th | xQc's POV With Timestamps",
+                "url": "https://www.reddit.com/r/xqcow/comments/1wcknq7/nopixel_v_day_3_recap_sep_10th_xqcs_pov_with/",
+                "updated": "2026-09-10T14:23:02+00:00"
             }
         ]
 
@@ -75,11 +81,14 @@ def fetch_reddit_post_html(url):
     opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
 
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    res = opener.open(req, timeout=15)
     try:
+        res = opener.open(req, timeout=15)
         html = res.read().decode("utf-8", errors="ignore")
     except http.client.IncompleteRead as e:
         html = e.partial.decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"Error fetching {url}: {e}")
+        return ""
 
     token_match = re.search(r"name=\"jsc_token\" value=\"([^\"]+)\"", html)
     solution_match = re.search(r"\(\"([a-f0-9]+)\"\)", html)
@@ -97,11 +106,14 @@ def fetch_reddit_post_html(url):
         if not post_url.startswith("https://"):
             return ""
         post_req = urllib.request.Request(post_url, headers={"User-Agent": USER_AGENT})
-        res2 = opener.open(post_req, timeout=15)
         try:
+            res2 = opener.open(post_req, timeout=15)
             return res2.read().decode("utf-8", errors="ignore")
         except http.client.IncompleteRead as e:
             return e.partial.decode("utf-8", errors="ignore")
+        except Exception as e:
+            print(f"Error resolving challenge for {url}: {e}")
+            return ""
     
     return html
 
@@ -203,6 +215,8 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
         twitch_base = "https://www.twitch.tv/videos/2868715967"
     elif day_num == 2:
         twitch_base = "https://www.twitch.tv/videos/2869633607"
+    elif day_num == 3:
+        twitch_base = "https://www.twitch.tv/videos/2870490310"
     else:
         twitch_base = "https://www.twitch.tv/xqc"
 
