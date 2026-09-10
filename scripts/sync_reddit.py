@@ -47,11 +47,16 @@ def fetch_rss_entries(username="HurricaneRein"):
             title_el = e.find("atom:title", ns)
             link_el = e.find("atom:link", ns)
             updated_el = e.find("atom:updated", ns)
+            content_el = e.find("atom:content", ns)
             if title_el is not None and link_el is not None:
                 entries.append({
                     "title": title_el.text or "",
                     "url": link_el.attrib.get("href") or "",
-                    "updated": updated_el.text if updated_el is not None else ""
+                    "updated": updated_el.text if updated_el is not None else "",
+                    # Reddit's RSS feed includes the complete post body. Using
+                    # it avoids the HTML endpoint, which commonly returns 403
+                    # to GitHub Actions datacenter IPs.
+                    "content": content_el.text or "" if content_el is not None else ""
                 })
         return entries
     except Exception as e:
@@ -198,12 +203,15 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
             if e.get("tags"):
                 existing_tags_map[(timestamp, occurrence)] = e["tags"]
 
-    # Extract slot="text-body"
+    # Prefer the modern post body's slot when fetching the page directly.
+    # RSS entries contain the same body without that wrapper, so use the full
+    # RSS content as a fallback (the page endpoint is often blocked on CI).
     pos = html.find("slot=\"text-body\"")
     if pos == -1:
-        return None
-    end_pos = html.find("</shreddit-post>", pos)
-    body_html = html[pos:end_pos]
+        body_html = html
+    else:
+        end_pos = html.find("</shreddit-post>", pos)
+        body_html = html[pos:end_pos]
 
     # Convert HTML bold tags to markdown asterisks so major updates are preserved
     body_html = re.sub(r"<strong[^>]*>(.*?)</strong>", r"**\1**", body_html, flags=re.DOTALL)
@@ -341,7 +349,8 @@ def sync_all():
                 "dayNumber": day_num,
                 "title": t,
                 "url": e["url"],
-                "updated": e["updated"]
+                "updated": e["updated"],
+                "content": e.get("content", "")
             })
 
     print(f"Found {len(recap_posts)} NoPixel V recap posts:")
@@ -364,7 +373,7 @@ def sync_all():
         day_str = str(p["dayNumber"])
         print(f"\nProcessing Day {day_str}...")
         try:
-            html = fetch_reddit_post_html(p["url"])
+            html = p.get("content") or fetch_reddit_post_html(p["url"])
             prev_events = existing_data.get("days", {}).get(day_str, {}).get("events", [])
             parsed = parse_post_content(html, p["dayNumber"], p["url"], existing_events=prev_events)
         except Exception as e:
