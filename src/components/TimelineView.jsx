@@ -280,7 +280,7 @@ export default function TimelineView({
           >
             <ArrowUpDown className="w-3 h-3 text-zinc-400" />
             <span className="text-[11px] hidden sm:inline font-mono tabular-nums">
-              {sortOrder === 'asc' ? 'Beginning to end' : 'End to beginning'}
+              {sortOrder === 'asc' ? 'beginning to end' : 'end to beginning'}
             </span>
           </button>
 
