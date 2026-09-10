@@ -95,15 +95,12 @@ export default function TimelineView({
     }, 2000);
   };
 
-  // On mobile, Kick's mobile app/web player often fails to seek ?t= from deep links
-  const handleKickClick = (event) => {
-    const isMobile = window.innerWidth < 768 || ('ontouchstart' in window);
-    if (isMobile && event?.timestamp) {
-      try {
-        navigator.clipboard.writeText(event.timestamp);
-      } catch {}
-      showToast(`Kick mobile starts at 0:00 — scrub to ${event.timestamp} (copied!)`, 3500);
-    }
+  // On mobile: open the focused card modal with the in-app player already playing
+  const handleMobileKickPlay = (e, event) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setFocusedEvent(event);
+    setIsPlayingKick(true);
   };
 
   // Filtered & sorted events (Combined with AND logic)
@@ -507,16 +504,25 @@ export default function TimelineView({
                       <TwitchIcon className="w-3.5 h-3.5 fill-current" />
                     </a>
 
-                    <a
-                      href={event.kickUrl || 'https://kick.com/xqc'}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      onClick={() => handleKickClick(event)}
-                      className="p-1.5 rounded bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center"
-                      title={`Jump to ${event.timestamp} on Kick`}
-                    >
-                      <KickIcon className="w-3.5 h-3.5 fill-current" />
-                    </a>
+                    {isMobile ? (
+                      <button
+                        onClick={(e) => handleMobileKickPlay(e, event)}
+                        className="p-1.5 rounded bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
+                        title={`Play in browser @ ${event.timestamp}`}
+                      >
+                        <KickIcon className="w-3.5 h-3.5 fill-current" />
+                      </button>
+                    ) : (
+                      <a
+                        href={event.kickUrl || 'https://kick.com/xqc'}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="p-1.5 rounded bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center"
+                        title={`Jump to ${event.timestamp} on Kick`}
+                      >
+                        <KickIcon className="w-3.5 h-3.5 fill-current" />
+                      </a>
+                    )}
 
                     <button
                       onClick={() => toggleBookmark(event.id)}
@@ -711,19 +717,26 @@ export default function TimelineView({
                         <TwitchIcon className="w-3.5 h-3.5 fill-current" />
                       </a>
 
-                      <a
-                        href={event.kickUrl || 'https://kick.com/xqc'}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          handleKickClick(event);
-                        }}
-                        className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
-                        title={`Jump to ${event.timestamp} on Kick`}
-                      >
-                        <KickIcon className="w-3.5 h-3.5 fill-current" />
-                      </a>
+                      {isMobile ? (
+                        <button
+                          onClick={(e) => handleMobileKickPlay(e, event)}
+                          className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
+                          title={`Play in browser @ ${event.timestamp}`}
+                        >
+                          <KickIcon className="w-3.5 h-3.5 fill-current" />
+                        </button>
+                      ) : (
+                        <a
+                          href={event.kickUrl || 'https://kick.com/xqc'}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          onClick={(e) => e.stopPropagation()}
+                          className="p-1.5 rounded-md bg-[#53fc18]/15 hover:bg-[#53fc18]/25 text-[#53fc18] border border-[#53fc18]/30 transition-colors flex items-center justify-center cursor-pointer"
+                          title={`Jump to ${event.timestamp} on Kick`}
+                        >
+                          <KickIcon className="w-3.5 h-3.5 fill-current" />
+                        </a>
+                      )}
                     </div>
                   </div>
                 </div>
