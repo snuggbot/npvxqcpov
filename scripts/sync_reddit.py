@@ -444,6 +444,11 @@ def sync_all():
             new_ci = parsed.get("characterInfo") or {}
             merged_ci = dict(prev_ci)
             merged_ci.update(new_ci)
+            # Drop legacy bold-marked duplicate keys ("**Main Crew Members
+            # (Currently)**") left by earlier parses now that clean keys exist.
+            for k in list(merged_ci.keys()):
+                if k.startswith("**") and k.endswith("**") and k.strip("*") in merged_ci:
+                    del merged_ci[k]
             existing_data["days"][day_str] = {
                 "dayNumber": p["dayNumber"],
                 "title": f"Day {day_str}",
