@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6530,8 +6530,8 @@
           "timestamp": "02:43:00",
           "seconds": 9780,
           "isMajor": false,
-          "title": "Marty tells x that both birds have died :(",
-          "description": "Marty tells x that both birds have died :(",
+          "title": "Marty tells x that both birds have died :( (starved to ",
+          "description": "Marty tells x that both birds have died :( (starved to death)",
           "category": "social",
           "tags": [
             "social"
@@ -6539,6 +6539,27 @@
           "characters": [
             "Jean Paul (X)",
             "Marty Banks"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-016",
+          "timestamp": "02:45:10",
+          "seconds": 9910,
+          "isMajor": false,
+          "title": "They arrive at the storage unit after collecting all th",
+          "description": "they arrive at the storage unit after collecting all the materials they had, x looks at the customization options, Marty calls Lang and delivers the bad new about the birds, Lang cries and hangs up",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
           ],
           "image": null,
           "imageCaption": null,
