@@ -34,50 +34,95 @@ KNOWN_KICK_STREAMS = {
     2: "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/9/16/26/2oh2tsSCFYxW/media/hls/master.m3u8"
 }
 
+def _parse_rss_feed(xml_data):
+    """Parse a Reddit Atom feed into a list of entry dicts."""
+    root = ET.fromstring(xml_data)
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    entries = []
+    for e in root.findall("atom:entry", ns):
+        title_el = e.find("atom:title", ns)
+        link_el = e.find("atom:link", ns)
+        updated_el = e.find("atom:updated", ns)
+        content_el = e.find("atom:content", ns)
+        if title_el is not None and link_el is not None:
+            entries.append({
+                "title": title_el.text or "",
+                "url": link_el.attrib.get("href") or "",
+                "updated": updated_el.text if updated_el is not None else "",
+                # Reddit's RSS feed includes the complete post body. Using
+                # it avoids the HTML endpoint, which commonly returns 403
+                # to GitHub Actions datacenter IPs.
+                "content": content_el.text or "" if content_el is not None else ""
+            })
+    return entries
+
+
+def _merge_entries(*feed_lists):
+    """Merge entries from several feed fetches, de-duplicating by URL.
+
+    Reddit's RSS endpoint sometimes returns a *stale* 200 with a short,
+    outdated entry list (no error raised), which left new recap posts
+    undiscovered. By always fetching both www and old.reddit and merging on
+    URL, a stale response from one host can never hide a new day's post.
+    """
+    merged = {}
+    for entries in feed_lists:
+        if not entries:
+            continue
+        for e in entries:
+            url = e.get("url") or ""
+            if not url:
+                continue
+            prev = merged.get(url)
+            if prev is None or (not prev.get("content") and e.get("content")):
+                merged[url] = e
+    return list(merged.values())
+
+
 def fetch_rss_entries(username="HurricaneRein"):
-    url = f"https://www.reddit.com/user/{username}/submitted/.rss"
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            xml_data = resp.read().decode("utf-8")
-        root = ET.fromstring(xml_data)
-        ns = {"atom": "http://www.w3.org/2005/Atom"}
-        entries = []
-        for e in root.findall("atom:entry", ns):
-            title_el = e.find("atom:title", ns)
-            link_el = e.find("atom:link", ns)
-            updated_el = e.find("atom:updated", ns)
-            content_el = e.find("atom:content", ns)
-            if title_el is not None and link_el is not None:
-                entries.append({
-                    "title": title_el.text or "",
-                    "url": link_el.attrib.get("href") or "",
-                    "updated": updated_el.text if updated_el is not None else "",
-                    # Reddit's RSS feed includes the complete post body. Using
-                    # it avoids the HTML endpoint, which commonly returns 403
-                    # to GitHub Actions datacenter IPs.
-                    "content": content_el.text or "" if content_el is not None else ""
-                })
+    feeds = []
+    for host in ("https://www.reddit.com", "https://old.reddit.com"):
+        url = f"{host}/user/{username}/submitted/.rss"
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                xml_data = resp.read().decode("utf-8")
+            feeds.append(_parse_rss_feed(xml_data))
+            print(f"  [rss] {host}: ok")
+        except Exception as e:
+            print(f"  [rss] {host}: failed ({e})")
+            feeds.append([])
+
+    entries = _merge_entries(*feeds)
+    if entries:
         return entries
-    except Exception as e:
-        print(f"Notice: RSS returned ({e}), falling back to direct post endpoints...")
-        return [
-            {
-                "title": "NoPixel V Launch | Day 1 Recap Sep 8th | xQc's POV With Timestamps",
-                "url": "https://www.reddit.com/r/xqcow/comments/1wajfpn/nopixel_v_launch_day_1_recap_sep_8th_xqcs_pov/",
-                "updated": "2026-09-08T09:23:17+00:00"
-            },
-            {
-                "title": "NoPixel V | Day 2 Recap Sep 9th | xQc's POV With Timestamps",
-                "url": "https://www.reddit.com/r/xqcow/comments/1wbpmio/nopixel_v_day_2_recap_sep_9th_xqcs_pov_with/",
-                "updated": "2026-09-09T15:59:23+00:00"
-            },
-            {
-                "title": "NoPixel V | Day 3 Recap Sep 10th | xQc's POV With Timestamps",
-                "url": "https://www.reddit.com/r/xqcow/comments/1wcknq7/nopixel_v_day_3_recap_sep_10th_xqcs_pov_with/",
-                "updated": "2026-09-10T14:23:02+00:00"
-            }
-        ]
+
+    print("Notice: all RSS endpoints failed; using known post list...")
+    return [
+        {
+            "title": "NoPixel V Launch | Day 1 Recap Sep 8th | xQc's POV With Timestamps",
+            "url": "https://www.reddit.com/r/xqcow/comments/1wajfpn/nopixel_v_launch_day_1_recap_sep_8th_xqcs_pov/",
+            "updated": "2026-09-08T09:23:17+00:00"
+        },
+        {
+            "title": "NoPixel V | Day 2 Recap Sep 9th | xQc's POV With Timestamps",
+            "url": "https://www.reddit.com/r/xqcow/comments/1wbpmio/nopixel_v_day_2_recap_sep_9th_xqcs_pov_with/",
+            "updated": "2026-09-09T15:59:23+00:00"
+        },
+        {
+            "title": "NoPixel V | Day 3 Recap Sep 10th | xQc's POV With Timestamps",
+            "url": "https://www.reddit.com/r/xqcow/comments/1wcknq7/nopixel_v_day_3_recap_sep_10th_xqcs_pov_with/",
+            "updated": "2026-09-10T14:23:02+00:00"
+        },
+        {
+            # Keep this list current with the newest recap post: it is only
+            # used when BOTH RSS hosts are unreachable (e.g. datacenter
+            # blocks), so a new day added here keeps discovery working.
+            "title": "NoPixel V | Day 4 Recap Sep 11th | xQc's POV With Timestamps",
+            "url": "https://www.reddit.com/r/xqcow/comments/1wdaz7l/nopixel_v_day_4_recap_sep_11th_xqcs_pov_with/",
+            "updated": "2026-09-11T09:09:34+00:00"
+        }
+    ]
 
 def fetch_reddit_post_html(url):
     if not url.startswith("https://"):
