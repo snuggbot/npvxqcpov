@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 3,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6297,6 +6297,89 @@
           "characters": [
             "Jean Paul (X)",
             "Tony"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-004",
+          "timestamp": "00:47:40",
+          "seconds": 2860,
+          "isMajor": true,
+          "title": "- 00:50:10 x gets a call from a man named jacob",
+          "description": "- 00:50:10 x gets a call from a man named Jacob, he's been studying the crypto market for a while, he wants to meet with x at life invader in 5 minutes, he tells the crew that he must go to this meeting",
+          "category": "crypto",
+          "tags": [
+            "crypto",
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-005",
+          "timestamp": "00:55:40",
+          "seconds": 3340,
+          "isMajor": true,
+          "title": "- 00:59:03 x arrives at life invader",
+          "description": "- 00:59:03 x arrives at Life invader, he meets up with Jacob, he offers to provide x with crypto graphs but in return he wants x to help him get into the server room in the Life invader building, x is going to join Jacob's group chat",
+          "category": "crypto",
+          "tags": [
+            "crypto",
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-006",
+          "timestamp": "01:05:00",
+          "seconds": 3900,
+          "isMajor": true,
+          "title": "- 01:11:10 x catches up with the crew",
+          "description": "- 01:11:10 x catches up with the crew, they're waiting for him with Mr. Cement and M1, M1 requests x to get a diamond from someone named Rambo, during the meeting x is receiving insider information from Jacob's group about Wiz Coin",
+          "category": "crypto",
+          "tags": [
+            "crypto",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Cement"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-007",
+          "timestamp": "01:14:30",
+          "seconds": 4470,
+          "isMajor": true,
+          "title": "- 01:15:30 x goes with marty to life invader to show hi",
+          "description": "- 01:15:30 x goes with Marty to Life invader to show him the server room, they wanted to try and break into the room but they don't have a lockpick",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
           ],
           "image": null,
           "imageCaption": null,
