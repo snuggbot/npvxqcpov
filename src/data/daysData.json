@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 20,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6636,6 +6636,64 @@
           ],
           "characters": [
             "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-021",
+          "timestamp": "03:31:20",
+          "seconds": 12680,
+          "isMajor": false,
+          "title": "(the pawn shop contracts have been optimized to match t",
+          "description": "(the pawn shop contracts have been optimized to match the player's inventory instead of having to manually match the items with each contract, QOL upgrade)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-022",
+          "timestamp": "03:33:00",
+          "seconds": 12780,
+          "isMajor": false,
+          "title": "Starts 2 pawn shop contracts",
+          "description": "x starts 2 pawn shop contracts",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-023",
+          "timestamp": "03:40:40",
+          "seconds": 13240,
+          "isMajor": false,
+          "title": "And marty rob a couple of houses",
+          "description": "x and Marty rob a couple of houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
           ],
           "image": null,
           "imageCaption": null,
