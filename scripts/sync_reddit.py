@@ -430,6 +430,13 @@ def sync_all():
         if parsed and parsed["events"]:
             parsed_posts += 1
             print(f"  -> Successfully parsed {len(parsed['events'])} events for Day {day_str}!")
+            # Merge character info so Reddit serving a slightly different post
+            # variant (missing the character table row) can never DROP fields
+            # that were already stored — new values win, absent keys survive.
+            prev_ci = existing_data.get("days", {}).get(day_str, {}).get("characterInfo") or {}
+            new_ci = parsed.get("characterInfo") or {}
+            merged_ci = dict(prev_ci)
+            merged_ci.update(new_ci)
             existing_data["days"][day_str] = {
                 "dayNumber": p["dayNumber"],
                 "title": f"Day {day_str}",
@@ -442,7 +449,7 @@ def sync_all():
                 "kickStreamUrl": parsed.get("kickStreamUrl") or KNOWN_KICK_STREAMS.get(p["dayNumber"], ""),
                 "eventsCount": len(parsed["events"]),
                 "events": parsed["events"],
-                "characterInfo": parsed.get("characterInfo") or existing_data.get("days", {}).get(day_str, {}).get("characterInfo") or {}
+                "characterInfo": merged_ci
             }
             updated_any = True
 
