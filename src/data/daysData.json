@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6385,6 +6385,86 @@
           "imageCaption": null,
           "twitchUrl": "https://www.twitch.tv/xqc",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-008",
+          "timestamp": "01:25:45",
+          "seconds": 5145,
+          "isMajor": false,
+          "title": "They arrive at the location where rambo is supposed to ",
+          "description": "they arrive at the location where Rambo is supposed to meet with Jason (but it's a setup for Rambo), they look around for a while but they can't find anyone, they might be at the wrong location",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-009",
+          "timestamp": "01:30:50",
+          "seconds": 5450,
+          "isMajor": true,
+          "title": "- 01:33:00 tony finds rambo just as they were leaving t",
+          "description": "- 01:33:00 Tony finds Rambo just as they were leaving the location, they hold him at gun point and seat him in the car and drive off",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-010",
+          "timestamp": "01:36:45",
+          "seconds": 5805,
+          "isMajor": true,
+          "title": "- 02:08:10 (roleplay-heavy bit) they deliver rambo to m",
+          "description": "- 02:08:10 (Roleplay-heavy bit) they deliver Rambo to Mr. Cement, they said that Rambo had nothing on him, Mr. Cement interrogates him but gets no info out of him except for a phone so he knocks him out, they all take turns smacking Rambo after he's passed out already, Mr. Cement then crushes Rambo's skull killing him, Mr. Cement inspects the phone that he's got from Rambo and it seems to be encrypted but they need to take care of Rambo's body first, they dismember the body and put the parts in the trunk of the car and drive off along with Mr. Cement, they arrive at a location where they can get rid of the body, M1 takes a look at the encrypted phone they found on Rambo's body, M1 then pays the crew 25k$, M1 still wants to collect the jewlery that x has promised to deliver tonight so they will be meeting later tonight (in 3 hours), the next big step (quesline) is going to be finding where the diamond is",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Cement"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-011",
+          "timestamp": "02:08:30",
+          "seconds": 7710,
+          "isMajor": false,
+          "title": "The crew want to buy a storage unit asap",
+          "description": "the crew want to buy a storage unit asap",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -6392,7 +6472,8 @@
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "~ 35.8 hours",
         "timesJailed": "0",
-        "**Main Crew Members (Currently)**": "X, Marty, Lang, Tony and Speedy"
+        "**Main Crew Members (Currently)**": "X, Marty, Lang, Tony and Speedy",
+        "**Current Ongoing Quest Line(s)**": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
       }
     }
   }
