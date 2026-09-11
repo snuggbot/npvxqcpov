@@ -94,6 +94,26 @@ export default function ExtrasModal({ isOpen, onClose, dayInfo, meta, onCharacte
 
   const links = meta?.links || {};
 
+  // Any characterInfo keys the UI doesn't have a dedicated card for (e.g.
+  // "Main Crew Members (Currently)", "Current Ongoing Quest Line(s)" — new
+  // categories Hurricane keeps adding to the recap tables) are rendered
+  // automatically below so nothing new is ever hidden.
+  const KNOWN_CHAR_INFO_KEYS = ['name', 'background', 'timeLoggedIn', 'timesJailed'];
+  const extraCharInfo = Object.entries(charInfo).filter(
+    ([k, v]) => !KNOWN_CHAR_INFO_KEYS.includes(k) && typeof v === 'string' && v.trim() !== ''
+  );
+
+  // Turn a raw table key like "Main Crew Members (Currently)" into a
+  // friendlier label, keeping parentheticals at the end.
+  const humanizeKey = (k) => {
+    const cleaned = k.replace(/_/g, ' ').trim();
+    const m = cleaned.match(/^(.*?)\s*\(([^)]*)\)\s*$/);
+    const main = (m ? m[1] : cleaned).trim();
+    const paren = m ? m[2].trim() : '';
+    const parts = main.split(/\s+/).map(w => w.length <= 3 && w.toLowerCase() === w ? w.toUpperCase() : w.charAt(0).toUpperCase() + w.slice(1));
+    return paren ? `${parts.join(' ')} (${paren.charAt(0).toUpperCase()}${paren.slice(1)})` : parts.join(' ');
+  };
+
   return (
     <div 
       className="fixed inset-0 z-50 bg-black/80 backdrop-blur-md flex items-center justify-center p-3 sm:p-5 animate-fadeIn"
@@ -212,6 +232,23 @@ export default function ExtrasModal({ isOpen, onClose, dayInfo, meta, onCharacte
                   </p>
                 </div>
               </div>
+
+              {/* Auto-rendered intel for any NEW character table categories */}
+              {extraCharInfo.length > 0 && (
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                  {extraCharInfo.map(([k, v]) => (
+                    <div key={k} className="p-3 rounded-xl bg-zinc-900/60 border border-white/[0.06] space-y-1">
+                      <span className="text-[11px] text-zinc-500 flex items-center gap-1">
+                        <MessageSquare className="w-3 h-3 text-sky-400" />
+                        <span>{humanizeKey(k)}</span>
+                      </span>
+                      <p className="text-sm font-semibold text-zinc-100">
+                        {v}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              )}
 
               {/* Character Background Lore */}
               <div className="p-4 rounded-xl bg-zinc-900/40 border border-white/[0.06] space-y-2">
