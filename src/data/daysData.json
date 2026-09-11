@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 18,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6595,6 +6595,44 @@
           "category": "general",
           "tags": [
             "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-019",
+          "timestamp": "03:07:55",
+          "seconds": 11275,
+          "isMajor": false,
+          "title": "- 03:10:20 x goes to lifeinvader on his own to investig",
+          "description": "- 03:10:20 x goes to Lifeinvader on his own to investigate the server room, he tries to lockpick the doors but it doesn't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-020",
+          "timestamp": "03:12:45",
+          "seconds": 11565,
+          "isMajor": true,
+          "title": "- 03:20:50 x listens in on lifeinvader employees and th",
+          "description": "- 03:20:50 x listens in on Lifeinvader employees and then he engages in a convo with Nancy (an editor at Lifeinvader), he tries to fool her into giving him access to the server room and it almost works but he will have to come back without having any contraband since the door scanner detects all metal objects",
+          "category": "job",
+          "tags": [
+            "job"
           ],
           "characters": [
             "Jean Paul (X)"
