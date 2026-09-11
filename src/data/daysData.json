@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6476,6 +6476,65 @@
           "category": "general",
           "tags": [
             "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-013",
+          "timestamp": "02:28:35",
+          "seconds": 8915,
+          "isMajor": false,
+          "title": "Marty buys a furnace using his own money (12k)",
+          "description": "Marty buys a furnace using his own money (12k), x transfers 5k to Marty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-014",
+          "timestamp": "02:30:50",
+          "seconds": 9050,
+          "isMajor": false,
+          "title": "They try to place the furnace in the storage unit but i",
+          "description": "They try to place the furnace in the storage unit but it's too big to fit in",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-015",
+          "timestamp": "02:43:00",
+          "seconds": 9780,
+          "isMajor": false,
+          "title": "Marty tells x that both birds have died :(",
+          "description": "Marty tells x that both birds have died :(",
+          "category": "social",
+          "tags": [
+            "social"
           ],
           "characters": [
             "Jean Paul (X)",
