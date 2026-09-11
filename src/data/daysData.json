@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6560,6 +6560,44 @@
             "Jean Paul (X)",
             "Marty Banks",
             "Mista Lang"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-017",
+          "timestamp": "02:57:00",
+          "seconds": 10620,
+          "isMajor": false,
+          "title": "Continues to look at the customization options for the ",
+          "description": "x continues to look at the customization options for the storage unit,",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-018",
+          "timestamp": "02:58:35",
+          "seconds": 10715,
+          "isMajor": false,
+          "title": "Places a security panel inside the storage room (i thin",
+          "description": "x places a security panel inside the storage room (i think it's cosmetic)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
           ],
           "image": null,
           "imageCaption": null,
