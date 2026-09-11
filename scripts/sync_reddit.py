@@ -355,6 +355,9 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
     for r in rows:
         cells = re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", r, re.DOTALL)
         clean_cells = [html_lib.unescape(re.sub(r"<[^>]+>", "", c)).strip() for c in cells]
+        # Drop markdown bold markers that the body-wide ** conversion can leave
+        # embedded in table cell text ("**Main Crew Members (Currently)**").
+        clean_cells = [c.replace("**", "").strip() for c in clean_cells]
         # Skip table header rows (e.g. "Category | Details") so they don't leak
         # into character info as a bogus key/value entry.
         if clean_cells and clean_cells[0].lower() in ("category", "stat", "statistic", "field", "detail"):
