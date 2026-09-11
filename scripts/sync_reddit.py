@@ -29,6 +29,93 @@ KNOWN_KICK_VODS = {
     3: "https://kick.com/xqc/videos/01a08c34-c640-71d2-a6a2-4b74fcefece2"
 }
 
+# Twitch VODs for each recap day. Kept in sync with the newest stream: when a
+# new day starts, its VOD becomes entry #0 in xQc's /videos listing and the old
+# days shift down one slot. sync_all() re-derives this mapping automatically,
+# but these manual ids are the ground truth fallback when the live check fails.
+KNOWN_TWITCH_VODS = {
+    1: "https://www.twitch.tv/videos/2868715967",
+    2: "https://www.twitch.tv/videos/2869633607",
+    3: "https://www.twitch.tv/videos/2870490310",
+    4: "https://www.twitch.tv/videos/2871438321"
+}
+
+# Auto-discovered Twitch VOD ids (cache so we don't re-list the channel every post)
+_DISCOVERED_TWITCH_VODS = {}
+
+
+def discover_twitch_vods(channel="xqc", limit=12):
+    """List xQc's newest Twitch VODs via yt-dlp.
+
+    Returns ordered list of {"id", "url", "duration", "title"} newest-first.
+    Falls back to KNOWN_TWITCH_VODS ordering if the listing cannot be fetched.
+    """
+    try:
+        import subprocess, json as _json
+        res = subprocess.run(
+            ["yt-dlp", "--flat-playlist", "-J", f"https://www.twitch.tv/{channel}/videos"],
+            capture_output=True, text=True, timeout=45, check=False)
+        if res.returncode != 0:
+            raise RuntimeError(res.stderr[:200])
+        data = _json.loads(res.stdout)
+        vods = []
+        for e in data.get("entries", []):
+            vid = str(e.get("id", ""))
+            if vid.startswith("v") and vid[1:].isdigit():
+                vods.append({
+                    "id": vid[1:],
+                    "url": f"https://www.twitch.tv/videos/{vid[1:]}",
+                    "duration": e.get("duration") or 0,
+                    "title": e.get("title") or ""
+                })
+            if len(vods) >= limit:
+                break
+        if not vods:
+            raise RuntimeError("no VODs in listing")
+        return vods
+    except Exception as e:
+        print(f"  [yt-dlp] VOD discovery failed ({e}); falling back to known ids")
+        vods = []
+        for day, url in sorted(KNOWN_TWITCH_VODS.items()):
+            m = re.search(r"/(\d+)$", url)
+            if m:
+                vods.append({"id": m.group(1), "url": url, "duration": 0, "title": ""})
+        return vods
+
+
+def _vod_sort_key(v):
+    """Sort VOD entries newest-first by numeric video id."""
+    try:
+        return -int(v.get("id", "0"))
+    except (TypeError, ValueError):
+        return 0
+
+
+def resolve_day_twitch_vod(day_num, body_html):
+    """Return the Twitch VOD base URL for a recap day.
+
+    Priority: explicit link in post body -> known id for the day ->
+    auto-discovery (newest stream that matches the day's slot).
+    """
+    twitch_match = re.search(r"https?://(?:www\.)?twitch\.tv/videos/\d+", body_html)
+    if twitch_match:
+        return twitch_match.group(0)
+    if day_num in KNOWN_TWITCH_VODS:
+        return KNOWN_TWITCH_VODS[day_num]
+    # Auto-discovery: newest VOD = current day. Older days slot in below it;
+    # find the entry whose position matches (newest_day - day_num).
+    if not _DISCOVERED_TWITCH_VODS:
+        _DISCOVERED_TWITCH_VODS.update({v["id"]: v for v in discover_twitch_vods()})
+    newest_day = max(list(KNOWN_TWITCH_VODS.keys()) + [day_num])
+    slot = newest_day - day_num  # 0 => newest VOD
+    vods = sorted(_DISCOVERED_TWITCH_VODS.values(), key=_vod_sort_key)
+    if 0 <= slot < len(vods):
+        found = vods[slot]
+        print(f"  [discovery] Day {day_num} -> Twitch VOD {found['url']}")
+        return found["url"]
+    return "https://www.twitch.tv/xqc"
+
+
 KNOWN_KICK_STREAMS = {
     1: "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/8/14/59/8wZGxx2ttqbw/media/hls/master.m3u8",
     2: "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/9/16/26/2oh2tsSCFYxW/media/hls/master.m3u8"
@@ -262,20 +349,10 @@ def parse_post_content(html, day_num, post_url, existing_events=None):
     body_html = re.sub(r"<strong[^>]*>(.*?)</strong>", r"**\1**", body_html, flags=re.DOTALL)
     body_html = re.sub(r"<b[^>]*>(.*?)</b>", r"**\1**", body_html, flags=re.DOTALL)
 
-    # Extract VOD links if present, or fallback to known VODs / live channel
-    twitch_match = re.search(r"https?://(?:www\.)?twitch\.tv/videos/\d+", body_html)
+    # Extract VOD links if present, or fallback to known VODs / auto-discovery
     kick_match = re.search(r"https?://(?:www\.)?kick\.com/[^\s\"'>]+", body_html)
 
-    if twitch_match:
-        twitch_base = twitch_match.group(0)
-    elif day_num == 1:
-        twitch_base = "https://www.twitch.tv/videos/2868715967"
-    elif day_num == 2:
-        twitch_base = "https://www.twitch.tv/videos/2869633607"
-    elif day_num == 3:
-        twitch_base = "https://www.twitch.tv/videos/2870490310"
-    else:
-        twitch_base = "https://www.twitch.tv/xqc"
+    twitch_base = resolve_day_twitch_vod(day_num, body_html)
 
     if kick_match and "/videos/" in kick_match.group(0):
         kick_base = kick_match.group(0)
