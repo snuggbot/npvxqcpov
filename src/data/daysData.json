@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/xqc",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6460,6 +6460,26 @@
           ],
           "characters": [
             "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/xqc",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-012",
+          "timestamp": "02:19:55",
+          "seconds": 8395,
+          "isMajor": true,
+          "title": "- 02:26:30 they put the money together and buy a storag",
+          "description": "- 02:26:30 they put the money together and buy a storage unit for 100k$ , it can be upgraded for 66k$ , the storage unit is very small, Marty gives access to the rest of the crew, the storage unit has a lot of customization options using materials like rubber and plastic so it might not be that bad after all,",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
           ],
           "image": null,
           "imageCaption": null,
