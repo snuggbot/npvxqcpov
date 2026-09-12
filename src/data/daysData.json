@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54",
       "kickStreamUrl": "",
-      "eventsCount": 50,
+      "eventsCount": 54,
       "events": [
         {
           "id": "d4-evt-001",
@@ -7217,7 +7217,7 @@
           "seconds": 33960,
           "isMajor": false,
           "title": "The cops arrive as they're leaving the store and it tur",
-          "description": "the cops arrive as they're leaving the store and it turns into a chase, they escape the cops shortly after",
+          "description": "the cops arrive as they're leaving the store and it turns into a chase, x escapes the cops shortly after",
           "category": "chase",
           "tags": [
             "chase",
@@ -7230,6 +7230,87 @@
           "imageCaption": "Stream snapshot @ 09:26:00",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h26m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=33958"
+        },
+        {
+          "id": "d4-evt-051",
+          "timestamp": "09:55:20",
+          "seconds": 35720,
+          "isMajor": false,
+          "title": "- 09:00:00 they spot a group of g6 employees",
+          "description": "- 09:00:00 they spot a group of G6 employees, they approach them to rob them at gun point but Tony realizes that one of them is a plug (the guy he bought a gun from) and they decide to leave",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d4_evt_051_09_55_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:55:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h55m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=35718"
+        },
+        {
+          "id": "d4-evt-052",
+          "timestamp": "10:00:00",
+          "seconds": 36000,
+          "isMajor": true,
+          "title": "- 10:01:10 marty explains to x how opening the safe wor",
+          "description": "- 10:01:10 Marty explains to x how opening the safe works",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d4_evt_052_10_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h00m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=35998"
+        },
+        {
+          "id": "d4-evt-053",
+          "timestamp": "10:01:30",
+          "seconds": 36090,
+          "isMajor": false,
+          "title": "They rob another liquor store",
+          "description": "they rob another liquor store, no key",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_053_10_01_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:01:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h01m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=36088"
+        },
+        {
+          "id": "d4-evt-054",
+          "timestamp": "10:02:40",
+          "seconds": 36160,
+          "isMajor": true,
+          "title": "- 10:09:50 they rob another store",
+          "description": "- 10:09:50 they rob another store, this time they get a key, x attempts to crack the safe, he takes some time but eventually manages to open it, another 2k$",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_054_10_02_40.jpg",
+          "imageCaption": "Stream snapshot @ 10:02:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h02m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=36158"
         }
       ],
       "characterInfo": {
