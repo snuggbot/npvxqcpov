@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 31,
+      "eventsCount": 35,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6855,6 +6855,86 @@
           "image": "/images/frames/d4_evt_031_06_19_00.jpg",
           "imageCaption": "Stream snapshot @ 06:19:00",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h19m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-032",
+          "timestamp": "06:39:00",
+          "seconds": 23940,
+          "isMajor": false,
+          "title": "They change fit again",
+          "description": "they change fit again",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_032_06_39_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:39:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h39m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-033",
+          "timestamp": "06:40:25",
+          "seconds": 24025,
+          "isMajor": true,
+          "title": "- 06:41:06 the crew rob an ammunation shop",
+          "description": "- 06:41:06 the crew rob an ammunation shop, Tony finds a pistol during the robbery, he hands it over to x, Tony also finds 2 extended mags",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d4_evt_033_06_40_25.jpg",
+          "imageCaption": "Stream snapshot @ 06:40:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h40m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-034",
+          "timestamp": "06:45:50",
+          "seconds": 24350,
+          "isMajor": false,
+          "title": "They rob another ammunation store",
+          "description": "they rob another ammunation store, they find another pistol!",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_034_06_45_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:45:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h45m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-035",
+          "timestamp": "07:00:30",
+          "seconds": 25230,
+          "isMajor": false,
+          "title": "They rob yet another ammunation store",
+          "description": "they rob yet another ammunation store",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_035_07_00_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:00:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=07h00m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
