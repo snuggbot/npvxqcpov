@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54",
       "kickStreamUrl": "",
-      "eventsCount": 37,
+      "eventsCount": 43,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6975,6 +6975,123 @@
           "imageCaption": "Stream snapshot @ 08:08:50",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h08m50s",
           "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=29328"
+        },
+        {
+          "id": "d4-evt-038",
+          "timestamp": "08:12:15",
+          "seconds": 29535,
+          "isMajor": false,
+          "title": "Listens to tony's unreleased song",
+          "description": "x listens to Tony's unreleased song",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d4_evt_038_08_12_15.jpg",
+          "imageCaption": "Stream snapshot @ 08:12:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h12m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=29533"
+        },
+        {
+          "id": "d4-evt-039",
+          "timestamp": "08:21:00",
+          "seconds": 30060,
+          "isMajor": false,
+          "title": "Receives a call from someone named chip",
+          "description": "x receives a call from someone named Chip, he's looking to do some money runs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_039_08_21_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:21:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h21m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=30058"
+        },
+        {
+          "id": "d4-evt-040",
+          "timestamp": "08:24:20",
+          "seconds": 30260,
+          "isMajor": false,
+          "title": "The crew get pulled over by the cops but they talk thei",
+          "description": "the crew get pulled over by the cops but they talk their way out of it",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_040_08_24_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:24:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h24m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=30258"
+        },
+        {
+          "id": "d4-evt-041",
+          "timestamp": "08:29:45",
+          "seconds": 30585,
+          "isMajor": false,
+          "title": "Meets up with chip",
+          "description": "x meets up with Chip, he gives him 6k worth of rolled money to clean (x saves his contact as money runner 34)",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_041_08_29_45.jpg",
+          "imageCaption": "Stream snapshot @ 08:29:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h29m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=30583"
+        },
+        {
+          "id": "d4-evt-042",
+          "timestamp": "08:36:50",
+          "seconds": 31010,
+          "isMajor": false,
+          "title": "Tony spits some more bars",
+          "description": "Tony spits some more bars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d4_evt_042_08_36_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:36:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h36m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=31008"
+        },
+        {
+          "id": "d4-evt-043",
+          "timestamp": "08:43:25",
+          "seconds": 31405,
+          "isMajor": false,
+          "title": "On the front page of lifeinvader news robbing an atm",
+          "description": "x on the front page of Lifeinvader news robbing an ATM",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_043_08_43_25.jpg",
+          "imageCaption": "Stream snapshot @ 08:43:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h43m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=31403"
         }
       ],
       "characterInfo": {
