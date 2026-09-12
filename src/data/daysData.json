@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 24,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6717,6 +6717,67 @@
           "image": "/images/frames/d4_evt_024_03_59_00.jpg",
           "imageCaption": "Stream snapshot @ 03:59:00",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h59m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-025",
+          "timestamp": "04:09:40",
+          "seconds": 14980,
+          "isMajor": false,
+          "title": "And marty listen to speedy's song over the phone",
+          "description": "x and Marty listen to Speedy's song over the phone, Lang plays it over on speaker",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d4_evt_025_04_09_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:09:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=04h09m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-026",
+          "timestamp": "04:21:30",
+          "seconds": 15690,
+          "isMajor": false,
+          "title": "And marty start car chopping",
+          "description": "x and Marty start car chopping",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d4_evt_026_04_21_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:21:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=04h21m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-027",
+          "timestamp": "05:00:35",
+          "seconds": 18035,
+          "isMajor": false,
+          "title": "After chopping",
+          "description": "after chopping, they experiment with smelting different materials at the public furnace",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_027_05_00_35.jpg",
+          "imageCaption": "Stream snapshot @ 05:00:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h00m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
