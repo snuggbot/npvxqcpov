@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54",
       "kickStreamUrl": "",
-      "eventsCount": 48,
+      "eventsCount": 50,
       "events": [
         {
           "id": "d4-evt-001",
@@ -7189,6 +7189,47 @@
           "imageCaption": "Stream snapshot @ 09:13:10",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h13m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=33188"
+        },
+        {
+          "id": "d4-evt-049",
+          "timestamp": "09:16:15",
+          "seconds": 33375,
+          "isMajor": true,
+          "title": "- 09:25:10 they arrive at and rob another convenience s",
+          "description": "- 09:25:10 they arrive at and rob another convenience store at gun point and this time they get a key to the safe! x uses the key, he interacts with the knob but can't seem to crack the code, he then hands over the key to Marty to give it a shot, it takes sometime but Marty manages to open the safe, they get 2k$ rolled money out of it",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d4_evt_049_09_16_15.jpg",
+          "imageCaption": "Stream snapshot @ 09:16:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h16m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=33373"
+        },
+        {
+          "id": "d4-evt-050",
+          "timestamp": "09:26:00",
+          "seconds": 33960,
+          "isMajor": false,
+          "title": "The cops arrive as they're leaving the store and it tur",
+          "description": "the cops arrive as they're leaving the store and it turns into a chase, they escape the cops shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_050_09_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h26m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=33958"
         }
       ],
       "characterInfo": {
