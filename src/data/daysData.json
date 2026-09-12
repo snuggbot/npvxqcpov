@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54",
       "kickStreamUrl": "",
-      "eventsCount": 43,
+      "eventsCount": 48,
       "events": [
         {
           "id": "d4-evt-001",
@@ -7092,6 +7092,103 @@
           "imageCaption": "Stream snapshot @ 08:43:25",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h43m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=31403"
+        },
+        {
+          "id": "d4-evt-044",
+          "timestamp": "08:52:50",
+          "seconds": 31970,
+          "isMajor": false,
+          "title": "The crew decide to upgrade the storage unit for 66k$ th",
+          "description": "the crew decide to upgrade the storage unit for 66k$ they put the money together",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_044_08_52_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:52:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h52m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=31968"
+        },
+        {
+          "id": "d4-evt-045",
+          "timestamp": "08:54:50",
+          "seconds": 32090,
+          "isMajor": true,
+          "title": "- 08:56:50 the crew takes a look at the newly upgraded ",
+          "description": "- 08:56:50 the crew takes a look at the newly upgraded storage unit, it's now bigger",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_045_08_54_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:54:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h54m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=32088"
+        },
+        {
+          "id": "d4-evt-046",
+          "timestamp": "09:03:10",
+          "seconds": 32590,
+          "isMajor": true,
+          "title": "- 09:04:40 they place the furnace inside the storage un",
+          "description": "- 09:04:40 they place the furnace inside the storage unit but they don't have much money left to buy a generator",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_046_09_03_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:03:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h03m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=32588"
+        },
+        {
+          "id": "d4-evt-047",
+          "timestamp": "09:09:00",
+          "seconds": 32940,
+          "isMajor": false,
+          "title": "They hold the convenience store owner at gun point to s",
+          "description": "they hold the convenience store owner at gun point to see if they can get the key to the safe in the back but they only get money, they decide to try a different store",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_047_09_09_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:09:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h09m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=32938"
+        },
+        {
+          "id": "d4-evt-048",
+          "timestamp": "09:13:10",
+          "seconds": 33190,
+          "isMajor": false,
+          "title": "They arrive at and rob a liquor store",
+          "description": "they arrive at and rob a liquor store, no key again",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_048_09_13_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:13:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=09h13m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=33188"
         }
       ],
       "characterInfo": {
