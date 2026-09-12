@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6767,10 +6767,10 @@
           "seconds": 18035,
           "isMajor": false,
           "title": "After chopping",
-          "description": "after chopping, they experiment with smelting different materials at the public furnace",
-          "category": "general",
+          "description": "after chopping, they experiment with smelting different materials at the public furnace, he then sells some of the refined materials for around 1k$",
+          "category": "job",
           "tags": [
-            "general"
+            "job"
           ],
           "characters": [
             "Jean Paul (X)"
@@ -6778,6 +6778,63 @@
           "image": "/images/frames/d4_evt_027_05_00_35.jpg",
           "imageCaption": "Stream snapshot @ 05:00:35",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h00m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-028",
+          "timestamp": "05:28:00",
+          "seconds": 19680,
+          "isMajor": true,
+          "title": "- 05:30:20 x suggests funding the research of the vacci",
+          "description": "- 05:30:20 x suggests funding the research of the vaccine for the virus for a cut later",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_028_05_28_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:28:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h28m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-029",
+          "timestamp": "05:34:00",
+          "seconds": 20040,
+          "isMajor": false,
+          "title": "The crew are changing fit",
+          "description": "the crew are changing fit, they're getting ready for a photoshoot",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_029_05_34_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:34:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h34m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-030",
+          "timestamp": "06:11:50",
+          "seconds": 22310,
+          "isMajor": false,
+          "title": "The crew get their photo taken after dressing as gangst",
+          "description": "the crew get their photo taken after dressing as gangsters",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_030_06_11_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:11:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h11m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
