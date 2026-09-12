@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54",
       "kickStreamUrl": "",
-      "eventsCount": 54,
+      "eventsCount": 66,
       "events": [
         {
           "id": "d4-evt-001",
@@ -7311,6 +7311,240 @@
           "imageCaption": "Stream snapshot @ 10:02:40",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h02m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=36158"
+        },
+        {
+          "id": "d4-evt-055",
+          "timestamp": "10:15:30",
+          "seconds": 36930,
+          "isMajor": false,
+          "title": "They rob another store",
+          "description": "they rob another store, they get a key, Tony tries to crack the safe this time but it scuffs for some reason",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d4_evt_055_10_15_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:15:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h15m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=36928"
+        },
+        {
+          "id": "d4-evt-056",
+          "timestamp": "10:20:25",
+          "seconds": 37225,
+          "isMajor": false,
+          "title": "They rob yet another store",
+          "description": "they rob yet another store, they can't interact with the safe again (maybe there is a daily/time limit)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_056_10_20_25.jpg",
+          "imageCaption": "Stream snapshot @ 10:20:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h20m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=37223"
+        },
+        {
+          "id": "d4-evt-057",
+          "timestamp": "10:22:30",
+          "seconds": 37350,
+          "isMajor": false,
+          "title": "Notices that crypto prices are much more stable today c",
+          "description": "x notices that crypto prices are much more stable today compared to yesterday, no crazy fluctuations",
+          "category": "crypto",
+          "tags": [
+            "crypto"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_057_10_22_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:22:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h22m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=37348"
+        },
+        {
+          "id": "d4-evt-058",
+          "timestamp": "10:30:50",
+          "seconds": 37850,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Tony rob an ammunation store",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d4_evt_058_10_30_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:30:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h30m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=37848"
+        },
+        {
+          "id": "d4-evt-059",
+          "timestamp": "10:40:00",
+          "seconds": 38400,
+          "isMajor": false,
+          "title": "They buy a generator to be placed in the storage unit",
+          "description": "they buy a generator to be placed in the storage unit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_059_10_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h40m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=38398"
+        },
+        {
+          "id": "d4-evt-060",
+          "timestamp": "10:41:30",
+          "seconds": 38490,
+          "isMajor": true,
+          "title": "- 10:44:00 they connect the generator to the furnace in",
+          "description": "- 10:44:00 they connect the generator to the furnace in their storage unit, they need to get coal to start the generator",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_060_10_41_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:41:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=10h41m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=38488"
+        },
+        {
+          "id": "d4-evt-061",
+          "timestamp": "11:02:00",
+          "seconds": 39720,
+          "isMajor": false,
+          "title": "Tries to power the generator using petrol but it doesn'",
+          "description": "x tries to power the generator using petrol but it doesn't work, they decide to mine/get some coal and try it out",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_061_11_02_00.jpg",
+          "imageCaption": "Stream snapshot @ 11:02:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=11h02m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=39718"
+        },
+        {
+          "id": "d4-evt-062",
+          "timestamp": "11:03:40",
+          "seconds": 39820,
+          "isMajor": false,
+          "title": "Chip the money runner calls x telling him that he's don",
+          "description": "Chip the money runner calls x telling him that he's done with his money run, he's going to send x the money",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_062_11_03_40.jpg",
+          "imageCaption": "Stream snapshot @ 11:03:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=11h03m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=39818"
+        },
+        {
+          "id": "d4-evt-063",
+          "timestamp": "11:32:40",
+          "seconds": 41560,
+          "isMajor": false,
+          "title": "Instead of mining they decided to get wooden logs",
+          "description": "instead of mining they decided to get wooden logs, process them using the public furnace which gives them charcoal",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_063_11_32_40.jpg",
+          "imageCaption": "Stream snapshot @ 11:32:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=11h32m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=41558"
+        },
+        {
+          "id": "d4-evt-064",
+          "timestamp": "11:38:30",
+          "seconds": 41910,
+          "isMajor": true,
+          "title": "- 11:38:50 it turns out that charcoal is what powers th",
+          "description": "- 11:38:50 it turns out that charcoal is what powers the generator!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_064_11_38_30.jpg",
+          "imageCaption": "Stream snapshot @ 11:38:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=11h38m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=41908"
+        },
+        {
+          "id": "d4-evt-065",
+          "timestamp": "11:42:25",
+          "seconds": 42145,
+          "isMajor": false,
+          "title": "They experiment with smelting different materials",
+          "description": "they experiment with smelting different materials",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_065_11_42_25.jpg",
+          "imageCaption": "Stream snapshot @ 11:42:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=11h42m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=42143"
+        },
+        {
+          "id": "d4-evt-066",
+          "timestamp": "12:02:40",
+          "seconds": 43360,
+          "isMajor": false,
+          "title": "The crew decide to uninstall the crypto app so that the",
+          "description": "the crew decide to uninstall the crypto app so that they won't be using it anymore (they are still using it)",
+          "category": "crypto",
+          "tags": [
+            "crypto"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_066_12_02_40.jpg",
+          "imageCaption": "Stream snapshot @ 12:02:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=12h02m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a091bc-8008-7a3f-bd80-e711d40ecd54?t=43358"
         }
       ],
       "characterInfo": {
