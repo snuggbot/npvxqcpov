@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 2,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7605,6 +7605,46 @@
           "image": "/images/frames/d5_evt_002_00_42_35.jpg",
           "imageCaption": "Stream snapshot @ 00:42:35",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=00h42m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-003",
+          "timestamp": "00:50:20",
+          "seconds": 3020,
+          "isMajor": false,
+          "title": "Calls marty and lang",
+          "description": "x calls Marty and Lang, funny enough he runs into them on the road",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d5_evt_003_00_50_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:50:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=00h50m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-004",
+          "timestamp": "00:53:35",
+          "seconds": 3215,
+          "isMajor": true,
+          "title": "- 00:53:45 the crew has grew some weed at the storage u",
+          "description": "- 00:53:45 the crew has grew some weed at the storage unit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_004_00_53_35.jpg",
+          "imageCaption": "Stream snapshot @ 00:53:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=00h53m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
