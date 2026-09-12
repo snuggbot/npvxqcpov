@@ -6240,7 +6240,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 31,
       "events": [
         {
           "id": "d4-evt-001",
@@ -6836,6 +6836,26 @@
           "imageCaption": "Stream snapshot @ 06:11:50",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h11m50s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d4-evt-031",
+          "timestamp": "06:19:00",
+          "seconds": 22740,
+          "isMajor": false,
+          "title": "(funny roleplay bit) the crew meet up with luciano",
+          "description": "(funny Roleplay bit) the crew meet up with Luciano, Jack and the rest of their crew after cleaning the rolled money and get paid, x mentions that there will be future business ventures too",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d4_evt_031_06_19_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:19:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h19m00s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -6844,7 +6864,8 @@
         "timeLoggedIn": "~ 35.8 hours",
         "timesJailed": "0",
         "Main Crew Members (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
+        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy"
       }
     }
   }
