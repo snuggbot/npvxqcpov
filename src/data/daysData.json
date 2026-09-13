@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8608,6 +8608,105 @@
           "image": "/images/frames/d6_evt_011_02_02_00.jpg",
           "imageCaption": "Stream snapshot @ 02:02:00",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h02m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-012",
+          "timestamp": "02:08:00",
+          "seconds": 7680,
+          "isMajor": false,
+          "title": "Receives a weird call (i didn't get the joke)",
+          "description": "x receives a weird call (i didn't get the joke)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_012_02_08_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:08:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h08m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-013",
+          "timestamp": "02:12:55",
+          "seconds": 7975,
+          "isMajor": false,
+          "title": "They rob more atms",
+          "description": "they rob more ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_013_02_12_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:12:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h12m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-014",
+          "timestamp": "02:14:10",
+          "seconds": 8050,
+          "isMajor": false,
+          "title": "Marty says that he went to the quarry to mine some rock",
+          "description": "Marty says that he went to the quarry to mine some rocks but they were all gone",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_014_02_14_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:14:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h14m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-015",
+          "timestamp": "02:25:15",
+          "seconds": 8715,
+          "isMajor": true,
+          "title": "- 02:25:30 they spot a g6 truck and they start tailing ",
+          "description": "- 02:25:30 they spot a G6 truck and they start tailing it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_015_02_25_15.jpg",
+          "imageCaption": "Stream snapshot @ 02:25:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h25m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-016",
+          "timestamp": "02:30:25",
+          "seconds": 9025,
+          "isMajor": true,
+          "title": "- 02:38:40 they ambush the g6 employee and hold him at ",
+          "description": "- 02:38:40 they ambush the G6 employee and hold him at gun point, he says that he's only repairing the safe that was broken into at the convenience store and has no money on him, x proceeds to rob him, he finds a musket pistol (oldschool) and some money (1.2k), x shoots him in the knee using the new pistol and it incapacitates him with one shot, x then feels bad about it but can't carry him to the hospital (can't interact with his body), they eventually leave him laying on the ground",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "medical",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_016_02_30_25.jpg",
+          "imageCaption": "Stream snapshot @ 02:30:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h30m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
