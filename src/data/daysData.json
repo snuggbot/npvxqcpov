@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8525,6 +8525,48 @@
           "image": "/images/frames/d6_evt_007_01_31_20.jpg",
           "imageCaption": "Stream snapshot @ 01:31:20",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=01h31m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-008",
+          "timestamp": "01:43:50",
+          "seconds": 6230,
+          "isMajor": false,
+          "title": "Marty says that someone robbed a g6 group truck and got",
+          "description": "Marty says that someone robbed a G6 group truck and got only a 100$ out of it but it was the beginning of their collection route",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_008_01_43_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:43:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=01h43m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-009",
+          "timestamp": "01:44:50",
+          "seconds": 6290,
+          "isMajor": false,
+          "title": "(funny bit) they ambush someone robbing the safe at the",
+          "description": "(funny bit) they ambush someone robbing the safe at the convenience store and turns out to be Speedy",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d6_evt_009_01_44_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:44:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=01h44m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
