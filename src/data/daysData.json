@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7907,6 +7907,44 @@
           "image": "/images/frames/d5_evt_017_03_32_40.jpg",
           "imageCaption": "Stream snapshot @ 03:32:40",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=03h32m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-018",
+          "timestamp": "03:47:53",
+          "seconds": 13673,
+          "isMajor": true,
+          "title": "- 03:48:23 x learns that he can turn off discoverabilit",
+          "description": "- 03:48:23 x learns that he can turn off discoverability on phone so others can't see his device on the nearby devices list, he turns that settings on",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_018_03_47_53.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:53",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=03h47m53s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-019",
+          "timestamp": "03:49:45",
+          "seconds": 13785,
+          "isMajor": false,
+          "title": "Exchanges contact with someone named tank",
+          "description": "x exchanges contact with someone named Tank, another money runner, x gives him 6k rolled money to clean",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_019_03_49_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:49:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=03h49m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
