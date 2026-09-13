@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 24,
+      "eventsCount": 26,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8868,6 +8868,45 @@
           "image": "/images/frames/d6_evt_024_03_23_10.jpg",
           "imageCaption": "Stream snapshot @ 03:23:10",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h23m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-025",
+          "timestamp": "03:29:45",
+          "seconds": 12585,
+          "isMajor": false,
+          "title": "The car catches on fire for some reason but x and marty",
+          "description": "the car catches on fire for some reason but x and Marty make it out in time before it explodes",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_025_03_29_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:29:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h29m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-026",
+          "timestamp": "03:32:00",
+          "seconds": 12720,
+          "isMajor": false,
+          "title": "They change outfits",
+          "description": "they change outfits",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_026_03_32_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:32:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h32m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
