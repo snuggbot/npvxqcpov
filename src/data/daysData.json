@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7645,6 +7645,48 @@
           "image": "/images/frames/d5_evt_004_00_53_35.jpg",
           "imageCaption": "Stream snapshot @ 00:53:35",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=00h53m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-005",
+          "timestamp": "01:02:50",
+          "seconds": 3770,
+          "isMajor": true,
+          "title": "- 01:04:00 lang tells x about the weed seeds they've fo",
+          "description": "- 01:04:00 Lang tells x about the weed seeds they've found last night, he also says that there is a lot more to the pawn shop than they thought, they're heading there now to show x",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d5_evt_005_01_02_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:02:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h02m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-006",
+          "timestamp": "01:06:20",
+          "seconds": 3980,
+          "isMajor": false,
+          "title": "Marty says that lang has a lot of money but he's just p",
+          "description": "Marty says that Lang has a lot of money but he's just pretending to be poor",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d5_evt_006_01_06_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h06m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
