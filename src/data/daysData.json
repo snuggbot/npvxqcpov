@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7",
       "kickStreamUrl": "",
-      "eventsCount": 38,
+      "eventsCount": 40,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7715,7 +7715,7 @@
           "seconds": 4320,
           "isMajor": true,
           "title": "- 01:21:00 they arrive at the docks",
-          "description": "- 01:21:00 they arrive at the docks, there's a door they can break in and a laptop they can access which has information about different shipments (not sure what's the use of that yet), they jump on one of the ships at the docks, it seems that they can sail the ship for some reason, Lang believes that it's connected to the pawn shop, Marty hotwires the ship but they can''t actually move it",
+          "description": "- 01:21:00 they arrive at the docks, there's a door they can break in and a laptop they can access which has information about different pawn shop shipments (not sure what's the use of that yet), they jump on one of the ships at the docks, it seems that they can sail the ship for some reason, Lang believes that it's connected to the pawn shop, Marty hotwires the ship but they can''t actually move it",
           "category": "job",
           "tags": [
             "job"
@@ -8328,6 +8328,44 @@
           "imageCaption": "Stream snapshot @ 07:34:20",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=07h34m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=27258"
+        },
+        {
+          "id": "d5-evt-039",
+          "timestamp": "07:41:00",
+          "seconds": 27660,
+          "isMajor": false,
+          "title": "They take a look again at the laptop at the docks that ",
+          "description": "they take a look again at the laptop at the docks that has pawn shop shipments information but it leads to nothing for now",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_039_07_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=07h41m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=27658"
+        },
+        {
+          "id": "d5-evt-040",
+          "timestamp": "07:49:00",
+          "seconds": 28140,
+          "isMajor": false,
+          "title": "They look at the international orders at the pawn shop",
+          "description": "they look at the international orders at the pawn shop, they're hard to fulfill so there might be a connection between these orders and the laptop at the docks",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_040_07_49_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:49:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=07h49m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=28138"
         }
       ],
       "characterInfo": {
