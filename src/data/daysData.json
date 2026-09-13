@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7687,6 +7687,47 @@
           "image": "/images/frames/d5_evt_006_01_06_20.jpg",
           "imageCaption": "Stream snapshot @ 01:06:20",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h06m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-007",
+          "timestamp": "01:07:50",
+          "seconds": 4070,
+          "isMajor": false,
+          "title": "Marty says that he has a sickness",
+          "description": "Marty says that he has a sickness, he's got it from one of the dogs that bit him during the house robberies",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d5_evt_007_01_07_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:07:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h07m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-008",
+          "timestamp": "01:12:00",
+          "seconds": 4320,
+          "isMajor": true,
+          "title": "- 01:21:00 they arrive at the docks",
+          "description": "- 01:21:00 they arrive at the docks, there's a door they can break in and a laptop they can access which has information about different shipments (not sure what's the use of that yet), they jump on one of the ships at the docks, it seems that they can sail the ship for some reason, Lang believes that it's connected to the pawn shop, Marty hotwires the ship but they can''t actually move it",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d5_evt_008_01_12_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:12:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h12m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
