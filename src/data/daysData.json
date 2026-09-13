@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7747,6 +7747,86 @@
           "image": "/images/frames/d5_evt_009_01_29_35.jpg",
           "imageCaption": "Stream snapshot @ 01:29:35",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h29m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-010",
+          "timestamp": "01:34:30",
+          "seconds": 5670,
+          "isMajor": false,
+          "title": "Robs an atm",
+          "description": "x robs an ATM, he then gets spotted by a cop and it turns into a chase, x escapes quickly",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_010_01_34_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:34:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h34m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-011",
+          "timestamp": "01:43:15",
+          "seconds": 6195,
+          "isMajor": true,
+          "title": "- 01:43:40 x says the reason there are so many rats aro",
+          "description": "- 01:43:40 x says the reason there are so many rats around the city is because people are not doing certain jobs to clean the city and it's the cause of the plague going around",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_011_01_43_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:43:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h43m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-012",
+          "timestamp": "01:43:58",
+          "seconds": 6238,
+          "isMajor": true,
+          "title": "- 01:45:20 x brainstorms with the crew about the he lif",
+          "description": "- 01:45:20 x brainstorms with the crew about the he Life invader puzzle and the secret behind the server room",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_012_01_43_58.jpg",
+          "imageCaption": "Stream snapshot @ 01:43:58",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h43m58s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-013",
+          "timestamp": "01:47:15",
+          "seconds": 6435,
+          "isMajor": true,
+          "title": "- 01:49:10 speedy says that people are already selling ",
+          "description": "- 01:49:10 Speedy says that people are already selling joints, Lang and Speedy are going to look into growing Muta weed",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d5_evt_013_01_47_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:47:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h47m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
