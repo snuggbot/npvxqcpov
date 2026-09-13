@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7945,6 +7945,89 @@
           "image": "/images/frames/d5_evt_019_03_49_45.jpg",
           "imageCaption": "Stream snapshot @ 03:49:45",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=03h49m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-020",
+          "timestamp": "03:52:00",
+          "seconds": 13920,
+          "isMajor": true,
+          "title": "- 04:00:10 x and marty hold the lifeinvader reporter th",
+          "description": "- 04:00:10 x and Marty hold the Lifeinvader reporter that recorded them robbing the ATM yesterday at gun point, they want to use the reporter to make money by making him take photos of them while doing criminal activities and selling these photos to the cops which he agrees to and that's gonna help them build street cred, they exchange contacts too",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d5_evt_020_03_52_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:52:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=03h52m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-021",
+          "timestamp": "04:00:30",
+          "seconds": 14430,
+          "isMajor": true,
+          "title": "- 04:05:05 they spot a g6 truck",
+          "description": "- 04:05:05 they spot a G6 truck, they try to force the truck to pull over by shooting at it, the G6 truck driver hits a pillar forcing him to stop, the truck driver opens fire but Marty takes him down, x proceeds to rob the other passenger in the G6 truck (1.2k cash) and takes her as a hostage, they try to breach the back of the G6 tuck but x hesitates and decides to drive off, then they drop off the hostage shortly after",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d5_evt_021_04_00_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:00:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=04h00m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-022",
+          "timestamp": "04:11:15",
+          "seconds": 15075,
+          "isMajor": false,
+          "title": "They change outfits",
+          "description": "they change outfits, they're dressed to ambush more G6 trucks",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_022_04_11_15.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=04h11m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-023",
+          "timestamp": "04:30:25",
+          "seconds": 16225,
+          "isMajor": true,
+          "title": "- 04:33:20 x gets in touch with diego",
+          "description": "- 04:33:20 x gets in touch with Diego, Tony's plug that works for G6, Diego shares an idea with x, maybe he can give them a tip of when the vault will be opened for a cut of the money, they will get in touch when the opportunity arises",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d5_evt_023_04_30_25.jpg",
+          "imageCaption": "Stream snapshot @ 04:30:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=04h30m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
