@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7",
       "kickStreamUrl": "",
-      "eventsCount": 31,
+      "eventsCount": 38,
       "events": [
         {
           "id": "d5-evt-001",
@@ -8188,6 +8188,146 @@
           "imageCaption": "Stream snapshot @ 06:18:10",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=06h18m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=22688"
+        },
+        {
+          "id": "d5-evt-032",
+          "timestamp": "06:24:00",
+          "seconds": 23040,
+          "isMajor": false,
+          "title": "They rob more atms",
+          "description": "they rob more ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_032_06_24_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:24:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=06h24m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=23038"
+        },
+        {
+          "id": "d5-evt-033",
+          "timestamp": "06:38:00",
+          "seconds": 23880,
+          "isMajor": false,
+          "title": "They rob a clothing store but the money bag gets scuffe",
+          "description": "they rob a clothing store but the money bag gets scuffed, they get nothing",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_033_06_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=06h38m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=23878"
+        },
+        {
+          "id": "d5-evt-034",
+          "timestamp": "06:39:25",
+          "seconds": 23965,
+          "isMajor": false,
+          "title": "They tried robbing a pharmacy but it doesn't work (the ",
+          "description": "they tried robbing a pharmacy but it doesn't work (the worker doesn't react to them holding their guns out)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_034_06_39_25.jpg",
+          "imageCaption": "Stream snapshot @ 06:39:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=06h39m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=23963"
+        },
+        {
+          "id": "d5-evt-035",
+          "timestamp": "06:40:45",
+          "seconds": 24045,
+          "isMajor": false,
+          "title": "They rob another clothing store",
+          "description": "they rob another clothing store, this time it works and they get 500 rolled bills",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_035_06_40_45.jpg",
+          "imageCaption": "Stream snapshot @ 06:40:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=06h40m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=24043"
+        },
+        {
+          "id": "d5-evt-036",
+          "timestamp": "06:43:00",
+          "seconds": 24180,
+          "isMajor": false,
+          "title": "They try robbing a fleeca bank but it doesn't work",
+          "description": "they try robbing a fleeca bank but it doesn't work",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_036_06_43_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:43:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=06h43m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=24178"
+        },
+        {
+          "id": "d5-evt-037",
+          "timestamp": "06:48:55",
+          "seconds": 24535,
+          "isMajor": false,
+          "title": "While robbing a convenience store the cops show up and ",
+          "description": "while robbing a convenience store the cops show up and it turns into a chase, it's a long chase but they escape the cops eventually",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_037_06_48_55.jpg",
+          "imageCaption": "Stream snapshot @ 06:48:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=06h48m55s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=24533"
+        },
+        {
+          "id": "d5-evt-038",
+          "timestamp": "07:34:20",
+          "seconds": 27260,
+          "isMajor": true,
+          "title": "- 07:37:15 they meet up with tank",
+          "description": "- 07:37:15 they meet up with Tank, he shows them an uncut weed bud, x says that they still don't know how to process these",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_038_07_34_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:34:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=07h34m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a097cc-5590-785a-918f-62c0b38499c7?t=27258"
         }
       ],
       "characterInfo": {
