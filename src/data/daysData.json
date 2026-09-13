@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8755,7 +8755,50 @@
           "seconds": 10880,
           "isMajor": false,
           "title": "They're back to robbing houses",
-          "description": "they're back to robbing houses",
+          "description": "they're back to robbing houses, the cops arrive again, x escapes through the back door, Marty is being chased while x finds a bike and gets away, he then goes back to the house and continue robbing it",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_019_03_01_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:01:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h01m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-020",
+          "timestamp": "03:05:40",
+          "seconds": 11140,
+          "isMajor": false,
+          "title": "Marty calls x saying he needs a pickup",
+          "description": "Marty calls x saying he needs a pickup, he's being chased on foot, x gets a car and drives towards Marty, Marty escapes the cops anyway",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_020_03_05_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:05:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h05m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-021",
+          "timestamp": "03:12:00",
+          "seconds": 11520,
+          "isMajor": false,
+          "title": "They continue robbing houses",
+          "description": "they continue robbing houses",
           "category": "crime",
           "tags": [
             "crime"
@@ -8763,9 +8806,68 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d6_evt_019_03_01_20.jpg",
-          "imageCaption": "Stream snapshot @ 03:01:20",
-          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h01m20s",
+          "image": "/images/frames/d6_evt_021_03_12_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:12:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h12m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-022",
+          "timestamp": "03:15:20",
+          "seconds": 11720,
+          "isMajor": false,
+          "title": "They drive back to the pawn shop to drop off the stolen",
+          "description": "they drive back to the pawn shop to drop off the stolen goods",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_022_03_15_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:15:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h15m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-023",
+          "timestamp": "03:17:15",
+          "seconds": 11835,
+          "isMajor": false,
+          "title": "More house robbing",
+          "description": "more house robbing",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_023_03_17_15.jpg",
+          "imageCaption": "Stream snapshot @ 03:17:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h17m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-024",
+          "timestamp": "03:23:10",
+          "seconds": 12190,
+          "isMajor": false,
+          "title": "The g6 employee that they robbed earlier tweets about i",
+          "description": "the G6 employee that they robbed earlier tweets about it, x replies to his tweet (picture below)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_024_03_23_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:23:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h23m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
