@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 23,
+      "eventsCount": 29,
       "events": [
         {
           "id": "d5-evt-001",
@@ -8028,6 +8028,124 @@
           "image": "/images/frames/d5_evt_023_04_30_25.jpg",
           "imageCaption": "Stream snapshot @ 04:30:25",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=04h30m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-024",
+          "timestamp": "04:56:20",
+          "seconds": 17780,
+          "isMajor": false,
+          "title": "More atm robbing",
+          "description": "more ATM robbing",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_024_04_56_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:56:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=04h56m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-025",
+          "timestamp": "05:12:35",
+          "seconds": 18755,
+          "isMajor": true,
+          "title": "- 05:15:50 they arrive at the studio where lang is",
+          "description": "- 05:15:50 they arrive at the studio where Lang is, they listen to Microwave's song, they're calling it the Brick Bois Record",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d5_evt_025_05_12_35.jpg",
+          "imageCaption": "Stream snapshot @ 05:12:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=05h12m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-026",
+          "timestamp": "05:20:00",
+          "seconds": 19200,
+          "isMajor": false,
+          "title": "Tank (the money runner) calls x and he's going to do mo",
+          "description": "Tank (the money runner) calls x and he's going to do more runs for x, they're giving him 21k in total in rolled money and getting back 16,5K clean cash",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_026_05_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=05h20m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-027",
+          "timestamp": "05:27:10",
+          "seconds": 19630,
+          "isMajor": false,
+          "title": "They meet up with tank to handover the money",
+          "description": "they meet up with Tank to handover the money, the cops interrupt the meeting but they talk their way out of it, they get 16.8k in clean cash",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_027_05_27_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:27:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=05h27m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-028",
+          "timestamp": "05:36:40",
+          "seconds": 20200,
+          "isMajor": false,
+          "title": "The crew put their money together to buy a die casting ",
+          "description": "the crew put their money together to buy a die casting machine for 25k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_028_05_36_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:36:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=05h36m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-029",
+          "timestamp": "05:43:12",
+          "seconds": 20592,
+          "isMajor": true,
+          "title": "- 05:47:40 marty places the newly bought die casting ma",
+          "description": "- 05:47:40 Marty places the newly bought die casting machine in the storage unit, it seems like they're missing a mold to use it (it's useless for now)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d5_evt_029_05_43_12.jpg",
+          "imageCaption": "Stream snapshot @ 05:43:12",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=05h43m12s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
