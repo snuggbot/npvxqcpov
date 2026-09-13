@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8504,6 +8504,27 @@
           "image": "/images/frames/d6_evt_006_01_23_40.jpg",
           "imageCaption": "Stream snapshot @ 01:23:40",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=01h23m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-007",
+          "timestamp": "01:31:20",
+          "seconds": 5480,
+          "isMajor": false,
+          "title": "And marty rob a liquor store",
+          "description": "x and Marty rob a liquor store",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_007_01_31_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:31:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=01h31m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
