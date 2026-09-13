@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7728,6 +7728,25 @@
           "image": "/images/frames/d5_evt_008_01_12_00.jpg",
           "imageCaption": "Stream snapshot @ 01:12:00",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h12m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-009",
+          "timestamp": "01:29:35",
+          "seconds": 5375,
+          "isMajor": false,
+          "title": "Hops on a different ship but he fails to hotwire it",
+          "description": "x hops on a different ship but he fails to hotwire it",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d5_evt_009_01_29_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:29:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h29m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
