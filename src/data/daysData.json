@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8567,6 +8567,47 @@
           "image": "/images/frames/d6_evt_009_01_44_50.jpg",
           "imageCaption": "Stream snapshot @ 01:44:50",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=01h44m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-010",
+          "timestamp": "02:00:30",
+          "seconds": 7230,
+          "isMajor": false,
+          "title": "They rob another store",
+          "description": "they rob another store, no safe keys though",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_010_02_00_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:00:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=02h00m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-011",
+          "timestamp": "02:02:00",
+          "seconds": 7320,
+          "isMajor": true,
+          "title": "- 02:02:41 x and marty find the spot where weed plants ",
+          "description": "- 02:02:41 x and Marty find the spot where weed plants can be chopped, they share the info with Speedy",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Speedy"
+          ],
+          "image": "/images/frames/d6_evt_011_02_02_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:02:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=02h02m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
