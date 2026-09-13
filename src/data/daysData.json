@@ -7567,7 +7567,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2872612045",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d5-evt-001",
@@ -7827,6 +7827,47 @@
           "image": "/images/frames/d5_evt_013_01_47_15.jpg",
           "imageCaption": "Stream snapshot @ 01:47:15",
           "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=01h47m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-014",
+          "timestamp": "02:02:30",
+          "seconds": 7350,
+          "isMajor": true,
+          "title": "- 02:03:20 marty shows x the place to splice seeds but ",
+          "description": "- 02:03:20 Marty shows x the place to splice seeds but they need a gene splicer",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d5_evt_014_02_02_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:02:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=02h02m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d5-evt-015",
+          "timestamp": "02:09:55",
+          "seconds": 7795,
+          "isMajor": false,
+          "title": "And marty rob a house (lester's house from gta v story ",
+          "description": "x and Marty rob a house (Lester's house from GTA V story mode) but they find nothing special",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d5_evt_015_02_09_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:09:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2872612045?t=02h09m55s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
