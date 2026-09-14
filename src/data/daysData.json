@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 2,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d7-evt-001",
@@ -9792,8 +9792,8 @@
           "timestamp": "00:46:40",
           "seconds": 2800,
           "isMajor": true,
-          "title": "- 00:00:00 x notices that his sickness has gotten worse",
-          "description": "- 00:00:00 x notices that his sickness has gotten worse (his stamina depletes quickly), he arrives at the hospital, he's told that he's patient zero and that he has so many diseases: jpx, jpc, jpq and some kind of a fever (4 diseases), it's gonna cost 30k to cure him from these diseases, Tony suggests starting a go fund me pages called (go juice me), they take pictures of him laying in the hospital bed and post about it",
+          "title": "- 00:59:00 x notices that his sickness has gotten worse",
+          "description": "- 00:59:00 x notices that his sickness has gotten worse (his stamina depletes quickly), he arrives at the hospital, he's told that he's patient zero and that he has so many diseases: jpx, jpc, jpq and some kind of a fever (4 diseases), it's gonna cost 30k to cure him from these diseases, Tony suggests starting a go fund me pages called (go juice me), they take pictures of him laying in the hospital bed and post about it",
           "category": "medical",
           "tags": [
             "medical"
@@ -9805,6 +9805,67 @@
           "image": "/images/frames/d7_evt_002_00_46_40.jpg",
           "imageCaption": "Stream snapshot @ 00:46:40",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=00h46m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-003",
+          "timestamp": "01:00:25",
+          "seconds": 3625,
+          "isMajor": false,
+          "title": "- 00:01:00 marty has dice that he can gamba with",
+          "description": "- 00:01:00 Marty has dice that he can gamba with",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d7_evt_003_01_00_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:00:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h00m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-004",
+          "timestamp": "01:01:10",
+          "seconds": 3670,
+          "isMajor": true,
+          "title": "- 01:01:50 lang has a gps chip he said speedy was the o",
+          "description": "- 01:01:50 Lang has a GPS chip he said Speedy was the one that got it (he bought it off of a doctor for 8k), apparently there is a shipment leaving tonight that they can intercept using the chip",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d7_evt_004_01_01_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:01:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h01m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-005",
+          "timestamp": "01:08:00",
+          "seconds": 4080,
+          "isMajor": true,
+          "title": "- 01:10:55 they arrive at the laptop spot at the docks",
+          "description": "- 01:10:55 they arrive at the laptop spot at the docks, Marty uses the chip, he simply needs to remember 5 digits and repeat them but he fails to do so, they will need to get another chip and try again, the person they got the chip from is not around, x suggests that they should find the place to get the chip themselves instead of buying it off of other people",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d7_evt_005_01_08_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:08:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h08m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
