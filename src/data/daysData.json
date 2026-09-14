@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10000,6 +10000,45 @@
           "image": "/images/frames/d7_evt_012_01_42_00.jpg",
           "imageCaption": "Stream snapshot @ 01:42:00",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h42m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-013",
+          "timestamp": "01:50:15",
+          "seconds": 6615,
+          "isMajor": false,
+          "title": "They arrive at the observatory but find nothing",
+          "description": "they arrive at the observatory but find nothing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_013_01_50_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:50:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h50m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-014",
+          "timestamp": "01:51:10",
+          "seconds": 6670,
+          "isMajor": false,
+          "title": "Receives a call from jebediah telling him to meet up bu",
+          "description": "x receives a call from Jebediah telling him to meet up but he should come alone",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_014_01_51_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:51:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h51m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
