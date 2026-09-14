@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 41,
+      "eventsCount": 45,
       "events": [
         {
           "id": "d6-evt-001",
@@ -9212,14 +9212,92 @@
           "imageCaption": "Stream snapshot @ 08:19:10",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=08h19m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=29948"
+        },
+        {
+          "id": "d6-evt-042",
+          "timestamp": "08:20:40",
+          "seconds": 30040,
+          "isMajor": false,
+          "title": "Decides to end the day for jean paul here (he wants to ",
+          "description": "x decides to end the day for Jean Paul here (he wants to create Pierre Paul, JP's brother the cop character)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_042_08_20_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:20:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=08h20m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=30038"
+        },
+        {
+          "id": "d6-evt-043",
+          "timestamp": "08:22:20",
+          "seconds": 30140,
+          "isMajor": true,
+          "title": "Starts creating his cop character pierre paul",
+          "description": "x starts creating his cop character Pierre Paul",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_043_08_22_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:22:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=08h22m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=30138"
+        },
+        {
+          "id": "d6-evt-044",
+          "timestamp": "08:52:30",
+          "seconds": 31950,
+          "isMajor": true,
+          "title": "Logs in as pierre paul for the first time and plays the",
+          "description": "x logs in as Pierre Paul for the first time and plays the classic PP intro song (badboys song), he chooses Fleeca as a bank account option",
+          "category": "crypto",
+          "tags": [
+            "crypto",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_044_08_52_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:52:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=08h52m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=31948"
+        },
+        {
+          "id": "d6-evt-045",
+          "timestamp": "08:59:00",
+          "seconds": 32340,
+          "isMajor": false,
+          "title": "Creates his socials account (username: p_p ",
+          "description": "x creates his socials account (username: P_P , display name: THE LAW) and makes his first tweet",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_045_08_59_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:59:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=08h59m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=32338"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 55.2 hours / Pierre Paul: / Total :",
+        "timeLoggedIn": "Jean Paul : ~ 62.4 hours / Pierre Paul: / Total :",
         "timesJailed": "0",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
+        "Current Ongoing Quest Line(s)": "None",
+        "Character": "Pierre Paul"
       }
     }
   }
