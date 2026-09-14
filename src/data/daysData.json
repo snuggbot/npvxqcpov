@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 38,
+      "eventsCount": 39,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8993,7 +8993,7 @@
           "seconds": 15375,
           "isMajor": true,
           "title": "- 04:16:35 more signs on the wall",
-          "description": "- 04:16:35 more signs on the wall, there is even a drawing of a chip,",
+          "description": "- 04:16:35 more signs on the wall, there is even a drawing of a chip",
           "category": "general",
           "tags": [
             "general"
@@ -9149,6 +9149,30 @@
           "imageCaption": "Stream snapshot @ 06:33:25",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=06h33m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=23603"
+        },
+        {
+          "id": "d6-evt-039",
+          "timestamp": "06:44:35",
+          "seconds": 24275,
+          "isMajor": true,
+          "title": "- 07:40:20 they decide to send their new friend champio",
+          "description": "- 07:40:20 they decide to send their new friend Champion to rob the ATM (as bait) which he does so, he's then ambushed by G6 employees at gun point, x and Marty ambush the G6 employees at gun point from behind as well, x robs one of the employees off of his gun, the cops get involved, x starts negotiating the safety of the hostages in exchange for a safe passage, they agree and the chase starts (the biggest chase yet), Marty splits up and drives off in a different car, the chase continues for a while, they switch vehicles a few times including a cop car and get tased a couple of times, eventually x runs into a tree while driving a bike and gets incapacitated but he's in a hidden spot and there are no cops around, however Marty is not lucky, he's incapacitated and surrounded by cops, x waits but no one shows up (he uses E to respawn at the hospital), he gets treated and leaves the hospital",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_039_06_44_35.jpg",
+          "imageCaption": "Stream snapshot @ 06:44:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=06h44m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=24273"
         }
       ],
       "characterInfo": {
