@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 62,
+      "eventsCount": 69,
       "events": [
         {
           "id": "d6-evt-001",
@@ -9612,6 +9612,139 @@
           "imageCaption": "Stream snapshot @ 10:49:28",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h49m28s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=38966"
+        },
+        {
+          "id": "d6-evt-063",
+          "timestamp": "10:51:15",
+          "seconds": 39075,
+          "isMajor": true,
+          "title": "- 11:06:00 they are show the garage manger and dispatch",
+          "description": "- 11:06:00 they are show the garage manger and dispatch app",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_063_10_51_15.jpg",
+          "imageCaption": "Stream snapshot @ 10:51:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h51m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=39073"
+        },
+        {
+          "id": "d6-evt-064",
+          "timestamp": "11:21:17",
+          "seconds": 40877,
+          "isMajor": true,
+          "title": "- 11:23:50 they are told about the driving rules and pu",
+          "description": "- 11:23:50 they are told about the driving rules and pursuits",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_064_11_21_17.jpg",
+          "imageCaption": "Stream snapshot @ 11:21:17",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=11h21m17s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=40875"
+        },
+        {
+          "id": "d6-evt-065",
+          "timestamp": "11:25:57",
+          "seconds": 41157,
+          "isMajor": true,
+          "title": "- 11:28:00 handling inmates",
+          "description": "- 11:28:00 handling inmates",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_065_11_25_57.jpg",
+          "imageCaption": "Stream snapshot @ 11:25:57",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=11h25m57s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=41155"
+        },
+        {
+          "id": "d6-evt-066",
+          "timestamp": "11:28:08",
+          "seconds": 41288,
+          "isMajor": true,
+          "title": "- 11:28:39 they meet the new warden (scotty)",
+          "description": "- 11:28:39 they meet the new warden (Scotty)",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_066_11_28_08.jpg",
+          "imageCaption": "Stream snapshot @ 11:28:08",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=11h28m08s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=41286"
+        },
+        {
+          "id": "d6-evt-067",
+          "timestamp": "11:29:18",
+          "seconds": 41358,
+          "isMajor": true,
+          "title": "- 11:39:59 processing suspects",
+          "description": "- 11:39:59 processing suspects, the cell blocks and the control room",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_067_11_29_18.jpg",
+          "imageCaption": "Stream snapshot @ 11:29:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=11h29m18s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=41356"
+        },
+        {
+          "id": "d6-evt-068",
+          "timestamp": "11:37:53",
+          "seconds": 41873,
+          "isMajor": true,
+          "title": "- 11:38:37 they're shown the phone which the inmates ca",
+          "description": "- 11:38:37 they're shown the phone which the inmates can use to make phone calls (monitored calls)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_068_11_37_53.jpg",
+          "imageCaption": "Stream snapshot @ 11:37:53",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=11h37m53s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=41871"
+        },
+        {
+          "id": "d6-evt-069",
+          "timestamp": "11:40:04",
+          "seconds": 42004,
+          "isMajor": true,
+          "title": "- 11:41:10 the tour ends here",
+          "description": "- 11:41:10 the tour ends here",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_069_11_40_04.jpg",
+          "imageCaption": "Stream snapshot @ 11:40:04",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=11h40m04s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=42002"
         }
       ],
       "characterInfo": {
