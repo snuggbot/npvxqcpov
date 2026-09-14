@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d7-evt-001",
@@ -9866,6 +9866,64 @@
           "image": "/images/frames/d7_evt_005_01_08_00.jpg",
           "imageCaption": "Stream snapshot @ 01:08:00",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h08m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-006",
+          "timestamp": "01:18:50",
+          "seconds": 4730,
+          "isMajor": false,
+          "title": "Shows the crew the epsilon signs on the walls",
+          "description": "x shows the crew the Epsilon signs on the walls",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_006_01_18_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:18:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h18m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-007",
+          "timestamp": "01:22:50",
+          "seconds": 4970,
+          "isMajor": true,
+          "title": "- 01:23:40 tony leads them to a locked door (apparently",
+          "description": "- 01:23:40 Tony leads them to a locked door (apparently it's an important place in GTA online) with a neon light on top (the sign says neon never dies), they need to get a lockpick",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d7_evt_007_01_22_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:22:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h22m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-008",
+          "timestamp": "01:27:10",
+          "seconds": 5230,
+          "isMajor": true,
+          "title": "- 01:27:45 x tries to lockpick the door but it doesn't ",
+          "description": "- 01:27:45 x tries to lockpick the door but it doesn't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_008_01_27_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:27:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h27m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
