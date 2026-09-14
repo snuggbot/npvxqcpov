@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 29,
+      "eventsCount": 31,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8966,6 +8966,44 @@
           "image": "/images/frames/d6_evt_029_03_55_15.jpg",
           "imageCaption": "Stream snapshot @ 03:55:15",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h55m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-030",
+          "timestamp": "04:09:00",
+          "seconds": 14940,
+          "isMajor": false,
+          "title": "Since jebediah is not around",
+          "description": "since Jebediah is not around, they decide to look at different places hoping to find anything about the GPS chip",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_030_04_09_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:09:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=04h09m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-031",
+          "timestamp": "04:16:15",
+          "seconds": 15375,
+          "isMajor": false,
+          "title": "- 04:16:35 more signs on the wall",
+          "description": "- 04:16:35 more signs on the wall, there is even a drawing of a chip,",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_031_04_16_15.jpg",
+          "imageCaption": "Stream snapshot @ 04:16:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=04h16m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
