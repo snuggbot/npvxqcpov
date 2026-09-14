@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 39,
+      "eventsCount": 41,
       "events": [
         {
           "id": "d6-evt-001",
@@ -9173,6 +9173,45 @@
           "imageCaption": "Stream snapshot @ 06:44:35",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=06h44m35s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=24273"
+        },
+        {
+          "id": "d6-evt-040",
+          "timestamp": "08:14:40",
+          "seconds": 29680,
+          "isMajor": false,
+          "title": "Goes to the pd and asks about the whereabouts of marty",
+          "description": "x goes to the PD and asks about the whereabouts of Marty, they cops don't seem to know where Marty is",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_040_08_14_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:14:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=08h14m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=29678"
+        },
+        {
+          "id": "d6-evt-041",
+          "timestamp": "08:19:10",
+          "seconds": 29950,
+          "isMajor": false,
+          "title": "Looks at g6 group chat and wonders how did they not fin",
+          "description": "x looks at G6 group chat and wonders how did they not find out the fact that their group chat has been infiltrated",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_041_08_19_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:19:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=08h19m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=29948"
         }
       ],
       "characterInfo": {
