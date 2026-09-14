@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 26,
+      "eventsCount": 29,
       "events": [
         {
           "id": "d6-evt-001",
@@ -8907,6 +8907,65 @@
           "image": "/images/frames/d6_evt_026_03_32_00.jpg",
           "imageCaption": "Stream snapshot @ 03:32:00",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h32m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-027",
+          "timestamp": "03:47:40",
+          "seconds": 13660,
+          "isMajor": true,
+          "title": "- 03:50:11 they meet up champion",
+          "description": "- 03:50:11 they meet up Champion, he tells them that they can buy a GPS chip from someone named Jebediah for 10k",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_027_03_47_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h47m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-028",
+          "timestamp": "03:50:25",
+          "seconds": 13825,
+          "isMajor": false,
+          "title": "Meets up with tank",
+          "description": "x meets up with Tank, he hands him 15k$ of rolled money for 12k$ of clean money",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_028_03_50_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:50:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h50m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d6-evt-029",
+          "timestamp": "03:55:15",
+          "seconds": 14115,
+          "isMajor": true,
+          "title": "- 03:55:45 x and marty think that these signs on the wa",
+          "description": "- 03:55:45 x and Marty think that these signs on the wall could lead to something",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_029_03_55_15.jpg",
+          "imageCaption": "Stream snapshot @ 03:55:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=03h55m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
