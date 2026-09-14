@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d7-evt-001",
@@ -9809,11 +9809,11 @@
         },
         {
           "id": "d7-evt-003",
-          "timestamp": "01:00:25",
-          "seconds": 3625,
-          "isMajor": false,
-          "title": "- 00:01:00 marty has dice that he can gamba with",
-          "description": "- 00:01:00 Marty has dice that he can gamba with",
+          "timestamp": "01:00:15",
+          "seconds": 3615,
+          "isMajor": true,
+          "title": "- 01:00:50 marty has dice that he can gamba with",
+          "description": "- 01:00:50 Marty has dice that he can gamba with",
           "category": "general",
           "tags": [
             "general"
@@ -9822,9 +9822,9 @@
             "Jean Paul (X)",
             "Marty Banks"
           ],
-          "image": "/images/frames/d7_evt_003_01_00_25.jpg",
-          "imageCaption": "Stream snapshot @ 01:00:25",
-          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h00m25s",
+          "image": "/images/frames/d7_evt_003_01_00_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:00:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h00m15s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -9889,11 +9889,11 @@
         },
         {
           "id": "d7-evt-007",
-          "timestamp": "01:22:50",
-          "seconds": 4970,
+          "timestamp": "01:22:35",
+          "seconds": 4955,
           "isMajor": true,
-          "title": "- 01:23:40 tony leads them to a locked door (apparently",
-          "description": "- 01:23:40 Tony leads them to a locked door (apparently it's an important place in GTA online) with a neon light on top (the sign says neon never dies), they need to get a lockpick",
+          "title": "- 01:23:10tony leads them to a locked door (apparently ",
+          "description": "- 01:23:10Tony leads them to a locked door (apparently it's an important place in GTA online) with a neon light on top (the sign says neon never dies), they need to get a lockpick",
           "category": "social",
           "tags": [
             "social"
@@ -9902,9 +9902,9 @@
             "Jean Paul (X)",
             "Tony"
           ],
-          "image": "/images/frames/d7_evt_007_01_22_50.jpg",
-          "imageCaption": "Stream snapshot @ 01:22:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h22m50s",
+          "image": "/images/frames/d7_evt_007_01_22_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:22:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h22m35s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -9924,6 +9924,82 @@
           "image": "/images/frames/d7_evt_008_01_27_10.jpg",
           "imageCaption": "Stream snapshot @ 01:27:10",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h27m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-009",
+          "timestamp": "01:29:30",
+          "seconds": 5370,
+          "isMajor": false,
+          "title": "Shows the crew more places with graffiti signs",
+          "description": "x shows the crew more places with graffiti signs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_009_01_29_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:29:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h29m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-010",
+          "timestamp": "01:32:20",
+          "seconds": 5540,
+          "isMajor": true,
+          "title": "- 01:33:20 following the signs on the walls",
+          "description": "- 01:33:20 following the signs on the walls, they notice this billboard",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_010_01_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h32m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-011",
+          "timestamp": "01:40:20",
+          "seconds": 6020,
+          "isMajor": false,
+          "title": "Calls jebediah (finds his number in yellow pages) but h",
+          "description": "x calls Jebediah (finds his number in yellow pages) but he hangs up the phone",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_011_01_40_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:40:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h40m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-012",
+          "timestamp": "01:42:00",
+          "seconds": 6120,
+          "isMajor": true,
+          "title": "- 01:44:02 he calls jebediah again",
+          "description": "- 01:44:02 he calls Jebediah again, he says he's in a meeting and that he will call back in 5 minutes, however he immediately calls x back again, x asks him about the chip, Jebediah says he would like to speak about it in person, he will arrange a meeting soon",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_012_01_42_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:42:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h42m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
