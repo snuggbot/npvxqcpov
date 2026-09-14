@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10039,6 +10039,28 @@
           "image": "/images/frames/d7_evt_014_01_51_10.jpg",
           "imageCaption": "Stream snapshot @ 01:51:10",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h51m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-015",
+          "timestamp": "01:57:30",
+          "seconds": 7050,
+          "isMajor": true,
+          "title": "- 02:19:40 x arrives at the meeting spot (the crew is g",
+          "description": "- 02:19:40 x arrives at the meeting spot (the crew is going to observe from a distance) with Jebediah, funny enough the meeting spot is at the observatory (they were there just moments earlier), they speak for a while, he hints about the chip being manufactured in Hong Kong, then he offers a breach chip for 10k, the crew interrupts the meeting and hold Jebediah at gun point, he swears that he doesn't know where the source of the breach chips is and that they get delivered to his door step from Hong Kong, Lang shoots him in the knee, he says that he orders them using a laptop in his apartment, they interrogate him for a while and he keeps repeating the same lines over and over again, eventually they get tired of him and shoot him down",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d7_evt_015_01_57_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:57:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h57m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
