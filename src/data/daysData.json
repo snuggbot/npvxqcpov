@@ -9755,6 +9755,65 @@
         "Current Ongoing Quest Line(s)": "None Yet",
         "Character": "Pierre Paul"
       }
+    },
+    "7": {
+      "dayNumber": 7,
+      "title": "Day 7",
+      "redditTitle": "NoPixel V | Day 7 Recap Sep 14th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wg2qyg/nopixel_v_day_7_recap_sep_14th_xqcs_pov_with/",
+      "updated": "2026-09-14T12:59:33+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2874244852",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 2,
+      "events": [
+        {
+          "id": "d7-evt-001",
+          "timestamp": "00:40:50",
+          "seconds": 2450,
+          "isMajor": false,
+          "title": "Logs in and starts day 7",
+          "description": "x logs in and starts day 7",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_001_00_40_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:40:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=00h40m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-002",
+          "timestamp": "00:46:40",
+          "seconds": 2800,
+          "isMajor": true,
+          "title": "- 00:00:00 x notices that his sickness has gotten worse",
+          "description": "- 00:00:00 x notices that his sickness has gotten worse (his stamina depletes quickly), he arrives at the hospital, he's told that he's patient zero and that he has so many diseases: jpx, jpc, jpq and some kind of a fever (4 diseases), it's gonna cost 30k to cure him from these diseases, Tony suggests starting a go fund me pages called (go juice me), they take pictures of him laying in the hospital bed and post about it",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d7_evt_002_00_46_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:46:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=00h46m40s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "timeLoggedIn": "Jean Paul : ~ 62.4 hours / Pierre Paul: 3.5 hours / Total : 65.9 hours",
+        "timesJailed": "0",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
+      }
     }
   }
 }
