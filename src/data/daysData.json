@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 52,
+      "eventsCount": 58,
       "events": [
         {
           "id": "d6-evt-001",
@@ -9422,6 +9422,120 @@
           "imageCaption": "Stream snapshot @ 09:41:27",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=09h41m27s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=34885"
+        },
+        {
+          "id": "d6-evt-053",
+          "timestamp": "09:55:00",
+          "seconds": 35700,
+          "isMajor": true,
+          "title": "- 09:58:10 x practices using handcuffs",
+          "description": "- 09:58:10 x practices using handcuffs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_053_09_55_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:55:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=09h55m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=35698"
+        },
+        {
+          "id": "d6-evt-054",
+          "timestamp": "09:57:28",
+          "seconds": 35848,
+          "isMajor": true,
+          "title": "- 09:59:55 x practices frisking and searching for items",
+          "description": "- 09:59:55 x practices frisking and searching for items",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_054_09_57_28.jpg",
+          "imageCaption": "Stream snapshot @ 09:57:28",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=09h57m28s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=35846"
+        },
+        {
+          "id": "d6-evt-055",
+          "timestamp": "10:00:50",
+          "seconds": 36050,
+          "isMajor": true,
+          "title": "- 10:01:25 x practices gsr testing",
+          "description": "- 10:01:25 x practices GSR testing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_055_10_00_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:00:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h00m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=36048"
+        },
+        {
+          "id": "d6-evt-056",
+          "timestamp": "10:03:10",
+          "seconds": 36190,
+          "isMajor": true,
+          "title": "- 10:03:50 x practices tackling",
+          "description": "- 10:03:50 x practices tackling",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_056_10_03_10.jpg",
+          "imageCaption": "Stream snapshot @ 10:03:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h03m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=36188"
+        },
+        {
+          "id": "d6-evt-057",
+          "timestamp": "10:08:50",
+          "seconds": 36530,
+          "isMajor": true,
+          "title": "- 10:10:00 x practices using the pd camera",
+          "description": "- 10:10:00 x practices using the PD camera",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_057_10_08_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:08:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h08m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=36528"
+        },
+        {
+          "id": "d6-evt-058",
+          "timestamp": "10:11:18",
+          "seconds": 36678,
+          "isMajor": true,
+          "title": "- 10:28:05 they go through the uses of pd tablet (warra",
+          "description": "- 10:28:05 they go through the uses of PD tablet (warrants, announcements, evidence, add charges ...etc)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_058_10_11_18.jpg",
+          "imageCaption": "Stream snapshot @ 10:11:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h11m18s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=36676"
         }
       ],
       "characterInfo": {
