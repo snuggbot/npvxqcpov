@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 58,
+      "eventsCount": 62,
       "events": [
         {
           "id": "d6-evt-001",
@@ -9536,6 +9536,82 @@
           "imageCaption": "Stream snapshot @ 10:11:18",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h11m18s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=36676"
+        },
+        {
+          "id": "d6-evt-059",
+          "timestamp": "10:29:34",
+          "seconds": 37774,
+          "isMajor": true,
+          "title": "- 10:31:50 x practices filing evidence",
+          "description": "- 10:31:50 x practices filing evidence",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_059_10_29_34.jpg",
+          "imageCaption": "Stream snapshot @ 10:29:34",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h29m34s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=37772"
+        },
+        {
+          "id": "d6-evt-060",
+          "timestamp": "10:36:40",
+          "seconds": 38200,
+          "isMajor": true,
+          "title": "- 10:37:35 they are shown the interrogation room/system",
+          "description": "- 10:37:35 they are shown the interrogation room/system",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_060_10_36_40.jpg",
+          "imageCaption": "Stream snapshot @ 10:36:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h36m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=38198"
+        },
+        {
+          "id": "d6-evt-061",
+          "timestamp": "10:38:13",
+          "seconds": 38293,
+          "isMajor": true,
+          "title": "- 10:44:55 they are shown the mugshot taking rooms",
+          "description": "- 10:44:55 they are shown the mugshot taking rooms, the cells and DNA testing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_061_10_38_13.jpg",
+          "imageCaption": "Stream snapshot @ 10:38:13",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h38m13s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=38291"
+        },
+        {
+          "id": "d6-evt-062",
+          "timestamp": "10:49:28",
+          "seconds": 38968,
+          "isMajor": true,
+          "title": "- 10:49:45 x chooses his profile picture",
+          "description": "- 10:49:45 x chooses his profile picture",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_062_10_49_28.jpg",
+          "imageCaption": "Stream snapshot @ 10:49:28",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=10h49m28s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=38966"
         }
       ],
       "characterInfo": {
