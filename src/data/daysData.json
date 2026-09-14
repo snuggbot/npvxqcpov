@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 37,
+      "eventsCount": 38,
       "events": [
         {
           "id": "d6-evt-001",
@@ -9129,6 +9129,26 @@
           "imageCaption": "Stream snapshot @ 06:15:00",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=06h15m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=22498"
+        },
+        {
+          "id": "d6-evt-038",
+          "timestamp": "06:33:25",
+          "seconds": 23605,
+          "isMajor": true,
+          "title": "- 06:35:30 x receives a call from someone called roxann",
+          "description": "- 06:35:30 x receives a call from someone called Roxanne Daniels from G6, she seems to be setting up x by telling him that some ATMs just got restocked at upper power street and that he should rob them, they even post about it in G6 group chat which x is a part of but they don't know that",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_038_06_33_25.jpg",
+          "imageCaption": "Stream snapshot @ 06:33:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=06h33m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=23603"
         }
       ],
       "characterInfo": {
