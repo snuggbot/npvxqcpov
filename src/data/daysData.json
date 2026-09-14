@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10061,6 +10061,66 @@
           "image": "/images/frames/d7_evt_015_01_57_30.jpg",
           "imageCaption": "Stream snapshot @ 01:57:30",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=01h57m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-016",
+          "timestamp": "02:22:50",
+          "seconds": 8570,
+          "isMajor": true,
+          "title": "- 02:23:27 jack calls x saying he's working on getting ",
+          "description": "- 02:23:27 Jack calls x saying he's working on getting a chip for x, x has a theory that they need to rob houses to find those chips",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_016_02_22_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:22:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=02h22m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-017",
+          "timestamp": "02:29:00",
+          "seconds": 8940,
+          "isMajor": false,
+          "title": "The crew decide to buy a tumbler (to be placed in the s",
+          "description": "the crew decide to buy a tumbler (to be placed in the storage unit)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_017_02_29_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:29:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=02h29m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-018",
+          "timestamp": "02:31:40",
+          "seconds": 9100,
+          "isMajor": false,
+          "title": "- 02:32:10 they get pulled over by a cop",
+          "description": "- 02:32:10 they get pulled over by a cop, Tony tases the cop as soon as he gets close to the car and they drive away",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d7_evt_018_02_31_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:31:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=02h31m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
