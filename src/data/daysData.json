@@ -8386,7 +8386,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2873333195",
       "kickVod": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2",
       "kickStreamUrl": "",
-      "eventsCount": 34,
+      "eventsCount": 37,
       "events": [
         {
           "id": "d6-evt-001",
@@ -9064,6 +9064,71 @@
           "imageCaption": "Stream snapshot @ 05:39:10",
           "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=05h39m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=20348"
+        },
+        {
+          "id": "d6-evt-035",
+          "timestamp": "05:50:00",
+          "seconds": 21000,
+          "isMajor": false,
+          "title": "Decides to go and meet jack on his own since marty and ",
+          "description": "x decides to go and meet Jack on his own since Marty and Champion are doubting Jack knows anything, x drives off in a different car but Marty and Champion follow anyway",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d6_evt_035_05_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=05h50m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=20998"
+        },
+        {
+          "id": "d6-evt-036",
+          "timestamp": "05:54:30",
+          "seconds": 21270,
+          "isMajor": true,
+          "title": "- 05:55:35 they get to the meeting spot but champion ru",
+          "description": "- 05:55:35 they get to the meeting spot but Champion runs over x and incapacitates him, they will drive him to the hospital and meet up with Jack later",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d6_evt_036_05_54_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:54:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=05h54m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=21268"
+        },
+        {
+          "id": "d6-evt-037",
+          "timestamp": "06:15:00",
+          "seconds": 22500,
+          "isMajor": true,
+          "title": "- 06:26:24 x",
+          "description": "- 06:26:24 x, Marty and Champion meet up with Jack, x is after the chip, jack in return wants information about what to do with the chip, x offers taking Jack to the location where he can use the chip (the docks) but he will have to paper bag his head until they reach said location, Jack says that they will have to wait until tomorrow, Marty requests a side bar, they agree to wait till tomorrow since Lang is also going to be around then, meanwhile they will keep looking for it on their own today",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d6_evt_037_06_15_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:15:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2873333195?t=06h15m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a09bed-d838-7660-b8c2-92ba8f1dada2?t=22498"
         }
       ],
       "characterInfo": {
