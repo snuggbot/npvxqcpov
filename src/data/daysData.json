@@ -10875,7 +10875,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d8-evt-001",
@@ -10974,6 +10974,65 @@
           "image": "/images/frames/d8_evt_005_01_06_50.jpg",
           "imageCaption": "Stream snapshot @ 01:06:50",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h06m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-006",
+          "timestamp": "01:26:30",
+          "seconds": 5190,
+          "isMajor": true,
+          "title": "- 01:27:20 tony leads x to a place with a printer",
+          "description": "- 01:27:20 Tony leads x to a place with a printer, they're not sure what's the use of it yet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d8_evt_006_01_26_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:26:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h26m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-007",
+          "timestamp": "01:27:50",
+          "seconds": 5270,
+          "isMajor": true,
+          "title": "- 01:28:00 chatterbox tweets that the casino is open",
+          "description": "- 01:28:00 Chatterbox tweets that the casino is open",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d8_evt_007_01_27_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:27:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h27m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-008",
+          "timestamp": "01:31:20",
+          "seconds": 5480,
+          "isMajor": true,
+          "title": "- 01:31:30 nest invests 500k into lspd",
+          "description": "- 01:31:30 NEST invests 500k into LSPD",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_008_01_31_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:31:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h31m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
