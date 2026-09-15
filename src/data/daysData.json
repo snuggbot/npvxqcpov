@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 33,
+      "eventsCount": 38,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10411,11 +10411,11 @@
         },
         {
           "id": "d7-evt-033",
-          "timestamp": "06:11:11",
-          "seconds": 22271,
+          "timestamp": "06:12:42",
+          "seconds": 22362,
           "isMajor": true,
-          "title": "- 06:12:00 the server resets during the chase",
-          "description": "- 06:12:00 the server resets during the chase, x logs back in and changes outfits",
+          "title": "- 06:12:55 the server resets during the chase",
+          "description": "- 06:12:55 the server resets during the chase, x logs back in and changes outfits to match the shirt he's wearing IRL",
           "category": "chase",
           "tags": [
             "chase"
@@ -10423,9 +10423,108 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d7_evt_033_06_11_11.jpg",
-          "imageCaption": "Stream snapshot @ 06:11:11",
-          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h11m11s",
+          "image": "/images/frames/d7_evt_033_06_12_42.jpg",
+          "imageCaption": "Stream snapshot @ 06:12:42",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h12m42s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-034",
+          "timestamp": "06:14:10",
+          "seconds": 22450,
+          "isMajor": true,
+          "title": "- 06:15:09 m1 says the safe at the pawn shop should be ",
+          "description": "- 06:15:09 M1 says the safe at the pawn shop should be fixed back soon (potentially)",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_034_06_14_10.jpg",
+          "imageCaption": "Stream snapshot @ 06:14:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h14m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-035",
+          "timestamp": "06:19:35",
+          "seconds": 22775,
+          "isMajor": false,
+          "title": "The crew groups up at the pawn shop",
+          "description": "the crew groups up at the pawn shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_035_06_19_35.jpg",
+          "imageCaption": "Stream snapshot @ 06:19:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h19m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-036",
+          "timestamp": "06:20:38",
+          "seconds": 22838,
+          "isMajor": false,
+          "title": "M1 arrives at the pawn shop and looks at the safe",
+          "description": "M1 arrives at the pawn shop and looks at the safe",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_036_06_20_38.jpg",
+          "imageCaption": "Stream snapshot @ 06:20:38",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h20m38s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-037",
+          "timestamp": "06:21:44",
+          "seconds": 22904,
+          "isMajor": true,
+          "title": "- 06:27:40 x discusses the way they're going to run the",
+          "description": "- 06:27:40 x discusses the way they're going to run the pawn shop daily, Lang wants to do it, he's against the idea of hiring Nino Chavez, Lang is going to handle the shop for now",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d7_evt_037_06_21_44.jpg",
+          "imageCaption": "Stream snapshot @ 06:21:44",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h21m44s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-038",
+          "timestamp": "06:28:30",
+          "seconds": 23310,
+          "isMajor": false,
+          "title": "Tony spits some bars",
+          "description": "Tony spits some bars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d7_evt_038_06_28_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:28:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h28m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
