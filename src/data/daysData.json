@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 21,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10140,6 +10140,45 @@
           "image": "/images/frames/d7_evt_019_02_35_00.jpg",
           "imageCaption": "Stream snapshot @ 02:35:00",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=02h35m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-020",
+          "timestamp": "02:51:00",
+          "seconds": 10260,
+          "isMajor": true,
+          "title": "- 02:51:20:x places down the tumbler at the storage uni",
+          "description": "- 02:51:20:x places down the tumbler at the storage unit, they can make a few things using it like gun powder, stuffing, carpeting and lead paint",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_020_02_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=02h51m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-021",
+          "timestamp": "02:53:33",
+          "seconds": 10413,
+          "isMajor": true,
+          "title": "- 03:01:10 they meet their neighboring storage unit own",
+          "description": "- 03:01:10 they meet their neighboring storage unit owners, They show x their machinery, their setup is completely different and they have things running well and so many recipes",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_021_02_53_33.jpg",
+          "imageCaption": "Stream snapshot @ 02:53:33",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=02h53m33s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
