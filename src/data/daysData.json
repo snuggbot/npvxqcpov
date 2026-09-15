@@ -10875,7 +10875,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d8-evt-001",
@@ -11033,6 +11033,66 @@
           "image": "/images/frames/d8_evt_008_01_31_20.jpg",
           "imageCaption": "Stream snapshot @ 01:31:20",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h31m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-009",
+          "timestamp": "01:32:30",
+          "seconds": 5550,
+          "isMajor": true,
+          "title": "- 01:32:40 they arrive at the casino but it's not actua",
+          "description": "- 01:32:40 they arrive at the casino but it's not actually open yet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_009_01_32_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h32m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-010",
+          "timestamp": "01:36:25",
+          "seconds": 5785,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Lang rob a liquor store",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d8_evt_010_01_36_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:36:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h36m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-011",
+          "timestamp": "01:38:30",
+          "seconds": 5910,
+          "isMajor": false,
+          "title": "They start robbing atms and stores",
+          "description": "they start robbing ATMs and stores",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_011_01_38_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:38:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h38m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
