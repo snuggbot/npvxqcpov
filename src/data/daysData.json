@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 31,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10370,7 +10370,7 @@
           "seconds": 18915,
           "isMajor": true,
           "title": "Robs a shop and while trying to rob the back safe he re",
-          "description": "x robs a shop and while trying to rob the back safe he receives the location to the meeting with Nino Chavez (someone they want to hire to run the pawn shop for them), however the cops arrive shortly after and it turns into a chase, at one point x helps Marty escape the cops but Marty gets arrested and x tries to save Marty again but he gets tased and incapacitated, x then is escorted to the hospital to get treated, x makes a run for it as soon as he gets treated and he somehow makes it to an escape car with Tony",
+          "description": "x robs a shop and while trying to rob the back safe he receives the location to the meeting with Nino Chavez (someone they want to hire to run the pawn shop for them), however the cops arrive shortly after and it turns into a chase, at one point x helps Marty escape the cops but Marty gets arrested and x tries to save Marty again but he gets tased and incapacitated, x then is escorted to the hospital to get treated, x makes a run for it as soon as he gets treated and he somehow makes it to an escape car with Lang, shortly after the server resets during the chase",
           "category": "chase",
           "tags": [
             "chase",
@@ -10383,11 +10383,49 @@
           "characters": [
             "Jean Paul (X)",
             "Marty Banks",
-            "Tony"
+            "Mista Lang"
           ],
           "image": "/images/frames/d7_evt_031_05_15_15.jpg",
           "imageCaption": "Stream snapshot @ 05:15:15",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=05h15m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-032",
+          "timestamp": "06:04:05",
+          "seconds": 21845,
+          "isMajor": true,
+          "title": "- 06:06:40 x receives a package for jean paul (irl)",
+          "description": "- 06:06:40 x receives a package for Jean Paul (IRL), a classic JP shirt with a green dongle, he puts the shirt on",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_032_06_04_05.jpg",
+          "imageCaption": "Stream snapshot @ 06:04:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h04m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-033",
+          "timestamp": "06:11:11",
+          "seconds": 22271,
+          "isMajor": true,
+          "title": "- 06:12:00 the server resets during the chase",
+          "description": "- 06:12:00 the server resets during the chase, x logs back in and changes outfits",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_033_06_11_11.jpg",
+          "imageCaption": "Stream snapshot @ 06:11:11",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=06h11m11s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
