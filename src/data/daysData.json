@@ -10864,6 +10864,126 @@
         "Character": "Pierre Paul",
         "# Of Criminals Arrested (Since Day 1)": "1 arrest"
       }
+    },
+    "8": {
+      "dayNumber": 8,
+      "title": "Day 8",
+      "redditTitle": "NoPixel V | Day 8 Recap Sep 15th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wh29j8/nopixel_v_day_8_recap_sep_15th_xqcs_pov_with/",
+      "updated": "2026-09-15T14:40:18+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2875113048",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 5,
+      "events": [
+        {
+          "id": "d8-evt-001",
+          "timestamp": "00:45:20",
+          "seconds": 2720,
+          "isMajor": false,
+          "title": "Logs in and starts day 8",
+          "description": "x logs in and starts day 8, he's still in an incapacitated state since last night (doing the swimming pool challenge)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_001_00_45_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:45:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h45m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-002",
+          "timestamp": "00:52:55",
+          "seconds": 3175,
+          "isMajor": true,
+          "title": "- 00:52:07 lang calls x saying they're printing cash at",
+          "description": "- 00:52:07 Lang calls x saying they're printing cash at the pawn shop, Lang is tracking everything too",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d8_evt_002_00_52_55.jpg",
+          "imageCaption": "Stream snapshot @ 00:52:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h52m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-003",
+          "timestamp": "00:55:22",
+          "seconds": 3322,
+          "isMajor": true,
+          "title": "- 00:56:05 x arrives at the pawn shop and meets up with",
+          "description": "- 00:56:05 x arrives at the pawn shop and meets up with the crew, they found the guy from where they can buy the breach chip",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_003_00_55_22.jpg",
+          "imageCaption": "Stream snapshot @ 00:55:22",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h55m22s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-004",
+          "timestamp": "00:59:15",
+          "seconds": 3555,
+          "isMajor": true,
+          "title": "- 01:02:00 they arrive at the breach chip spot but they",
+          "description": "- 01:02:00 they arrive at the breach chip spot but they guy that sells them isn't there anymore (they bugged him earlier), Speedy was the one that found out the location by the help of the doctor he was talking about yesterday",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d8_evt_004_00_59_15.jpg",
+          "imageCaption": "Stream snapshot @ 00:59:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h59m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d8-evt-005",
+          "timestamp": "01:06:50",
+          "seconds": 4010,
+          "isMajor": true,
+          "title": "- 01:10:18 x calls jack looking for a breach chip to bu",
+          "description": "- 01:10:18 x calls Jack looking for a breach chip to buy, Jack says he doesn't have one but he might be able to get one later tonight, x offers 10k for it and Jack hangs up the phone",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_005_01_06_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h06m50s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 71.1 hours / Pierre Paul: 5.4 hours / Total : 76.5 hours",
+        "timesJailed": "0",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
+      }
     }
   }
 }
