@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b",
       "kickStreamUrl": "",
-      "eventsCount": 47,
+      "eventsCount": 55,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10702,6 +10702,158 @@
           "imageCaption": "Stream snapshot @ 09:10:00",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=09h10m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=32998"
+        },
+        {
+          "id": "d7-evt-048",
+          "timestamp": "09:13:00",
+          "seconds": 33180,
+          "isMajor": false,
+          "title": "Logs in as pierre paul",
+          "description": "x logs in as Pierre Paul",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_048_09_13_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:13:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=09h13m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=33178"
+        },
+        {
+          "id": "d7-evt-049",
+          "timestamp": "09:28:00",
+          "seconds": 34080,
+          "isMajor": false,
+          "title": "Partners with c",
+          "description": "x partners with C. Dawson",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_049_09_28_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:28:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=09h28m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=34078"
+        },
+        {
+          "id": "d7-evt-050",
+          "timestamp": "09:33:10",
+          "seconds": 34390,
+          "isMajor": true,
+          "title": "- 09:33:25 x learns how to request impound on an illega",
+          "description": "- 09:33:25 x learns how to request impound on an illegally parked car",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_050_09_33_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:33:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=09h33m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=34388"
+        },
+        {
+          "id": "d7-evt-051",
+          "timestamp": "09:37:08",
+          "seconds": 34628,
+          "isMajor": false,
+          "title": "- 09:44:40 they spot an atm robbery in progress",
+          "description": "- 09:44:40 they spot an ATM robbery in progress, it turns into a chase, they loose sight of the suspects eventually",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_051_09_37_08.jpg",
+          "imageCaption": "Stream snapshot @ 09:37:08",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=09h37m08s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=34626"
+        },
+        {
+          "id": "d7-evt-052",
+          "timestamp": "10:16:55",
+          "seconds": 37015,
+          "isMajor": true,
+          "title": "- 10:18:00 they respond to an ammunation store robbery",
+          "description": "- 10:18:00 they respond to an ammunation store robbery, they breach but no suspects in sight",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_052_10_16_55.jpg",
+          "imageCaption": "Stream snapshot @ 10:16:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=10h16m55s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=37013"
+        },
+        {
+          "id": "d7-evt-053",
+          "timestamp": "10:26:31",
+          "seconds": 37591,
+          "isMajor": true,
+          "title": "- 10:28:00 x respond to another ammunation story robber",
+          "description": "- 10:28:00 x respond to another ammunation story robbery, again no suspects in sight, x takes notes of evidence",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_053_10_26_31.jpg",
+          "imageCaption": "Stream snapshot @ 10:26:31",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=10h26m31s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=37589"
+        },
+        {
+          "id": "d7-evt-054",
+          "timestamp": "10:34:05",
+          "seconds": 38045,
+          "isMajor": true,
+          "title": "- 10:48:30 they start a chase",
+          "description": "- 10:48:30 they start a chase, eventually the chase comes to an end and PP makes his first arrest!",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_054_10_34_05.jpg",
+          "imageCaption": "Stream snapshot @ 10:34:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=10h34m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=38043"
+        },
+        {
+          "id": "d7-evt-055",
+          "timestamp": "10:59:36",
+          "seconds": 39576,
+          "isMajor": false,
+          "title": "Decides to end the day",
+          "description": "x decides to end the day",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_055_10_59_36.jpg",
+          "imageCaption": "Stream snapshot @ 10:59:36",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=10h59m36s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a17f-6d70-7125-958a-31246cfced9b?t=39574"
         }
       ],
       "characterInfo": {
@@ -10709,7 +10861,8 @@
         "timesJailed": "0",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "None Yet",
-        "Character": "Pierre Paul"
+        "Character": "Pierre Paul",
+        "# Of Criminals Arrested (Since Day 1)": "1 arrest"
       }
     }
   }
