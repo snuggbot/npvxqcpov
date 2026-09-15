@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 21,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10147,8 +10147,8 @@
           "timestamp": "02:51:00",
           "seconds": 10260,
           "isMajor": true,
-          "title": "- 02:51:20:x places down the tumbler at the storage uni",
-          "description": "- 02:51:20:x places down the tumbler at the storage unit, they can make a few things using it like gun powder, stuffing, carpeting and lead paint",
+          "title": "- 02:51:20 x places down the tumbler at the storage uni",
+          "description": "- 02:51:20 x places down the tumbler at the storage unit, they can make a few things using it like gun powder, stuffing, carpeting and lead paint",
           "category": "crime",
           "tags": [
             "crime",
@@ -10179,6 +10179,70 @@
           "image": "/images/frames/d7_evt_021_02_53_33.jpg",
           "imageCaption": "Stream snapshot @ 02:53:33",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=02h53m33s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-022",
+          "timestamp": "03:32:27",
+          "seconds": 12747,
+          "isMajor": false,
+          "title": "- 03:00:00 (heated police chase) x robs an atm and the ",
+          "description": "- 03:00:00 (heated police chase) x robs an ATM and the cops see him, it turns into a chase, x eventually escapes with the help of Marty",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d7_evt_022_03_32_27.jpg",
+          "imageCaption": "Stream snapshot @ 03:32:27",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=03h32m27s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-023",
+          "timestamp": "03:44:45",
+          "seconds": 13485,
+          "isMajor": true,
+          "title": "- 03:47:43 speedy says that the doctor he's meeting tom",
+          "description": "- 03:47:43 Speedy says that the doctor he's meeting tomorrow might have 2-3 chips, he asks x if he should buy a chip or steal it, they agree that Speedy should try the friendly way first but if it doesn't work then he will rob him",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d7_evt_023_03_44_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:44:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=03h44m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-024",
+          "timestamp": "03:47:48",
+          "seconds": 13668,
+          "isMajor": false,
+          "title": "And marty get spotted again by the cops and the chase r",
+          "description": "x and Marty get spotted again by the cops and the chase restarts, they escape on a bike",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d7_evt_024_03_47_48.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=03h47m48s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
