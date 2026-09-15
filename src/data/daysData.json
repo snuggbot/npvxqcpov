@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 24,
+      "eventsCount": 28,
       "events": [
         {
           "id": "d7-evt-001",
@@ -9892,8 +9892,8 @@
           "timestamp": "01:22:35",
           "seconds": 4955,
           "isMajor": true,
-          "title": "- 01:23:10tony leads them to a locked door (apparently ",
-          "description": "- 01:23:10Tony leads them to a locked door (apparently it's an important place in GTA online) with a neon light on top (the sign says neon never dies), they need to get a lockpick",
+          "title": "- 01:23:10 tony leads them to a locked door (apparently",
+          "description": "- 01:23:10 Tony leads them to a locked door (apparently it's an important place in GTA online) with a neon light on top (the sign says neon never dies), they need to get a lockpick",
           "category": "social",
           "tags": [
             "social"
@@ -10243,6 +10243,87 @@
           "image": "/images/frames/d7_evt_024_03_47_48.jpg",
           "imageCaption": "Stream snapshot @ 03:47:48",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=03h47m48s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-025",
+          "timestamp": "03:55:42",
+          "seconds": 14142,
+          "isMajor": true,
+          "title": "- 03:56:42 x receives a call from m1 saying today is th",
+          "description": "- 03:56:42 x receives a call from M1 saying today is the day he becomes the owner of the pawn shop, they're going to meet soon",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_025_03_55_42.jpg",
+          "imageCaption": "Stream snapshot @ 03:55:42",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=03h55m42s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-026",
+          "timestamp": "04:05:45",
+          "seconds": 14745,
+          "isMajor": true,
+          "title": "- 04:38:11 x and marty arrive at the meeting spot with ",
+          "description": "- 04:38:11 x and Marty arrive at the meeting spot with M1 and his boss (Eko), x add and names his business 'THE BRICK HOUSE' , x is now officially the owner of the Hawik pawn shop, he's the only one that can use the shop and he dictate the prices, they inform M1 about the breach chips and he says that they will discuss more about it later, the rest of the crew arrive to the meeting, he doesn't provide new info about the breach chips",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d7_evt_026_04_05_45.jpg",
+          "imageCaption": "Stream snapshot @ 04:05:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=04h05m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-027",
+          "timestamp": "04:39:16",
+          "seconds": 16756,
+          "isMajor": true,
+          "title": "- 04:41:20 x arrives at his pawn shop",
+          "description": "- 04:41:20 x arrives at his pawn shop, they realize that everything that was stored in the safe is now gone (for every player), x calls M1, M1 says that he will fix things soon",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_027_04_39_16.jpg",
+          "imageCaption": "Stream snapshot @ 04:39:16",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=04h39m16s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-028",
+          "timestamp": "04:49:15",
+          "seconds": 17355,
+          "isMajor": true,
+          "title": "- 04:49:42 (funny bit) x and the crew leave the safe ro",
+          "description": "- 04:49:42 (funny bit) x and the crew leave the safe room to find a queue of people waiting to use the pawn shop not knowing that everything in the safe got wiped",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_028_04_49_15.jpg",
+          "imageCaption": "Stream snapshot @ 04:49:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=04h49m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
