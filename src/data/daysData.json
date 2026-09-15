@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 28,
+      "eventsCount": 31,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10271,7 +10271,7 @@
           "seconds": 14745,
           "isMajor": true,
           "title": "- 04:38:11 x and marty arrive at the meeting spot with ",
-          "description": "- 04:38:11 x and Marty arrive at the meeting spot with M1 and his boss (Eko), x add and names his business 'THE BRICK HOUSE' , x is now officially the owner of the Hawik pawn shop, he's the only one that can use the shop and he dictate the prices, they inform M1 about the breach chips and he says that they will discuss more about it later, the rest of the crew arrive to the meeting, he doesn't provide new info about the breach chips",
+          "description": "- 04:38:11 x and Marty arrive at the meeting spot with M1 and his boss (Eko), x add and names his business 'THE BRICK HOUSE' , x is now officially the owner of the Hawick pawn shop, he's the only one that can use the shop and he dictate the prices, they inform M1 about the breach chips and he says that they will discuss more about it later, the rest of the crew arrive to the meeting, he doesn't provide new info about the breach chips",
           "category": "job",
           "tags": [
             "job",
@@ -10324,6 +10324,70 @@
           "image": "/images/frames/d7_evt_028_04_49_15.jpg",
           "imageCaption": "Stream snapshot @ 04:49:15",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=04h49m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-029",
+          "timestamp": "04:55:57",
+          "seconds": 17757,
+          "isMajor": false,
+          "title": "They go back to the pawn shop to try and get the situat",
+          "description": "they go back to the pawn shop to try and get the situation under control",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_029_04_55_57.jpg",
+          "imageCaption": "Stream snapshot @ 04:55:57",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=04h55m57s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-030",
+          "timestamp": "04:58:50",
+          "seconds": 17930,
+          "isMajor": true,
+          "title": "- 04:59:20 x texts m1 along with pictures about the ang",
+          "description": "- 04:59:20 x texts M1 along with pictures about the angry customers",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_030_04_58_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:58:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=04h58m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-031",
+          "timestamp": "05:15:15",
+          "seconds": 18915,
+          "isMajor": true,
+          "title": "Robs a shop and while trying to rob the back safe he re",
+          "description": "x robs a shop and while trying to rob the back safe he receives the location to the meeting with Nino Chavez (someone they want to hire to run the pawn shop for them), however the cops arrive shortly after and it turns into a chase, at one point x helps Marty escape the cops but Marty gets arrested and x tries to save Marty again but he gets tased and incapacitated, x then is escorted to the hospital to get treated, x makes a run for it as soon as he gets treated and he somehow makes it to an escape car with Tony",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d7_evt_031_05_15_15.jpg",
+          "imageCaption": "Stream snapshot @ 05:15:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=05h15m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
