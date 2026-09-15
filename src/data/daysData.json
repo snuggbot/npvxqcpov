@@ -9766,7 +9766,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2874244852",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 40,
+      "eventsCount": 43,
       "events": [
         {
           "id": "d7-evt-001",
@@ -10551,7 +10551,7 @@
           "id": "d7-evt-040",
           "timestamp": "07:04:20",
           "seconds": 25460,
-          "isMajor": false,
+          "isMajor": true,
           "title": "- 07:04:55 after a bunch of atm and store robberies",
           "description": "- 07:04:55 after a bunch of ATM and store robberies, x and Tony check on Speedy's mini weed farm",
           "category": "job",
@@ -10566,6 +10566,65 @@
           "image": "/images/frames/d7_evt_040_07_04_20.jpg",
           "imageCaption": "Stream snapshot @ 07:04:20",
           "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=07h04m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-041",
+          "timestamp": "07:30:20",
+          "seconds": 27020,
+          "isMajor": false,
+          "title": "A cop spots x and tony robbing an atm and it turns into",
+          "description": "a cop spots x and Tony robbing an ATM and it turns into a chase, they escape shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d7_evt_041_07_30_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:30:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=07h30m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-042",
+          "timestamp": "07:38:35",
+          "seconds": 27515,
+          "isMajor": false,
+          "title": "They switch outfits after losing the cops",
+          "description": "they switch outfits after losing the cops",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_042_07_38_35.jpg",
+          "imageCaption": "Stream snapshot @ 07:38:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=07h38m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d7-evt-043",
+          "timestamp": "08:02:00",
+          "seconds": 28920,
+          "isMajor": false,
+          "title": "They start a house robbery",
+          "description": "they start a house robbery",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d7_evt_043_08_02_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:02:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2874244852?t=08h02m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
