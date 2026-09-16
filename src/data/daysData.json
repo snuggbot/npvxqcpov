@@ -10875,7 +10875,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
       "kickVod": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d8-evt-001",
@@ -11101,7 +11101,7 @@
           "seconds": 7140,
           "isMajor": false,
           "title": "They get robbing an atm and it turns into a chase",
-          "description": "they get robbing an ATM and it turns into a chase",
+          "description": "they get robbing an ATM and it turns into a chase, they eventually escape",
           "category": "chase",
           "tags": [
             "chase",
@@ -11114,6 +11114,45 @@
           "imageCaption": "Stream snapshot @ 01:59:00",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h59m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=7138"
+        },
+        {
+          "id": "d8-evt-013",
+          "timestamp": "02:28:20",
+          "seconds": 8900,
+          "isMajor": true,
+          "title": "- 02:30:20 speedy explains how growing weed works and t",
+          "description": "- 02:30:20 Speedy explains how growing weed works and that he needs x to find a genetic modifier, x smokes a joint (it fully recovers his armor and stress level)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d8_evt_013_02_28_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:28:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=02h28m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=8898"
+        },
+        {
+          "id": "d8-evt-014",
+          "timestamp": "02:46:45",
+          "seconds": 10005,
+          "isMajor": false,
+          "title": "Tweets about wanting a chip (breach chip)",
+          "description": "x tweets about wanting a chip (breach chip)",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_014_02_46_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:46:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=02h46m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=10003"
         }
       ],
       "characterInfo": {
