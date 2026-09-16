@@ -10875,7 +10875,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
       "kickVod": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d",
       "kickStreamUrl": "",
-      "eventsCount": 25,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d8-evt-001",
@@ -11372,6 +11372,103 @@
           "imageCaption": "Stream snapshot @ 04:52:20",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=04h52m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=17538"
+        },
+        {
+          "id": "d8-evt-026",
+          "timestamp": "05:42:06",
+          "seconds": 20526,
+          "isMajor": true,
+          "title": "- 05:43:00 (after server reset) x visited the chip sell",
+          "description": "- 05:43:00 (after server reset) x visited the chip seller at the docks and buys 3 breach chips (5k each using the business account)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_026_05_42_06.jpg",
+          "imageCaption": "Stream snapshot @ 05:42:06",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=05h42m06s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=20524"
+        },
+        {
+          "id": "d8-evt-027",
+          "timestamp": "05:57:30",
+          "seconds": 21450,
+          "isMajor": false,
+          "title": "Conducts business at the pawn shop",
+          "description": "x conducts business at the pawn shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_027_05_57_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:57:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=05h57m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=21448"
+        },
+        {
+          "id": "d8-evt-028",
+          "timestamp": "06:01:20",
+          "seconds": 21680,
+          "isMajor": true,
+          "title": "- 06:08:15 x interviews a candidate (her name is drusil",
+          "description": "- 06:08:15 x interviews a candidate (her name is Drusilla Grant) to work at the pawn shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_028_06_01_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:01:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=06h01m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=21678"
+        },
+        {
+          "id": "d8-evt-029",
+          "timestamp": "08:06:05",
+          "seconds": 29165,
+          "isMajor": false,
+          "title": "After spending a while trying to find g6 employees to r",
+          "description": "after spending a while trying to find G6 employees to rob, they stumble upon a hold up and decide to intercept it, it appears to be a bunch of burgershot employees trying to collect a debt from someone",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_029_08_06_05.jpg",
+          "imageCaption": "Stream snapshot @ 08:06:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=08h06m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=29163"
+        },
+        {
+          "id": "d8-evt-030",
+          "timestamp": "08:17:50",
+          "seconds": 29870,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Tony start house robberies",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d8_evt_030_08_17_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:17:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=08h17m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=29868"
         }
       ],
       "characterInfo": {
