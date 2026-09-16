@@ -10875,7 +10875,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
       "kickVod": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d8-evt-001",
@@ -11469,6 +11469,64 @@
           "imageCaption": "Stream snapshot @ 08:17:50",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=08h17m50s",
           "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=29868"
+        },
+        {
+          "id": "d8-evt-031",
+          "timestamp": "08:25:20",
+          "seconds": 30320,
+          "isMajor": false,
+          "title": "They continue robbing stores",
+          "description": "they continue robbing stores",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_031_08_25_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:25:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=08h25m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=30318"
+        },
+        {
+          "id": "d8-evt-032",
+          "timestamp": "09:35:30",
+          "seconds": 34530,
+          "isMajor": false,
+          "title": "Since lang isn't around",
+          "description": "since Lang isn't around, they can't attempt the laptop hack using the breach chip, they do pawn runs instead",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d8_evt_032_09_35_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:35:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=09h35m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=34528"
+        },
+        {
+          "id": "d8-evt-033",
+          "timestamp": "09:43:40",
+          "seconds": 35020,
+          "isMajor": false,
+          "title": "Does some weed harvesting",
+          "description": "x does some weed harvesting",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_033_09_43_40.jpg",
+          "imageCaption": "Stream snapshot @ 09:43:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=09h43m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=35018"
         }
       ],
       "characterInfo": {
