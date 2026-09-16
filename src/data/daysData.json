@@ -11536,6 +11536,107 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
       }
+    },
+    "9": {
+      "dayNumber": 9,
+      "title": "Day 9",
+      "redditTitle": "NoPixel V | Day 9 Recap Sep 16th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1whs0iw/nopixel_v_day_9_recap_sep_16th_xqcs_pov_with/",
+      "updated": "2026-09-16T09:09:44+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2875873430",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 4,
+      "events": [
+        {
+          "id": "d9-evt-001",
+          "timestamp": "00:51:20",
+          "seconds": 3080,
+          "isMajor": false,
+          "title": "Logs in and starts day 9",
+          "description": "x logs in and starts day 9",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_001_00_51_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:51:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=00h51m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-002",
+          "timestamp": "00:53:00",
+          "seconds": 3180,
+          "isMajor": false,
+          "title": "Starts planting weed",
+          "description": "x starts planting weed",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_002_00_53_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:53:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=00h53m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-003",
+          "timestamp": "00:55:00",
+          "seconds": 3300,
+          "isMajor": false,
+          "title": "Speedy joins x planting weed",
+          "description": "Speedy joins x planting weed",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d9_evt_003_00_55_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:55:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=00h55m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-004",
+          "timestamp": "00:57:10",
+          "seconds": 3430,
+          "isMajor": false,
+          "title": "Tony",
+          "description": "Tony, Marty and Lang join them too",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d9_evt_004_00_57_10.jpg",
+          "imageCaption": "Stream snapshot @ 00:57:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=00h57m10s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 80.2 hours / Pierre Paul: 5.4 hours / Total : 85.6 hours",
+        "timesJailed": "0",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
+      }
     }
   }
 }
