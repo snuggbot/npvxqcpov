@@ -10873,9 +10873,9 @@
       "updated": "2026-09-15T14:40:18+00:00",
       "isLive": true,
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
-      "kickVod": "https://kick.com/xqc",
+      "kickVod": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d8-evt-001",
@@ -10894,7 +10894,7 @@
           "image": "/images/frames/d8_evt_001_00_45_20.jpg",
           "imageCaption": "Stream snapshot @ 00:45:20",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h45m20s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=2718"
         },
         {
           "id": "d8-evt-002",
@@ -10914,7 +10914,7 @@
           "image": "/images/frames/d8_evt_002_00_52_55.jpg",
           "imageCaption": "Stream snapshot @ 00:52:55",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h52m55s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=3173"
         },
         {
           "id": "d8-evt-003",
@@ -10934,7 +10934,7 @@
           "image": "/images/frames/d8_evt_003_00_55_22.jpg",
           "imageCaption": "Stream snapshot @ 00:55:22",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h55m22s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=3320"
         },
         {
           "id": "d8-evt-004",
@@ -10955,7 +10955,7 @@
           "image": "/images/frames/d8_evt_004_00_59_15.jpg",
           "imageCaption": "Stream snapshot @ 00:59:15",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=00h59m15s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=3553"
         },
         {
           "id": "d8-evt-005",
@@ -10974,7 +10974,7 @@
           "image": "/images/frames/d8_evt_005_01_06_50.jpg",
           "imageCaption": "Stream snapshot @ 01:06:50",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h06m50s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=4008"
         },
         {
           "id": "d8-evt-006",
@@ -10994,7 +10994,7 @@
           "image": "/images/frames/d8_evt_006_01_26_30.jpg",
           "imageCaption": "Stream snapshot @ 01:26:30",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h26m30s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=5188"
         },
         {
           "id": "d8-evt-007",
@@ -11014,7 +11014,7 @@
           "image": "/images/frames/d8_evt_007_01_27_50.jpg",
           "imageCaption": "Stream snapshot @ 01:27:50",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h27m50s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=5268"
         },
         {
           "id": "d8-evt-008",
@@ -11033,7 +11033,7 @@
           "image": "/images/frames/d8_evt_008_01_31_20.jpg",
           "imageCaption": "Stream snapshot @ 01:31:20",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h31m20s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=5478"
         },
         {
           "id": "d8-evt-009",
@@ -11052,7 +11052,7 @@
           "image": "/images/frames/d8_evt_009_01_32_30.jpg",
           "imageCaption": "Stream snapshot @ 01:32:30",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h32m30s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=5548"
         },
         {
           "id": "d8-evt-010",
@@ -11074,7 +11074,7 @@
           "image": "/images/frames/d8_evt_010_01_36_25.jpg",
           "imageCaption": "Stream snapshot @ 01:36:25",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h36m25s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=5783"
         },
         {
           "id": "d8-evt-011",
@@ -11093,12 +11093,32 @@
           "image": "/images/frames/d8_evt_011_01_38_30.jpg",
           "imageCaption": "Stream snapshot @ 01:38:30",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h38m30s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=5908"
+        },
+        {
+          "id": "d8-evt-012",
+          "timestamp": "01:59:00",
+          "seconds": 7140,
+          "isMajor": false,
+          "title": "They get robbing an atm and it turns into a chase",
+          "description": "they get robbing an ATM and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_012_01_59_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:59:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=01h59m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=7138"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 71.1 hours / Pierre Paul: 5.4 hours / Total : 76.5 hours",
+        "timeLoggedIn": "Jean Paul : ~ 80.2 hours / Pierre Paul: 5.4 hours / Total : 85.6 hours",
         "timesJailed": "0",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
