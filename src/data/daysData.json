@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d9-evt-001",
@@ -11666,6 +11666,103 @@
           "image": "/images/frames/d9_evt_006_01_23_30.jpg",
           "imageCaption": "Stream snapshot @ 01:23:30",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=01h23m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-007",
+          "timestamp": "01:56:00",
+          "seconds": 6960,
+          "isMajor": true,
+          "title": "- 01:56:51 x buys another breach chip",
+          "description": "- 01:56:51 x buys another Breach Chip, he notices that the chip didn't stack with the one he has on him this time",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_007_01_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=01h56m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-008",
+          "timestamp": "02:01:50",
+          "seconds": 7310,
+          "isMajor": true,
+          "title": "- 02:04:20 they return to the laptop spot",
+          "description": "- 02:04:20 they return to the laptop spot, no progress again",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_008_02_01_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:01:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=02h01m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-009",
+          "timestamp": "02:08:10",
+          "seconds": 7690,
+          "isMajor": true,
+          "title": "- 02:08:40 mr",
+          "description": "- 02:08:40 Mr. C calls Lang, he has a job for them",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d9_evt_009_02_08_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:08:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=02h08m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-010",
+          "timestamp": "02:11:00",
+          "seconds": 7860,
+          "isMajor": true,
+          "title": "- 02:35:00 (funny desync moment) they're supposed to ge",
+          "description": "- 02:35:00 (funny desync moment) They're supposed to get a limo for Mr. C , they find the limo, kill the driver but find no keys in it, Mr. C's assistant (Molly) arrives and calls him, he asks everyone to come to the casino, they arrive at the casino and meet up with Mr. C, Mr. C introduces them to his son Kevin Whipaloo who runs the casino (roleplayed by Sodapoppin)",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_010_02_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=02h11m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d9-evt-011",
+          "timestamp": "02:35:00",
+          "seconds": 9300,
+          "isMajor": true,
+          "title": "- 02:49:40 kevin gives them an exclusive tour of the ca",
+          "description": "- 02:49:40 Kevin gives them an exclusive tour of the casino, Mr. C says that on opening day they (Brick Bois) will be the first to enter the casino",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_011_02_35_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:35:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=02h35m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
