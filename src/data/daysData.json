@@ -10875,7 +10875,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
       "kickVod": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 25,
       "events": [
         {
           "id": "d8-evt-001",
@@ -11252,6 +11252,126 @@
           "imageCaption": "Stream snapshot @ 03:31:40",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h31m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=12698"
+        },
+        {
+          "id": "d8-evt-020",
+          "timestamp": "03:41:00",
+          "seconds": 13260,
+          "isMajor": false,
+          "title": "They continue doing pawn shop runs",
+          "description": "they continue doing pawn shop runs",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_020_03_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h41m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=13258"
+        },
+        {
+          "id": "d8-evt-021",
+          "timestamp": "03:48:00",
+          "seconds": 13680,
+          "isMajor": false,
+          "title": "Lang continue to conduct business at the pawn shop (the",
+          "description": "Lang continue to conduct business at the pawn shop (they buy rolled money and stolen goods)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d8_evt_021_03_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h48m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=13678"
+        },
+        {
+          "id": "d8-evt-022",
+          "timestamp": "03:53:57",
+          "seconds": 14037,
+          "isMajor": false,
+          "title": "Helps marty escape a cop chase",
+          "description": "x helps Marty escape a cop chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d8_evt_022_03_53_57.jpg",
+          "imageCaption": "Stream snapshot @ 03:53:57",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h53m57s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=14035"
+        },
+        {
+          "id": "d8-evt-023",
+          "timestamp": "03:56:20",
+          "seconds": 14180,
+          "isMajor": true,
+          "title": "- 03:58:10 x & marty have a moment together",
+          "description": "- 03:58:10 x & Marty have a moment together",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d8_evt_023_03_56_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:56:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h56m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=14178"
+        },
+        {
+          "id": "d8-evt-024",
+          "timestamp": "04:32:25",
+          "seconds": 16345,
+          "isMajor": true,
+          "title": "- 04:33:30 x tweets that the pawn shop is hiring",
+          "description": "- 04:33:30 x tweets that the pawn shop is hiring",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_024_04_32_25.jpg",
+          "imageCaption": "Stream snapshot @ 04:32:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=04h32m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=16343"
+        },
+        {
+          "id": "d8-evt-025",
+          "timestamp": "04:52:20",
+          "seconds": 17540,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty & Tony start house and store robberies",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d8_evt_025_04_52_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:52:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=04h52m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=17538"
         }
       ],
       "characterInfo": {
