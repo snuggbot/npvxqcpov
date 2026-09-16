@@ -10875,7 +10875,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875113048",
       "kickVod": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d8-evt-001",
@@ -11153,6 +11153,105 @@
           "imageCaption": "Stream snapshot @ 02:46:45",
           "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=02h46m45s",
           "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=10003"
+        },
+        {
+          "id": "d8-evt-015",
+          "timestamp": "02:52:10",
+          "seconds": 10330,
+          "isMajor": false,
+          "title": "(funny bit) bogg dann sends an audio message to x",
+          "description": "(funny bit) Bogg Dann sends an audio message to x",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Bogg"
+          ],
+          "image": "/images/frames/d8_evt_015_02_52_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:52:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=02h52m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=10328"
+        },
+        {
+          "id": "d8-evt-016",
+          "timestamp": "02:55:09",
+          "seconds": 10509,
+          "isMajor": true,
+          "title": "- 02:55:20 x tests planting weed",
+          "description": "- 02:55:20 x tests planting weed",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_016_02_55_09.jpg",
+          "imageCaption": "Stream snapshot @ 02:55:09",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=02h55m09s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=10507"
+        },
+        {
+          "id": "d8-evt-017",
+          "timestamp": "03:16:40",
+          "seconds": 11800,
+          "isMajor": false,
+          "title": "They start a few pawn shop runs",
+          "description": "they start a few pawn shop runs",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d8_evt_017_03_16_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:16:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h16m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=11798"
+        },
+        {
+          "id": "d8-evt-018",
+          "timestamp": "03:18:25",
+          "seconds": 11905,
+          "isMajor": true,
+          "title": "- 03:20:30 lang questions speedy's efficiency",
+          "description": "- 03:20:30 Lang questions Speedy's efficiency, Speedy overhears Lang and joins the conversation, x vouches for Speedy",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d8_evt_018_03_18_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:18:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h18m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=11903"
+        },
+        {
+          "id": "d8-evt-019",
+          "timestamp": "03:31:40",
+          "seconds": 12700,
+          "isMajor": true,
+          "title": "- 03:32:12 speedy sends 20k to the business account as ",
+          "description": "- 03:32:12 Speedy sends 20k to the business account as a proof that his weed farm is not useless",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d8_evt_019_03_31_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:31:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2875113048?t=03h31m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0a6c0-f290-79b0-b466-a44911b23d6d?t=12698"
         }
       ],
       "characterInfo": {
