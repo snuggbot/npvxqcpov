@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b",
       "kickStreamUrl": "",
-      "eventsCount": 34,
+      "eventsCount": 36,
       "events": [
         {
           "id": "d9-evt-001",
@@ -12224,6 +12224,45 @@
           "imageCaption": "Stream snapshot @ 08:58:25",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=08h58m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=32303"
+        },
+        {
+          "id": "d9-evt-035",
+          "timestamp": "09:33:00",
+          "seconds": 34380,
+          "isMajor": false,
+          "title": "More atm robberies",
+          "description": "more ATM robberies",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_035_09_33_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:33:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=09h33m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=34378"
+        },
+        {
+          "id": "d9-evt-036",
+          "timestamp": "09:40:37",
+          "seconds": 34837,
+          "isMajor": true,
+          "title": "- 09:48:10 they rob an ammunation store",
+          "description": "- 09:48:10 they rob an ammunation store, they rob the registers (it takes a while) x finds the safe key in the register, he opens the safe and gets a pistol and 2 clips",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_036_09_40_37.jpg",
+          "imageCaption": "Stream snapshot @ 09:40:37",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=09h40m37s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=34835"
         }
       ],
       "characterInfo": {
