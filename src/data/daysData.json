@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b",
       "kickStreamUrl": "",
-      "eventsCount": 26,
+      "eventsCount": 28,
       "events": [
         {
           "id": "d9-evt-001",
@@ -12063,6 +12063,46 @@
           "imageCaption": "Stream snapshot @ 06:53:40",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=06h53m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=24818"
+        },
+        {
+          "id": "d9-evt-027",
+          "timestamp": "07:10:10",
+          "seconds": 25810,
+          "isMajor": true,
+          "title": "- 07:10:55 the first stop is lifeinvader",
+          "description": "- 07:10:55 the first stop is Lifeinvader, nothing works, no progress there",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_027_07_10_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:10:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=07h10m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=25808"
+        },
+        {
+          "id": "d9-evt-028",
+          "timestamp": "07:16:20",
+          "seconds": 26180,
+          "isMajor": true,
+          "title": "- 07:24:10 the cops want to get in the casino as they h",
+          "description": "- 07:24:10 the cops want to get in the casino as they have shots fired reported and a possible hostage situation inside the casino, Lang and Tony (head of security at the casino for Mr. C) refuse to let them in, Lang calls Mr. C reporting the situation, Mr. C arrives shortly after, commissioner Dawson insists on entering the casino and Mr. C agrees",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d9_evt_028_07_16_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:16:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=07h16m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=26178"
         }
       ],
       "characterInfo": {
