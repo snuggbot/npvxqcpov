@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b",
       "kickStreamUrl": "",
-      "eventsCount": 28,
+      "eventsCount": 34,
       "events": [
         {
           "id": "d9-evt-001",
@@ -12103,6 +12103,127 @@
           "imageCaption": "Stream snapshot @ 07:16:20",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=07h16m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=26178"
+        },
+        {
+          "id": "d9-evt-029",
+          "timestamp": "07:40:45",
+          "seconds": 27645,
+          "isMajor": true,
+          "title": "- 07:44:25 x robs a store",
+          "description": "- 07:44:25 x robs a store, he uses the safe key and the listening kit to rob the safe, he opens the safe and gets 5.7k$ (the kit doesn't break or disappear)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_029_07_40_45.jpg",
+          "imageCaption": "Stream snapshot @ 07:40:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=07h40m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=27643"
+        },
+        {
+          "id": "d9-evt-030",
+          "timestamp": "08:10:50",
+          "seconds": 29450,
+          "isMajor": false,
+          "title": "And marty look at their neighbors storage system in the",
+          "description": "x and Marty look at their neighbors storage system in their storage unit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d9_evt_030_08_10_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:10:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=08h10m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=29448"
+        },
+        {
+          "id": "d9-evt-031",
+          "timestamp": "08:30:20",
+          "seconds": 30620,
+          "isMajor": false,
+          "title": "They rob a store",
+          "description": "they rob a store, Marty cracks the safe and gets 4.7k",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d9_evt_031_08_30_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:30:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=08h30m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=30618"
+        },
+        {
+          "id": "d9-evt-032",
+          "timestamp": "08:37:30",
+          "seconds": 31050,
+          "isMajor": false,
+          "title": "They rob another store",
+          "description": "they rob another store, this time x cracks the safe and gets 5.2k",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_032_08_37_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:37:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=08h37m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=31048"
+        },
+        {
+          "id": "d9-evt-033",
+          "timestamp": "08:42:35",
+          "seconds": 31355,
+          "isMajor": true,
+          "title": "- 08:57:15 they run into mickey and benji",
+          "description": "- 08:57:15 they run into Mickey and Benji, x robs the ATM using both the crowbar and the pry wedge (they get 6.5k$ from one machine), Mickey and Benji want to learn what tool x is using the pry open those ATMs, x demands 30k$ to share the info, they don't reach to an agreement, x and Marty drive off to the next ATM",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d9_evt_033_08_42_35.jpg",
+          "imageCaption": "Stream snapshot @ 08:42:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=08h42m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=31353"
+        },
+        {
+          "id": "d9-evt-034",
+          "timestamp": "08:58:25",
+          "seconds": 32305,
+          "isMajor": true,
+          "title": "- 08:58:30 the pry wedge breaks (it's not infinite usag",
+          "description": "- 08:58:30 the pry wedge breaks (it's not infinite usage)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_034_08_58_25.jpg",
+          "imageCaption": "Stream snapshot @ 08:58:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=08h58m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=32303"
         }
       ],
       "characterInfo": {
