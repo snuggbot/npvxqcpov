@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b",
       "kickStreamUrl": "",
-      "eventsCount": 18,
+      "eventsCount": 25,
       "events": [
         {
           "id": "d9-evt-001",
@@ -11908,6 +11908,142 @@
           "imageCaption": "Stream snapshot @ 05:01:02",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=05h01m02s",
           "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=18060"
+        },
+        {
+          "id": "d9-evt-019",
+          "timestamp": "05:29:05",
+          "seconds": 19745,
+          "isMajor": true,
+          "title": "- 05:36:05 the crew group up",
+          "description": "- 05:36:05 the crew group up, they have a phone call with Mr. C, , he wants to sell weed at the casino with the help of the brick bois, he will be in touch with Speedy since he's the weed guy, the crew discuss a bit more about the pawn shop business",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d9_evt_019_05_29_05.jpg",
+          "imageCaption": "Stream snapshot @ 05:29:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=05h29m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=19743"
+        },
+        {
+          "id": "d9-evt-020",
+          "timestamp": "05:43:15",
+          "seconds": 20595,
+          "isMajor": true,
+          "title": "- 04:46:50 (funny bug) x tries to place down the newly ",
+          "description": "- 04:46:50 (funny bug) x tries to place down the newly bought assembler machine at the storage unit but things get buggy",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_020_05_43_15.jpg",
+          "imageCaption": "Stream snapshot @ 05:43:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=05h43m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=20593"
+        },
+        {
+          "id": "d9-evt-021",
+          "timestamp": "05:54:00",
+          "seconds": 21240,
+          "isMajor": false,
+          "title": "They're completely redecorating the storage unit",
+          "description": "they're completely redecorating the storage unit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_021_05_54_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:54:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=05h54m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=21238"
+        },
+        {
+          "id": "d9-evt-022",
+          "timestamp": "05:57:20",
+          "seconds": 21440,
+          "isMajor": true,
+          "title": "- 05:58:40 x places down the assembler machine and they",
+          "description": "- 05:58:40 x places down the assembler machine and they add the blueprint which unlocks the recipe for a listening kit, a grinder blade and a pry wedge",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_022_05_57_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:57:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=05h57m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=21438"
+        },
+        {
+          "id": "d9-evt-023",
+          "timestamp": "06:27:07",
+          "seconds": 23227,
+          "isMajor": true,
+          "title": "- 06:27:15 x crafts a pry wedge",
+          "description": "- 06:27:15 x crafts a pry wedge",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_023_06_27_07.jpg",
+          "imageCaption": "Stream snapshot @ 06:27:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=06h27m07s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=23225"
+        },
+        {
+          "id": "d9-evt-024",
+          "timestamp": "06:37:30",
+          "seconds": 23850,
+          "isMajor": true,
+          "title": "- 06:37:40 x crafts a listening kit",
+          "description": "- 06:37:40 x crafts a listening kit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_024_06_37_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:37:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=06h37m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=23848"
+        },
+        {
+          "id": "d9-evt-025",
+          "timestamp": "06:48:10",
+          "seconds": 24490,
+          "isMajor": true,
+          "title": "- 06:48:20 x crafts a grinder blade",
+          "description": "- 06:48:20 x crafts a grinder blade",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_025_06_48_10.jpg",
+          "imageCaption": "Stream snapshot @ 06:48:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=06h48m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=24488"
         }
       ],
       "characterInfo": {
