@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b",
       "kickStreamUrl": "",
-      "eventsCount": 25,
+      "eventsCount": 26,
       "events": [
         {
           "id": "d9-evt-001",
@@ -12044,6 +12044,25 @@
           "imageCaption": "Stream snapshot @ 06:48:10",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=06h48m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=24488"
+        },
+        {
+          "id": "d9-evt-026",
+          "timestamp": "06:53:40",
+          "seconds": 24820,
+          "isMajor": true,
+          "title": "- 06:53:50 x crafts 2 listening kits",
+          "description": "- 06:53:50 x crafts 2 listening kits, 2 pry wedges (ends up making 3) and 4 grinder blades, it's time to go around and experiment",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_026_06_53_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:53:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=06h53m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=24818"
         }
       ],
       "characterInfo": {
