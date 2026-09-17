@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d9-evt-001",
@@ -11827,6 +11827,87 @@
           "imageCaption": "Stream snapshot @ 04:00:00",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=04h00m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=14398"
+        },
+        {
+          "id": "d9-evt-015",
+          "timestamp": "04:24:10",
+          "seconds": 15850,
+          "isMajor": true,
+          "title": "- 04:24:27 x tries to rob a safe in the back of the sto",
+          "description": "- 04:24:27 x tries to rob a safe in the back of the store but he needs a listening kit, the key is not enough anymore",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_015_04_24_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:24:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=04h24m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=15848"
+        },
+        {
+          "id": "d9-evt-016",
+          "timestamp": "04:27:30",
+          "seconds": 16050,
+          "isMajor": true,
+          "title": "- 04:29:30 marty gets a call from someone named john",
+          "description": "- 04:29:30 Marty gets a call from someone named John, he says that he has a blueprint for a listening kit and a pry wedge",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d9_evt_016_04_27_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:27:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=04h27m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=16048"
+        },
+        {
+          "id": "d9-evt-017",
+          "timestamp": "04:46:10",
+          "seconds": 17170,
+          "isMajor": true,
+          "title": "- 05:00:44 marty meets with john",
+          "description": "- 05:00:44 Marty meets with John, x pretends to be an expert and they call him down to the pawn store to take a look at the blueprint, x estimates the price of the blueprint to be around 3k, x then leaves, switches outfits and goes back to the pawn shop, Marty offers John 2k, they eventually agree at 4,250$",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d9_evt_017_04_46_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:46:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=04h46m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=17168"
+        },
+        {
+          "id": "d9-evt-018",
+          "timestamp": "05:01:02",
+          "seconds": 18062,
+          "isMajor": true,
+          "title": "- 05:01:08 the old safe items at the pawn shop are back",
+          "description": "- 05:01:08 the old safe items at the pawn shop are back (for all players)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_018_05_01_02.jpg",
+          "imageCaption": "Stream snapshot @ 05:01:02",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=05h01m02s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=18060"
         }
       ],
       "characterInfo": {
