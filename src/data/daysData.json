@@ -11120,8 +11120,8 @@
           "timestamp": "02:28:20",
           "seconds": 8900,
           "isMajor": true,
-          "title": "- 02:30:20 speedy explains how growing weed works and t",
-          "description": "- 02:30:20 Speedy explains how growing weed works and that he needs x to find a genetic modifier, x smokes a joint (it fully recovers his armor and stress level)",
+          "title": "- 02:30:20 speedy explains how growing wheat works and ",
+          "description": "- 02:30:20 Speedy explains how growing wheat works and that he needs x to find a genetic modifier, x smokes a joint (it fully recovers his armor and stress level)",
           "category": "job",
           "tags": [
             "job"
@@ -11179,8 +11179,8 @@
           "timestamp": "02:55:09",
           "seconds": 10509,
           "isMajor": true,
-          "title": "- 02:55:20 x tests planting weed",
-          "description": "- 02:55:20 x tests planting weed",
+          "title": "- 02:55:20 x tests planting wheat",
+          "description": "- 02:55:20 x tests planting wheat",
           "category": "general",
           "tags": [
             "general"
@@ -11239,7 +11239,7 @@
           "seconds": 12700,
           "isMajor": true,
           "title": "- 03:32:12 speedy sends 20k to the business account as ",
-          "description": "- 03:32:12 Speedy sends 20k to the business account as a proof that his weed farm is not useless",
+          "description": "- 03:32:12 Speedy sends 20k to the business account as a proof that his wheat farm is not useless",
           "category": "general",
           "tags": [
             "general"
@@ -11514,8 +11514,8 @@
           "timestamp": "09:43:40",
           "seconds": 35020,
           "isMajor": false,
-          "title": "Does some weed harvesting",
-          "description": "x does some weed harvesting",
+          "title": "Does some wheat harvesting",
+          "description": "x does some wheat harvesting",
           "category": "general",
           "tags": [
             "general"
@@ -11547,7 +11547,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2875873430",
       "kickVod": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b",
       "kickStreamUrl": "",
-      "eventsCount": 36,
+      "eventsCount": 44,
       "events": [
         {
           "id": "d9-evt-001",
@@ -12263,6 +12263,160 @@
           "imageCaption": "Stream snapshot @ 09:40:37",
           "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=09h40m37s",
           "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=34835"
+        },
+        {
+          "id": "d9-evt-037",
+          "timestamp": "10:01:10",
+          "seconds": 36070,
+          "isMajor": false,
+          "title": "More atm robberies",
+          "description": "more ATM robberies",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_037_10_01_10.jpg",
+          "imageCaption": "Stream snapshot @ 10:01:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=10h01m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=36068"
+        },
+        {
+          "id": "d9-evt-038",
+          "timestamp": "10:09:30",
+          "seconds": 36570,
+          "isMajor": false,
+          "title": "House robberies",
+          "description": "house robberies",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_038_10_09_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:09:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=10h09m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=36568"
+        },
+        {
+          "id": "d9-evt-039",
+          "timestamp": "10:24:50",
+          "seconds": 37490,
+          "isMajor": false,
+          "title": "The cops arrive during a house robbery",
+          "description": "the cops arrive during a house robbery, it turns into a chase and they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_039_10_24_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:24:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=10h24m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=37488"
+        },
+        {
+          "id": "d9-evt-040",
+          "timestamp": "10:47:10",
+          "seconds": 38830,
+          "isMajor": false,
+          "title": "Decorates the storage unit",
+          "description": "x decorates the storage unit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_040_10_47_10.jpg",
+          "imageCaption": "Stream snapshot @ 10:47:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=10h47m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=38828"
+        },
+        {
+          "id": "d9-evt-041",
+          "timestamp": "10:55:00",
+          "seconds": 39300,
+          "isMajor": true,
+          "title": "- 10:55:40 x finds a grinder machine on the ground at t",
+          "description": "- 10:55:40 x finds a grinder machine on the ground at the pawn shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_041_10_55_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:55:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=10h55m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=39298"
+        },
+        {
+          "id": "d9-evt-042",
+          "timestamp": "10:56:50",
+          "seconds": 39410,
+          "isMajor": true,
+          "title": "- 10:57:20 apparently the employees at the pawn shop fo",
+          "description": "- 10:57:20 apparently the employees at the pawn shop found the grinder and blueprints while robbing houses, the employees are doing a great job fulfilling pawn contracts",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_042_10_56_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:56:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=10h56m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=39408"
+        },
+        {
+          "id": "d9-evt-043",
+          "timestamp": "11:15:30",
+          "seconds": 40530,
+          "isMajor": false,
+          "title": "Places down storage cabinets at the storage unit",
+          "description": "x places down storage cabinets at the storage unit",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d9_evt_043_11_15_30.jpg",
+          "imageCaption": "Stream snapshot @ 11:15:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=11h15m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=40528"
+        },
+        {
+          "id": "d9-evt-044",
+          "timestamp": "11:27:30",
+          "seconds": 41250,
+          "isMajor": true,
+          "title": "- 11:30:00 the crew decides to give the laptop another ",
+          "description": "- 11:30:00 the crew decides to give the laptop another try at the docks, Marty completes the hack but again nothing happens",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d9_evt_044_11_27_30.jpg",
+          "imageCaption": "Stream snapshot @ 11:27:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2875873430?t=11h27m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0ab6c-f640-7cb6-b133-93e3433ed37b?t=41248"
         }
       ],
       "characterInfo": {
