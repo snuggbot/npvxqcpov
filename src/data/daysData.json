@@ -12437,7 +12437,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 3,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d10-evt-001",
@@ -12499,6 +12499,87 @@
           "imageCaption": "Stream snapshot @ 02:05:25",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=02h05m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7523"
+        },
+        {
+          "id": "d10-evt-004",
+          "timestamp": "02:07:40",
+          "seconds": 7660,
+          "isMajor": true,
+          "title": "- 02:08:12 they now have an smg body (gun body part) th",
+          "description": "- 02:08:12 they now have an SMG body (gun body part) they found it while scuba diving",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_004_02_07_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:07:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=02h07m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7658"
+        },
+        {
+          "id": "d10-evt-005",
+          "timestamp": "02:10:45",
+          "seconds": 7845,
+          "isMajor": true,
+          "title": "- 02:11:27 lang calls x",
+          "description": "- 02:11:27 Lang calls x, there's a mayor debate going to happen soon, Tony is part of it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d10_evt_005_02_10_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:10:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=02h10m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7843"
+        },
+        {
+          "id": "d10-evt-006",
+          "timestamp": "02:31:50",
+          "seconds": 9110,
+          "isMajor": false,
+          "title": "And marty rob an ammunation store",
+          "description": "x and Marty rob an ammunation store, x gets shot and incapacitated by a local",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d10_evt_006_02_31_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:31:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=02h31m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=9108"
+        },
+        {
+          "id": "d10-evt-007",
+          "timestamp": "02:41:10",
+          "seconds": 9670,
+          "isMajor": true,
+          "title": "- 03:07:10 they arrive at the mayor debate",
+          "description": "- 03:07:10 they arrive at the Mayor debate, every candidates answers a couple of questions including Tony",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d10_evt_007_02_41_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:41:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=02h41m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=9668"
         }
       ],
       "characterInfo": {
