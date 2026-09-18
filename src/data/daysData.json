@@ -12437,7 +12437,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d10-evt-001",
@@ -12599,6 +12599,107 @@
           "imageCaption": "Stream snapshot @ 03:08:01",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h08m01s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=11279"
+        },
+        {
+          "id": "d10-evt-009",
+          "timestamp": "03:16:10",
+          "seconds": 11770,
+          "isMajor": true,
+          "title": "- 03:17:20 the crew decide to go scuba diving",
+          "description": "- 03:17:20 the crew decide to go scuba diving, x buys 2 scuba tanks, Tony shares his experience with scuba diving so far and what can be found, on a different note they believe that Chatterbox was the one that shot Ramasquamy during the debate",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d10_evt_009_03_16_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:16:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h16m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=11768"
+        },
+        {
+          "id": "d10-evt-010",
+          "timestamp": "03:23:40",
+          "seconds": 12220,
+          "isMajor": false,
+          "title": "They change into scuba diving outfits",
+          "description": "they change into scuba diving outfits",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_010_03_23_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:23:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h23m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=12218"
+        },
+        {
+          "id": "d10-evt-011",
+          "timestamp": "03:32:35",
+          "seconds": 12755,
+          "isMajor": true,
+          "title": "- 03:49:00 x starts scuba diving (first time)",
+          "description": "- 03:49:00 x starts scuba diving (first time), he finds a few treasures (gold nuggets, chains, watches, materials)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_011_03_32_35.jpg",
+          "imageCaption": "Stream snapshot @ 03:32:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h32m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=12753"
+        },
+        {
+          "id": "d10-evt-012",
+          "timestamp": "03:55:45",
+          "seconds": 14145,
+          "isMajor": true,
+          "title": "- 03:57:30 x asks what lang is",
+          "description": "- 03:57:30 x asks what Lang is, Tony says that he's working security (at the casino), Lang fired Tony from working security there thinking he was trying to scam him, Marty makes a point that Lang shouldn't be mad for not getting a cut out of the money that x and Marty made yesterday since he was also getting paid for working security at the casino and he didn't share any of that money, including today's",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d10_evt_012_03_55_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:55:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h55m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=14143"
+        },
+        {
+          "id": "d10-evt-013",
+          "timestamp": "03:59:00",
+          "seconds": 14340,
+          "isMajor": false,
+          "title": "They change out of scuba diving clothes",
+          "description": "they change out of scuba diving clothes",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_013_03_59_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:59:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h59m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=14338"
         }
       ],
       "characterInfo": {
