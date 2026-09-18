@@ -12437,7 +12437,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 32,
+      "eventsCount": 36,
       "events": [
         {
           "id": "d10-evt-001",
@@ -13072,6 +13072,82 @@
           "imageCaption": "Stream snapshot @ 08:51:25",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h51m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31883"
+        },
+        {
+          "id": "d10-evt-033",
+          "timestamp": "09:04:45",
+          "seconds": 32685,
+          "isMajor": false,
+          "title": "They spot m1 speeding for the third time",
+          "description": "they spot M1 speeding for the third time, they let him go",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_033_09_04_45.jpg",
+          "imageCaption": "Stream snapshot @ 09:04:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h04m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=32683"
+        },
+        {
+          "id": "d10-evt-034",
+          "timestamp": "09:22:40",
+          "seconds": 33760,
+          "isMajor": false,
+          "title": "They join an ongoing chase",
+          "description": "they join an ongoing chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_034_09_22_40.jpg",
+          "imageCaption": "Stream snapshot @ 09:22:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h22m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=33758"
+        },
+        {
+          "id": "d10-evt-035",
+          "timestamp": "09:30:10",
+          "seconds": 34210,
+          "isMajor": true,
+          "title": "- 09:36:00 x makes his second arrest",
+          "description": "- 09:36:00 x makes his second arrest",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_035_09_30_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:30:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h30m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=34208"
+        },
+        {
+          "id": "d10-evt-036",
+          "timestamp": "09:49:50",
+          "seconds": 35390,
+          "isMajor": false,
+          "title": "They arrive at mrpd to process the suspects",
+          "description": "they arrive at MRPD to process the suspects",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_036_09_49_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:49:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h49m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=35388"
         }
       ],
       "characterInfo": {
@@ -13081,7 +13157,7 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "None Yet",
         "Character": "Pierre Paul",
-        "# Of Criminals Arrested (Since Day 1)": "1 arrest"
+        "# Of Criminals Arrested (Since Day 1)": "2 arrests"
       }
     }
   }
