@@ -12437,7 +12437,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 32,
       "events": [
         {
           "id": "d10-evt-001",
@@ -13022,7 +13022,7 @@
           "seconds": 30580,
           "isMajor": false,
           "title": "They join a chase in progress as a secondary unit",
-          "description": "they join a chase in progress as a secondary unit",
+          "description": "they join a chase in progress as a secondary unit, suspects escape",
           "category": "chase",
           "tags": [
             "chase"
@@ -13034,6 +13034,44 @@
           "imageCaption": "Stream snapshot @ 08:29:40",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h29m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=30578"
+        },
+        {
+          "id": "d10-evt-031",
+          "timestamp": "08:38:30",
+          "seconds": 31110,
+          "isMajor": false,
+          "title": "They pull over a speeding vehicle (the driver is m1 and",
+          "description": "they pull over a speeding vehicle (the driver is M1 and the passenger is Kalita roleplayed by Cinna), they give them a verbal warning for reckless driving and let them go",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_031_08_38_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:38:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h38m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31108"
+        },
+        {
+          "id": "d10-evt-032",
+          "timestamp": "08:51:25",
+          "seconds": 31885,
+          "isMajor": false,
+          "title": "They pull over the same vehicle again for reckless driv",
+          "description": "they pull over the same vehicle again for reckless driving (M1), this time they write him a 375$ ticket",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_032_08_51_25.jpg",
+          "imageCaption": "Stream snapshot @ 08:51:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h51m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31883"
         }
       ],
       "characterInfo": {
