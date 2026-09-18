@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13267,6 +13267,27 @@
           "imageCaption": "Stream snapshot @ 00:46:00",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h46m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=2758"
+        },
+        {
+          "id": "d11-evt-006",
+          "timestamp": "00:50:50",
+          "seconds": 3050,
+          "isMajor": true,
+          "title": "- 00:52:30 x meets up with marty",
+          "description": "- 00:52:30 x meets up with Marty, Marty says pry wedges now cost so much more materials to craft (like 80 bars in total), they still have 2 wedges on them",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d11_evt_006_00_50_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:50:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h50m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=3048"
         }
       ],
       "characterInfo": {
