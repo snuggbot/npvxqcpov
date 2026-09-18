@@ -12437,7 +12437,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d10-evt-001",
@@ -12720,6 +12720,67 @@
           "imageCaption": "Stream snapshot @ 04:05:15",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=04h05m15s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=14713"
+        },
+        {
+          "id": "d10-evt-015",
+          "timestamp": "04:52:10",
+          "seconds": 17530,
+          "isMajor": false,
+          "title": "X",
+          "description": "X, Lang and Tony hit some ATMs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d10_evt_015_04_52_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:52:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=04h52m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=17528"
+        },
+        {
+          "id": "d10-evt-016",
+          "timestamp": "05:30:45",
+          "seconds": 19845,
+          "isMajor": false,
+          "title": "They rob an ammunation store",
+          "description": "they rob an ammunation store, the cops arrive shortly after and it turns into a chase, an intense chase but they escape the cops eventually",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_016_05_30_45.jpg",
+          "imageCaption": "Stream snapshot @ 05:30:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=05h30m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=19843"
+        },
+        {
+          "id": "d10-evt-017",
+          "timestamp": "05:57:10",
+          "seconds": 21430,
+          "isMajor": false,
+          "title": "Changes outfits after escaping the cops",
+          "description": "x changes outfits after escaping the cops",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_017_05_57_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:57:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=05h57m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=21428"
         }
       ],
       "characterInfo": {
