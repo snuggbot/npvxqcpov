@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13190,6 +13190,83 @@
           "imageCaption": "Stream snapshot @ 96:50:00",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=96h50m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=348598"
+        },
+        {
+          "id": "d11-evt-002",
+          "timestamp": "00:34:50",
+          "seconds": 2090,
+          "isMajor": false,
+          "title": "Logs in and starts day 11",
+          "description": "x logs in and starts day 11",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_002_00_34_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:34:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h34m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=2088"
+        },
+        {
+          "id": "d11-evt-003",
+          "timestamp": "00:42:50",
+          "seconds": 2570,
+          "isMajor": false,
+          "title": "(his inventory seems to be bugged so he decided to rest",
+          "description": "(his inventory seems to be bugged so he decided to restart the game)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_003_00_42_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:42:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h42m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=2568"
+        },
+        {
+          "id": "d11-evt-004",
+          "timestamp": "00:45:00",
+          "seconds": 2700,
+          "isMajor": false,
+          "title": "(he logs back in",
+          "description": "(he logs back in, his items are back)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_004_00_45_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:45:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h45m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=2698"
+        },
+        {
+          "id": "d11-evt-005",
+          "timestamp": "00:46:00",
+          "seconds": 2760,
+          "isMajor": true,
+          "title": "- 00:47:55 x calls marty",
+          "description": "- 00:47:55 x calls Marty, he has to change roles of people working at the pawn shop so that they have access to it again (required after an update today)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d11_evt_005_00_46_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:46:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h46m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=2758"
         }
       ],
       "characterInfo": {
