@@ -12437,10 +12437,29 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d10-evt-001",
+          "timestamp": "96:50:00",
+          "seconds": 348600,
+          "isMajor": false,
+          "title": "/ pierre paul: 09:00:00 / total : 105:50:00",
+          "description": "/ Pierre Paul: 09:00:00 / Total : 105:50:00",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_001_96_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 96:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=96h50m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=348598"
+        },
+        {
+          "id": "d10-evt-002",
           "timestamp": "01:59:35",
           "seconds": 7175,
           "isMajor": false,
@@ -12459,7 +12478,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7173"
         },
         {
-          "id": "d10-evt-002",
+          "id": "d10-evt-003",
           "timestamp": "02:04:10",
           "seconds": 7450,
           "isMajor": true,
@@ -12479,7 +12498,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7448"
         },
         {
-          "id": "d10-evt-003",
+          "id": "d10-evt-004",
           "timestamp": "02:05:25",
           "seconds": 7525,
           "isMajor": true,
@@ -12501,7 +12520,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7523"
         },
         {
-          "id": "d10-evt-004",
+          "id": "d10-evt-005",
           "timestamp": "02:07:40",
           "seconds": 7660,
           "isMajor": true,
@@ -12520,7 +12539,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7658"
         },
         {
-          "id": "d10-evt-005",
+          "id": "d10-evt-006",
           "timestamp": "02:10:45",
           "seconds": 7845,
           "isMajor": true,
@@ -12541,7 +12560,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=7843"
         },
         {
-          "id": "d10-evt-006",
+          "id": "d10-evt-007",
           "timestamp": "02:31:50",
           "seconds": 9110,
           "isMajor": false,
@@ -12562,7 +12581,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=9108"
         },
         {
-          "id": "d10-evt-007",
+          "id": "d10-evt-008",
           "timestamp": "02:41:10",
           "seconds": 9670,
           "isMajor": true,
@@ -12582,7 +12601,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=9668"
         },
         {
-          "id": "d10-evt-008",
+          "id": "d10-evt-009",
           "timestamp": "03:08:01",
           "seconds": 11281,
           "isMajor": true,
@@ -12601,7 +12620,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=11279"
         },
         {
-          "id": "d10-evt-009",
+          "id": "d10-evt-010",
           "timestamp": "03:16:10",
           "seconds": 11770,
           "isMajor": true,
@@ -12622,7 +12641,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=11768"
         },
         {
-          "id": "d10-evt-010",
+          "id": "d10-evt-011",
           "timestamp": "03:23:40",
           "seconds": 12220,
           "isMajor": false,
@@ -12641,7 +12660,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=12218"
         },
         {
-          "id": "d10-evt-011",
+          "id": "d10-evt-012",
           "timestamp": "03:32:35",
           "seconds": 12755,
           "isMajor": true,
@@ -12660,7 +12679,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=12753"
         },
         {
-          "id": "d10-evt-012",
+          "id": "d10-evt-013",
           "timestamp": "03:55:45",
           "seconds": 14145,
           "isMajor": true,
@@ -12683,7 +12702,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=14143"
         },
         {
-          "id": "d10-evt-013",
+          "id": "d10-evt-014",
           "timestamp": "03:59:00",
           "seconds": 14340,
           "isMajor": false,
@@ -12702,7 +12721,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=14338"
         },
         {
-          "id": "d10-evt-014",
+          "id": "d10-evt-015",
           "timestamp": "04:05:15",
           "seconds": 14715,
           "isMajor": true,
@@ -12722,7 +12741,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=14713"
         },
         {
-          "id": "d10-evt-015",
+          "id": "d10-evt-016",
           "timestamp": "04:52:10",
           "seconds": 17530,
           "isMajor": false,
@@ -12743,7 +12762,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=17528"
         },
         {
-          "id": "d10-evt-016",
+          "id": "d10-evt-017",
           "timestamp": "05:30:45",
           "seconds": 19845,
           "isMajor": false,
@@ -12764,7 +12783,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=19843"
         },
         {
-          "id": "d10-evt-017",
+          "id": "d10-evt-018",
           "timestamp": "05:57:10",
           "seconds": 21430,
           "isMajor": false,
@@ -12781,14 +12800,250 @@
           "imageCaption": "Stream snapshot @ 05:57:10",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=05h57m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=21428"
+        },
+        {
+          "id": "d10-evt-019",
+          "timestamp": "06:29:00",
+          "seconds": 23340,
+          "isMajor": true,
+          "title": "- 06:30:25 x and marty are going to check on shipment p",
+          "description": "- 06:30:25 x and Marty are going to check on shipment progress using the laptop at the docks, they notice that one of the ships is now full of containers",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d10_evt_019_06_29_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:29:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=06h29m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=23338"
+        },
+        {
+          "id": "d10-evt-020",
+          "timestamp": "06:51:30",
+          "seconds": 24690,
+          "isMajor": false,
+          "title": "And marty rob some atms",
+          "description": "x and Marty rob some ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d10_evt_020_06_51_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:51:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=06h51m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=24688"
+        },
+        {
+          "id": "d10-evt-021",
+          "timestamp": "07:14:00",
+          "seconds": 26040,
+          "isMajor": false,
+          "title": "And marty take a look at vehicles options (to buy)",
+          "description": "x and Marty take a look at vehicles options (to buy)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d10_evt_021_07_14_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:14:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h14m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=26038"
+        },
+        {
+          "id": "d10-evt-022",
+          "timestamp": "07:21:40",
+          "seconds": 26500,
+          "isMajor": false,
+          "title": "They look at even more vehicles options",
+          "description": "they look at even more vehicles options",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_022_07_21_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:21:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h21m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=26498"
+        },
+        {
+          "id": "d10-evt-023",
+          "timestamp": "07:25:35",
+          "seconds": 26735,
+          "isMajor": true,
+          "title": "- 07:30:40 lang calls x",
+          "description": "- 07:30:40 Lang calls x, he suggests that everyone deserve to get 25k payout from the business account for working hard and then paying the employees later, x agrees to it, Lang withdraws 21k from the business account shortly after",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d10_evt_023_07_25_35.jpg",
+          "imageCaption": "Stream snapshot @ 07:25:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h25m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=26733"
+        },
+        {
+          "id": "d10-evt-024",
+          "timestamp": "07:37:40",
+          "seconds": 27460,
+          "isMajor": true,
+          "title": "- 07:41:15 lang withdraws 21k from the business account",
+          "description": "- 07:41:15 Lang withdraws 21k from the business account, x and Marty pay 21k to each member of the Brick Bois (there is 48k left in the business account)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d10_evt_024_07_37_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:37:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h37m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=27458"
+        },
+        {
+          "id": "d10-evt-025",
+          "timestamp": "96:50:00",
+          "seconds": 348600,
+          "isMajor": false,
+          "title": "/ pierre paul: 09:00:00 / total : 105:50:00",
+          "description": "/ Pierre Paul: 09:00:00 / Total : 105:50:00",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_025_96_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 96:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=96h50m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=348598"
+        },
+        {
+          "id": "d10-evt-026",
+          "timestamp": "07:50:30",
+          "seconds": 28230,
+          "isMajor": true,
+          "title": "- 07:51:00 x looks at dashcams of cop cars on duty",
+          "description": "- 07:51:00 x looks at dashcams of cop cars on duty",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_026_07_50_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:50:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h50m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=28228"
+        },
+        {
+          "id": "d10-evt-027",
+          "timestamp": "07:53:20",
+          "seconds": 28400,
+          "isMajor": true,
+          "title": "- 07:53:38 x partners up with polo wild (roleplayed by ",
+          "description": "- 07:53:38 x partners up with Polo Wild (roleplayed by the streamer Vawwn)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_027_07_53_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:53:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h53m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=28398"
+        },
+        {
+          "id": "d10-evt-028",
+          "timestamp": "08:02:00",
+          "seconds": 28920,
+          "isMajor": false,
+          "title": "They order some food at burger shot",
+          "description": "they order some food at burger shot",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_028_08_02_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:02:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h02m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=28918"
+        },
+        {
+          "id": "d10-evt-029",
+          "timestamp": "08:15:50",
+          "seconds": 29750,
+          "isMajor": false,
+          "title": "They pull over a speeding car running a red light",
+          "description": "they pull over a speeding car running a red light, they give them a warning and ask them to leave the stolen vehicle",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_029_08_15_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:15:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h15m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=29748"
+        },
+        {
+          "id": "d10-evt-030",
+          "timestamp": "08:29:40",
+          "seconds": 30580,
+          "isMajor": false,
+          "title": "They join a chase in progress as a secondary unit",
+          "description": "they join a chase in progress as a secondary unit",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_030_08_29_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:29:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h29m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=30578"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 91.1 hours / Pierre Paul: 5.4 hours / Total : 96.5 hours",
+        "timeLoggedIn": "Jean Paul : ~ 96:50:00 / Pierre Paul: 09:00:00 / Total : 105:50:00",
         "timesJailed": "0",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
+        "Current Ongoing Quest Line(s)": "None Yet",
+        "Character": "Pierre Paul",
+        "# Of Criminals Arrested (Since Day 1)": "1 arrest"
       }
     }
   }
