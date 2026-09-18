@@ -12437,7 +12437,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d10-evt-001",
@@ -12580,6 +12580,25 @@
           "imageCaption": "Stream snapshot @ 02:41:10",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=02h41m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=9668"
+        },
+        {
+          "id": "d10-evt-008",
+          "timestamp": "03:08:01",
+          "seconds": 11281,
+          "isMajor": true,
+          "title": "- 03:10:30 ramasquamy gets shot during the debate",
+          "description": "- 03:10:30 Ramasquamy gets shot during the debate",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d10_evt_008_03_08_01.jpg",
+          "imageCaption": "Stream snapshot @ 03:08:01",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h08m01s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=11279"
         }
       ],
       "characterInfo": {
