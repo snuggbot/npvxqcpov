@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13288,6 +13288,90 @@
           "imageCaption": "Stream snapshot @ 00:50:50",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h50m50s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=3048"
+        },
+        {
+          "id": "d11-evt-007",
+          "timestamp": "00:54:25",
+          "seconds": 3265,
+          "isMajor": true,
+          "title": "And marty hit a couple of atms",
+          "description": "x and Marty hit a couple of ATMs, the wedge breaks, they get spotted by cops, it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d11_evt_007_00_54_25.jpg",
+          "imageCaption": "Stream snapshot @ 00:54:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=00h54m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=3263"
+        },
+        {
+          "id": "d11-evt-008",
+          "timestamp": "01:01:25",
+          "seconds": 3685,
+          "isMajor": true,
+          "title": "Finds and steals a cop car",
+          "description": "x finds and steals a cop car, he needs to help Marty",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d11_evt_008_01_01_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:01:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=01h01m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=3683"
+        },
+        {
+          "id": "d11-evt-009",
+          "timestamp": "01:04:25",
+          "seconds": 3865,
+          "isMajor": true,
+          "title": "The cop car stops for some reason",
+          "description": "the cop car stops for some reason, x calls Speedy for a pick up, Speedy arrives shortly after and picks up x",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d11_evt_009_01_04_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:04:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=01h04m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=3863"
+        },
+        {
+          "id": "d11-evt-010",
+          "timestamp": "01:06:50",
+          "seconds": 4010,
+          "isMajor": true,
+          "title": "Shoots at the cop car chasing them and disables it",
+          "description": "x shoots at the cop car chasing them and disables it, more cops show up and the chase continues",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_010_01_06_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=01h06m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=4008"
         }
       ],
       "characterInfo": {
