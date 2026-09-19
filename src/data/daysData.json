@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13473,6 +13473,69 @@
           "imageCaption": "Stream snapshot @ 01:30:00",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=01h30m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=5398"
+        },
+        {
+          "id": "d11-evt-016",
+          "timestamp": "01:32:54",
+          "seconds": 5574,
+          "isMajor": true,
+          "title": "- 01:33:45 x calls lang",
+          "description": "- 01:33:45 x calls Lang, he says that there are so many cops surrounding Marty",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d11_evt_016_01_32_54.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:54",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=01h32m54s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=5572"
+        },
+        {
+          "id": "d11-evt-017",
+          "timestamp": "01:40:00",
+          "seconds": 6000,
+          "isMajor": true,
+          "title": "- 01:45:05 x and speedy arrive at the hospital where ma",
+          "description": "- 01:45:05 x and Speedy arrive at the hospital where Marty is being held, it's swarming with cops, the cops eventually escort Marty and leave the hospital, the crew are forced to give up on Marty",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Speedy"
+          ],
+          "image": "/images/frames/d11_evt_017_01_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=01h40m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=5998"
+        },
+        {
+          "id": "d11-evt-018",
+          "timestamp": "01:50:00",
+          "seconds": 6600,
+          "isMajor": false,
+          "title": "Tries to do a wheelie on a bike and gets incapacitated",
+          "description": "x tries to do a wheelie on a bike and gets incapacitated",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_018_01_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=01h50m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=6598"
         }
       ],
       "characterInfo": {
