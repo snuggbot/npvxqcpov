@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 31,
+      "eventsCount": 36,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13782,8 +13782,8 @@
           "timestamp": "07:16:10",
           "seconds": 26170,
           "isMajor": false,
-          "title": "Starts a race from the top of mout chilliad",
-          "description": "x starts a race from the top of mout Chilliad, his bike explodes shortly after leaving him incapacitated",
+          "title": "Starts a race from the top of mount chilliad",
+          "description": "x starts a race from the top of mount Chilliad, his bike explodes shortly after leaving him incapacitated",
           "category": "mechanic",
           "tags": [
             "mechanic"
@@ -13795,6 +13795,102 @@
           "imageCaption": "Stream snapshot @ 07:16:10",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h16m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=26168"
+        },
+        {
+          "id": "d11-evt-032",
+          "timestamp": "07:37:00",
+          "seconds": 27420,
+          "isMajor": false,
+          "title": "They go wheat harvesting",
+          "description": "they go wheat harvesting, there isn't much to do atm so they decide to go exploring looking for a breakthrough",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_032_07_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h37m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=27418"
+        },
+        {
+          "id": "d11-evt-033",
+          "timestamp": "08:31:25",
+          "seconds": 30685,
+          "isMajor": true,
+          "title": "- 08:35:00 x spots a masked man while searching around ",
+          "description": "- 08:35:00 x spots a masked man while searching around for any clues, he tries to chase him, x receives a call from an unknown caller (prolly the guy with the mask) telling him to 'follow the E'",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_033_08_31_25.jpg",
+          "imageCaption": "Stream snapshot @ 08:31:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h31m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=30683"
+        },
+        {
+          "id": "d11-evt-034",
+          "timestamp": "08:40:35",
+          "seconds": 31235,
+          "isMajor": true,
+          "title": "- 08:40:45 the masked man is still watching them",
+          "description": "- 08:40:45 the masked man is still watching them",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_034_08_40_35.jpg",
+          "imageCaption": "Stream snapshot @ 08:40:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h40m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31233"
+        },
+        {
+          "id": "d11-evt-035",
+          "timestamp": "08:45:05",
+          "seconds": 31505,
+          "isMajor": true,
+          "title": "- 08:45:20 x finds a note left by the masked man saying",
+          "description": "- 08:45:20 x finds a note left by the masked man saying 'follow'",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_035_08_45_05.jpg",
+          "imageCaption": "Stream snapshot @ 08:45:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h45m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31503"
+        },
+        {
+          "id": "d11-evt-036",
+          "timestamp": "08:47:29",
+          "seconds": 31649,
+          "isMajor": true,
+          "title": "- 08:48:55 x receives another call from the same caller",
+          "description": "- 08:48:55 x receives another call from the same caller saying something like 'new Epsilon' x was trying to put the call on speaker but instead he drops the call, he tries to call him back but no answer",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_036_08_47_29.jpg",
+          "imageCaption": "Stream snapshot @ 08:47:29",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h47m29s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31647"
         }
       ],
       "characterInfo": {
