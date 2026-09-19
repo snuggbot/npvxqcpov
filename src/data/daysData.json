@@ -13174,11 +13174,11 @@
       "events": [
         {
           "id": "d11-evt-001",
-          "timestamp": "96:50:00",
-          "seconds": 348600,
+          "timestamp": "08:53:00",
+          "seconds": 31980,
           "isMajor": false,
-          "title": "/ pierre paul: 09:00:00 / total : 105:50:00",
-          "description": "/ Pierre Paul: 09:00:00 / Total : 105:50:00",
+          "title": "/ pierre paul: 09:00:00 / total : 117:53:00",
+          "description": "/ Pierre Paul: 09:00:00 / Total : 117:53:00",
           "category": "general",
           "tags": [
             "general"
@@ -13186,10 +13186,10 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d11_evt_001_96_50_00.jpg",
-          "imageCaption": "Stream snapshot @ 96:50:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=96h50m00s",
-          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=348598"
+          "image": "/images/frames/d11_evt_001_08_53_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:53:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h53m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31978"
         },
         {
           "id": "d11-evt-002",
@@ -14086,7 +14086,7 @@
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 96:50:00 / Pierre Paul: 09:00:00 / Total : 105:50:00",
+        "timeLoggedIn": "Jean Paul : ~ 108:53:00 / Pierre Paul: 09:00:00 / Total : 117:53:00",
         "timesJailed": "0",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room)"
