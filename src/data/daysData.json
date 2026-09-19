@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 38,
+      "eventsCount": 40,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13929,6 +13929,45 @@
           "imageCaption": "Stream snapshot @ 08:55:10",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h55m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=32108"
+        },
+        {
+          "id": "d11-evt-039",
+          "timestamp": "09:07:36",
+          "seconds": 32856,
+          "isMajor": true,
+          "title": "- 09:07:55 marty says that the message on the radio sai",
+          "description": "- 09:07:55 Marty says that the message on the radio said 'hello Jean Paul, new (or nu) Epsilon, wolf international, the faceless, nest'",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d11_evt_039_09_07_36.jpg",
+          "imageCaption": "Stream snapshot @ 09:07:36",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h07m36s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=32854"
+        },
+        {
+          "id": "d11-evt-040",
+          "timestamp": "09:12:25",
+          "seconds": 33145,
+          "isMajor": true,
+          "title": "- 09:12:35 x spots the masked man again watching from t",
+          "description": "- 09:12:35 x spots the masked man again watching from the roof",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_040_09_12_25.jpg",
+          "imageCaption": "Stream snapshot @ 09:12:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h12m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=33143"
         }
       ],
       "characterInfo": {
