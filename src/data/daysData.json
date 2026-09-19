@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 23,
+      "eventsCount": 28,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13636,6 +13636,108 @@
           "imageCaption": "Stream snapshot @ 02:52:20",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=02h52m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=10338"
+        },
+        {
+          "id": "d11-evt-024",
+          "timestamp": "03:27:50",
+          "seconds": 12470,
+          "isMajor": false,
+          "title": "And marty start golfing (marty wins the game)",
+          "description": "x and Marty start golfing (Marty wins the game)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d11_evt_024_03_27_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:27:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=03h27m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=12468"
+        },
+        {
+          "id": "d11-evt-025",
+          "timestamp": "04:01:50",
+          "seconds": 14510,
+          "isMajor": false,
+          "title": "The crew starts wheat farming",
+          "description": "the crew starts wheat farming",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_025_04_01_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:01:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=04h01m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=14508"
+        },
+        {
+          "id": "d11-evt-026",
+          "timestamp": "04:21:20",
+          "seconds": 15680,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Speedy rob an ammunation store, they have a hostage with them in case the cops show up",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Speedy"
+          ],
+          "image": "/images/frames/d11_evt_026_04_21_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:21:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=04h21m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=15678"
+        },
+        {
+          "id": "d11-evt-027",
+          "timestamp": "04:27:10",
+          "seconds": 16030,
+          "isMajor": true,
+          "title": "They find a shotgun while in the safe of the ammunation",
+          "description": "they find a shotgun while in the safe of the ammunation store, they exchange the hostage for a safe passage",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_027_04_27_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:27:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=04h27m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=16028"
+        },
+        {
+          "id": "d11-evt-028",
+          "timestamp": "04:40:30",
+          "seconds": 16830,
+          "isMajor": false,
+          "title": "They rob another ammunation store",
+          "description": "they rob another ammunation store, this time they get a pistol only, it turns into a chase, they eventually escape using scuba diving kits",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_028_04_40_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:40:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=04h40m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=16828"
         }
       ],
       "characterInfo": {
