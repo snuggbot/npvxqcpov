@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 36,
+      "eventsCount": 38,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13891,6 +13891,44 @@
           "imageCaption": "Stream snapshot @ 08:47:29",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h47m29s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31647"
+        },
+        {
+          "id": "d11-evt-037",
+          "timestamp": "08:50:35",
+          "seconds": 31835,
+          "isMajor": true,
+          "title": "- 08:52:00 x receives another call",
+          "description": "- 08:52:00 x receives another call, it's hard to tell what the person is exactly saying but they hear the word Chumash, new Epsilon and north east so they decide to go to Chumash area",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_037_08_50_35.jpg",
+          "imageCaption": "Stream snapshot @ 08:50:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h50m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=31833"
+        },
+        {
+          "id": "d11-evt-038",
+          "timestamp": "08:55:10",
+          "seconds": 32110,
+          "isMajor": true,
+          "title": "- 08:55:30 they arrive at chumash",
+          "description": "- 08:55:30 they arrive at Chumash, they find an NPC, x interacts with her and she says 'hello Jean Paul...It must be something...It can't be nothing.. , they also notice a radio playing on the ground near by and they hear the words 'North Harbor'",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_038_08_55_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:55:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=08h55m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=32108"
         }
       ],
       "characterInfo": {
