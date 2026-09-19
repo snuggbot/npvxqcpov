@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 28,
+      "eventsCount": 31,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13738,6 +13738,63 @@
           "imageCaption": "Stream snapshot @ 04:40:30",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=04h40m30s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=16828"
+        },
+        {
+          "id": "d11-evt-029",
+          "timestamp": "06:00:00",
+          "seconds": 21600,
+          "isMajor": false,
+          "title": "Is decorating the storage unit (spends a good amount of",
+          "description": "x is decorating the storage unit (spends a good amount of time)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_029_06_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=06h00m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=21598"
+        },
+        {
+          "id": "d11-evt-030",
+          "timestamp": "07:01:49",
+          "seconds": 25309,
+          "isMajor": false,
+          "title": "They intercept a g6 truck",
+          "description": "they intercept a G6 truck, they have no money on them since all the ATMs are broken so its useless",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_030_07_01_49.jpg",
+          "imageCaption": "Stream snapshot @ 07:01:49",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h01m49s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=25307"
+        },
+        {
+          "id": "d11-evt-031",
+          "timestamp": "07:16:10",
+          "seconds": 26170,
+          "isMajor": false,
+          "title": "Starts a race from the top of mout chilliad",
+          "description": "x starts a race from the top of mout Chilliad, his bike explodes shortly after leaving him incapacitated",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_031_07_16_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:16:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=07h16m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=26168"
         }
       ],
       "characterInfo": {
