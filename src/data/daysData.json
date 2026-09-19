@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 45,
+      "eventsCount": 46,
       "events": [
         {
           "id": "d11-evt-001",
@@ -14063,6 +14063,25 @@
           "imageCaption": "Stream snapshot @ 10:32:30",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=10h32m30s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=37948"
+        },
+        {
+          "id": "d11-evt-046",
+          "timestamp": "11:35:00",
+          "seconds": 41700,
+          "isMajor": false,
+          "title": "They rob a house while exploring around",
+          "description": "they rob a house while exploring around",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_046_11_35_00.jpg",
+          "imageCaption": "Stream snapshot @ 11:35:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=11h35m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=41698"
         }
       ],
       "characterInfo": {
