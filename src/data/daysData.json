@@ -13170,7 +13170,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2876809827",
       "kickVod": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402",
       "kickStreamUrl": "",
-      "eventsCount": 40,
+      "eventsCount": 45,
       "events": [
         {
           "id": "d11-evt-001",
@@ -13968,6 +13968,101 @@
           "imageCaption": "Stream snapshot @ 09:12:25",
           "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h12m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=33143"
+        },
+        {
+          "id": "d11-evt-041",
+          "timestamp": "09:23:00",
+          "seconds": 33780,
+          "isMajor": true,
+          "title": "- 09:24:30 the radio in the car starts playing a messag",
+          "description": "- 09:24:30 the radio in the car starts playing a message from the same masked man, it repeats the same message again",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_041_09_23_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:23:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h23m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=33778"
+        },
+        {
+          "id": "d11-evt-042",
+          "timestamp": "09:42:05",
+          "seconds": 34925,
+          "isMajor": true,
+          "title": "- 09:42:32 they spot a flying jet and decide to follow ",
+          "description": "- 09:42:32 they spot a flying jet and decide to follow it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_042_09_42_05.jpg",
+          "imageCaption": "Stream snapshot @ 09:42:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h42m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=34923"
+        },
+        {
+          "id": "d11-evt-043",
+          "timestamp": "09:57:35",
+          "seconds": 35855,
+          "isMajor": true,
+          "title": "- 09:58:40 x sees a tweet about a city wide radio outag",
+          "description": "- 09:58:40 x sees a tweet about a city wide radio outage and decides to investigate the radio tower north east of the city",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_043_09_57_35.jpg",
+          "imageCaption": "Stream snapshot @ 09:57:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=09h57m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=35853"
+        },
+        {
+          "id": "d11-evt-044",
+          "timestamp": "10:07:10",
+          "seconds": 36430,
+          "isMajor": true,
+          "title": "- 10:08:40 they arrive at the radio tower but find noth",
+          "description": "- 10:08:40 they arrive at the radio tower but find nothing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_044_10_07_10.jpg",
+          "imageCaption": "Stream snapshot @ 10:07:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=10h07m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=36428"
+        },
+        {
+          "id": "d11-evt-045",
+          "timestamp": "10:32:30",
+          "seconds": 37950,
+          "isMajor": true,
+          "title": "- 10:35:25 x calls ginger ale after seeing her tweet ab",
+          "description": "- 10:35:25 x calls Ginger Ale after seeing her tweet about the radio message, he stumbles upon a graffiti that looks like a radio tower, he takes a picture of it and sends it to her",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d11_evt_045_10_32_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:32:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2876809827?t=10h32m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0b0e7-61c8-7808-b4db-e775433db402?t=37948"
         }
       ],
       "characterInfo": {
