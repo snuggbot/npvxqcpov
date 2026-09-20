@@ -14102,7 +14102,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2879641133",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d12-evt-001",
@@ -14201,6 +14201,27 @@
           "image": "/images/frames/d12_evt_005_01_00_00.jpg",
           "imageCaption": "Stream snapshot @ 01:00:00",
           "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=01h00m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-006",
+          "timestamp": "01:18:10",
+          "seconds": 4690,
+          "isMajor": false,
+          "title": "Joins the crew",
+          "description": "x joins the crew, they're robbing an ammunation store and they have a hostage, they find a pistol in the safe, there are no cops at the scene so they get away with the robbery",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d12_evt_006_01_18_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:18:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=01h18m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
