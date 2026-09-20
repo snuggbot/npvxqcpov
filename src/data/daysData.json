@@ -14102,7 +14102,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2879641133",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 3,
       "events": [
         {
           "id": "d12-evt-001",
@@ -14121,6 +14121,45 @@
           "image": "/images/frames/d12_evt_001_08_53_00.jpg",
           "imageCaption": "Stream snapshot @ 08:53:00",
           "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=08h53m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-002",
+          "timestamp": "00:43:40",
+          "seconds": 2620,
+          "isMajor": false,
+          "title": "Logs in and starts day 12",
+          "description": "x logs in and starts day 12",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d12_evt_002_00_43_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:43:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=00h43m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-003",
+          "timestamp": "00:47:30",
+          "seconds": 2850,
+          "isMajor": true,
+          "title": "- 00:49:40 x calls marty",
+          "description": "- 00:49:40 x calls Marty, he shares his theory about the Epsilon puzzle, he believes that they have to be at the nudists' camp while there is lightning (according to the graffiti on the wall with the radio tower and lightning)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d12_evt_003_00_47_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:47:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=00h47m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
