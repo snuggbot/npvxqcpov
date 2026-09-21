@@ -14102,7 +14102,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2879641133",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d12-evt-001",
@@ -14222,6 +14222,50 @@
           "image": "/images/frames/d12_evt_006_01_18_10.jpg",
           "imageCaption": "Stream snapshot @ 01:18:10",
           "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=01h18m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-007",
+          "timestamp": "01:38:00",
+          "seconds": 5880,
+          "isMajor": false,
+          "title": "They rob another ammunation store",
+          "description": "they rob another ammunation store, x and Lang leave the store during the robbery meanwhile Speedy and Marty finish the robbery and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d12_evt_007_01_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=01h38m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-008",
+          "timestamp": "01:59:50",
+          "seconds": 7190,
+          "isMajor": false,
+          "title": "They try to save speedy but he's surrounded by cops",
+          "description": "they try to save Speedy but he's surrounded by cops",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d12_evt_008_01_59_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:59:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=01h59m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
