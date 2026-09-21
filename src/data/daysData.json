@@ -14102,7 +14102,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2879641133",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 21,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d12-evt-001",
@@ -14530,6 +14530,46 @@
           "image": "/images/frames/d12_evt_021_05_25_10.jpg",
           "imageCaption": "Stream snapshot @ 05:25:10",
           "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=05h25m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-022",
+          "timestamp": "06:16:30",
+          "seconds": 22590,
+          "isMajor": false,
+          "title": "Is out of jail",
+          "description": "x is out of jail",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d12_evt_022_06_16_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:16:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=06h16m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-023",
+          "timestamp": "06:45:20",
+          "seconds": 24320,
+          "isMajor": false,
+          "title": "And marty rob an atm (using the new pry wedge) and it i",
+          "description": "x and Marty rob an ATM (using the new pry wedge) and it insta breaks, the cops arrive shortly after and it turns into a chase, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d12_evt_023_06_45_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:45:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=06h45m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
