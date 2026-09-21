@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d13-evt-001",
@@ -14744,6 +14744,66 @@
           "image": "/images/frames/d13_evt_001_20_18_00.jpg",
           "imageCaption": "Stream snapshot @ 20:18:00",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=20h18m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-002",
+          "timestamp": "00:40:00",
+          "seconds": 2400,
+          "isMajor": false,
+          "title": "Logs in and starts day 13",
+          "description": "x logs in and starts day 13",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_002_00_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=00h40m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-003",
+          "timestamp": "00:47:10",
+          "seconds": 2830,
+          "isMajor": true,
+          "title": "- 00:50:10 x notices that the business account doesn't ",
+          "description": "- 00:50:10 x notices that the business account doesn't have much money left, Lang says that Marty has paid everyone including the runners, also runners now get 70% and the business keeps 30% and the main crew members can sell their products for a better rate than anyone else",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d13_evt_003_00_47_10.jpg",
+          "imageCaption": "Stream snapshot @ 00:47:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=00h47m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-004",
+          "timestamp": "00:54:00",
+          "seconds": 3240,
+          "isMajor": false,
+          "title": "Starts wheat farming",
+          "description": "x starts wheat farming",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_004_00_54_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:54:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=00h54m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
