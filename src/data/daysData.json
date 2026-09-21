@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d13-evt-001",
@@ -14846,6 +14846,65 @@
           "image": "/images/frames/d13_evt_006_01_13_45.jpg",
           "imageCaption": "Stream snapshot @ 01:13:45",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=01h13m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-007",
+          "timestamp": "01:24:00",
+          "seconds": 5040,
+          "isMajor": false,
+          "title": "They attack the farmers and drive away quickly not to g",
+          "description": "they attack the farmers and drive away quickly not to get shot at and before the cops spot them",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_007_01_24_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:24:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=01h24m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-008",
+          "timestamp": "01:29:35",
+          "seconds": 5375,
+          "isMajor": true,
+          "title": "- 01:32:05 x calls diego asking to buy a ton of materia",
+          "description": "- 01:32:05 x calls Diego asking to buy a ton of materials, he wants to automate making bars to craft as many pry wedges as possible to do ATM runs again, he wants to make a deal with Diego so that the runs would be profitable",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_008_01_29_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:29:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=01h29m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-009",
+          "timestamp": "01:37:00",
+          "seconds": 5820,
+          "isMajor": true,
+          "title": "- 01:37:35 x and marty take a look at the shipment prog",
+          "description": "- 01:37:35 x and Marty take a look at the shipment progress using the laptop at the docks, there isn't much progress made yet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d13_evt_009_01_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=01h37m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
