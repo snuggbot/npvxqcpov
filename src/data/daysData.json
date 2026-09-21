@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d13-evt-001",
@@ -14804,6 +14804,48 @@
           "image": "/images/frames/d13_evt_004_00_54_00.jpg",
           "imageCaption": "Stream snapshot @ 00:54:00",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=00h54m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-005",
+          "timestamp": "01:04:40",
+          "seconds": 3880,
+          "isMajor": false,
+          "title": "Marty is going to distract the cops patrolling the whea",
+          "description": "Marty is going to distract the cops patrolling the wheat farm so that the rest of the crew can sweep in and rob the farmers, they take down a cop but tony goes down in the process",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d13_evt_005_01_04_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:04:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=01h04m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-006",
+          "timestamp": "01:13:45",
+          "seconds": 4425,
+          "isMajor": false,
+          "title": "Encounters shelly smith for the first time (played by s",
+          "description": "x encounters Shelly Smith for the first time (played by streamer rlly), she used to be a manager at burger shot but now she's become a monk",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_006_01_13_45.jpg",
+          "imageCaption": "Stream snapshot @ 01:13:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=01h13m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
