@@ -14793,10 +14793,10 @@
           "seconds": 3240,
           "isMajor": false,
           "title": "Starts wheat farming",
-          "description": "x starts wheat farming",
-          "category": "general",
+          "description": "x starts wheat farming, the cops are patrolling the area making sure all farmers are safe",
+          "category": "chase",
           "tags": [
-            "general"
+            "chase"
           ],
           "characters": [
             "Jean Paul (X)"
