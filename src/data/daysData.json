@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d13-evt-001",
@@ -14874,7 +14874,7 @@
           "seconds": 5375,
           "isMajor": true,
           "title": "- 01:32:05 x calls diego asking to buy a ton of materia",
-          "description": "- 01:32:05 x calls Diego asking to buy a ton of materials, he wants to automate making bars to craft as many pry wedges as possible to do ATM runs again, he wants to make a deal with Diego so that the runs would be profitable",
+          "description": "- 01:32:05 x calls Diego asking to buy a ton of materials, he wants to automate making bars to craft as many pry wedges as possible to do ATM runs again, he wants to make a deal with Diego so that the ATM runs would be profitable",
           "category": "general",
           "tags": [
             "general"
@@ -14946,6 +14946,45 @@
           "image": "/images/frames/d13_evt_011_01_44_20.jpg",
           "imageCaption": "Stream snapshot @ 01:44:20",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h44m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-012",
+          "timestamp": "01:52:47",
+          "seconds": 6767,
+          "isMajor": true,
+          "title": "- 01:58:40 x discusses business with diego",
+          "description": "- 01:58:40 x discusses business with Diego, it seems like making pry wedges is not really worth it for now",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_012_01_52_47.jpg",
+          "imageCaption": "Stream snapshot @ 01:52:47",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h52m47s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d13-evt-013",
+          "timestamp": "02:05:00",
+          "seconds": 7500,
+          "isMajor": false,
+          "title": "And marty rob a couple of stores",
+          "description": "x and Marty rob a couple of stores",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d13_evt_013_02_05_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h05m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
