@@ -14102,7 +14102,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2879641133",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d12-evt-001",
@@ -14266,6 +14266,69 @@
           "image": "/images/frames/d12_evt_008_01_59_50.jpg",
           "imageCaption": "Stream snapshot @ 01:59:50",
           "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=01h59m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-009",
+          "timestamp": "02:07:20",
+          "seconds": 7640,
+          "isMajor": false,
+          "title": "And marty try to get speedy out but they fail",
+          "description": "x and Marty try to get Speedy out but they fail, there are many cops around, Marty gets arrested in the process",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Speedy"
+          ],
+          "image": "/images/frames/d12_evt_009_02_07_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:07:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=02h07m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-010",
+          "timestamp": "02:15:40",
+          "seconds": 8140,
+          "isMajor": true,
+          "title": "Tries to save marty and speedy but fails",
+          "description": "x tries to save Marty and Speedy but fails, he's handcuffed for the first time",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Speedy"
+          ],
+          "image": "/images/frames/d12_evt_010_02_15_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:15:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=02h15m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-011",
+          "timestamp": "02:23:00",
+          "seconds": 8580,
+          "isMajor": true,
+          "title": "(the server resets)",
+          "description": "(the server resets), C. Dawson decides to issue warrants for x, Marty and Speedy instead of arresting them",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Speedy"
+          ],
+          "image": "/images/frames/d12_evt_011_02_23_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:23:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=02h23m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
