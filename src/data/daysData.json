@@ -14714,6 +14714,46 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room) / 3- The Epsilon Puzzle"
       }
+    },
+    "13": {
+      "dayNumber": 13,
+      "title": "Day 13",
+      "redditTitle": "NoPixel V | Day 13 Recap Sep 21st | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wm79wy/nopixel_v_day_13_recap_sep_21st_xqcs_pov_with/",
+      "updated": "2026-09-21T08:50:49+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2879641133",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 1,
+      "events": [
+        {
+          "id": "d13-evt-001",
+          "timestamp": "20:18:00",
+          "seconds": 73080,
+          "isMajor": false,
+          "title": "/ pierre paul: 09:00:00 / total : 129:18:00",
+          "description": "/ Pierre Paul: 09:00:00 / Total : 129:18:00",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_001_20_18_00.jpg",
+          "imageCaption": "Stream snapshot @ 20:18:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=20h18m00s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 120:18:00 / Pierre Paul: 09:00:00 / Total : 129:18:00",
+        "timesJailed": "1 arrest",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room) / 3- The Epsilon Puzzle"
+      }
     }
   }
 }
