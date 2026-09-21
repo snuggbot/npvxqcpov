@@ -14102,7 +14102,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2879641133",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 25,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d12-evt-001",
@@ -14609,6 +14609,44 @@
           "image": "/images/frames/d12_evt_025_08_05_00.jpg",
           "imageCaption": "Stream snapshot @ 08:05:00",
           "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=08h05m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-026",
+          "timestamp": "08:22:50",
+          "seconds": 30170,
+          "isMajor": false,
+          "title": "Decides to go scuba diving looking for clues",
+          "description": "x decides to go scuba diving looking for clues",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d12_evt_026_08_22_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:22:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=08h22m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d12-evt-027",
+          "timestamp": "09:17:07",
+          "seconds": 33427,
+          "isMajor": true,
+          "title": "- 09:18:01 (x reacts to a clip",
+          "description": "- 09:18:01 (x reacts to a clip, the dev is changing the weather mid game from storming to clear), x isn't happy about it since he's trying to test his theory with the lightning being connected to the Epsilon puzzle",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d12_evt_027_09_17_07.jpg",
+          "imageCaption": "Stream snapshot @ 09:17:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2879641133?t=09h17m07s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
