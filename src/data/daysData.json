@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e",
       "kickStreamUrl": "",
-      "eventsCount": 22,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d13-evt-001",
@@ -15173,6 +15173,48 @@
           "imageCaption": "Stream snapshot @ 03:39:20",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h39m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=13158"
+        },
+        {
+          "id": "d13-evt-023",
+          "timestamp": "03:44:00",
+          "seconds": 13440,
+          "isMajor": false,
+          "title": "Gets pulled over by the cops",
+          "description": "x gets pulled over by the cops, he says that his pockets were wiped by the cops including his ID, he drives off mid conversation",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_023_03_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h44m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=13438"
+        },
+        {
+          "id": "d13-evt-024",
+          "timestamp": "03:58:40",
+          "seconds": 14320,
+          "isMajor": true,
+          "title": "- 03:59:00 marty's decided to share the employees share",
+          "description": "- 03:59:00 Marty's decided to share the employees share of the money at the pawn shop again to be 35% instead of 30%",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d13_evt_024_03_58_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:58:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h58m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=14318"
         }
       ],
       "characterInfo": {
