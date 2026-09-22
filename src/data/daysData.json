@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15874,6 +15874,67 @@
           "image": "/images/frames/d14_evt_012_02_10_45.jpg",
           "imageCaption": "Stream snapshot @ 02:10:45",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h10m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-013",
+          "timestamp": "02:17:50",
+          "seconds": 8270,
+          "isMajor": false,
+          "title": "Tries to accept a pawn order but it doesn't work",
+          "description": "x tries to accept a pawn order but it doesn't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_013_02_17_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:17:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h17m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-014",
+          "timestamp": "02:21:15",
+          "seconds": 8475,
+          "isMajor": true,
+          "title": "- 02:22:20 tony has new info about trucker's tank deliv",
+          "description": "- 02:22:20 Tony has new info about trucker's tank delivery jobs where they deliver high class vehicles with weapons attached to them, he shares a couple of pictures in the group chat",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d14_evt_014_02_21_15.jpg",
+          "imageCaption": "Stream snapshot @ 02:21:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h21m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-015",
+          "timestamp": "02:27:45",
+          "seconds": 8865,
+          "isMajor": true,
+          "title": "- 02:47:00 they arrive at the meeting with m1 and other",
+          "description": "- 02:47:00 they arrive at the meeting with M1 and other pawn shop owners, they don't know who is behind it but apparently it's a group of 4 men, things get heated between x's and 4head's crews, M1 calms the situation and focuses on the issue on hand, M1 is going to meet up with each group individually later too, M1 gets a call from the boss mid meeting and new info arise, there are two men responsible for this cyber attack, the objective is to capture these two men",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_015_02_27_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:27:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h27m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
