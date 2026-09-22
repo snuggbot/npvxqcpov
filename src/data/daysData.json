@@ -15638,10 +15638,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wn79fc/nopixel_v_day_14_recap_sep_22nd_xqcs_pov_with/",
       "updated": "2026-09-22T11:47:51+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15659,7 +15659,7 @@
           ],
           "image": "/images/frames/d14_evt_001_30_08_00.jpg",
           "imageCaption": "Stream snapshot @ 30:08:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=30h08m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=30h08m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15678,7 +15678,7 @@
           ],
           "image": "/images/frames/d14_evt_002_00_52_35.jpg",
           "imageCaption": "Stream snapshot @ 00:52:35",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h52m35s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h52m35s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15697,7 +15697,7 @@
           ],
           "image": "/images/frames/d14_evt_003_00_56_50.jpg",
           "imageCaption": "Stream snapshot @ 00:56:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h56m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h56m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15716,7 +15716,7 @@
           ],
           "image": "/images/frames/d14_evt_004_01_18_40.jpg",
           "imageCaption": "Stream snapshot @ 01:18:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h18m40s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h18m40s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15735,7 +15735,104 @@
           ],
           "image": "/images/frames/d14_evt_005_01_29_20.jpg",
           "imageCaption": "Stream snapshot @ 01:29:20",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h29m20s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h29m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-006",
+          "timestamp": "01:35:40",
+          "seconds": 5740,
+          "isMajor": false,
+          "title": "Deposits all cash on hand",
+          "description": "x deposits all cash on hand, he currently has 90k in total",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_006_01_35_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:35:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h35m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-007",
+          "timestamp": "01:36:15",
+          "seconds": 5775,
+          "isMajor": true,
+          "title": "- 01:37:00 x brings up the 150 gold chains that lang so",
+          "description": "- 01:37:00 x brings up the 150 gold chains that Lang sold yesterday, Tony supports Lang saying that he's made a lot of money doing scuba today for an hour",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d14_evt_007_01_36_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:36:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h36m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-008",
+          "timestamp": "01:50:00",
+          "seconds": 6600,
+          "isMajor": true,
+          "title": "- 01:51:30 the crew arrive at the docks",
+          "description": "- 01:51:30 the crew arrive at the docks, the unit number is at 148 out of 150 for some reason when last update they were at 168, they decide to do 2 more international orders and see if it updates",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_008_01_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h50m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-009",
+          "timestamp": "01:54:25",
+          "seconds": 6865,
+          "isMajor": true,
+          "title": "- 01:57:45 they arrive at the pawn shop to see which in",
+          "description": "- 01:57:45 they arrive at the pawn shop to see which international orders they can fulfill, they will try to do 2 inner state orders while Zuck does the international ones (he will try to)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_009_01_54_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:54:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h54m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-010",
+          "timestamp": "02:01:30",
+          "seconds": 7290,
+          "isMajor": true,
+          "title": "- 02:02:15 they can't do any pawn orders so they decide",
+          "description": "- 02:02:15 they can't do any pawn orders so they decide to group up at the docks again",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_010_02_01_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:01:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h01m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
