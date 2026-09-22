@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d13-evt-001",
@@ -15279,6 +15279,68 @@
           "imageCaption": "Stream snapshot @ 04:16:35",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h16m35s",
           "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=15393"
+        },
+        {
+          "id": "d13-evt-028",
+          "timestamp": "04:23:45",
+          "seconds": 15825,
+          "isMajor": true,
+          "title": "- 04:25:15 x confronts lang about the items he sold at ",
+          "description": "- 04:25:15 x confronts Lang about the items he sold at the pawn shop, Lang gets mad for getting questioned, he says that he's working hard to make money and hangs up the phone",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d13_evt_028_04_23_45.jpg",
+          "imageCaption": "Stream snapshot @ 04:23:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h23m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=15823"
+        },
+        {
+          "id": "d13-evt-029",
+          "timestamp": "04:25:30",
+          "seconds": 15930,
+          "isMajor": true,
+          "title": "- 04:29:53 x calls lang again and they discuss the same",
+          "description": "- 04:29:53 x calls Lang again and they discuss the same point again, they also discuss the probability of the shipments leaving today at the docks and that they should be ready for it, Lang appreciates the fact that x was being honest and for confronting him",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d13_evt_029_04_25_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:25:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h25m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=15928"
+        },
+        {
+          "id": "d13-evt-030",
+          "timestamp": "04:36:10",
+          "seconds": 16570,
+          "isMajor": true,
+          "title": "- 04:36:50 they continue the convo in their group chat",
+          "description": "- 04:36:50 they continue the convo in their group chat, x and Marty still think that Lang is lying",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d13_evt_030_04_36_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:36:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h36m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=16568"
         }
       ],
       "characterInfo": {
