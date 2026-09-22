@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 22,
       "events": [
         {
           "id": "d13-evt-001",
@@ -15055,6 +15055,124 @@
           "imageCaption": "Stream snapshot @ 02:59:20",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=02h59m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=10758"
+        },
+        {
+          "id": "d13-evt-017",
+          "timestamp": "03:15:50",
+          "seconds": 11750,
+          "isMajor": true,
+          "title": "They arrive at the mayor's debates",
+          "description": "they arrive at the mayor's debates",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_017_03_15_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:15:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h15m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=11748"
+        },
+        {
+          "id": "d13-evt-018",
+          "timestamp": "03:20:15",
+          "seconds": 12015,
+          "isMajor": true,
+          "title": "- 03:21:07 tony speaks at the mayors debate",
+          "description": "- 03:21:07 Tony speaks at the mayors debate",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d13_evt_018_03_20_15.jpg",
+          "imageCaption": "Stream snapshot @ 03:20:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h20m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=12013"
+        },
+        {
+          "id": "d13-evt-019",
+          "timestamp": "03:29:10",
+          "seconds": 12550,
+          "isMajor": true,
+          "title": "- 03:30:41 tony speaks again at the debate",
+          "description": "- 03:30:41 Tony speaks again at the debate",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d13_evt_019_03_29_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:29:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h29m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=12548"
+        },
+        {
+          "id": "d13-evt-020",
+          "timestamp": "03:32:30",
+          "seconds": 12750,
+          "isMajor": true,
+          "title": "- 03:33:15 tony's turn",
+          "description": "- 03:33:15 Tony's turn",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d13_evt_020_03_32_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:32:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h32m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=12748"
+        },
+        {
+          "id": "d13-evt-021",
+          "timestamp": "03:33:57",
+          "seconds": 12837,
+          "isMajor": true,
+          "title": "- 03:34:25 tony's turn",
+          "description": "- 03:34:25 Tony's turn",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d13_evt_021_03_33_57.jpg",
+          "imageCaption": "Stream snapshot @ 03:33:57",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h33m57s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=12835"
+        },
+        {
+          "id": "d13-evt-022",
+          "timestamp": "03:39:20",
+          "seconds": 13160,
+          "isMajor": false,
+          "title": "Leaves the debate",
+          "description": "x leaves the debate",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_022_03_39_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:39:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h39m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=13158"
         }
       ],
       "characterInfo": {
