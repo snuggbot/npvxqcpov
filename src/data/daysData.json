@@ -15683,11 +15683,11 @@
         },
         {
           "id": "d14-evt-003",
-          "timestamp": "00:58:40",
-          "seconds": 3520,
+          "timestamp": "00:56:50",
+          "seconds": 3410,
           "isMajor": true,
-          "title": "- 01:00:20 the crew tries the new feature (group call)",
-          "description": "- 01:00:20 the crew tries the new feature (group call), apparently the runners can't do any pawn contracts anymore, it says suspended, they plan on defending their ship that's departing soon",
+          "title": "- 01:03:10 the crew tries the new phone feature (group ",
+          "description": "- 01:03:10 the crew tries the new phone feature (group call), apparently the runners can't do any pawn contracts anymore (it says suspended), the crew plan on defending their ship that's departing soon and possibly attack the other ship (if it happens that more than one ship with pawn shipments are departing at the same time) and they're getting equipped for it",
           "category": "social",
           "tags": [
             "social"
@@ -15695,28 +15695,28 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d14_evt_003_00_58_40.jpg",
-          "imageCaption": "Stream snapshot @ 00:58:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h58m40s",
+          "image": "/images/frames/d14_evt_003_00_56_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:56:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h56m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
           "id": "d14-evt-004",
-          "timestamp": "01:02:30",
-          "seconds": 3750,
-          "isMajor": true,
-          "title": "- 01:03:10 they're preparing for the shipment heist at ",
-          "description": "- 01:03:10 they're preparing for the shipment heist at the docks",
-          "category": "crime",
+          "timestamp": "01:18:40",
+          "seconds": 4720,
+          "isMajor": false,
+          "title": "They change outfits",
+          "description": "they change outfits",
+          "category": "general",
           "tags": [
-            "crime"
+            "general"
           ],
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d14_evt_004_01_02_30.jpg",
-          "imageCaption": "Stream snapshot @ 01:02:30",
-          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h02m30s",
+          "image": "/images/frames/d14_evt_004_01_18_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:18:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h18m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
