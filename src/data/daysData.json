@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 18,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15992,6 +15992,27 @@
           "image": "/images/frames/d14_evt_018_03_03_50.jpg",
           "imageCaption": "Stream snapshot @ 03:03:50",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h03m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-019",
+          "timestamp": "03:19:00",
+          "seconds": 11940,
+          "isMajor": true,
+          "title": "- 03:20:00 a car shootout between x's crew and some ran",
+          "description": "- 03:20:00 a car shootout between x's crew and some randos' crew (thinking it's 4head's crew), x's crew wins the shootout but x and Tony are incapacitated in the process",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d14_evt_019_03_19_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:19:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h19m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
