@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15833,6 +15833,47 @@
           "image": "/images/frames/d14_evt_010_02_01_30.jpg",
           "imageCaption": "Stream snapshot @ 02:01:30",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h01m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-011",
+          "timestamp": "02:05:10",
+          "seconds": 7510,
+          "isMajor": true,
+          "title": "- 02:06:10 m1 calls x",
+          "description": "- 02:06:10 M1 calls x, M1 says there has been a cyber attack on all pawn shops and no one is able to do any runners, they're meeting shortly",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_011_02_05_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h05m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-012",
+          "timestamp": "02:10:45",
+          "seconds": 7845,
+          "isMajor": true,
+          "title": "- 02:14:50 m1 arrives",
+          "description": "- 02:14:50 M1 arrives, he says that they need to find who the hackers are, he's setting up a meeting with all pawn shop owners, x group calls the crew passing them the news, there is going to be tension with 4head since he took down Lang yesterday at the wheat farms",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d14_evt_012_02_10_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:10:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h10m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
