@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e",
       "kickStreamUrl": "",
-      "eventsCount": 24,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d13-evt-001",
@@ -15215,6 +15215,70 @@
           "imageCaption": "Stream snapshot @ 03:58:40",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=03h58m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=14318"
+        },
+        {
+          "id": "d13-evt-025",
+          "timestamp": "04:04:35",
+          "seconds": 14675,
+          "isMajor": true,
+          "title": "- 04:06:03 marty is sus of lang",
+          "description": "- 04:06:03 Marty is sus of Lang, Lang asked if he can sell a bunch of items at the pawn shop and then he shows up a 150 items (gold chains and other items) saying that he's got them scuba diving, both Marty and x don't believe that the items are his",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d13_evt_025_04_04_35.jpg",
+          "imageCaption": "Stream snapshot @ 04:04:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h04m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=14673"
+        },
+        {
+          "id": "d13-evt-026",
+          "timestamp": "04:06:48",
+          "seconds": 14808,
+          "isMajor": true,
+          "title": "- 04:14:15 the post girl enters burger shot where x is ",
+          "description": "- 04:14:15 the post girl enters burger shot where x is and says that she has mail for Jean Paul, x is afraid that she's going to serve him his fine (from getting arrested yesterday) and he leaves burger shot using the back door, he pretends to be Jason Polam (classic) and robs her at gun point, she says the letter is from Chatterbox, she reads the letter to x (it's a long message but it's mainly about x wanting him to shoot Ramasquamy again during the mayors debate today but not handing him a gun, there is more to it too) she also hands x a set of dice, it was part of the package",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d13_evt_026_04_06_48.jpg",
+          "imageCaption": "Stream snapshot @ 04:06:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h06m48s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=14806"
+        },
+        {
+          "id": "d13-evt-027",
+          "timestamp": "04:16:35",
+          "seconds": 15395,
+          "isMajor": true,
+          "title": "- 04:18:03 chatterbox runs away",
+          "description": "- 04:18:03 Chatterbox runs away, Benji was trying to help x find him as well, Benji then says that x should call Ginger",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d13_evt_027_04_16_35.jpg",
+          "imageCaption": "Stream snapshot @ 04:16:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h16m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=15393"
         }
       ],
       "characterInfo": {
