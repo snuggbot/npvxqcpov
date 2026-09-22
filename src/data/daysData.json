@@ -15638,10 +15638,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wn79fc/nopixel_v_day_14_recap_sep_22nd_xqcs_pov_with/",
       "updated": "2026-09-22T11:47:51+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2881171681",
+      "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15659,7 +15659,7 @@
           ],
           "image": "/images/frames/d14_evt_001_30_08_00.jpg",
           "imageCaption": "Stream snapshot @ 30:08:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=30h08m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=30h08m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15678,7 +15678,7 @@
           ],
           "image": "/images/frames/d14_evt_002_00_52_35.jpg",
           "imageCaption": "Stream snapshot @ 00:52:35",
-          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h52m35s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h52m35s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15697,7 +15697,7 @@
           ],
           "image": "/images/frames/d14_evt_003_00_56_50.jpg",
           "imageCaption": "Stream snapshot @ 00:56:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h56m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h56m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15716,7 +15716,26 @@
           ],
           "image": "/images/frames/d14_evt_004_01_18_40.jpg",
           "imageCaption": "Stream snapshot @ 01:18:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h18m40s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h18m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-005",
+          "timestamp": "01:29:20",
+          "seconds": 5360,
+          "isMajor": true,
+          "title": "- 01:31:40 the crew discuss the plan",
+          "description": "- 01:31:40 the crew discuss the plan, they want to hold the spot and take control first that's priority, they will also have scuba gear just in case, they're inviting Zuck along as a sixth man",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_005_01_29_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:29:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h29m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
