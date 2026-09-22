@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e",
       "kickStreamUrl": "",
-      "eventsCount": 36,
+      "eventsCount": 39,
       "events": [
         {
           "id": "d13-evt-001",
@@ -15462,6 +15462,64 @@
           "imageCaption": "Stream snapshot @ 07:39:50",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=07h39m50s",
           "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=27588"
+        },
+        {
+          "id": "d13-evt-037",
+          "timestamp": "07:55:50",
+          "seconds": 28550,
+          "isMajor": true,
+          "title": "- 07:56:05 x looks at the shipment progress using the l",
+          "description": "- 07:56:05 x looks at the shipment progress using the laptop at the docks, their progress is at 140/150, seems like their shipment will be the first to depart, it says the ETD is in 7 hours",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_037_07_55_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:55:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=07h55m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=28548"
+        },
+        {
+          "id": "d13-evt-038",
+          "timestamp": "08:20:30",
+          "seconds": 30030,
+          "isMajor": true,
+          "title": "- 08:20:45 x and marty investigate a bunch of doors wit",
+          "description": "- 08:20:45 x and Marty investigate a bunch of doors with electrical symbols that are locked but can't be broken into, it says that the security system is too advanced",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d13_evt_038_08_20_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:20:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=08h20m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=30028"
+        },
+        {
+          "id": "d13-evt-039",
+          "timestamp": "08:38:48",
+          "seconds": 31128,
+          "isMajor": true,
+          "title": "- 08:41:00 they find a locked door with an e symbol nex",
+          "description": "- 08:41:00 they find a locked door with an E symbol next to it!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_039_08_38_48.jpg",
+          "imageCaption": "Stream snapshot @ 08:38:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=08h38m48s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=31126"
         }
       ],
       "characterInfo": {
