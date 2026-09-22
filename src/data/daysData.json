@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15660,6 +15660,63 @@
           "image": "/images/frames/d14_evt_001_30_08_00.jpg",
           "imageCaption": "Stream snapshot @ 30:08:00",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=30h08m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-002",
+          "timestamp": "00:52:35",
+          "seconds": 3155,
+          "isMajor": false,
+          "title": "Logs in and starts day 14",
+          "description": "x logs in and starts day 14",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_002_00_52_35.jpg",
+          "imageCaption": "Stream snapshot @ 00:52:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h52m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-003",
+          "timestamp": "00:58:40",
+          "seconds": 3520,
+          "isMajor": true,
+          "title": "- 01:00:20 the crew tries the new feature (group call)",
+          "description": "- 01:00:20 the crew tries the new feature (group call), apparently the runners can't do any pawn contracts anymore, it says suspended, they plan on defending their ship that's departing soon",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_003_00_58_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:58:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h58m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-004",
+          "timestamp": "01:02:30",
+          "seconds": 3750,
+          "isMajor": true,
+          "title": "- 01:03:10 they're preparing for the shipment heist at ",
+          "description": "- 01:03:10 they're preparing for the shipment heist at the docks",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_004_01_02_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:02:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h02m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
