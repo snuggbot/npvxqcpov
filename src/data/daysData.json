@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e",
       "kickStreamUrl": "",
-      "eventsCount": 32,
+      "eventsCount": 36,
       "events": [
         {
           "id": "d13-evt-001",
@@ -15383,6 +15383,85 @@
           "imageCaption": "Stream snapshot @ 05:20:00",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=05h20m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=19198"
+        },
+        {
+          "id": "d13-evt-033",
+          "timestamp": "05:34:50",
+          "seconds": 20090,
+          "isMajor": false,
+          "title": "They rob houses",
+          "description": "they rob houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_033_05_34_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:34:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=05h34m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=20088"
+        },
+        {
+          "id": "d13-evt-034",
+          "timestamp": "07:08:20",
+          "seconds": 25700,
+          "isMajor": true,
+          "title": "- 07:31:50 x and marty meet up with mr",
+          "description": "- 07:31:50 x and Marty meet up with Mr. C at the casino, they help Mr. C with a technical issue with one of his computers, Mr. C is also conducting a security training for the staff at the casino, he asks x and Marty to hide anywhere in the casino except the elevators and if they can manage to stay hidden for 10 minutes he will give them access to room 503 (room 503 is tied to the casino heist in Nopixel 4.0), the security team will be looking for x and Marty using security cameras only and not on foot",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d13_evt_034_07_08_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:08:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=07h08m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=25698"
+        },
+        {
+          "id": "d13-evt-035",
+          "timestamp": "07:31:50",
+          "seconds": 27110,
+          "isMajor": true,
+          "title": "- 07:34:00 (x looks at other streams of their pov searc",
+          "description": "- 07:34:00 (x looks at other streams of their pov searching for him), x is found",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d13_evt_035_07_31_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:31:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=07h31m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=27108"
+        },
+        {
+          "id": "d13-evt-036",
+          "timestamp": "07:39:50",
+          "seconds": 27590,
+          "isMajor": true,
+          "title": "- 07:40:00 marty texts x saying that he's managed to st",
+          "description": "- 07:40:00 Marty texts x saying that he's managed to stay hidden for 14 minutes and that they've won even thought x was found",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d13_evt_036_07_39_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:39:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=07h39m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=27588"
         }
       ],
       "characterInfo": {
