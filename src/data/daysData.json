@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15935,6 +15935,63 @@
           "image": "/images/frames/d14_evt_015_02_27_45.jpg",
           "imageCaption": "Stream snapshot @ 02:27:45",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h27m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-016",
+          "timestamp": "02:52:50",
+          "seconds": 10370,
+          "isMajor": true,
+          "title": "- 02:53:10 ginger texts x saying that there was a messa",
+          "description": "- 02:53:10 Ginger texts x saying that there was a message playing through the radio similar to the other messages related to Epsilon, x rushes to the car to turn on the radio and hears nothing, Ginger texts x later that she couldn't really hear what the message said",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_016_02_52_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:52:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h52m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-017",
+          "timestamp": "03:00:15",
+          "seconds": 10815,
+          "isMajor": true,
+          "title": "- 03:01:02 ginger calls x saying that while driving up ",
+          "description": "- 03:01:02 Ginger calls x saying that while driving up north, they can listen to radio station called blaine county, people will hear different things listening to the radio, x is going to investigate this!",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_017_03_00_15.jpg",
+          "imageCaption": "Stream snapshot @ 03:00:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h00m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-018",
+          "timestamp": "03:03:50",
+          "seconds": 11030,
+          "isMajor": true,
+          "title": "- 03:06:30 they arrive up north and start listening to ",
+          "description": "- 03:06:30 they arrive up north and start listening to the radio station, nothing seems abnormal",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_018_03_03_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:03:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h03m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
