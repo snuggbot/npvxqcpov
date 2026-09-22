@@ -14725,7 +14725,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2880410519",
       "kickVod": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 32,
       "events": [
         {
           "id": "d13-evt-001",
@@ -15341,6 +15341,48 @@
           "imageCaption": "Stream snapshot @ 04:36:10",
           "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h36m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=16568"
+        },
+        {
+          "id": "d13-evt-031",
+          "timestamp": "04:39:55",
+          "seconds": 16795,
+          "isMajor": true,
+          "title": "- 04:44:35 x explains the lang situation to tony",
+          "description": "- 04:44:35 x explains the Lang situation to Tony, Tony says that they should test it and do scuba diving for a while and see if Lang's statement stands or not",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d13_evt_031_04_39_55.jpg",
+          "imageCaption": "Stream snapshot @ 04:39:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=04h39m55s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=16793"
+        },
+        {
+          "id": "d13-evt-032",
+          "timestamp": "05:20:00",
+          "seconds": 19200,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Tony and Marty and dora exploring",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d13_evt_032_05_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2880410519?t=05h20m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0c55c-cb20-78a4-979d-7c22dc9ad04e?t=19198"
         }
       ],
       "characterInfo": {
