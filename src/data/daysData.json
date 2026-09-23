@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 23,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16089,6 +16089,26 @@
           "image": "/images/frames/d14_evt_023_05_11_48.jpg",
           "imageCaption": "Stream snapshot @ 05:11:48",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h11m48s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-024",
+          "timestamp": "05:18:50",
+          "seconds": 19130,
+          "isMajor": true,
+          "title": "- 05:23:05 they arrive at mount chiliad",
+          "description": "- 05:23:05 they arrive at mount Chiliad, x spots a radio and it starts playing another voice message, Marty clicks on the wifi symbol on his phone as the voice message plays and it opens up an app, x does the same and he sees an app called 'ROACH' and it requires 25k$ to download which he accepts and downloads, he sees a page that has source code in it with different links that don't actually work, it looks like they will have to go to different locations to access each link",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d14_evt_024_05_18_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:18:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h18m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
