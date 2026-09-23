@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 24,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16109,6 +16109,66 @@
           "image": "/images/frames/d14_evt_024_05_18_50.jpg",
           "imageCaption": "Stream snapshot @ 05:18:50",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h18m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-025",
+          "timestamp": "05:34:35",
+          "seconds": 20075,
+          "isMajor": true,
+          "title": "- 05:44:00 marty finds one of the sites they can access",
+          "description": "- 05:44:00 Marty finds one of the sites they can access, it's a puzzle that leads to another site, another puzzle, x and Marty believe that the answer is to go to the radio placed on Epsilon island",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d14_evt_025_05_34_35.jpg",
+          "imageCaption": "Stream snapshot @ 05:34:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h34m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-026",
+          "timestamp": "05:57:50",
+          "seconds": 21470,
+          "isMajor": true,
+          "title": "- 05:58:30 tony calls x saying that they got access to ",
+          "description": "- 05:58:30 Tony calls x saying that they got access to the next link and that he needs to group up with them again",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d14_evt_026_05_57_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:57:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h57m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-027",
+          "timestamp": "06:04:15",
+          "seconds": 21855,
+          "isMajor": true,
+          "title": "- 06:08:35 they group up and access the link",
+          "description": "- 06:08:35 they group up and access the link, Marty says that it seems to point to a location again, a radio transmission plays (plays a similar message like the old ones), x receives a phone notification from Nu Epsilon (on the government app) that says follow the E, they decide to go to Chumash Pier",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d14_evt_027_06_04_15.jpg",
+          "imageCaption": "Stream snapshot @ 06:04:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=06h04m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
