@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 22,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16070,6 +16070,25 @@
           "image": "/images/frames/d14_evt_022_04_54_52.jpg",
           "imageCaption": "Stream snapshot @ 04:54:52",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=04h54m52s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-023",
+          "timestamp": "05:11:48",
+          "seconds": 18708,
+          "isMajor": true,
+          "title": "- 05:15:14 another weird transmission from the radio",
+          "description": "- 05:15:14 another weird transmission from the radio, it's a long voice message full of hints, it seems to be hinting at multiple locations, they're heading to the most obvious one mount Chiliad",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_023_05_11_48.jpg",
+          "imageCaption": "Stream snapshot @ 05:11:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h11m48s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
