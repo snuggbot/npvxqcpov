@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882100152",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d15-evt-001",
@@ -16952,6 +16952,27 @@
           "image": "/images/frames/d15_evt_016_02_14_50.jpg",
           "imageCaption": "Stream snapshot @ 02:14:50",
           "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=02h14m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-017",
+          "timestamp": "02:16:13",
+          "seconds": 8173,
+          "isMajor": true,
+          "title": "- 02:36:00 they arrive at the first location",
+          "description": "- 02:36:00 they arrive at the first location, the door is locked and there is a keypad, they need to find a keycard, Marty uses one of the codes to get the keycard and hacks the main door using it, Marty has to use the keycard to unlock the safes inside the house, they exchange gunshots with a few residents and the cops arrive, Tony is downed in the process, x hides Tony, x is trying to get back in the house since there is a resident (NPC) that they need to speak to in order to get the next location but the cops are inside the house too, eventually a cop spots x and asks him to leave the area which he does",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d15_evt_017_02_16_13.jpg",
+          "imageCaption": "Stream snapshot @ 02:16:13",
+          "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=02h16m13s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
