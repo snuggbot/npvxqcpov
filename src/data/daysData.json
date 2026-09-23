@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882233662",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 20,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d15-evt-001",
@@ -17030,6 +17030,63 @@
           "image": "/images/frames/d15_evt_020_02_45_00.jpg",
           "imageCaption": "Stream snapshot @ 02:45:00",
           "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h45m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-021",
+          "timestamp": "02:59:00",
+          "seconds": 10740,
+          "isMajor": false,
+          "title": "(worldwide stream f)",
+          "description": "(worldwide stream F)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_021_02_59_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:59:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h59m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-022",
+          "timestamp": "00:02:20",
+          "seconds": 140,
+          "isMajor": true,
+          "title": "Logs back in",
+          "description": "x logs back in, he's still incapacitated",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_022_00_02_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:02:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h02m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-023",
+          "timestamp": "00:03:30",
+          "seconds": 210,
+          "isMajor": true,
+          "title": "- 00:04:00 they rob x's body and get the key off of him",
+          "description": "- 00:04:00 they rob x's body and get the key off of him",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_023_00_03_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:03:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h03m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
