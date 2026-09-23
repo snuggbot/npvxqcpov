@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 35,
+      "eventsCount": 37,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16323,6 +16323,47 @@
           "image": "/images/frames/d14_evt_035_10_09_30.jpg",
           "imageCaption": "Stream snapshot @ 10:09:30",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=10h09m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-036",
+          "timestamp": "10:24:49",
+          "seconds": 37489,
+          "isMajor": true,
+          "title": "- 10:40:50 they find the next clue at the door with the",
+          "description": "- 10:40:50 they find the next clue at the door with the E symbol near the power station, they solve the puzzle and get the code which unlocks the door, inside they play a tape with another voice message",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_036_10_24_49.jpg",
+          "imageCaption": "Stream snapshot @ 10:24:49",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=10h24m49s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-037",
+          "timestamp": "10:45:55",
+          "seconds": 38755,
+          "isMajor": true,
+          "title": "- 10:47:05 they drive to the other door with the e symb",
+          "description": "- 10:47:05 they drive to the other door with the E symbol next to it, Marty and Lang can see the next clue but x and Tony can't since they never entered the code to the previous door so they will have to drive back and do it",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d14_evt_037_10_45_55.jpg",
+          "imageCaption": "Stream snapshot @ 10:45:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=10h45m55s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
