@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 37,
+      "eventsCount": 39,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16364,6 +16364,45 @@
           "image": "/images/frames/d14_evt_037_10_45_55.jpg",
           "imageCaption": "Stream snapshot @ 10:45:55",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=10h45m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-038",
+          "timestamp": "10:56:05",
+          "seconds": 39365,
+          "isMajor": true,
+          "title": "- 11:15:30 x and tony can now see the next clue after r",
+          "description": "- 11:15:30 x and Tony can now see the next clue after redoing the previous puzzle, they have more codes to decrypt, they solve the puzzle and the door opens, inside is another tape to play (the tape seems to be scuffed and won't play)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d14_evt_038_10_56_05.jpg",
+          "imageCaption": "Stream snapshot @ 10:56:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=10h56m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-039",
+          "timestamp": "11:21:25",
+          "seconds": 40885,
+          "isMajor": true,
+          "title": "- 11:37:50 they listen to the new tape and explore the ",
+          "description": "- 11:37:50 they listen to the new tape and explore the place, it has a bunch of drawings and writings, they explore even deeper which leads to a locked door with a keypad, they get yet another clue",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_039_11_21_25.jpg",
+          "imageCaption": "Stream snapshot @ 11:21:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=11h21m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
