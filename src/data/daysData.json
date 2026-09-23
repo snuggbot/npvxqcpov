@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882100152",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d15-evt-001",
@@ -16658,6 +16658,64 @@
           "image": "/images/frames/d15_evt_001_43_55_00.jpg",
           "imageCaption": "Stream snapshot @ 43:55:00",
           "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=43h55m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-002",
+          "timestamp": "00:52:30",
+          "seconds": 3150,
+          "isMajor": false,
+          "title": "Logs in and starts day 15!",
+          "description": "x logs in and starts day 15!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_002_00_52_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:52:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=00h52m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-003",
+          "timestamp": "00:52:50",
+          "seconds": 3170,
+          "isMajor": false,
+          "title": "Calls the crew",
+          "description": "x calls the crew, they still can't do the boat heist since the pawn shop numbers haven't changed, the crew is scuba diving atm, x is going to burger shot to work a little bit until they're done",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_003_00_52_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:52:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=00h52m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-004",
+          "timestamp": "00:56:45",
+          "seconds": 3405,
+          "isMajor": false,
+          "title": "Arrives and clocks in at burger shot",
+          "description": "x arrives and clocks in at burger shot",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_004_00_56_45.jpg",
+          "imageCaption": "Stream snapshot @ 00:56:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=00h56m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
