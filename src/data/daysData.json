@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 39,
+      "eventsCount": 41,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16403,6 +16403,44 @@
           "image": "/images/frames/d14_evt_039_11_21_25.jpg",
           "imageCaption": "Stream snapshot @ 11:21:25",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=11h21m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-040",
+          "timestamp": "11:55:30",
+          "seconds": 42930,
+          "isMajor": true,
+          "title": "- 11:57:40 x finds another clue",
+          "description": "- 11:57:40 x finds another clue, they're yet to get the code to the locked door with the keypad, however the next clue points to the Del Perro Pier (aka Dean's world)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_040_11_55_30.jpg",
+          "imageCaption": "Stream snapshot @ 11:55:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=11h55m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-041",
+          "timestamp": "12:09:30",
+          "seconds": 43770,
+          "isMajor": false,
+          "title": "They arrive at del perro pier",
+          "description": "they arrive at Del Perro Pier, it leads to nothing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_041_12_09_30.jpg",
+          "imageCaption": "Stream snapshot @ 12:09:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=12h09m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
