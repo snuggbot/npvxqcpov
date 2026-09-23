@@ -15638,10 +15638,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wn79fc/nopixel_v_day_14_recap_sep_22nd_xqcs_pov_with/",
       "updated": "2026-09-22T11:47:51+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 28,
+      "eventsCount": 32,
       "events": [
         {
           "id": "d14-evt-001",
@@ -15659,7 +15659,7 @@
           ],
           "image": "/images/frames/d14_evt_001_30_08_00.jpg",
           "imageCaption": "Stream snapshot @ 30:08:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=30h08m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=30h08m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15678,7 +15678,7 @@
           ],
           "image": "/images/frames/d14_evt_002_00_52_35.jpg",
           "imageCaption": "Stream snapshot @ 00:52:35",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h52m35s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h52m35s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15697,7 +15697,7 @@
           ],
           "image": "/images/frames/d14_evt_003_00_56_50.jpg",
           "imageCaption": "Stream snapshot @ 00:56:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h56m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=00h56m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15716,7 +15716,7 @@
           ],
           "image": "/images/frames/d14_evt_004_01_18_40.jpg",
           "imageCaption": "Stream snapshot @ 01:18:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h18m40s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h18m40s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15735,7 +15735,7 @@
           ],
           "image": "/images/frames/d14_evt_005_01_29_20.jpg",
           "imageCaption": "Stream snapshot @ 01:29:20",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h29m20s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h29m20s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15754,7 +15754,7 @@
           ],
           "image": "/images/frames/d14_evt_006_01_35_40.jpg",
           "imageCaption": "Stream snapshot @ 01:35:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h35m40s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h35m40s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15775,7 +15775,7 @@
           ],
           "image": "/images/frames/d14_evt_007_01_36_15.jpg",
           "imageCaption": "Stream snapshot @ 01:36:15",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h36m15s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h36m15s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15794,7 +15794,7 @@
           ],
           "image": "/images/frames/d14_evt_008_01_50_00.jpg",
           "imageCaption": "Stream snapshot @ 01:50:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h50m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h50m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15813,7 +15813,7 @@
           ],
           "image": "/images/frames/d14_evt_009_01_54_25.jpg",
           "imageCaption": "Stream snapshot @ 01:54:25",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h54m25s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=01h54m25s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15832,7 +15832,7 @@
           ],
           "image": "/images/frames/d14_evt_010_02_01_30.jpg",
           "imageCaption": "Stream snapshot @ 02:01:30",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h01m30s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h01m30s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15851,7 +15851,7 @@
           ],
           "image": "/images/frames/d14_evt_011_02_05_10.jpg",
           "imageCaption": "Stream snapshot @ 02:05:10",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h05m10s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h05m10s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15873,7 +15873,7 @@
           ],
           "image": "/images/frames/d14_evt_012_02_10_45.jpg",
           "imageCaption": "Stream snapshot @ 02:10:45",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h10m45s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h10m45s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15892,7 +15892,7 @@
           ],
           "image": "/images/frames/d14_evt_013_02_17_50.jpg",
           "imageCaption": "Stream snapshot @ 02:17:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h17m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h17m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15913,7 +15913,7 @@
           ],
           "image": "/images/frames/d14_evt_014_02_21_15.jpg",
           "imageCaption": "Stream snapshot @ 02:21:15",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h21m15s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h21m15s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15934,7 +15934,7 @@
           ],
           "image": "/images/frames/d14_evt_015_02_27_45.jpg",
           "imageCaption": "Stream snapshot @ 02:27:45",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h27m45s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h27m45s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15953,7 +15953,7 @@
           ],
           "image": "/images/frames/d14_evt_016_02_52_50.jpg",
           "imageCaption": "Stream snapshot @ 02:52:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h52m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=02h52m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15972,7 +15972,7 @@
           ],
           "image": "/images/frames/d14_evt_017_03_00_15.jpg",
           "imageCaption": "Stream snapshot @ 03:00:15",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h00m15s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h00m15s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -15991,7 +15991,7 @@
           ],
           "image": "/images/frames/d14_evt_018_03_03_50.jpg",
           "imageCaption": "Stream snapshot @ 03:03:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h03m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h03m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16012,7 +16012,7 @@
           ],
           "image": "/images/frames/d14_evt_019_03_19_00.jpg",
           "imageCaption": "Stream snapshot @ 03:19:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h19m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h19m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16031,7 +16031,7 @@
           ],
           "image": "/images/frames/d14_evt_020_04_38_10.jpg",
           "imageCaption": "Stream snapshot @ 04:38:10",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=04h38m10s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=04h38m10s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16050,7 +16050,7 @@
           ],
           "image": "/images/frames/d14_evt_021_04_51_25.jpg",
           "imageCaption": "Stream snapshot @ 04:51:25",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=04h51m25s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=04h51m25s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16069,7 +16069,7 @@
           ],
           "image": "/images/frames/d14_evt_022_04_54_52.jpg",
           "imageCaption": "Stream snapshot @ 04:54:52",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=04h54m52s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=04h54m52s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16088,7 +16088,7 @@
           ],
           "image": "/images/frames/d14_evt_023_05_11_48.jpg",
           "imageCaption": "Stream snapshot @ 05:11:48",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h11m48s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h11m48s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16108,7 +16108,7 @@
           ],
           "image": "/images/frames/d14_evt_024_05_18_50.jpg",
           "imageCaption": "Stream snapshot @ 05:18:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h18m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h18m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16128,7 +16128,7 @@
           ],
           "image": "/images/frames/d14_evt_025_05_34_35.jpg",
           "imageCaption": "Stream snapshot @ 05:34:35",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h34m35s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h34m35s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16148,7 +16148,7 @@
           ],
           "image": "/images/frames/d14_evt_026_05_57_50.jpg",
           "imageCaption": "Stream snapshot @ 05:57:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h57m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=05h57m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16168,7 +16168,7 @@
           ],
           "image": "/images/frames/d14_evt_027_06_04_15.jpg",
           "imageCaption": "Stream snapshot @ 06:04:15",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h04m15s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=06h04m15s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -16187,7 +16187,84 @@
           ],
           "image": "/images/frames/d14_evt_028_06_23_00.jpg",
           "imageCaption": "Stream snapshot @ 06:23:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h23m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=06h23m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-029",
+          "timestamp": "06:34:50",
+          "seconds": 23690,
+          "isMajor": false,
+          "title": "They arrive at the locked door with the e symbol painte",
+          "description": "they arrive at the locked door with the E symbol painted next to it but it's still locked",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_029_06_34_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:34:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=06h34m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-030",
+          "timestamp": "07:02:10",
+          "seconds": 25330,
+          "isMajor": false,
+          "title": "They arrive at mount chiliad again but that leads to no",
+          "description": "they arrive at mount Chiliad again but that leads to nowhere",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_030_07_02_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:02:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=07h02m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-031",
+          "timestamp": "07:03:15",
+          "seconds": 25395,
+          "isMajor": true,
+          "title": "- 07:06:40 lang loses his mind",
+          "description": "- 07:06:40 Lang loses his mind, the crew calms him down and escort him to safety",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d14_evt_031_07_03_15.jpg",
+          "imageCaption": "Stream snapshot @ 07:03:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=07h03m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-032",
+          "timestamp": "07:09:20",
+          "seconds": 25760,
+          "isMajor": false,
+          "title": "Keeps ginger ale in the loop by texting her but he lies",
+          "description": "x keeps Ginger Ale in the loop by texting her but he lies to the crew saying he's not telling anyone about anything",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_032_07_09_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:09:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=07h09m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
