@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 33,
+      "eventsCount": 35,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16284,6 +16284,45 @@
           "image": "/images/frames/d14_evt_033_07_59_00.jpg",
           "imageCaption": "Stream snapshot @ 07:59:00",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=07h59m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-034",
+          "timestamp": "09:34:40",
+          "seconds": 34480,
+          "isMajor": true,
+          "title": "- 09:35:15 after a bunch of exploring they find another",
+          "description": "- 09:35:15 after a bunch of exploring they find another door with an E symbol next to it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_034_09_34_40.jpg",
+          "imageCaption": "Stream snapshot @ 09:34:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=09h34m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-035",
+          "timestamp": "10:09:30",
+          "seconds": 36570,
+          "isMajor": true,
+          "title": "- 10:18:41 marty finds the next clue",
+          "description": "- 10:18:41 Marty finds the next clue, they get a new signal next to a very big old tree near Alamo sea, they believe the next clue lies at the dam",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d14_evt_035_10_09_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:09:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=10h09m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
