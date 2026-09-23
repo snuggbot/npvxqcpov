@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 32,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16265,6 +16265,25 @@
           "image": "/images/frames/d14_evt_032_07_09_20.jpg",
           "imageCaption": "Stream snapshot @ 07:09:20",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=07h09m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-033",
+          "timestamp": "07:59:00",
+          "seconds": 28740,
+          "isMajor": false,
+          "title": "They arrive at the observatory but it leads to nothing",
+          "description": "they arrive at the observatory but it leads to nothing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_033_07_59_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:59:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=07h59m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
