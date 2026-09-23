@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882100152",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d15-evt-001",
@@ -16705,7 +16705,7 @@
           "seconds": 3405,
           "isMajor": false,
           "title": "Arrives and clocks in at burger shot",
-          "description": "x arrives and clocks in at burger shot",
+          "description": "x arrives and clocks in at burger shot, he works solo at burger shot, struggles a bit but manages to fulfill a few orders",
           "category": "job",
           "tags": [
             "job"
@@ -16716,6 +16716,64 @@
           "image": "/images/frames/d15_evt_004_00_56_45.jpg",
           "imageCaption": "Stream snapshot @ 00:56:45",
           "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=00h56m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-005",
+          "timestamp": "01:06:25",
+          "seconds": 3985,
+          "isMajor": false,
+          "title": "Receives a call from a stranger",
+          "description": "x receives a call from a stranger, she says that Marty told her to call him but x believes it was the clowns behind it, x saves the number of the person that asked her to call him",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d15_evt_005_01_06_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=01h06m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-006",
+          "timestamp": "01:07:55",
+          "seconds": 4075,
+          "isMajor": false,
+          "title": "Calls the number and it turns out to be the clown again",
+          "description": "x calls the number and it turns out to be the clown again calling him banana boy",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_006_01_07_55.jpg",
+          "imageCaption": "Stream snapshot @ 01:07:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=01h07m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-007",
+          "timestamp": "01:10:00",
+          "seconds": 4200,
+          "isMajor": false,
+          "title": "Continues to take orders at burger shot",
+          "description": "x continues to take orders at burger shot",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_007_01_10_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:10:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2882100152?t=01h10m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
