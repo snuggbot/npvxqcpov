@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882233662",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 23,
+      "eventsCount": 28,
       "events": [
         {
           "id": "d15-evt-001",
@@ -17087,6 +17087,102 @@
           "image": "/images/frames/d15_evt_023_00_03_30.jpg",
           "imageCaption": "Stream snapshot @ 00:03:30",
           "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h03m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-024",
+          "timestamp": "00:11:30",
+          "seconds": 690,
+          "isMajor": true,
+          "title": "- 00:13:00 a cop arrives at x's body",
+          "description": "- 00:13:00 a cop arrives at x's body, the crew gets treated by EMS and then escorted to the hospital",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_024_00_11_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:11:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h11m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-025",
+          "timestamp": "00:15:40",
+          "seconds": 940,
+          "isMajor": true,
+          "title": "- 00:16:30 they arrive at the hospital",
+          "description": "- 00:16:30 they arrive at the hospital, get further treatment",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_025_00_15_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:15:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h15m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-026",
+          "timestamp": "00:19:05",
+          "seconds": 1145,
+          "isMajor": true,
+          "title": "- 00:21:00 the cops request a statement from x",
+          "description": "- 00:21:00 the cops request a statement from x, he refuses to give a statement and leaves",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_026_00_19_05.jpg",
+          "imageCaption": "Stream snapshot @ 00:19:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h19m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-027",
+          "timestamp": "00:22:55",
+          "seconds": 1375,
+          "isMajor": true,
+          "title": "- 00:23:53 m1 calls x",
+          "description": "- 00:23:53 M1 calls x, x acts like everything is under control, M1 says he's going to call him back",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_027_00_22_55.jpg",
+          "imageCaption": "Stream snapshot @ 00:22:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h22m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-028",
+          "timestamp": "00:25:45",
+          "seconds": 1545,
+          "isMajor": true,
+          "title": "- 00:26:00 apparently the guys they exchanged gunfire w",
+          "description": "- 00:26:00 apparently the guys they exchanged gunfire with didn't rob x so he's not missing any items",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_028_00_25_45.jpg",
+          "imageCaption": "Stream snapshot @ 00:25:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=00h25m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
