@@ -15641,7 +15641,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2881171681",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 22,
       "events": [
         {
           "id": "d14-evt-001",
@@ -16013,6 +16013,63 @@
           "image": "/images/frames/d14_evt_019_03_19_00.jpg",
           "imageCaption": "Stream snapshot @ 03:19:00",
           "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=03h19m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-020",
+          "timestamp": "04:38:10",
+          "seconds": 16690,
+          "isMajor": true,
+          "title": "- 04:39:05 x opens a link sent from ginger and it reads",
+          "description": "- 04:39:05 x opens a link sent from Ginger and it reads the below note",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_020_04_38_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:38:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=04h38m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-021",
+          "timestamp": "04:51:25",
+          "seconds": 17485,
+          "isMajor": false,
+          "title": "They look at the cargo progress (after server reset) an",
+          "description": "they look at the cargo progress (after server reset) and it's still the same",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_021_04_51_25.jpg",
+          "imageCaption": "Stream snapshot @ 04:51:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=04h51m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d14-evt-022",
+          "timestamp": "04:54:52",
+          "seconds": 17692,
+          "isMajor": true,
+          "title": "- 04:55:30 x opens 4 more links sent by ginger which le",
+          "description": "- 04:55:30 x opens 4 more links sent by Ginger which leads to 4 different notes:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d14_evt_022_04_54_52.jpg",
+          "imageCaption": "Stream snapshot @ 04:54:52",
+          "twitchUrl": "https://www.twitch.tv/videos/2881171681?t=04h54m52s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
