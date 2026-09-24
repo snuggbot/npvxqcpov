@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882233662",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 46,
+      "eventsCount": 48,
       "events": [
         {
           "id": "d15-evt-001",
@@ -17540,6 +17540,44 @@
           "image": "/images/frames/d15_evt_046_04_15_05.jpg",
           "imageCaption": "Stream snapshot @ 04:15:05",
           "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=04h15m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-047",
+          "timestamp": "04:20:30",
+          "seconds": 15630,
+          "isMajor": true,
+          "title": "- 04:21:40 x's theory about the refinement sequence (th",
+          "description": "- 04:21:40 x's theory about the refinement sequence (the product is tied to the sequence so that the better you get at cooking, you use the most recent sequence to duplicate your best batch and so on)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_047_04_20_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:20:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=04h20m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-048",
+          "timestamp": "04:35:00",
+          "seconds": 16500,
+          "isMajor": true,
+          "title": "- 04:35:30 they take a few photo posing around the tent",
+          "description": "- 04:35:30 they take a few photo posing around the tent and leave for the time being",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_048_04_35_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:35:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=04h35m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
