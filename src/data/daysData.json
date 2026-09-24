@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882233662",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 35,
+      "eventsCount": 39,
       "events": [
         {
           "id": "d15-evt-001",
@@ -17311,8 +17311,88 @@
           "timestamp": "01:52:40",
           "seconds": 6760,
           "isMajor": false,
-          "title": "Meanwhile x is going around looking for answers to the ",
-          "description": "meanwhile x is going around looking for answers to the most recent puzzle",
+          "title": "Meanwhile tony attends the mayor debate while x is goin",
+          "description": "meanwhile Tony attends the mayor debate while x is going around looking for answers to the most recent puzzle",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d15_evt_035_01_52_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:52:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=01h52m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-036",
+          "timestamp": "02:06:55",
+          "seconds": 7615,
+          "isMajor": true,
+          "title": "- 02:07:30 marty calls x saying that they need to get r",
+          "description": "- 02:07:30 Marty calls x saying that they need to get ready to hit the boat cargo in a bit as it seems ready",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d15_evt_036_02_06_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:06:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h06m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-037",
+          "timestamp": "02:12:05",
+          "seconds": 7925,
+          "isMajor": false,
+          "title": "Is incapacitated from thirst and is attended to by vero",
+          "description": "x is incapacitated from thirst and is attended to by Veronica Mars the chief of EMS (role-played by streamer Kate)",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_037_02_12_05.jpg",
+          "imageCaption": "Stream snapshot @ 02:12:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h12m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-038",
+          "timestamp": "02:26:00",
+          "seconds": 8760,
+          "isMajor": true,
+          "title": "- 02:35:00 the crew link up at the docks",
+          "description": "- 02:35:00 the crew link up at the docks, they look at the laptop and there is a new option called 'cargo lock control', they chose the new option and they have to pick the ship name, they pick one and Marty has to do the spot the difference between two images hack from earlier (hack mini game 4), Marty fails the first attempt which consumes 1 breach chip, Tony tries second but he also fails, Tony is going to look at the ship names just to be sure, they use all 4 breach chips without success",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d15_evt_038_02_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-039",
+          "timestamp": "02:46:30",
+          "seconds": 9990,
+          "isMajor": false,
+          "title": "Buys 3 more breach chips",
+          "description": "x buys 3 more breach chips",
           "category": "general",
           "tags": [
             "general"
@@ -17320,9 +17400,9 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d15_evt_035_01_52_40.jpg",
-          "imageCaption": "Stream snapshot @ 01:52:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=01h52m40s",
+          "image": "/images/frames/d15_evt_039_02_46_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:46:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h46m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
