@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882233662",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 39,
+      "eventsCount": 40,
       "events": [
         {
           "id": "d15-evt-001",
@@ -17403,6 +17403,27 @@
           "image": "/images/frames/d15_evt_039_02_46_30.jpg",
           "imageCaption": "Stream snapshot @ 02:46:30",
           "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h46m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-040",
+          "timestamp": "02:51:30",
+          "seconds": 10290,
+          "isMajor": true,
+          "title": "- 03:24:50 they attempt the laptop hack at the docks ag",
+          "description": "- 03:24:50 they attempt the laptop hack at the docks again, x leaves the room to make sure the main door stays open, Marty succeeds, it says that the locks are now broken and they can now grind it but they are not sure which boat is it exactly, they can't tell which ship is which so they have to do it through trial and error, Marty hacks it again, they look at the ships, Lang suggests hacking every option available and then looking at the ships",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d15_evt_040_02_51_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:51:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=02h51m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
