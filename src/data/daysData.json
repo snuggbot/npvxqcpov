@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882233662",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 52,
+      "eventsCount": 56,
       "events": [
         {
           "id": "d15-evt-001",
@@ -17654,6 +17654,83 @@
           "image": "/images/frames/d15_evt_052_05_19_05.jpg",
           "imageCaption": "Stream snapshot @ 05:19:05",
           "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=05h19m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-053",
+          "timestamp": "07:30:20",
+          "seconds": 27020,
+          "isMajor": false,
+          "title": "While x is exploring around trying to find the answer t",
+          "description": "while x is exploring around trying to find the answer to the puzzle he links up with Ginger for a moment",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_053_07_30_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:30:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=07h30m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-054",
+          "timestamp": "07:46:50",
+          "seconds": 28010,
+          "isMajor": true,
+          "title": "- 07:47:47 x notices a clue",
+          "description": "- 07:47:47 x notices a clue",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_054_07_46_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:46:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=07h46m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-055",
+          "timestamp": "07:54:00",
+          "seconds": 28440,
+          "isMajor": true,
+          "title": "- 07:54:50 they try to unlock the door at the foundry u",
+          "description": "- 07:54:50 they try to unlock the door at the foundry using the clue x has noticed but it doesn't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_055_07_54_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:54:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=07h54m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-056",
+          "timestamp": "08:09:10",
+          "seconds": 29350,
+          "isMajor": false,
+          "title": "- 08:09:40 marty says that he's getting a signal at the",
+          "description": "- 08:09:40 Marty says that he's getting a signal at the NEST building but he's not sure if he's at the correct location, he pings x the location",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d15_evt_056_08_09_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:09:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=08h09m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
