@@ -16639,7 +16639,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2882233662",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 48,
+      "eventsCount": 52,
       "events": [
         {
           "id": "d15-evt-001",
@@ -17578,6 +17578,82 @@
           "image": "/images/frames/d15_evt_048_04_35_00.jpg",
           "imageCaption": "Stream snapshot @ 04:35:00",
           "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=04h35m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-049",
+          "timestamp": "04:54:30",
+          "seconds": 17670,
+          "isMajor": true,
+          "title": "- 04:55:10 x changes into a weed cooking outfit",
+          "description": "- 04:55:10 x changes into a weed cooking outfit, apparently the table needs to cooldown and it's very toxic",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_049_04_54_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:54:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=04h54m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-050",
+          "timestamp": "04:57:00",
+          "seconds": 17820,
+          "isMajor": true,
+          "title": "- 04:57:20 x finds the answer to the most recent puzzle",
+          "description": "- 04:57:20 x finds the answer to the most recent puzzle, it's the UFO saucer!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_050_04_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=04h57m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-051",
+          "timestamp": "05:04:00",
+          "seconds": 18240,
+          "isMajor": false,
+          "title": "They switch outfits again",
+          "description": "they switch outfits again",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_051_05_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=05h04m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d15-evt-052",
+          "timestamp": "05:19:05",
+          "seconds": 19145,
+          "isMajor": true,
+          "title": "- 05:25:00 they link up at the saucer",
+          "description": "- 05:25:00 they link up at the saucer, read the next clue and answer it ('patience' is the answer) which points them to the next puzzle, they need to find the next location",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d15_evt_052_05_19_05.jpg",
+          "imageCaption": "Stream snapshot @ 05:19:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2882233662?t=05h19m05s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
