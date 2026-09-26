@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d16-evt-001",
@@ -17927,6 +17927,127 @@
           "image": "/images/frames/d16_evt_006_02_26_00.jpg",
           "imageCaption": "Stream snapshot @ 02:26:00",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=02h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-007",
+          "timestamp": "02:42:10",
+          "seconds": 9730,
+          "isMajor": false,
+          "title": "Runs into tony robbing a house as well",
+          "description": "x runs into Tony robbing a house as well",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d16_evt_007_02_42_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:42:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=02h42m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-008",
+          "timestamp": "02:46:45",
+          "seconds": 10005,
+          "isMajor": true,
+          "title": "- 02:48:39 marty says that there was a big shootout wit",
+          "description": "- 02:48:39 Marty says that there was a big shootout with the Italians last night, they managed to get an Uzi from them, there is a full on war going with them",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d16_evt_008_02_46_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:46:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=02h46m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-009",
+          "timestamp": "02:50:35",
+          "seconds": 10235,
+          "isMajor": false,
+          "title": "Links up with marty",
+          "description": "x links up with Marty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d16_evt_009_02_50_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:50:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=02h50m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-010",
+          "timestamp": "02:54:50",
+          "seconds": 10490,
+          "isMajor": false,
+          "title": "And marty continue robbing houses looking for a grinder",
+          "description": "x and Marty continue robbing houses looking for a grinder",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d16_evt_010_02_54_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:54:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=02h54m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-011",
+          "timestamp": "02:07:10",
+          "seconds": 7630,
+          "isMajor": false,
+          "title": "Receives a call from rambo",
+          "description": "x receives a call from Rambo, he's trying to get in contact with M1, x says that he knows nothing (he believes he was being tested)",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_011_02_07_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:07:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=02h07m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-012",
+          "timestamp": "03:09:10",
+          "seconds": 11350,
+          "isMajor": false,
+          "title": "The crew link up",
+          "description": "the crew link up, Tony passes the Uzi to x",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d16_evt_012_03_09_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:09:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h09m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
