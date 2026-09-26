@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 24,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d16-evt-001",
@@ -18285,6 +18285,65 @@
           "image": "/images/frames/d16_evt_024_05_17_40.jpg",
           "imageCaption": "Stream snapshot @ 05:17:40",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=05h17m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-025",
+          "timestamp": "05:35:20",
+          "seconds": 20120,
+          "isMajor": false,
+          "title": "They go back to robbing houses looking for a grinder",
+          "description": "they go back to robbing houses looking for a grinder",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_025_05_35_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:35:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=05h35m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-026",
+          "timestamp": "05:45:15",
+          "seconds": 20715,
+          "isMajor": false,
+          "title": "Diego calls x looking to cash in the favor they owe him",
+          "description": "Diego calls x looking to cash in the favor they owe him, he's interested in making some of those medium backbags but they cost a lot of materials",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_026_05_45_15.jpg",
+          "imageCaption": "Stream snapshot @ 05:45:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=05h45m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-027",
+          "timestamp": "06:04:50",
+          "seconds": 21890,
+          "isMajor": false,
+          "title": "Jack hartmann calls x asking for his grinder back (mart",
+          "description": "Jack Hartmann calls x asking for his grinder back (Marty stole one from him days ago), Marty says that Jack has stolen 20k from him so he shouldn't be asking for his grinder",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d16_evt_027_06_04_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:04:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=06h04m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
