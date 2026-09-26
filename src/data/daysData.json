@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d16-evt-001",
@@ -18072,6 +18072,63 @@
           "image": "/images/frames/d16_evt_013_03_14_08.jpg",
           "imageCaption": "Stream snapshot @ 03:14:08",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h14m08s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-014",
+          "timestamp": "03:25:40",
+          "seconds": 12340,
+          "isMajor": true,
+          "title": "- 03:27:00 x starts a journal of jean paul using a note",
+          "description": "- 03:27:00 x starts a journal of Jean Paul using a notebook he has, on a different note they still have the diamond for M1",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_014_03_25_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:25:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h25m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-015",
+          "timestamp": "03:30:00",
+          "seconds": 12600,
+          "isMajor": true,
+          "title": "- 03:31:30 they link up with eko's contact person (it's",
+          "description": "- 03:31:30 they link up with Eko's contact person (it's an NPC), they will need to find 3 stores with extra security, more cameras and then get the ledgers only, once that's done then they can meet up with the contact at legion square for further instructions",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_015_03_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h30m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-016",
+          "timestamp": "03:43:25",
+          "seconds": 13405,
+          "isMajor": true,
+          "title": "- 03:45:30 they arrive at one of the stores with height",
+          "description": "- 03:45:30 they arrive at one of the stores with heightened security, they find and hack the safe and get 1.5k in cash and the first ledger",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_016_03_43_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:43:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h43m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
