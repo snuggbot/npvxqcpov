@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 21,
       "events": [
         {
           "id": "d16-evt-001",
@@ -18129,6 +18129,103 @@
           "image": "/images/frames/d16_evt_016_03_43_25.jpg",
           "imageCaption": "Stream snapshot @ 03:43:25",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h43m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-017",
+          "timestamp": "03:52:50",
+          "seconds": 13970,
+          "isMajor": true,
+          "title": "- 03:53:58 they get the second ledger",
+          "description": "- 03:53:58 they get the second ledger",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_017_03_52_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:52:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h52m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-018",
+          "timestamp": "04:05:50",
+          "seconds": 14750,
+          "isMajor": true,
+          "title": "- 04:07:00 they get the third ledger",
+          "description": "- 04:07:00 they get the third ledger",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_018_04_05_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:05:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=04h05m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-019",
+          "timestamp": "04:13:30",
+          "seconds": 15210,
+          "isMajor": true,
+          "title": "- 04:13:45 they find and interact with the contact pers",
+          "description": "- 04:13:45 they find and interact with the contact person at legion square, they hand over the ledgers and get a code for the supply box (4534), they need to go the utool to find the supplies",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_019_04_13_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:13:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=04h13m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-020",
+          "timestamp": "04:20:40",
+          "seconds": 15640,
+          "isMajor": true,
+          "title": "- 04:21:40 marty find the supplies",
+          "description": "- 04:21:40 Marty find the supplies, it's a bunch of radios and a toolbox, they use and test the radios to communicate",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d16_evt_020_04_20_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:20:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=04h20m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-021",
+          "timestamp": "04:25:10",
+          "seconds": 15910,
+          "isMajor": false,
+          "title": "They try to hotwire a helicopter but it doesn't work",
+          "description": "they try to hotwire a helicopter but it doesn't work",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_021_04_25_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:25:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=04h25m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
