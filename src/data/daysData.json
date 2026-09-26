@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d16-evt-001",
@@ -18048,6 +18048,30 @@
           "image": "/images/frames/d16_evt_012_03_09_10.jpg",
           "imageCaption": "Stream snapshot @ 03:09:10",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h09m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-013",
+          "timestamp": "03:14:08",
+          "seconds": 11648,
+          "isMajor": true,
+          "title": "- 03:21:00 they meet up with eko (m1's boss)",
+          "description": "- 03:21:00 they meet up with Eko (M1's Boss), he had a simple transport job with Lang yesterday but the helicopter that was transporting the goods has crashed down at bolingbroke prison, also some documents had made their way out and they're being kept in the back of 24/7s and liquor stores, once they retrieve these documents they will need to hand them over to a contact in legion square and then after that he will give the instructions and tools to break into the prison, they will meet with a contact in Paleto first to get the locations of the stores, Eko suggests that they keep a hostage along, x says that instead of getting pain in money for the job maybe they can get a grinder instead, Eko will ask Mr. C if that can be arranged",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "lore",
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d16_evt_013_03_14_08.jpg",
+          "imageCaption": "Stream snapshot @ 03:14:08",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=03h14m08s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
