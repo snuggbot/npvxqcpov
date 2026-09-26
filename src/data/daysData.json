@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 21,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d16-evt-001",
@@ -18226,6 +18226,65 @@
           "image": "/images/frames/d16_evt_021_04_25_10.jpg",
           "imageCaption": "Stream snapshot @ 04:25:10",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=04h25m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-022",
+          "timestamp": "04:30:17",
+          "seconds": 16217,
+          "isMajor": true,
+          "title": "- 04:30:50 they get a hostage preparing to hit the pris",
+          "description": "- 04:30:50 they get a hostage preparing to hit the prison",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_022_04_30_17.jpg",
+          "imageCaption": "Stream snapshot @ 04:30:17",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=04h30m17s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-023",
+          "timestamp": "04:32:32",
+          "seconds": 16352,
+          "isMajor": true,
+          "title": "- 05:01:20 they arrive at the prison",
+          "description": "- 05:01:20 they arrive at the prison, they take down the guards (NPCs), there are 4 stashes on the inside that they need to find, they find the stashes, they hack them at the same time, x finds a bunch of random items in the box, it seems like they need to make a BLT sandwich for an inmate using the ingredients they found in the stashes, the cops arrive, they negotiate with them using the hostage, Tony takes the ingredients to the inmate and he gets 40k$, also a urine sample, blood sample and hair sample, Tony comes back, they exchange the hostage for safe passage and it turns into a chase, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d16_evt_023_04_32_32.jpg",
+          "imageCaption": "Stream snapshot @ 04:32:32",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=04h32m32s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-024",
+          "timestamp": "05:17:40",
+          "seconds": 19060,
+          "isMajor": true,
+          "title": "- 05:19:35 they meet up with eko",
+          "description": "- 05:19:35 they meet up with Eko, they hand over the samples but keep the money, Eko will stay in touch",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_024_05_17_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:17:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=05h17m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
