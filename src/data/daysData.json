@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 3,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d17-evt-001",
@@ -18791,6 +18791,104 @@
           "image": "/images/frames/d17_evt_003_00_55_25.jpg",
           "imageCaption": "Stream snapshot @ 00:55:25",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=00h55m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-004",
+          "timestamp": "00:59:00",
+          "seconds": 3540,
+          "isMajor": false,
+          "title": "Speaks with zuck",
+          "description": "x speaks with Zuck, x asks him to find connections to buy/get as much steel as possible",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_004_00_59_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:59:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=00h59m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-005",
+          "timestamp": "01:02:09",
+          "seconds": 3729,
+          "isMajor": true,
+          "title": "- 01:06:10 x calls speedy asking for steel again",
+          "description": "- 01:06:10 x calls Speedy asking for steel again, Speedy has made 2 medium backbags so far and he has people working on getting more aluminum to make even more bags, apparently chopping cars and sanitation give more materials now",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d17_evt_005_01_02_09.jpg",
+          "imageCaption": "Stream snapshot @ 01:02:09",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h02m09s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-006",
+          "timestamp": "01:06:50",
+          "seconds": 4010,
+          "isMajor": false,
+          "title": "Tweets about buying steel and wants people to call him",
+          "description": "x tweets about buying steel and wants people to call him",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_006_01_06_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h06m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-007",
+          "timestamp": "01:10:40",
+          "seconds": 4240,
+          "isMajor": true,
+          "title": "- 01:14:25 x receives a call from someone offering to s",
+          "description": "- 01:14:25 x receives a call from someone offering to sell a shotgun, x refuses but the guy knows where to find a grinder (which houses they can be found in), the guy was offered to join the italians and he's interested in helping x by working with them on the inside",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_007_01_10_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:10:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h10m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-008",
+          "timestamp": "01:15:00",
+          "seconds": 4500,
+          "isMajor": true,
+          "title": "- 01:15:30 speedy gives x a medium backbag",
+          "description": "- 01:15:30 Speedy gives x a medium backbag",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d17_evt_008_01_15_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:15:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h15m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
