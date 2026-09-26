@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d17-evt-001",
@@ -18889,6 +18889,65 @@
           "image": "/images/frames/d17_evt_008_01_15_00.jpg",
           "imageCaption": "Stream snapshot @ 01:15:00",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h15m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-009",
+          "timestamp": "01:25:00",
+          "seconds": 5100,
+          "isMajor": true,
+          "title": "- 01:26:35 speedy informs x about how his weed business",
+          "description": "- 01:26:35 Speedy informs x about how his weed business is going",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d17_evt_009_01_25_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:25:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h25m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-010",
+          "timestamp": "01:27:30",
+          "seconds": 5250,
+          "isMajor": true,
+          "title": "- 01:30:35 the person that called x earlier takes him t",
+          "description": "- 01:30:35 the person that called x earlier takes him to the house where the grinder is possibly at, they rob the house, they don't one (there is a chance it might spawn in there)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_010_01_27_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:27:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h27m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-011",
+          "timestamp": "01:33:30",
+          "seconds": 5610,
+          "isMajor": false,
+          "title": "The cops arrive so they decide to drive off",
+          "description": "the cops arrive so they decide to drive off",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_011_01_33_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:33:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h33m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
