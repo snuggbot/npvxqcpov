@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d16-evt-001",
@@ -18344,6 +18344,71 @@
           "image": "/images/frames/d16_evt_027_06_04_50.jpg",
           "imageCaption": "Stream snapshot @ 06:04:50",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=06h04m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-028",
+          "timestamp": "06:14:10",
+          "seconds": 22450,
+          "isMajor": true,
+          "title": "- 06:18:10 the crew meet up with m1 and his bodyguard (",
+          "description": "- 06:18:10 the crew meet up with M1 and his bodyguard (his name is Tony), they hand him the diamond, he says that if it's the real thing then he can sell it for 300k, he will find out by Monday, x also asks for a grinder, M1 says he will see what he can do",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d16_evt_028_06_14_10.jpg",
+          "imageCaption": "Stream snapshot @ 06:14:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=06h14m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-029",
+          "timestamp": "06:20:30",
+          "seconds": 22830,
+          "isMajor": false,
+          "title": "Calls jack again",
+          "description": "x calls Jack again, their convo leads to no where, things just get heated up and they hang up the phone",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_029_06_20_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:20:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=06h20m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-030",
+          "timestamp": "06:27:05",
+          "seconds": 23225,
+          "isMajor": false,
+          "title": "They drive by jack's pawn shop and shoot at a car parke",
+          "description": "they drive by Jack's pawn shop and shoot at a car parked outside and it explodes, x calls Jack afterwards, Jack says that the person they took down was a cop and none of his men, they believe that he's lying",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_030_06_27_05.jpg",
+          "imageCaption": "Stream snapshot @ 06:27:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=06h27m05s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
