@@ -17811,7 +17811,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2883843627",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 37,
+      "eventsCount": 41,
       "events": [
         {
           "id": "d16-evt-001",
@@ -18551,6 +18551,88 @@
           "image": "/images/frames/d16_evt_037_10_00_00.jpg",
           "imageCaption": "Stream snapshot @ 10:00:00",
           "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=10h00m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-038",
+          "timestamp": "10:53:11",
+          "seconds": 39191,
+          "isMajor": true,
+          "title": "- 10:54:50 they spot more italians",
+          "description": "- 10:54:50 they spot more Italians, exchange gun fires and they lose the fight again, a cop arrives but decides to drive off",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_038_10_53_11.jpg",
+          "imageCaption": "Stream snapshot @ 10:53:11",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=10h53m11s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-039",
+          "timestamp": "10:59:15",
+          "seconds": 39555,
+          "isMajor": true,
+          "title": "- 11:00:25 larry arrives and puts them in his car",
+          "description": "- 11:00:25 Larry arrives and puts them in his car, the cop comes back with one more unit and drives along Larry to the hospital",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_039_10_59_15.jpg",
+          "imageCaption": "Stream snapshot @ 10:59:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=10h59m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-040",
+          "timestamp": "11:02:20",
+          "seconds": 39740,
+          "isMajor": true,
+          "title": "- 11:03:08 larry calls for back up and someone (from sh",
+          "description": "- 11:03:08 Larry calls for back up and someone (from shift 3?) shows up in a car and help intercept the cops chasing Larry",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_040_11_02_20.jpg",
+          "imageCaption": "Stream snapshot @ 11:02:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=11h02m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d16-evt-041",
+          "timestamp": "11:03:45",
+          "seconds": 39825,
+          "isMajor": true,
+          "title": "- 11:04:05 they intercept the cops again but this time ",
+          "description": "- 11:04:05 they intercept the cops again but this time completely blocking them off which allows Larry to escape the cops",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d16_evt_041_11_03_45.jpg",
+          "imageCaption": "Stream snapshot @ 11:03:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2883843627?t=11h03m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
