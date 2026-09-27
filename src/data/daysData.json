@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d17-evt-001",
@@ -19048,6 +19048,66 @@
           "image": "/images/frames/d17_evt_016_03_27_25.jpg",
           "imageCaption": "Stream snapshot @ 03:27:25",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=03h27m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-017",
+          "timestamp": "03:35:10",
+          "seconds": 12910,
+          "isMajor": true,
+          "title": "- 03:35:48 leon is meeting up with jack kettleman at th",
+          "description": "- 03:35:48 Leon is meeting up with Jack Kettleman at the pawn shop, he says that Jack might be sus of him, he also tells x that he has him saved as 'Nathan' in his contacts",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_017_03_35_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:35:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=03h35m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-018",
+          "timestamp": "03:37:45",
+          "seconds": 13065,
+          "isMajor": false,
+          "title": "Receives a sales call (from mickey) saying that for 1k$",
+          "description": "x receives a sales call (from Mickey) saying that for 1k$ they will send him picture of hot goth mommies regularly",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_018_03_37_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:37:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=03h37m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-019",
+          "timestamp": "03:40:00",
+          "seconds": 13200,
+          "isMajor": true,
+          "title": "- 04:04:00 x offers a stranger to buy the medium backba",
+          "description": "- 04:04:00 x offers a stranger to buy the medium backbag for 30k$, she says it's too expensive but she's looking to buy some meth, x says that he has some and they go to the storage unit, he hands her over a raw jet batch, he wants to make sure that she's not undercover so he searches her pockets and sees that she has a tent and cooking equipment on her, she said that she's bought the tent for 25k$, the convo eventually leads to her helping x sell his backbags at 30% commission, she might sell some bags to the PD and they exchange contacts, x never asked for her name but she's (Nancy Oksana played by",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_019_03_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=03h40m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
