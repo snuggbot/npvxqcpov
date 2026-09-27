@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d17-evt-001",
@@ -19268,6 +19268,63 @@
           "image": "/images/frames/d17_evt_027_06_08_30.jpg",
           "imageCaption": "Stream snapshot @ 06:08:30",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=06h08m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-028",
+          "timestamp": "06:36:40",
+          "seconds": 23800,
+          "isMajor": false,
+          "title": "Ginger ale is at the last step of the epsilon puzzle",
+          "description": "Ginger Ale is at the last step of the Epsilon puzzle, she asks x for a hint to help her, he decides to come up with his own riddle for her",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_028_06_36_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:36:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=06h36m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-029",
+          "timestamp": "07:07:50",
+          "seconds": 25670,
+          "isMajor": false,
+          "title": "Goes scuba diving for a while looking for gold",
+          "description": "x goes scuba diving for a while looking for gold",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_029_07_07_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:07:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=07h07m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-030",
+          "timestamp": "07:56:00",
+          "seconds": 28560,
+          "isMajor": false,
+          "title": "Sells the gold at the quarry to a guy (not sure what hi",
+          "description": "x sells the gold at the quarry to a guy (not sure what his name is)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_030_07_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=07h56m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
