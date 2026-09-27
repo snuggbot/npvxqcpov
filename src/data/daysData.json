@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d17-evt-001",
@@ -19108,6 +19108,86 @@
           "image": "/images/frames/d17_evt_019_03_40_00.jpg",
           "imageCaption": "Stream snapshot @ 03:40:00",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=03h40m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-020",
+          "timestamp": "04:06:00",
+          "seconds": 14760,
+          "isMajor": false,
+          "title": "Links up with marty",
+          "description": "x links up with Marty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d17_evt_020_04_06_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:06:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=04h06m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-021",
+          "timestamp": "04:11:00",
+          "seconds": 15060,
+          "isMajor": false,
+          "title": "Lang joins them in the storage unit",
+          "description": "Lang joins them in the storage unit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d17_evt_021_04_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=04h11m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-022",
+          "timestamp": "04:31:00",
+          "seconds": 16260,
+          "isMajor": false,
+          "title": "And marty robs a couple of atms",
+          "description": "x and Marty robs a couple of ATMs, they have a hostage with them, they make around 20k$ and drive off",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d17_evt_022_04_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=04h31m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-023",
+          "timestamp": "04:42:30",
+          "seconds": 16950,
+          "isMajor": false,
+          "title": "They get pulled over and it turns into a chase",
+          "description": "they get pulled over and it turns into a chase, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_023_04_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=04h42m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
