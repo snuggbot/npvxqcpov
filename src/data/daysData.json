@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d17-evt-001",
@@ -18986,6 +18986,68 @@
           "image": "/images/frames/d17_evt_013_02_28_00.jpg",
           "imageCaption": "Stream snapshot @ 02:28:00",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=02h28m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-014",
+          "timestamp": "02:57:40",
+          "seconds": 10660,
+          "isMajor": false,
+          "title": "Checks on the pawn shop and it's still a miss",
+          "description": "x checks on the pawn shop and it's still a miss, items are all over the place so he decides to call Drusilla (the girl he wanted to hire before but Marty said no to)",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d17_evt_014_02_57_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:57:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=02h57m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-015",
+          "timestamp": "03:01:00",
+          "seconds": 10860,
+          "isMajor": true,
+          "title": "- 03:13:49 x meets up with drusilla",
+          "description": "- 03:13:49 x meets up with Drusilla, he is hiring her to help with the pawn shop runs since orders are stacking up badly, he adds her on the business app and gives her 2k as a signing bonus and then he hands Drusilla a gun, ammo, armor and joints and adds her to the Brick Bois group chat",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_015_03_01_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:01:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=03h01m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-016",
+          "timestamp": "03:27:25",
+          "seconds": 12445,
+          "isMajor": false,
+          "title": "Hands drusilla around 23k of rolled money to clean",
+          "description": "x hands Drusilla around 23k of rolled money to clean",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_016_03_27_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:27:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=03h27m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
