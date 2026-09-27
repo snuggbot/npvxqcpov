@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 23,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d17-evt-001",
@@ -19188,6 +19188,86 @@
           "image": "/images/frames/d17_evt_023_04_42_30.jpg",
           "imageCaption": "Stream snapshot @ 04:42:30",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=04h42m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-024",
+          "timestamp": "05:01:15",
+          "seconds": 18075,
+          "isMajor": true,
+          "title": "- 05:01:50 nancy calls x",
+          "description": "- 05:01:50 Nancy calls x, she says that the PD have their own backbags and it has the same capacity as the medium ones, x says he's going to rob them and hangs up",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_024_05_01_15.jpg",
+          "imageCaption": "Stream snapshot @ 05:01:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=05h01m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-025",
+          "timestamp": "05:08:00",
+          "seconds": 18480,
+          "isMajor": false,
+          "title": "And marty place a new tent on a rooftop",
+          "description": "x and Marty place a new tent on a rooftop, x cooks some meth step by step and get a 14% batch",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d17_evt_025_05_08_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:08:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=05h08m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-026",
+          "timestamp": "05:49:40",
+          "seconds": 20980,
+          "isMajor": false,
+          "title": "And marty rob houses",
+          "description": "x and Marty rob houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d17_evt_026_05_49_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:49:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=05h49m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-027",
+          "timestamp": "06:08:30",
+          "seconds": 22110,
+          "isMajor": false,
+          "title": "Drusilla is doing good progress arranging the pawn shop",
+          "description": "Drusilla is doing good progress arranging the pawn shop and fulfilling orders",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_027_06_08_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:08:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=06h08m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
