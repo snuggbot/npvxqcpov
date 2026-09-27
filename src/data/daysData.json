@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d17-evt-001",
@@ -18916,8 +18916,8 @@
           "timestamp": "01:27:30",
           "seconds": 5250,
           "isMajor": true,
-          "title": "- 01:30:35 the person that called x earlier takes him t",
-          "description": "- 01:30:35 the person that called x earlier takes him to the house where the grinder is possibly at, they rob the house, they don't one (there is a chance it might spawn in there)",
+          "title": "- 01:30:35 the person that called x earlier (leon) take",
+          "description": "- 01:30:35 the person that called x earlier (Leon) takes him to the house where the grinder is possibly at, they rob the house, they don't find one (there is a chance it might spawn in there)",
           "category": "crime",
           "tags": [
             "crime"
@@ -18948,6 +18948,44 @@
           "image": "/images/frames/d17_evt_011_01_33_30.jpg",
           "imageCaption": "Stream snapshot @ 01:33:30",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h33m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-012",
+          "timestamp": "01:36:30",
+          "seconds": 5790,
+          "isMajor": false,
+          "title": "And leon start robbing houses again",
+          "description": "x and Leon start robbing houses again",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_012_01_36_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:36:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=01h36m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-013",
+          "timestamp": "02:28:00",
+          "seconds": 8880,
+          "isMajor": false,
+          "title": "Starts chopping cars",
+          "description": "x starts chopping cars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_013_02_28_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:28:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=02h28m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
