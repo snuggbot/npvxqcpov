@@ -18734,7 +18734,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2884829425",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 37,
       "events": [
         {
           "id": "d17-evt-001",
@@ -19325,6 +19325,141 @@
           "image": "/images/frames/d17_evt_030_07_56_00.jpg",
           "imageCaption": "Stream snapshot @ 07:56:00",
           "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=07h56m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-031",
+          "timestamp": "08:02:10",
+          "seconds": 28930,
+          "isMajor": false,
+          "title": "A guy called tiny tony calls x",
+          "description": "a guy called tiny tony calls x, he's going to sell some steel to x in the future",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_031_08_02_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:02:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=08h02m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-032",
+          "timestamp": "08:05:10",
+          "seconds": 29110,
+          "isMajor": false,
+          "title": "Drusilla calls x and updates him on the progress at the",
+          "description": "Drusilla calls x and updates him on the progress at the pawn shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_032_08_05_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:05:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=08h05m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-033",
+          "timestamp": "08:07:30",
+          "seconds": 29250,
+          "isMajor": false,
+          "title": "Is robbing houses",
+          "description": "x is robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_033_08_07_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:07:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=08h07m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-034",
+          "timestamp": "08:23:40",
+          "seconds": 30220,
+          "isMajor": true,
+          "title": "- 08:25:57 nancy meets up with x",
+          "description": "- 08:25:57 Nancy meets up with x, he buys a heavy pistol off of her for 8k$",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_034_08_23_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:23:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=08h23m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-035",
+          "timestamp": "08:32:55",
+          "seconds": 30775,
+          "isMajor": false,
+          "title": "And marty are back to robbing houses",
+          "description": "x and Marty are back to robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d17_evt_035_08_32_55.jpg",
+          "imageCaption": "Stream snapshot @ 08:32:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=08h32m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-036",
+          "timestamp": "09:07:10",
+          "seconds": 32830,
+          "isMajor": true,
+          "title": "- 09:10:00 x has a seizure of some sort then he receive",
+          "description": "- 09:10:00 x has a seizure of some sort then he receives a notification from Nu Epsilon saying 'Chip malfunctioning'",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d17_evt_036_09_07_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:07:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=09h07m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d17-evt-037",
+          "timestamp": "09:11:00",
+          "seconds": 33060,
+          "isMajor": false,
+          "title": "And marty arrive at the inner room to investigate but i",
+          "description": "x and Marty arrive at the inner room to investigate but it leads to nothing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d17_evt_037_09_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2884829425?t=09h11m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
