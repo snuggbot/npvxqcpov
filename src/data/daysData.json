@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d18-evt-001",
@@ -19964,6 +19964,46 @@
           "imageCaption": "Stream snapshot @ 06:00:50",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=06h00m50s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=21648"
+        },
+        {
+          "id": "d18-evt-015",
+          "timestamp": "06:05:50",
+          "seconds": 21950,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Tony hit more ATMs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d18_evt_015_06_05_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:05:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=06h05m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=21948"
+        },
+        {
+          "id": "d18-evt-016",
+          "timestamp": "06:53:50",
+          "seconds": 24830,
+          "isMajor": false,
+          "title": "Goes scuba diving for gold",
+          "description": "x goes scuba diving for gold",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_016_06_53_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:53:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=06h53m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=24828"
         }
       ],
       "characterInfo": {
