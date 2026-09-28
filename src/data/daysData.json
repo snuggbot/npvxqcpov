@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 20,
+      "eventsCount": 31,
       "events": [
         {
           "id": "d18-evt-001",
@@ -20082,6 +20082,221 @@
           "imageCaption": "Stream snapshot @ 08:22:40",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=08h22m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=30158"
+        },
+        {
+          "id": "d18-evt-021",
+          "timestamp": "08:32:00",
+          "seconds": 30720,
+          "isMajor": false,
+          "title": "They go back to the inner room to look at the supply ca",
+          "description": "they go back to the inner room to look at the supply cache store",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_021_08_32_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:32:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=08h32m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=30718"
+        },
+        {
+          "id": "d18-evt-022",
+          "timestamp": "08:55:30",
+          "seconds": 32130,
+          "isMajor": false,
+          "title": "And marty hit more atms with a hostage",
+          "description": "x and Marty hit more ATMs with a hostage, they let go of the hostage and chase starts, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d18_evt_022_08_55_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:55:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=08h55m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=32128"
+        },
+        {
+          "id": "d18-evt-023",
+          "timestamp": "09:25:45",
+          "seconds": 33945,
+          "isMajor": true,
+          "title": "- 09:28:00 x has a theory that the cache card they can ",
+          "description": "- 09:28:00 x has a theory that the cache card they can buy in the inner room (they call it the club) is the key to the next step so he wants to buy it asap",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_023_09_25_45.jpg",
+          "imageCaption": "Stream snapshot @ 09:25:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=09h25m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=33943"
+        },
+        {
+          "id": "d18-evt-024",
+          "timestamp": "09:31:00",
+          "seconds": 34260,
+          "isMajor": true,
+          "title": "- 09:32:50 tony suggests buying the cache card tomorrow",
+          "description": "- 09:32:50 Tony suggests buying the cache card tomorrow instead",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d18_evt_024_09_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=09h31m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=34258"
+        },
+        {
+          "id": "d18-evt-025",
+          "timestamp": "09:58:50",
+          "seconds": 35930,
+          "isMajor": false,
+          "title": "They craft a listening kit and rob a safe at the conven",
+          "description": "they craft a listening kit and rob a safe at the convenience store, they get 4k of rolled cash which is not worth the trouble of crafting a listening kit",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_025_09_58_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:58:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=09h58m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=35928"
+        },
+        {
+          "id": "d18-evt-026",
+          "timestamp": "10:11:00",
+          "seconds": 36660,
+          "isMajor": false,
+          "title": "And marty go to the quarry and mine some materials",
+          "description": "x and Marty go to the quarry and mine some materials",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d18_evt_026_10_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=10h11m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=36658"
+        },
+        {
+          "id": "d18-evt-027",
+          "timestamp": "10:20:35",
+          "seconds": 37235,
+          "isMajor": true,
+          "title": "- 10:21:40 x calls lang and he agrees to buying the cac",
+          "description": "- 10:21:40 x calls Lang and he agrees to buying the cache card, so they will do it today",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d18_evt_027_10_20_35.jpg",
+          "imageCaption": "Stream snapshot @ 10:20:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=10h20m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=37233"
+        },
+        {
+          "id": "d18-evt-028",
+          "timestamp": "10:28:00",
+          "seconds": 37680,
+          "isMajor": true,
+          "title": "- 10:29:25 x buys the cache card for 50k$",
+          "description": "- 10:29:25 x buys the cache card for 50k$, he instantly receives it in his pocket, they decide to explore a bit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_028_10_28_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:28:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=10h28m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=37678"
+        },
+        {
+          "id": "d18-evt-029",
+          "timestamp": "10:30:45",
+          "seconds": 37845,
+          "isMajor": true,
+          "title": "- 10:32:51 x notices that he's able to access the suppl",
+          "description": "- 10:32:51 x notices that he's able to access the supply cache store outside the inner circle now that he has the card",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_029_10_30_45.jpg",
+          "imageCaption": "Stream snapshot @ 10:30:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=10h30m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=37843"
+        },
+        {
+          "id": "d18-evt-030",
+          "timestamp": "10:37:00",
+          "seconds": 38220,
+          "isMajor": true,
+          "title": "- 10:37:50 x tries to get access to the server room at ",
+          "description": "- 10:37:50 x tries to get access to the server room at Lifeinvader using the cache card but that doens't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_030_10_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=10h37m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=38218"
+        },
+        {
+          "id": "d18-evt-031",
+          "timestamp": "10:39:20",
+          "seconds": 38360,
+          "isMajor": false,
+          "title": "And marty meet up with ginger to buy some steel",
+          "description": "x and Marty meet up with Ginger to buy some steel, she also shows them around the art gallery",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d18_evt_031_10_39_20.jpg",
+          "imageCaption": "Stream snapshot @ 10:39:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=10h39m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=38358"
         }
       ],
       "characterInfo": {
