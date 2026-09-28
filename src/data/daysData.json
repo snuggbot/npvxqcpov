@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d18-evt-001",
@@ -19926,6 +19926,44 @@
           "imageCaption": "Stream snapshot @ 05:16:30",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=05h16m30s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=18988"
+        },
+        {
+          "id": "d18-evt-013",
+          "timestamp": "05:38:00",
+          "seconds": 20280,
+          "isMajor": false,
+          "title": "They go back to the locked door at the foundry trying t",
+          "description": "they go back to the locked door at the foundry trying to figure out the code but it leads to nothing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_013_05_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=05h38m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=20278"
+        },
+        {
+          "id": "d18-evt-014",
+          "timestamp": "06:00:50",
+          "seconds": 21650,
+          "isMajor": true,
+          "title": "- 06:01:30 the crew decides to make a new joint bank ac",
+          "description": "- 06:01:30 the crew decides to make a new joint bank account where they all put a certain amount of money every 3 days (x suggests 5k) to be used for materials to get the pry wedges and to keep track of jobs they do together and payments",
+          "category": "crypto",
+          "tags": [
+            "crypto"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_014_06_00_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:00:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=06h00m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=21648"
         }
       ],
       "characterInfo": {
@@ -19933,7 +19971,7 @@
         "timeLoggedIn": "Jean Paul : ~ 186:58:00 / Pierre Paul: 09:00:00 / Total : 194:58:00",
         "timesJailed": "1 arrest",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room) / 3- The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
     }
   }
