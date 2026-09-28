@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d18-evt-001",
@@ -19845,6 +19845,68 @@
           "imageCaption": "Stream snapshot @ 03:41:55",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=03h41m55s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=13313"
+        },
+        {
+          "id": "d18-evt-009",
+          "timestamp": "04:36:30",
+          "seconds": 16590,
+          "isMajor": false,
+          "title": "And marty rob a couple of atms",
+          "description": "x and Marty rob a couple of ATMs, the cops arrive shortly and it turns into a chase, they return to the ATMs saying they have a hostage",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d18_evt_009_04_36_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:36:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=04h36m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=16588"
+        },
+        {
+          "id": "d18-evt-010",
+          "timestamp": "04:43:15",
+          "seconds": 16995,
+          "isMajor": false,
+          "title": "Tony delivers a hostage",
+          "description": "Tony delivers a hostage, Marty gets the money, they exchange the hostage for safe passage and the chase continues, eventually they escape the cops",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d18_evt_010_04_43_15.jpg",
+          "imageCaption": "Stream snapshot @ 04:43:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=04h43m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=16993"
+        },
+        {
+          "id": "d18-evt-011",
+          "timestamp": "04:54:00",
+          "seconds": 17640,
+          "isMajor": false,
+          "title": "They link up with tony",
+          "description": "they link up with Tony",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d18_evt_011_04_54_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:54:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=04h54m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=17638"
         }
       ],
       "characterInfo": {
