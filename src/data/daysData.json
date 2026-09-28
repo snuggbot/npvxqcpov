@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d18-evt-001",
@@ -20024,6 +20024,64 @@
           "imageCaption": "Stream snapshot @ 07:37:45",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=07h37m45s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=27463"
+        },
+        {
+          "id": "d18-evt-018",
+          "timestamp": "08:04:00",
+          "seconds": 29040,
+          "isMajor": false,
+          "title": "Uses a couple of the jet pills for the first time (the ",
+          "description": "x uses a couple of the jet pills for the first time (the meth they cooked)",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_018_08_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=08h04m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=29038"
+        },
+        {
+          "id": "d18-evt-019",
+          "timestamp": "08:09:30",
+          "seconds": 29370,
+          "isMajor": false,
+          "title": "Sells some of the meth they cooked (first time cornerin",
+          "description": "x sells some of the meth they cooked (first time cornering) but the cops show up instantly and he escapes",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_019_08_09_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:09:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=08h09m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=29368"
+        },
+        {
+          "id": "d18-evt-020",
+          "timestamp": "08:22:40",
+          "seconds": 30160,
+          "isMajor": false,
+          "title": "Goes back to investigate the sewers watch npc",
+          "description": "x goes back to investigate the sewers watch NPC",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_020_08_22_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:22:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=08h22m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=30158"
         }
       ],
       "characterInfo": {
