@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d18-evt-001",
@@ -19907,6 +19907,25 @@
           "imageCaption": "Stream snapshot @ 04:54:00",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=04h54m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=17638"
+        },
+        {
+          "id": "d18-evt-012",
+          "timestamp": "05:16:30",
+          "seconds": 18990,
+          "isMajor": true,
+          "title": "- 05:19:15 zuck tips the crew about the location edgar ",
+          "description": "- 05:19:15 Zuck tips the crew about the location Edgar Moss the sewer watch (an intractable NPC), it seems like they will need to explore the sewers that are full of rats at some point (adding this to pending quests)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_012_05_16_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:16:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=05h16m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=18988"
         }
       ],
       "characterInfo": {
@@ -19914,7 +19933,7 @@
         "timeLoggedIn": "Jean Paul : ~ 186:58:00 / Pierre Paul: 09:00:00 / Total : 194:58:00",
         "timesJailed": "1 arrest",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room) / 3- The Epsilon Puzzle"
+        "Current Ongoing Quest Line(s)": "1- Mr. Cement & M1 / 2- Jacob (Lifeinvader's server room) / 3- The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
     }
   }
