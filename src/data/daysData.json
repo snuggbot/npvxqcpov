@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d18-evt-001",
@@ -20004,6 +20004,26 @@
           "imageCaption": "Stream snapshot @ 06:53:50",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=06h53m50s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=24828"
+        },
+        {
+          "id": "d18-evt-017",
+          "timestamp": "07:37:45",
+          "seconds": 27465,
+          "isMajor": false,
+          "title": "And marty try cooking some meth",
+          "description": "x and Marty try cooking some meth, they're testing if waiting between steps may increase the purity of the product, they get a 16% purity product, x tires to cook another batch again and it also ends up being 16% pure",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d18_evt_017_07_37_45.jpg",
+          "imageCaption": "Stream snapshot @ 07:37:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=07h37m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=27463"
         }
       ],
       "characterInfo": {
