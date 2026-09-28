@@ -19681,7 +19681,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2885783503",
       "kickVod": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d18-evt-001",
@@ -19761,6 +19761,90 @@
           "imageCaption": "Stream snapshot @ 01:48:55",
           "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=01h48m55s",
           "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=6533"
+        },
+        {
+          "id": "d18-evt-005",
+          "timestamp": "02:06:45",
+          "seconds": 7605,
+          "isMajor": false,
+          "title": "Calls lang",
+          "description": "x calls Lang, he wants the crew to link up and rob houses and go mining too",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d18_evt_005_02_06_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:06:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=02h06m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=7603"
+        },
+        {
+          "id": "d18-evt-006",
+          "timestamp": "02:20:55",
+          "seconds": 8455,
+          "isMajor": false,
+          "title": "Gets a tow truck since it has so much storage space",
+          "description": "x gets a tow truck since it has so much storage space, he eventually tows a tow truck while Marty drives a third tow truck, that way they have 7.5k of storage space",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d18_evt_006_02_20_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:20:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=02h20m55s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=8453"
+        },
+        {
+          "id": "d18-evt-007",
+          "timestamp": "03:23:00",
+          "seconds": 12180,
+          "isMajor": true,
+          "title": "- 03:39:20 x gets pulled over while being on a phone ca",
+          "description": "- 03:39:20 x gets pulled over while being on a phone call with the crew, the car he's driving is full of steel which he wants to save, Lang says that x might have a warrant for murder so he drives off and it turns into a chase, Lang arrives with a faster car and picks x up, Speedy is going to get the steel out of the original car, Speedy manages to retrieve the steel, x and Lang esacpe the cops with the help of the crew",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d18_evt_007_03_23_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:23:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=03h23m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=12178"
+        },
+        {
+          "id": "d18-evt-008",
+          "timestamp": "03:41:55",
+          "seconds": 13315,
+          "isMajor": true,
+          "title": "- 03:43:30 x decides to toss the murder gun into the wa",
+          "description": "- 03:43:30 x decides to toss the murder gun into the water getting rid of it",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d18_evt_008_03_41_55.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2885783503?t=03h41m55s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0e468-6128-7590-b6d9-9ceab8a0fd8d?t=13313"
         }
       ],
       "characterInfo": {
