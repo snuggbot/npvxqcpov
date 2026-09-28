@@ -20317,7 +20317,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2886592871",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d19-evt-001",
@@ -20395,6 +20395,47 @@
           "image": "/images/frames/d19_evt_004_01_19_30.jpg",
           "imageCaption": "Stream snapshot @ 01:19:30",
           "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h19m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-005",
+          "timestamp": "01:42:30",
+          "seconds": 6150,
+          "isMajor": true,
+          "title": "- 01:43:30 marty receives a call from c",
+          "description": "- 01:43:30 Marty receives a call from C. Dawson asking him to go down to the station for questioning",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d19_evt_005_01_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h42m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-006",
+          "timestamp": "01:44:00",
+          "seconds": 6240,
+          "isMajor": true,
+          "title": "- 01:46:25 x also receives a call from c",
+          "description": "- 01:46:25 x also receives a call from C. Dawson to come down to the station for questioning, x tells him to speak to his lawyer (doesn't specify who) or to subpoena him and hangs up but then Marty call C. Dawson saying that his lawyer Beef will represent both of them",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d19_evt_006_01_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h44m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
