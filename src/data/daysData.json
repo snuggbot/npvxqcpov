@@ -20317,7 +20317,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2886592871",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d19-evt-001",
@@ -20336,6 +20336,65 @@
           "image": "/images/frames/d19_evt_001_86_58_00.jpg",
           "imageCaption": "Stream snapshot @ 86:58:00",
           "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=86h58m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-002",
+          "timestamp": "01:12:18",
+          "seconds": 4338,
+          "isMajor": false,
+          "title": "Logs in and starts day 19!",
+          "description": "x logs in and starts day 19!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_002_01_12_18.jpg",
+          "imageCaption": "Stream snapshot @ 01:12:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h12m18s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-003",
+          "timestamp": "01:15:06",
+          "seconds": 4506,
+          "isMajor": true,
+          "title": "- 01:15:20 x calls marty",
+          "description": "- 01:15:20 x calls Marty, Marty is currently at an auction, x is going to meet up with him at the auction",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d19_evt_003_01_15_06.jpg",
+          "imageCaption": "Stream snapshot @ 01:15:06",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h15m06s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-004",
+          "timestamp": "01:19:30",
+          "seconds": 4770,
+          "isMajor": true,
+          "title": "- 01:26:00 x joins marty at the auction",
+          "description": "- 01:26:00 x joins Marty at the auction, x auctions the medium backbag, the first bet starts at 15k and it sells at 23k$",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d19_evt_004_01_19_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:19:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h19m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
