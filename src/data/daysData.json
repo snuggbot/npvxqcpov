@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2887458706",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d20-evt-001",
@@ -20839,6 +20839,64 @@
           "image": "/images/frames/d20_evt_001_96_28_00.jpg",
           "imageCaption": "Stream snapshot @ 96:28:00",
           "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=96h28m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-002",
+          "timestamp": "00:15:55",
+          "seconds": 955,
+          "isMajor": false,
+          "title": "Logs in and starts day 20!",
+          "description": "x logs in and starts day 20!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_002_00_15_55.jpg",
+          "imageCaption": "Stream snapshot @ 00:15:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=00h15m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-003",
+          "timestamp": "00:22:50",
+          "seconds": 1370,
+          "isMajor": false,
+          "title": "Gets pulled over",
+          "description": "x gets pulled over, he drives off and escapes",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_003_00_22_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:22:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=00h22m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-004",
+          "timestamp": "00:31:00",
+          "seconds": 1860,
+          "isMajor": false,
+          "title": "Arrives at the docks",
+          "description": "x arrives at the docks, the crew is waiting for him, they're going to do the cargo ship heist",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_004_00_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=00h31m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
