@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d20-evt-001",
@@ -20940,6 +20940,67 @@
           "image": "/images/frames/d20_evt_006_01_03_00.jpg",
           "imageCaption": "Stream snapshot @ 01:03:00",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h03m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-007",
+          "timestamp": "01:12:40",
+          "seconds": 4360,
+          "isMajor": false,
+          "title": "Even though they switched clothes they get pulled over ",
+          "description": "even though they switched clothes they get pulled over and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_007_01_12_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:12:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h12m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-008",
+          "timestamp": "01:18:00",
+          "seconds": 4680,
+          "isMajor": true,
+          "title": "- 01:19:00 the lawyer beef calls marty during the cop c",
+          "description": "- 01:19:00 the lawyer Beef calls Marty during the cop chase, they will have to meet with him soon and discuss the investigation situation",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d20_evt_008_01_18_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:18:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h18m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-009",
+          "timestamp": "01:20:20",
+          "seconds": 4820,
+          "isMajor": false,
+          "title": "They get boxed and the chase continues on foot",
+          "description": "they get boxed and the chase continues on foot, x finds a car, rescues Lang and they drive off, the chase continues, they eventually all escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d20_evt_009_01_20_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:20:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h20m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
