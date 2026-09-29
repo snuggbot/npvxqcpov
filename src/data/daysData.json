@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d20-evt-001",
@@ -21001,6 +21001,65 @@
           "image": "/images/frames/d20_evt_009_01_20_20.jpg",
           "imageCaption": "Stream snapshot @ 01:20:20",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h20m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-010",
+          "timestamp": "01:27:40",
+          "seconds": 5260,
+          "isMajor": false,
+          "title": "They change outfits again",
+          "description": "they change outfits again",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_010_01_27_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:27:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h27m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-011",
+          "timestamp": "01:32:25",
+          "seconds": 5545,
+          "isMajor": true,
+          "title": "- 01:36:02 x calls mayor eliza (mayor of los santos) de",
+          "description": "- 01:36:02 x calls Mayor Eliza (Mayor of Los Santos) demanding free vaccines, she promises free treatment once the treasurer is appointed, x asks if it's going to be Drusilla Grant and the mayor confirms but she says that Drusilla doesn't know yet",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_011_01_32_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h32m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-012",
+          "timestamp": "01:36:11",
+          "seconds": 5771,
+          "isMajor": true,
+          "title": "- 01:36:50 marty says the warrant for x is officially o",
+          "description": "- 01:36:50 Marty says the warrant for x is officially out for the murder (of the Italian)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d20_evt_012_01_36_11.jpg",
+          "imageCaption": "Stream snapshot @ 01:36:11",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h36m11s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
