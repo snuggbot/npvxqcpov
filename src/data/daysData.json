@@ -20317,7 +20317,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2886592871",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d19-evt-001",
@@ -20455,6 +20455,68 @@
           "image": "/images/frames/d19_evt_007_01_50_00.jpg",
           "imageCaption": "Stream snapshot @ 01:50:00",
           "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h50m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-008",
+          "timestamp": "01:54:00",
+          "seconds": 6840,
+          "isMajor": false,
+          "title": "Calls roxanne asking if she still has the grinder on ha",
+          "description": "x calls Roxanne asking if she still has the grinder on hand, she says that she does but she wants to get a job in return for the grinder, x offers her one and she says that she will call back",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_008_01_54_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:54:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h54m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-009",
+          "timestamp": "02:01:00",
+          "seconds": 7260,
+          "isMajor": false,
+          "title": "The crew are robbing houses",
+          "description": "the crew are robbing houses, the cops arrive and it turns into a chase, they escape the cops shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_009_02_01_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:01:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=02h01m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-010",
+          "timestamp": "02:07:48",
+          "seconds": 7668,
+          "isMajor": true,
+          "title": "- 02:09:02 marty and lang say that bjorn and zuck were ",
+          "description": "- 02:09:02 Marty and Lang say that Bjorn and Zuck were caught in broad daylight holding a Molotov (class 3 weapon) and because they're part of the Brick Bois goup chat the rest could get involved",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d19_evt_010_02_07_48.jpg",
+          "imageCaption": "Stream snapshot @ 02:07:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=02h07m48s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
