@@ -20317,7 +20317,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2886592871",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d19-evt-001",
@@ -20503,7 +20503,7 @@
           "seconds": 7668,
           "isMajor": true,
           "title": "- 02:09:02 marty and lang say that bjorn and zuck were ",
-          "description": "- 02:09:02 Marty and Lang say that Bjorn and Zuck were caught in broad daylight holding a Molotov (class 3 weapon) and because they're part of the Brick Bois goup chat the rest could get involved",
+          "description": "- 02:09:02 Marty and Lang say that Bjorn and Zuck were caught in broad daylight holding a Molotov (class 3 weapon) and because they're part of the Brick house runners group chat the rest could get involved",
           "category": "crime",
           "tags": [
             "crime",
@@ -20539,6 +20539,108 @@
           "image": "/images/frames/d19_evt_011_02_40_00.jpg",
           "imageCaption": "Stream snapshot @ 02:40:00",
           "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=02h40m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-012",
+          "timestamp": "03:07:20",
+          "seconds": 11240,
+          "isMajor": true,
+          "title": "- 03:07:30 they collect this week's bonus reward as pro",
+          "description": "- 03:07:30 they collect this week's bonus reward as promised by M1",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_012_03_07_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:07:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=03h07m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-013",
+          "timestamp": "03:41:45",
+          "seconds": 13305,
+          "isMajor": true,
+          "title": "- 03:44:12 x and marty speak to dr",
+          "description": "- 03:44:12 x and Marty speak to Dr. Beef (their potential lawyer), they want to make sure that they won't be arrested on spot when they go for questioning, Beef says he will let them know",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d19_evt_013_03_41_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=03h41m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-014",
+          "timestamp": "03:50:00",
+          "seconds": 13800,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Tony go hunting to fulfill an international pawn order",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d19_evt_014_03_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=03h50m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-015",
+          "timestamp": "04:42:30",
+          "seconds": 16950,
+          "isMajor": true,
+          "title": "- 04:45:10 marty tells x and lang about what happened a",
+          "description": "- 04:45:10 Marty tells x and Lang about what happened at the PD, he was asked many questions about the business and his peers but he didn't answer any, x doesn't want to go to the station",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d19_evt_015_04_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=04h42m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-016",
+          "timestamp": "04:53:00",
+          "seconds": 17580,
+          "isMajor": false,
+          "title": "They fulfill an international order",
+          "description": "they fulfill an international order",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_016_04_53_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:53:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=04h53m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
