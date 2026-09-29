@@ -20317,7 +20317,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2886592871",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d19-evt-001",
@@ -20629,8 +20629,8 @@
           "timestamp": "04:53:00",
           "seconds": 17580,
           "isMajor": false,
-          "title": "They fulfill an international order",
-          "description": "they fulfill an international order",
+          "title": "They fulfill an international pawn order",
+          "description": "they fulfill an international pawn order",
           "category": "general",
           "tags": [
             "general"
@@ -20641,6 +20641,83 @@
           "image": "/images/frames/d19_evt_016_04_53_00.jpg",
           "imageCaption": "Stream snapshot @ 04:53:00",
           "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=04h53m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-017",
+          "timestamp": "05:34:00",
+          "seconds": 20040,
+          "isMajor": false,
+          "title": "Roxy calls x",
+          "description": "Roxy calls x, he tells her that he's not interested in getting the grinder anymore",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_017_05_34_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:34:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=05h34m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-018",
+          "timestamp": "05:48:00",
+          "seconds": 20880,
+          "isMajor": false,
+          "title": "They run another international pawn order",
+          "description": "they run another international pawn order",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_018_05_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=05h48m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-019",
+          "timestamp": "06:11:20",
+          "seconds": 22280,
+          "isMajor": false,
+          "title": "And marty rob houses",
+          "description": "x and Marty rob houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d19_evt_019_06_11_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:11:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=06h11m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-020",
+          "timestamp": "06:44:10",
+          "seconds": 24250,
+          "isMajor": false,
+          "title": "They check the laptop at the docks but the number of un",
+          "description": "they check the laptop at the docks but the number of units is at 135/150 even after doing the international orders",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_020_06_44_10.jpg",
+          "imageCaption": "Stream snapshot @ 06:44:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=06h44m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
