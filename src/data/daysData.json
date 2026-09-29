@@ -20317,7 +20317,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2886592871",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d19-evt-001",
@@ -20436,6 +20436,25 @@
           "image": "/images/frames/d19_evt_006_01_44_00.jpg",
           "imageCaption": "Stream snapshot @ 01:44:00",
           "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h44m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d19-evt-007",
+          "timestamp": "01:50:00",
+          "seconds": 6600,
+          "isMajor": true,
+          "title": "- 01:50:42 4head calls x telling him that he's transfer",
+          "description": "- 01:50:42 4head calls x telling him that he's transferred x the money for the bag he sold at the auction",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d19_evt_007_01_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2886592871?t=01h50m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
