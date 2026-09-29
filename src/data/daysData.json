@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2887458706",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d20-evt-001",
@@ -20897,6 +20897,28 @@
           "image": "/images/frames/d20_evt_004_00_31_00.jpg",
           "imageCaption": "Stream snapshot @ 00:31:00",
           "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=00h31m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-005",
+          "timestamp": "00:34:35",
+          "seconds": 2075,
+          "isMajor": true,
+          "title": "- 00:58:25 x attempts to break in the containers",
+          "description": "- 00:58:25 x attempts to break in the containers, he succeeds with the first container but fails 3 times with the second container which breaks the grinder, Marty is going to get a hostage and a second grinder while Lang stalls the cops for the time being, Marty arrives and hands x the second grinder, x manages to break into 5 out of 8 containers, they exchange the hostage and the chase starts, it's a long chase but Tony never disappoints",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d20_evt_005_00_34_35.jpg",
+          "imageCaption": "Stream snapshot @ 00:34:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=00h34m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
