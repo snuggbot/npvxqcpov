@@ -21418,7 +21418,7 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wu2oga/nopixel_v_day_21_recap_sep_30th_xqcs_pov_with/",
       "updated": "2026-09-30T11:42:06+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2888300423",
+      "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
       "eventsCount": 3,
@@ -21439,7 +21439,7 @@
           ],
           "image": "/images/frames/d21_evt_001_06_08_00.jpg",
           "imageCaption": "Stream snapshot @ 06:08:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h08m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h08m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -21458,7 +21458,7 @@
           ],
           "image": "/images/frames/d21_evt_002_00_38_30.jpg",
           "imageCaption": "Stream snapshot @ 00:38:30",
-          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=00h38m30s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h38m30s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -21475,16 +21475,16 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
-          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=00h51m18s",
+          "image": "/images/frames/d21_evt_003_00_51_18.jpg",
+          "imageCaption": "Stream snapshot @ 00:51:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h51m18s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 206:08:00 / Pierre Paul: 09:00:00 / Total : 214:08:00",
-        "timesJailed": "1 arrest",
+        "timesJailed": "1 arrest - has an active warrant for capital murder",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
