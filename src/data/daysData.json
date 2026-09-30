@@ -21418,10 +21418,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wu2oga/nopixel_v_day_21_recap_sep_30th_xqcs_pov_with/",
       "updated": "2026-09-30T11:42:06+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 3,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21439,7 +21439,7 @@
           ],
           "image": "/images/frames/d21_evt_001_06_08_00.jpg",
           "imageCaption": "Stream snapshot @ 06:08:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h08m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h08m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -21458,7 +21458,7 @@
           ],
           "image": "/images/frames/d21_evt_002_00_38_30.jpg",
           "imageCaption": "Stream snapshot @ 00:38:30",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h38m30s",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=00h38m30s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -21477,7 +21477,46 @@
           ],
           "image": "/images/frames/d21_evt_003_00_51_18.jpg",
           "imageCaption": "Stream snapshot @ 00:51:18",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h51m18s",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=00h51m18s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-004",
+          "timestamp": "01:01:30",
+          "seconds": 3690,
+          "isMajor": true,
+          "title": "- 01:11:10 the crew link up with m1",
+          "description": "- 01:11:10 the crew link up with M1, apparently the diamond they got for him was a fake, he believes that the guy that has the diamond is going to sell it to the art gallery in a couple of days which means they will need to plan and hit the art gallery soon, on another note he wants the crew to intercept a transport today carrying lab equipment, he's going to get in touch with them around 6:30-7pm today, also x is going to take a tour of the art gallery with Ginger Ale and take notes of the layout, M1 is going provide explosives to intercept the transport",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_004_01_01_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:01:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h01m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-005",
+          "timestamp": "01:14:15",
+          "seconds": 4455,
+          "isMajor": true,
+          "title": "- 01:14:35 tony hands over his parachute to x",
+          "description": "- 01:14:35 Tony hands over his parachute to x",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d21_evt_005_01_14_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:14:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h14m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
