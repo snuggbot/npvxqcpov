@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2887458706",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d20-evt-001",
@@ -21099,6 +21099,66 @@
           "image": "/images/frames/d20_evt_014_02_42_30.jpg",
           "imageCaption": "Stream snapshot @ 02:42:30",
           "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=02h42m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-015",
+          "timestamp": "03:23:38",
+          "seconds": 12218,
+          "isMajor": true,
+          "title": "- 03:23:57 tony calls the crew saying that he just got ",
+          "description": "- 03:23:57 Tony calls the crew saying that he just got hit by the Italians and that they were heading to the beach",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d20_evt_015_03_23_38.jpg",
+          "imageCaption": "Stream snapshot @ 03:23:38",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=03h23m38s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-016",
+          "timestamp": "03:26:30",
+          "seconds": 12390,
+          "isMajor": true,
+          "title": "- 03:26:42 speedy says that he made a deal with jason p",
+          "description": "- 03:26:42 Speedy says that he made a deal with Jason Polam, he's going to sell weed for them and in return he will be providing them with guns",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d20_evt_016_03_26_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:26:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=03h26m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-017",
+          "timestamp": "04:24:57",
+          "seconds": 15897,
+          "isMajor": true,
+          "title": "- 04:30:25 the crew is recording the video clip duplica",
+          "description": "- 04:30:25 the crew is recording the video clip duplicating the murder scene so they can use it in x's defense",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_017_04_24_57.jpg",
+          "imageCaption": "Stream snapshot @ 04:24:57",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=04h24m57s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
