@@ -21418,10 +21418,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1wu2oga/nopixel_v_day_21_recap_sep_30th_xqcs_pov_with/",
       "updated": "2026-09-30T11:42:06+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 3,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21439,7 +21439,45 @@
           ],
           "image": "/images/frames/d21_evt_001_06_08_00.jpg",
           "imageCaption": "Stream snapshot @ 06:08:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h08m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h08m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-002",
+          "timestamp": "00:38:30",
+          "seconds": 2310,
+          "isMajor": true,
+          "title": "Opens a package from rockstar irl",
+          "description": "x opens a package from Rockstar IRL",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_002_00_38_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:38:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=00h38m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-003",
+          "timestamp": "00:51:18",
+          "seconds": 3078,
+          "isMajor": false,
+          "title": "Logs in and starts day 21!",
+          "description": "x logs in and starts day 21!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=00h51m18s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
