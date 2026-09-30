@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2887458706",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 22,
       "events": [
         {
           "id": "d20-evt-001",
@@ -21159,6 +21159,110 @@
           "image": "/images/frames/d20_evt_017_04_24_57.jpg",
           "imageCaption": "Stream snapshot @ 04:24:57",
           "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=04h24m57s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-018",
+          "timestamp": "04:34:07",
+          "seconds": 16447,
+          "isMajor": false,
+          "title": "Marty says that the italians take saleem down at the ha",
+          "description": "Marty says that the Italians take Saleem down at the Hawick pawn shop",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d20_evt_018_04_34_07.jpg",
+          "imageCaption": "Stream snapshot @ 04:34:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=04h34m07s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-019",
+          "timestamp": "04:41:55",
+          "seconds": 16915,
+          "isMajor": true,
+          "title": "- 04:50:15 the crew meet up with eko",
+          "description": "- 04:50:15 the crew meet up with Eko, he wants them to rob a Fleeca, Eko also offers an escape vehicle of their choice, they choose a Stratum, he says all the equipment needed for the job will be their at the bank, he will ping them soon",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore",
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_019_04_41_55.jpg",
+          "imageCaption": "Stream snapshot @ 04:41:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=04h41m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-020",
+          "timestamp": "04:54:50",
+          "seconds": 17690,
+          "isMajor": false,
+          "title": "The crew is getting dressed for the bank robbery",
+          "description": "the crew is getting dressed for the bank robbery",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_020_04_54_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:54:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=04h54m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-021",
+          "timestamp": "05:00:55",
+          "seconds": 18055,
+          "isMajor": true,
+          "title": "- 05:01:20 they collect the escape vehicle",
+          "description": "- 05:01:20 they collect the escape vehicle",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_021_05_00_55.jpg",
+          "imageCaption": "Stream snapshot @ 05:00:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=05h00m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-022",
+          "timestamp": "05:06:55",
+          "seconds": 18415,
+          "isMajor": true,
+          "title": "- 05:22:20 they arrive at the fleeca with a hostage",
+          "description": "- 05:22:20 they arrive at the Fleeca with a hostage, they complete 3 hacks to get into the bank's vault, they get gold bars, rolled cash and a blue access card (labeled jewelry store), the cops arrive, they exchange the hostage and the chase begins, Tony pulls some crazy stunts and escapes",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d20_evt_022_05_06_55.jpg",
+          "imageCaption": "Stream snapshot @ 05:06:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=05h06m55s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
