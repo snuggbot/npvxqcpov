@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2887458706",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 22,
+      "eventsCount": 25,
       "events": [
         {
           "id": "d20-evt-001",
@@ -21263,6 +21263,66 @@
           "image": "/images/frames/d20_evt_022_05_06_55.jpg",
           "imageCaption": "Stream snapshot @ 05:06:55",
           "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=05h06m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-023",
+          "timestamp": "05:38:25",
+          "seconds": 20305,
+          "isMajor": true,
+          "title": "- 05:38:52 the crew scouts out the vangelico jewelry st",
+          "description": "- 05:38:52 the crew scouts out the Vangelico jewelry store now that they have a blue access card for it, they find an intractable contact on the roof (NPC requires a blue access card)",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_023_05_38_25.jpg",
+          "imageCaption": "Stream snapshot @ 05:38:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=05h38m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-024",
+          "timestamp": "05:47:35",
+          "seconds": 20855,
+          "isMajor": true,
+          "title": "- 05:48:00 a classic drive by hong kong pawn shop",
+          "description": "- 05:48:00 a classic drive by Hong Kong pawn shop",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_024_05_47_35.jpg",
+          "imageCaption": "Stream snapshot @ 05:47:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=05h47m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-025",
+          "timestamp": "06:36:05",
+          "seconds": 23765,
+          "isMajor": true,
+          "title": "- 05:36:38 a lady gives x spikestrips as a gift (no ide",
+          "description": "- 05:36:38 a lady gives x spikestrips as a gift (no idea what her name is)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_025_06_36_05.jpg",
+          "imageCaption": "Stream snapshot @ 06:36:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=06h36m05s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
