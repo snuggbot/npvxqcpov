@@ -21421,7 +21421,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21517,6 +21517,105 @@
           "image": "/images/frames/d21_evt_005_01_14_15.jpg",
           "imageCaption": "Stream snapshot @ 01:14:15",
           "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h14m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-006",
+          "timestamp": "01:20:00",
+          "seconds": 4800,
+          "isMajor": false,
+          "title": "The crew change clothes preparing to rob the jewelry st",
+          "description": "the crew change clothes preparing to rob the jewelry store",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_006_01_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h20m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-007",
+          "timestamp": "01:31:50",
+          "seconds": 5510,
+          "isMajor": false,
+          "title": "Blocks the cops chasing tony using a big bus",
+          "description": "x blocks the cops chasing Tony using a big bus",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d21_evt_007_01_31_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:31:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h31m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-008",
+          "timestamp": "01:35:30",
+          "seconds": 5730,
+          "isMajor": true,
+          "title": "- 01:35:50 x arrives at the spot where the contact pers",
+          "description": "- 01:35:50 x arrives at the spot where the contact person (NPC) was on the roof of the jewelry store but he's no longer there",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_008_01_35_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:35:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h35m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-009",
+          "timestamp": "01:37:35",
+          "seconds": 5855,
+          "isMajor": true,
+          "title": "- 01:40:00 x receives a call from lspd asking him to tu",
+          "description": "- 01:40:00 x receives a call from LSPD asking him to turn himself in and also threatening him, he starts recording the conversation, x refuses to turn himself in and hangs up",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_009_01_37_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:37:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h37m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-010",
+          "timestamp": "01:40:20",
+          "seconds": 6020,
+          "isMajor": true,
+          "title": "- 01:40:50 the crew can't find the contact person to ha",
+          "description": "- 01:40:50 the crew can't find the contact person to hand the blue access card to, they decide to rob ATMs instead for the time being",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_010_01_40_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:40:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h40m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
