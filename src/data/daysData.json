@@ -20820,7 +20820,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2887458706",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d20-evt-001",
@@ -21060,6 +21060,45 @@
           "image": "/images/frames/d20_evt_012_01_36_11.jpg",
           "imageCaption": "Stream snapshot @ 01:36:11",
           "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=01h36m11s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-013",
+          "timestamp": "01:45:35",
+          "seconds": 6335,
+          "isMajor": true,
+          "title": "- 02:09:45 lawyer dr",
+          "description": "- 02:09:45 lawyer Dr. Beef (role-played by",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d20_evt_013_01_45_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:45:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=01h45m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d20-evt-014",
+          "timestamp": "02:42:30",
+          "seconds": 9750,
+          "isMajor": true,
+          "title": "X",
+          "description": "x, Marty and Daphne Malone, (role-played by",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d20_evt_014_02_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2887458706?t=02h42m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
