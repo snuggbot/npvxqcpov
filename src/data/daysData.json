@@ -21421,7 +21421,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 23,
+      "eventsCount": 26,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21879,12 +21879,71 @@
           "imageCaption": "Stream snapshot @ 06:23:20",
           "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h23m20s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-024",
+          "timestamp": "06:31:09",
+          "seconds": 23469,
+          "isMajor": true,
+          "title": "- 06:32:02 x is looking at 12 years prison (12 days)",
+          "description": "- 06:32:02 x is looking at 12 years prison (12 days), 12 years parole and 400k$ fine which was written by the DA that x punched earlier",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_024_06_31_09.jpg",
+          "imageCaption": "Stream snapshot @ 06:31:09",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h31m09s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-025",
+          "timestamp": "06:42:37",
+          "seconds": 24157,
+          "isMajor": true,
+          "title": "- 06:43:15 x finds a bunch of prototype circuit boards ",
+          "description": "- 06:43:15 x finds a bunch of prototype circuit boards in the storage unit, Tony calls saying that he has something that might go with that",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d21_evt_025_06_42_37.jpg",
+          "imageCaption": "Stream snapshot @ 06:42:37",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h42m37s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-026",
+          "timestamp": "06:48:05",
+          "seconds": 24485,
+          "isMajor": true,
+          "title": "- 06:48:31 tony shows x the usb exploit stick they got ",
+          "description": "- 06:48:31 Tony shows x the USB exploit stick they got from the transport robbery earlier which could go with the prototype circuit board",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d21_evt_026_06_48_05.jpg",
+          "imageCaption": "Stream snapshot @ 06:48:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h48m05s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 206:08:00 / Pierre Paul: 09:00:00 / Total : 214:08:00",
-        "timesJailed": "1 arrest - has an active warrant for capital murder",
+        "timesJailed": "2 arrests - he's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
