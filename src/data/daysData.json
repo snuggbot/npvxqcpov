@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22237,6 +22237,103 @@
           "image": "/images/frames/d22_evt_001_16_05_00.jpg",
           "imageCaption": "Stream snapshot @ 16:05:00",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=16h05m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-002",
+          "timestamp": "00:35:00",
+          "seconds": 2100,
+          "isMajor": false,
+          "title": "Logs in and starts day 22!",
+          "description": "x logs in and starts day 22!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_002_00_35_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:35:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=00h35m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-003",
+          "timestamp": "00:37:20",
+          "seconds": 2240,
+          "isMajor": false,
+          "title": "Encounters sparky kane and lovemore (funny bits)",
+          "description": "x encounters Sparky Kane and Lovemore (funny bits)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_003_00_37_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:37:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=00h37m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-004",
+          "timestamp": "01:04:00",
+          "seconds": 3840,
+          "isMajor": false,
+          "title": "The crew is discussing x's bail conditions and charges ",
+          "description": "the crew is discussing x's bail conditions and charges while waiting on M1",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_004_01_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h04m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-005",
+          "timestamp": "01:23:30",
+          "seconds": 5010,
+          "isMajor": false,
+          "title": "The crew visit the wizard since speedy and lang were no",
+          "description": "the crew visit the wizard since Speedy and Lang were not there yesterday to see him",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d22_evt_005_01_23_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:23:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h23m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-006",
+          "timestamp": "01:30:10",
+          "seconds": 5410,
+          "isMajor": true,
+          "title": "- 01:30:50 they take a look at the cargo ships progress",
+          "description": "- 01:30:50 they take a look at the cargo ships progress at the docks, Vespucci's ready for departure",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_006_01_30_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:30:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h30m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
