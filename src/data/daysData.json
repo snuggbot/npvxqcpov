@@ -21421,7 +21421,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21616,6 +21616,65 @@
           "image": "/images/frames/d21_evt_010_01_40_20.jpg",
           "imageCaption": "Stream snapshot @ 01:40:20",
           "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h40m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-011",
+          "timestamp": "01:51:50",
+          "seconds": 6710,
+          "isMajor": false,
+          "title": "The crew decide to hit atms (they have 9 prey wedges)",
+          "description": "the crew decide to hit ATMs (they have 9 prey wedges)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_011_01_51_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:51:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=01h51m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-012",
+          "timestamp": "02:00:00",
+          "seconds": 7200,
+          "isMajor": false,
+          "title": "The cops arrive and it turns into a chase",
+          "description": "the cops arrive and it turns into a chase, Speedy gets cuffed but they manage to get him in the car and drive off again, the chase continues, they eventually escape except for Speedy",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d21_evt_012_02_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=02h00m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-013",
+          "timestamp": "03:08:30",
+          "seconds": 11310,
+          "isMajor": true,
+          "title": "- 03:13:00 they link up with m1",
+          "description": "- 03:13:00 they link up with M1, objective 1 they will need to rob a house to find the route of the transport, after that M1 is going to hand them the sticky bomb and the location of where to use it, they get the location of the house",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_013_03_08_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:08:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h08m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
