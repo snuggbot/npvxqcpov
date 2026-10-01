@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22334,6 +22334,25 @@
           "image": "/images/frames/d22_evt_006_01_30_10.jpg",
           "imageCaption": "Stream snapshot @ 01:30:10",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h30m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-007",
+          "timestamp": "01:41:00",
+          "seconds": 6060,
+          "isMajor": false,
+          "title": "Is saying that around 800 steel have disappeared from s",
+          "description": "x is saying that around 800 steel have disappeared from storage, the convo leads to no where (x is contacting the devs thinking it may have scuffed)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_007_01_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h41m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
