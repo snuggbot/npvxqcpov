@@ -21421,7 +21421,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21732,6 +21732,91 @@
           "image": "/images/frames/d21_evt_016_03_29_40.jpg",
           "imageCaption": "Stream snapshot @ 03:29:40",
           "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h29m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-017",
+          "timestamp": "03:33:20",
+          "seconds": 12800,
+          "isMajor": true,
+          "title": "- 03:33:47 beef calls x saying that he has 2 warrants",
+          "description": "- 03:33:47 Beef calls x saying that he has 2 warrants, one that expires on the 2nd and one that never expires",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_017_03_33_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:33:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h33m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-018",
+          "timestamp": "03:34:00",
+          "seconds": 12840,
+          "isMajor": true,
+          "title": "- 03:39:50 they link up with m1",
+          "description": "- 03:39:50 they link up with M1, confirm the route of the transport, Lang is going to plant the sticky bomb, each of the crew gets an access card, M1 says they can keep anything they find except for the lab equipment",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d21_evt_018_03_34_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:34:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h34m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-019",
+          "timestamp": "03:41:00",
+          "seconds": 13260,
+          "isMajor": true,
+          "title": "- 03:41:15 tony shares a picture of the location where ",
+          "description": "- 03:41:15 Tony shares a picture of the location where Lang needs to plant the bomb",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d21_evt_019_03_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h41m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-020",
+          "timestamp": "03:48:40",
+          "seconds": 13720,
+          "isMajor": true,
+          "title": "- 04:48:00 lang plants the bomb",
+          "description": "- 04:48:00 Lang plants the bomb, Tony & Marty tail the transport until they arrive in position, Lang detonates the bomb destroying the truck and they take down the security guards and proceed to retrieve the equipment, the cops arrive shortly after and it turns into a chase, Tony & Marty will deposit the loot at the city, Lang and x are still being chased, Lang's head pop (disconnects) Marty picks x up and the chase continues, x hops on a bike and drives off, he's being chased, x gets stuck in a hole and gets tased, he's being chased on foot, after a crazy long chase on foot and x escaping cuffs multiple times he's unfortunately tased and cuffed while falling into the ocean, the cop asks him if he should uncuff him (it felt unfair to the cop) but x says he's okay with it",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d21_evt_020_03_48_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:48:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h48m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
