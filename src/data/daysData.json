@@ -21421,7 +21421,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 20,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21817,6 +21817,67 @@
           "image": "/images/frames/d21_evt_020_03_48_40.jpg",
           "imageCaption": "Stream snapshot @ 03:48:40",
           "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h48m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-021",
+          "timestamp": "04:48:00",
+          "seconds": 17280,
+          "isMajor": true,
+          "title": "- 06:00:03 x and marty are being escorted and get treat",
+          "description": "- 06:00:03 x and Marty are being escorted and get treated at the hospital, they're then escorted to the PD, Beef arrives to represent x, he's going to need sometime to go through the report and prepare for the case, x prepares and discusses with Beef the scenarios, C. Dawson arrives, x is going to be fined, placed in jail on bail pending trial, x looses it at the DA working with C. Dawson and attacks him in the investigation room and takes him down, x is fined 12,130$ for one case and 9k$ for another which x agrees to but doesn't plead guilty to the rest of the cases, x asks if the body of Rin (the italian they ocean dumped) was ever found to which C. Dawson answers yes",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d21_evt_021_04_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=04h48m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-022",
+          "timestamp": "06:11:00",
+          "seconds": 22260,
+          "isMajor": false,
+          "title": "Beef is working on marty's case",
+          "description": "Beef is working on Marty's case",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d21_evt_022_06_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h11m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-023",
+          "timestamp": "06:23:20",
+          "seconds": 23000,
+          "isMajor": true,
+          "title": "- 06:26:30 dawson informs x about his bail conditions",
+          "description": "- 06:26:30 Dawson informs x about his bail conditions, he then tells x that he's going to be released today since he's on bail and they can't hold him against the charges of today",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_023_06_23_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:23:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h23m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
