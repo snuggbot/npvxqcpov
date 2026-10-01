@@ -21421,7 +21421,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21675,6 +21675,63 @@
           "image": "/images/frames/d21_evt_013_03_08_30.jpg",
           "imageCaption": "Stream snapshot @ 03:08:30",
           "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h08m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-014",
+          "timestamp": "03:17:30",
+          "seconds": 11850,
+          "isMajor": true,
+          "title": "- 03:26:25 they arrive at the first location",
+          "description": "- 03:26:25 they arrive at the first location, they need to find a code to get the route, they complete a few hacks, look around the house, x finds the code and they leave the area",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_014_03_17_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:17:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h17m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-015",
+          "timestamp": "03:28:40",
+          "seconds": 12520,
+          "isMajor": false,
+          "title": "Calls lawyer beef",
+          "description": "x calls lawyer Beef, asks him if the warrant is going to expire, Beef says he will make sure and call him in ten",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_015_03_28_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:28:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h28m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-016",
+          "timestamp": "03:29:40",
+          "seconds": 12580,
+          "isMajor": false,
+          "title": "The crew get the radios from the storage unit preparing",
+          "description": "the crew get the radios from the storage unit preparing to intercept the transport",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_016_03_29_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:29:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=03h29m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
