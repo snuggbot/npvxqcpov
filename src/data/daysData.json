@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22353,6 +22353,26 @@
           "image": "/images/frames/d22_evt_007_01_41_00.jpg",
           "imageCaption": "Stream snapshot @ 01:41:00",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h41m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-008",
+          "timestamp": "01:52:35",
+          "seconds": 6755,
+          "isMajor": true,
+          "title": "- 01:53:38 officer shiesty calls x asking if he knows a",
+          "description": "- 01:53:38 Officer Shiesty calls x asking if he knows anything about the individuals robbing Paleto bank, x says no, shares his location with Shiesty and then hangs up",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_008_01_52_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:52:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h52m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
