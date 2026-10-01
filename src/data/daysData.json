@@ -21421,7 +21421,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2888300423",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 26,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d21-evt-001",
@@ -21937,6 +21937,29 @@
           "image": "/images/frames/d21_evt_026_06_48_05.jpg",
           "imageCaption": "Stream snapshot @ 06:48:05",
           "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=06h48m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d21-evt-027",
+          "timestamp": "07:38:33",
+          "seconds": 27513,
+          "isMajor": true,
+          "title": "- 07:46:15 the crew link up with eko",
+          "description": "- 07:46:15 the crew link up with Eko, he says that once they're done with the jewelry heist they will need to meet up with a contact of his called the wizard (a Nopixel 2.0 Gun Plug) and he will hook them up with the rewards for the job, they can also request an escape vehicle again, Eko says they will need to be fast with the job",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore",
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d21_evt_027_07_38_33.jpg",
+          "imageCaption": "Stream snapshot @ 07:38:33",
+          "twitchUrl": "https://www.twitch.tv/videos/2888300423?t=07h38m33s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
