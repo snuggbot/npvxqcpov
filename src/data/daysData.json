@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 20,
+      "eventsCount": 29,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22611,6 +22611,187 @@
           "image": "/images/frames/d22_evt_020_06_05_55.jpg",
           "imageCaption": "Stream snapshot @ 06:05:55",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=06h05m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-021",
+          "timestamp": "06:46:50",
+          "seconds": 24410,
+          "isMajor": true,
+          "title": "- 06:50:00 the crew start the cargo heist",
+          "description": "- 06:50:00 the crew start the cargo heist, they have 2 hostages on board, x one taps all 8 containers with 0 fails and they still get to keep the grinder (holy aura), they don't get anything new and no cops show up",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_021_06_46_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:46:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=06h46m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-022",
+          "timestamp": "06:53:47",
+          "seconds": 24827,
+          "isMajor": true,
+          "title": "- 06:54:05 marty tells x about the loot they got from t",
+          "description": "- 06:54:05 Marty tells x about the loot they got from the containers (1 jet lab blueprint, 1 medium backbag blueprint, 2 male weed seeds, a few female seeds, 8k rolled bills and 27 gold bars)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d22_evt_022_06_53_47.jpg",
+          "imageCaption": "Stream snapshot @ 06:53:47",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=06h53m47s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-023",
+          "timestamp": "07:02:15",
+          "seconds": 25335,
+          "isMajor": false,
+          "title": "Tony is taking pictures of the back area of the art gal",
+          "description": "Tony is taking pictures of the back area of the art gallery",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d22_evt_023_07_02_15.jpg",
+          "imageCaption": "Stream snapshot @ 07:02:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=07h02m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-024",
+          "timestamp": "07:05:45",
+          "seconds": 25545,
+          "isMajor": true,
+          "title": "- 07:06:30 x",
+          "description": "- 07:06:30 x, Lang and Marty are going to walk with Ginger while she tours them through the art gallery, Tony will be a little behind taking pictures of security cameras and mapping the layout",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d22_evt_024_07_05_45.jpg",
+          "imageCaption": "Stream snapshot @ 07:05:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=07h05m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-025",
+          "timestamp": "07:09:15",
+          "seconds": 25755,
+          "isMajor": true,
+          "title": "- 07:11:00 they link up with ginger",
+          "description": "- 07:11:00 they link up with Ginger, they will paint and tour the art gallery",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_025_07_09_15.jpg",
+          "imageCaption": "Stream snapshot @ 07:09:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=07h09m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-026",
+          "timestamp": "07:15:40",
+          "seconds": 26140,
+          "isMajor": true,
+          "title": "- 07:45:00 they enter the art gallery",
+          "description": "- 07:45:00 they enter the art gallery, x uses the drawing tablet and starts drawing, x names his art piece XMarty and submits it to the art gallery, he asks if they can display it, Tony gets hired at the art gallery as a butler",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d22_evt_026_07_15_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:15:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=07h15m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-027",
+          "timestamp": "07:45:00",
+          "seconds": 27900,
+          "isMajor": false,
+          "title": "Pretends to be a butler serving ginger but fails",
+          "description": "x pretends to be a butler serving Ginger but fails, Tony the shows him how it's done",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d22_evt_027_07_45_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:45:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=07h45m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-028",
+          "timestamp": "07:54:45",
+          "seconds": 28485,
+          "isMajor": true,
+          "title": "- 08:00:02 tony managed to get pictures of all the door",
+          "description": "- 08:00:02 Tony managed to get pictures of all the doors and security equipment, they look at their drawings on the wall",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d22_evt_028_07_54_45.jpg",
+          "imageCaption": "Stream snapshot @ 07:54:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=07h54m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-029",
+          "timestamp": "08:03:10",
+          "seconds": 28990,
+          "isMajor": true,
+          "title": "- 08:13:40 they continue the tour",
+          "description": "- 08:13:40 they continue the tour, x pays Ginger 5k for the tour and the leave with enough intel and pictures",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_029_08_03_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:03:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=08h03m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
