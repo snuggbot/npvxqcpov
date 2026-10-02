@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22373,6 +22373,47 @@
           "image": "/images/frames/d22_evt_008_01_52_35.jpg",
           "imageCaption": "Stream snapshot @ 01:52:35",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=01h52m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-009",
+          "timestamp": "02:05:58",
+          "seconds": 7558,
+          "isMajor": true,
+          "title": "- 02:07:30 larry has bought the drone from the inner ci",
+          "description": "- 02:07:30 Larry has bought the drone from the inner circle shop, x inspects it and the description says to be paired to the supply cache and it has 2 empty slots in it",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_009_02_05_58.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:58",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=02h05m58s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-010",
+          "timestamp": "03:00:02",
+          "seconds": 10802,
+          "isMajor": true,
+          "title": "- 03:09:45 the crew link up with m1",
+          "description": "- 03:09:45 the crew link up with M1, they share the loot they got from the transport job, M1 says there were 3 grinders in the boxes that they missed, M1 also confirms that the diamond is going to be sold tomorrow at the art gallery, M1 says that he's managed to make 500k robbing Paleto bank but he used the money to pay off the cartel, he then hands 80k$ to the crew for the transport job, he will also help the crew hit Paleto bank next week, finally he asks x to take a tour of the art gallery today and take pictures (using the help of Ginger Ale who works there)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_010_03_00_02.jpg",
+          "imageCaption": "Stream snapshot @ 03:00:02",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=03h00m02s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
