@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc/videos/01a0f907-5350-7e98-90e2-96e85c88f7fe",
       "kickStreamUrl": "",
-      "eventsCount": 36,
+      "eventsCount": 41,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22929,6 +22929,104 @@
           "imageCaption": "Stream snapshot @ 09:58:25",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=09h58m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a0f907-5350-7e98-90e2-96e85c88f7fe?t=35903"
+        },
+        {
+          "id": "d22-evt-037",
+          "timestamp": "10:11:35",
+          "seconds": 36695,
+          "isMajor": false,
+          "title": "Starts patrolling with c",
+          "description": "x starts patrolling with C. Dawson",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_037_10_11_35.jpg",
+          "imageCaption": "Stream snapshot @ 10:11:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=10h11m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0f907-5350-7e98-90e2-96e85c88f7fe?t=36693"
+        },
+        {
+          "id": "d22-evt-038",
+          "timestamp": "10:12:30",
+          "seconds": 36750,
+          "isMajor": true,
+          "title": "- 10:13:00 dawson tells x that the spikestrips have bee",
+          "description": "- 10:13:00 Dawson tells x that the spikestrips have been upgraded, x tests them out",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_038_10_12_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:12:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=10h12m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0f907-5350-7e98-90e2-96e85c88f7fe?t=36748"
+        },
+        {
+          "id": "d22-evt-039",
+          "timestamp": "10:31:00",
+          "seconds": 37860,
+          "isMajor": false,
+          "title": "They pull over someone running a red light",
+          "description": "they pull over someone running a red light, she drives off when they ask for the car registration and it turns into a chase but she disappears quickly",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_039_10_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=10h31m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0f907-5350-7e98-90e2-96e85c88f7fe?t=37858"
+        },
+        {
+          "id": "d22-evt-040",
+          "timestamp": "10:42:50",
+          "seconds": 38570,
+          "isMajor": false,
+          "title": "They pull over a stolen vehicle running a red light too",
+          "description": "they pull over a stolen vehicle running a red light too, the person is called John Carver looking at his driver license, they give him a citation for joyriding and running a red light, they fine him a total of 825$ and let him go",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_040_10_42_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:42:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=10h42m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0f907-5350-7e98-90e2-96e85c88f7fe?t=38568"
+        },
+        {
+          "id": "d22-evt-041",
+          "timestamp": "11:11:15",
+          "seconds": 40275,
+          "isMajor": false,
+          "title": "- 11:50:15 they pull over a speeding suspect",
+          "description": "- 11:50:15 they pull over a speeding suspect, she drives off and it turns into a chase, x attempts to spike the fleeing vehicle but misses, they manage to box the fleeing vehicle but the suspects flee using a different car, the chase continues, it turns into a foot chase, x gets tackled and incapacited by mistake by C. Dawson, he gets treated at the hospital and decides to end the day",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_041_11_11_15.jpg",
+          "imageCaption": "Stream snapshot @ 11:11:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=11h11m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a0f907-5350-7e98-90e2-96e85c88f7fe?t=40273"
         }
       ],
       "characterInfo": {
