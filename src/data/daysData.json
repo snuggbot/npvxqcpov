@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22414,6 +22414,85 @@
           "image": "/images/frames/d22_evt_010_03_00_02.jpg",
           "imageCaption": "Stream snapshot @ 03:00:02",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=03h00m02s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-011",
+          "timestamp": "03:39:30",
+          "seconds": 13170,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Lang hit a few ATMs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d22_evt_011_03_39_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:39:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=03h39m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-012",
+          "timestamp": "04:41:00",
+          "seconds": 16860,
+          "isMajor": false,
+          "title": "The crew get new haircuts at the barbershop",
+          "description": "the crew get new haircuts at the barbershop",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_012_04_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=04h41m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-013",
+          "timestamp": "05:12:58",
+          "seconds": 18778,
+          "isMajor": true,
+          "title": "- 05:14:15 they find an npc saying he works for m1 near",
+          "description": "- 05:14:15 they find an NPC saying he works for M1 near the art gallery, he gives them hints about robbing the place",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_013_05_12_58.jpg",
+          "imageCaption": "Stream snapshot @ 05:12:58",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=05h12m58s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-014",
+          "timestamp": "05:15:25",
+          "seconds": 18925,
+          "isMajor": false,
+          "title": "Larry downs someone in self defense",
+          "description": "Larry downs someone in self defense, the cops arrive with C. Dawson and things get heated up, they refuse to cooperate and it turns into a chase, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_014_05_15_25.jpg",
+          "imageCaption": "Stream snapshot @ 05:15:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=05h15m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
