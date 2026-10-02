@@ -22218,7 +22218,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2889181997",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d22-evt-001",
@@ -22493,6 +22493,124 @@
           "image": "/images/frames/d22_evt_014_05_15_25.jpg",
           "imageCaption": "Stream snapshot @ 05:15:25",
           "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=05h15m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-015",
+          "timestamp": "05:37:40",
+          "seconds": 20260,
+          "isMajor": false,
+          "title": "They start robbing houses",
+          "description": "they start robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_015_05_37_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:37:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=05h37m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-016",
+          "timestamp": "05:45:18",
+          "seconds": 20718,
+          "isMajor": true,
+          "title": "- 05:47:15 tony confesses something to x",
+          "description": "- 05:47:15 Tony confesses something to x, M1 told him this morning and he said that there were 10 grinders in the box and a grinder blueprint those were the 2 boxes they missed but then he says he's joking and there were 3 grinders only",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d22_evt_016_05_45_18.jpg",
+          "imageCaption": "Stream snapshot @ 05:45:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=05h45m18s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-017",
+          "timestamp": "05:58:00",
+          "seconds": 21480,
+          "isMajor": true,
+          "title": "- 05:58:20 they take a look at the cargo progress at th",
+          "description": "- 05:58:20 they take a look at the cargo progress at the docks, it shows that Davis Pawn is at 150/150",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_017_05_58_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:58:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=05h58m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-018",
+          "timestamp": "06:01:07",
+          "seconds": 21667,
+          "isMajor": true,
+          "title": "- 06:01:37 jack cortair calls x saying that he has a gr",
+          "description": "- 06:01:37 Jack Cortair calls x saying that he has a grinder for sale, x is going to meet him at the pawn shop",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_018_06_01_07.jpg",
+          "imageCaption": "Stream snapshot @ 06:01:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=06h01m07s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-019",
+          "timestamp": "06:02:50",
+          "seconds": 21770,
+          "isMajor": true,
+          "title": "- 06:04:30 x meets with jack at the pawn shop",
+          "description": "- 06:04:30 x meets with Jack at the pawn shop, he sells the grinder to x for 10k, he's got it after hitting 2 houses only, he shares the location with them too",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d22_evt_019_06_02_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:02:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=06h02m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d22-evt-020",
+          "timestamp": "06:05:55",
+          "seconds": 21955,
+          "isMajor": true,
+          "title": "- 06:06:20 x apologizes to tony for punching him earlie",
+          "description": "- 06:06:20 x apologizes to Tony for punching him earlier",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d22_evt_020_06_05_55.jpg",
+          "imageCaption": "Stream snapshot @ 06:05:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2889181997?t=06h05m55s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
