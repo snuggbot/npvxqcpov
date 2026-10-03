@@ -23048,7 +23048,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2890083155",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 37,
+      "eventsCount": 44,
       "events": [
         {
           "id": "d23-evt-001",
@@ -23763,19 +23763,155 @@
           "imageCaption": "Stream snapshot @ 08:59:40",
           "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=08h59m40s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-038",
+          "timestamp": "09:04:50",
+          "seconds": 32690,
+          "isMajor": true,
+          "title": "- 09:05:40 x pays 30k back to bricked holdings",
+          "description": "- 09:05:40 x pays 30k back to bricked holdings",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_038_09_04_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:04:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=09h04m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-039",
+          "timestamp": "09:07:00",
+          "seconds": 32820,
+          "isMajor": true,
+          "title": "- 09:09:20 x calls lang discussing the losses at the ca",
+          "description": "- 09:09:20 x calls Lang discussing the losses at the casino today",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d23_evt_039_09_07_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:07:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=09h07m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-040",
+          "timestamp": "09:10:43",
+          "seconds": 33043,
+          "isMajor": true,
+          "title": "- 09:11:47 x calls tony about the 20k loan",
+          "description": "- 09:11:47 x calls Tony about the 20k loan",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d23_evt_040_09_10_43.jpg",
+          "imageCaption": "Stream snapshot @ 09:10:43",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=09h10m43s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-041",
+          "timestamp": "09:12:30",
+          "seconds": 33150,
+          "isMajor": false,
+          "title": "Robs a couple of atms on his own",
+          "description": "x robs a couple of ATMs on his own",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_041_09_12_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:12:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=09h12m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-042",
+          "timestamp": "25:26:00",
+          "seconds": 91560,
+          "isMajor": false,
+          "title": "/ pierre paul: 11:05:00 / total : 235:31:00",
+          "description": "/ Pierre Paul: 11:05:00 / Total : 235:31:00",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_042_25_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 25:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=25h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-043",
+          "timestamp": "09:21:50",
+          "seconds": 33710,
+          "isMajor": false,
+          "title": "Switches to pp",
+          "description": "x switches to PP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_043_09_21_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:21:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=09h21m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-044",
+          "timestamp": "09:29:50",
+          "seconds": 34190,
+          "isMajor": false,
+          "title": "Joins an ongoing chase",
+          "description": "x joins an ongoing chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_044_09_29_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:29:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=09h29m50s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 225:26:00 / Pierre Paul: 11:05:00 / Total : 235:31:00",
-        "timesJailed": "2 arrests - He's currently out on bail",
+        "timesJailed": "2",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Current Ongoing Quest Line(s)": "None Yet",
         "Game": "Starting Amount",
         "Roulette": "100,258",
         "Blackjack": "46,046",
         "Slots": "72,258",
-        "Wheelspin": "70,758"
+        "Wheelspin": "70,758",
+        "Character": "Pierre Paul"
       }
     }
   }
