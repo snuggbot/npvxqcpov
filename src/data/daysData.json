@@ -23048,7 +23048,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2890083155",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 31,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d23-evt-001",
@@ -23634,7 +23634,47 @@
           "seconds": 23170,
           "isMajor": true,
           "title": "06:28:35 x asks for his rakeback from mr",
-          "description": "06:28:35 x asks for his rakeback from Mr. C he also withdraws 20k from the bricked holdings account, Mr. C. hands him 23,750",
+          "description": "06:28:35 x asks for his rakeback from Mr. C he also withdraws 20k from the bricked holdings account leaving a note that Tony owes him this much, Mr. C. hands him 23,750",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d23_evt_031_06_26_10.jpg",
+          "imageCaption": "Stream snapshot @ 06:26:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=06h26m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-032",
+          "timestamp": "07:22:50",
+          "seconds": 26570,
+          "isMajor": true,
+          "title": "- 07:23:25 withdraws 20k from the bricked holdings acco",
+          "description": "- 07:23:25 withdraws 20k from the bricked holdings account leaving a note that Lang owes him this much, he also borrows 15k cash loan from Frank",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d23_evt_032_07_22_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:22:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=07h22m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-033",
+          "timestamp": "07:37:30",
+          "seconds": 27450,
+          "isMajor": false,
+          "title": "Leaves the casino for now",
+          "description": "x leaves the casino for now",
           "category": "general",
           "tags": [
             "general"
@@ -23642,9 +23682,9 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d23_evt_031_06_26_10.jpg",
-          "imageCaption": "Stream snapshot @ 06:26:10",
-          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=06h26m10s",
+          "image": "/images/frames/d23_evt_033_07_37_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:37:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=07h37m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
@@ -23655,9 +23695,10 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
         "Game": "Starting Amount",
-        "Roulette": "30,933",
-        "Blackjack": "50,933",
-        "Slots": "30,482 (withdraws 30k)"
+        "Roulette": "91,337",
+        "Blackjack": "27,966",
+        "Slots": "35,675",
+        "Wheelspin": "90,837"
       }
     }
   }
