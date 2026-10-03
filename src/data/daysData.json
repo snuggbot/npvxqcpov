@@ -23048,7 +23048,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2890083155",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d23-evt-001",
@@ -23243,6 +23243,120 @@
           "image": "/images/frames/d23_evt_010_02_07_10.jpg",
           "imageCaption": "Stream snapshot @ 02:07:10",
           "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=02h07m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-011",
+          "timestamp": "02:29:00",
+          "seconds": 8940,
+          "isMajor": false,
+          "title": "People are lining up for the casino",
+          "description": "people are lining up for the Casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_011_02_29_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:29:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=02h29m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-012",
+          "timestamp": "02:41:40",
+          "seconds": 9700,
+          "isMajor": false,
+          "title": "- 02:56:40 silver card holders are allowed in first",
+          "description": "- 02:56:40 silver card holders are allowed in first, they get seated in a private lounge",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_012_02_41_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:41:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=02h41m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-013",
+          "timestamp": "02:56:40",
+          "seconds": 10600,
+          "isMajor": false,
+          "title": "Daphne announces the brick boise records event",
+          "description": "Daphne announces the Brick Boise records event",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_013_02_56_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:56:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=02h56m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-014",
+          "timestamp": "02:58:40",
+          "seconds": 10720,
+          "isMajor": false,
+          "title": "- 03:30:00 (multiple singing performances on stage) the",
+          "description": "- 03:30:00 (multiple singing performances on stage) the crew is chillin, dancing and taking photos of each other",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_014_02_58_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:58:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=02h58m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-015",
+          "timestamp": "03:30:10",
+          "seconds": 12610,
+          "isMajor": false,
+          "title": "Daphne's performance (brick bois records ceo)",
+          "description": "Daphne's performance (Brick Bois Records CEO)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_015_03_30_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:30:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=03h30m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-016",
+          "timestamp": "03:33:40",
+          "seconds": 12820,
+          "isMajor": true,
+          "title": "- 03:36:35 microwave performs the brick boise anthem",
+          "description": "- 03:36:35 Microwave performs the Brick Boise Anthem, the Brick Bois are all on stage",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_016_03_33_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:33:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=03h33m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
