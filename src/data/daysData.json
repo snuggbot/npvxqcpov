@@ -23048,7 +23048,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2890083155",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d23-evt-001",
@@ -23358,6 +23358,83 @@
           "imageCaption": "Stream snapshot @ 03:33:40",
           "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=03h33m40s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-017",
+          "timestamp": "03:37:00",
+          "seconds": 13020,
+          "isMajor": false,
+          "title": "Last performance by bogg dann (pokelawls)",
+          "description": "Last Performance by Bogg Dann (pokelawls)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Bogg"
+          ],
+          "image": "/images/frames/d23_evt_017_03_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=03h37m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-018",
+          "timestamp": "03:41:05",
+          "seconds": 13265,
+          "isMajor": false,
+          "title": "Chaos on the dance floor",
+          "description": "chaos on the dance floor, people are throwing punches at each other",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_018_03_41_05.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=03h41m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-019",
+          "timestamp": "03:42:30",
+          "seconds": 13350,
+          "isMajor": true,
+          "title": "- 03:44:45 mr",
+          "description": "- 03:44:45 Mr. C speaks on the podium, he introduces x as one of the silver card holders, he explains the tiers and the games available",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_019_03_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=03h42m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-020",
+          "timestamp": "03:46:24",
+          "seconds": 13584,
+          "isMajor": true,
+          "title": "The gambling begins! x withdraws 80k from his personal ",
+          "description": "the gambling begins! x withdraws 80k from his personal account and buys chips, games breakdown:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_020_03_46_24.jpg",
+          "imageCaption": "Stream snapshot @ 03:46:24",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=03h46m24s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -23365,7 +23442,11 @@
         "timeLoggedIn": "Jean Paul : ~ 225:26:00 / Pierre Paul: 11:05:00 / Total : 235:31:00",
         "timesJailed": "2 arrests - He's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Game": "Starting Amount",
+        "Roulette": "80,000",
+        "Blackjack": "27,000",
+        "Slots": "95,000"
       }
     }
   }
