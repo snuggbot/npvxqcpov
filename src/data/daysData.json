@@ -23048,7 +23048,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2890083155",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d23-evt-001",
@@ -23067,6 +23067,182 @@
           "image": "/images/frames/d23_evt_001_25_26_00.jpg",
           "imageCaption": "Stream snapshot @ 25:26:00",
           "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=25h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-002",
+          "timestamp": "00:29:00",
+          "seconds": 1740,
+          "isMajor": false,
+          "title": "Logs in and starts day 23!",
+          "description": "x logs in and starts day 23!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_002_00_29_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:29:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=00h29m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-003",
+          "timestamp": "00:46:40",
+          "seconds": 2800,
+          "isMajor": false,
+          "title": "& marty rob some atms",
+          "description": "x & Marty rob some ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d23_evt_003_00_46_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:46:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=00h46m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-004",
+          "timestamp": "01:09:28",
+          "seconds": 4168,
+          "isMajor": true,
+          "title": "- 01:14:01 x runs into beef at the hospital",
+          "description": "- 01:14:01 x runs into Beef at the hospital, he believes that the cops are being greedy with the charges and that they have no evidence linking him to the murder, he thinks that x will only face small charges and that's all",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_004_01_09_28.jpg",
+          "imageCaption": "Stream snapshot @ 01:09:28",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=01h09m28s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-005",
+          "timestamp": "01:17:50",
+          "seconds": 4670,
+          "isMajor": true,
+          "title": "- 01:18:26 lang hands x his casino membership at the en",
+          "description": "- 01:18:26 Lang hands x his casino membership at the entrance, it's a silver membership (the highest tier available for now)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d23_evt_005_01_17_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:17:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=01h17m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-006",
+          "timestamp": "01:22:13",
+          "seconds": 4933,
+          "isMajor": true,
+          "title": "- 01:26:05 x speaks to nancy",
+          "description": "- 01:26:05 x speaks to Nancy, they speak about jet and controlling the market, he asks her if there are any warehouses to tour since she's also a Realtor but there are none in the market yet, x wants to provide Nancy with a bunch of tents to cook as much jet as possible",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_006_01_22_13.jpg",
+          "imageCaption": "Stream snapshot @ 01:22:13",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=01h22m13s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-007",
+          "timestamp": "01:34:25",
+          "seconds": 5665,
+          "isMajor": true,
+          "title": "- 01:43:20 x hijacks a plane",
+          "description": "- 01:43:20 x hijacks a plane, he wants to get on top of a tower to see if they can place tents on top, he jumps off the plane and parachutes his way to the top of the tower, he thinks the place is perfect but the only issue is that if the planes got hotfixed or are no longer available then they won't be able to access the roof",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_007_01_34_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:34:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=01h34m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-008",
+          "timestamp": "01:45:30",
+          "seconds": 6330,
+          "isMajor": true,
+          "title": "- 01:46:55 x decides to parachute his way down to the c",
+          "description": "- 01:46:55 x decides to parachute his way down to the Casino",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_008_01_45_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:45:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=01h45m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-009",
+          "timestamp": "01:57:20",
+          "seconds": 7040,
+          "isMajor": true,
+          "title": "- 02:03:22 x asks mr",
+          "description": "- 02:03:22 x asks Mr. C if they have the spinner wheel at the Casino with a chance to win the car, Mr. C decides to take x on private preview tour of the casino including the spinner wheel, everyone is going to be able to use all tables tonight regardless of their membership status, he tells x that he's going to have the first spin of the night",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_009_01_57_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:57:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=01h57m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-010",
+          "timestamp": "02:07:10",
+          "seconds": 7630,
+          "isMajor": false,
+          "title": "Changes clothes preparing for the casino opening",
+          "description": "x changes clothes preparing for the casino opening",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_010_02_07_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:07:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=02h07m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
