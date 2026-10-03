@@ -23048,7 +23048,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2890083155",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 33,
+      "eventsCount": 37,
       "events": [
         {
           "id": "d23-evt-001",
@@ -23686,6 +23686,83 @@
           "imageCaption": "Stream snapshot @ 07:37:30",
           "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=07h37m30s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-034",
+          "timestamp": "07:41:20",
+          "seconds": 27680,
+          "isMajor": true,
+          "title": "- 07:42:12 (x watches a clip of marty losing all his mo",
+          "description": "- 07:42:12 (x watches a clip of Marty losing all his money and ending stream)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d23_evt_034_07_41_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:41:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=07h41m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-035",
+          "timestamp": "07:52:10",
+          "seconds": 28330,
+          "isMajor": false,
+          "title": "Returns to the casino and withdraws 20k from his person",
+          "description": "x returns to the casino and withdraws 20k from his personal account",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_035_07_52_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:52:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=07h52m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-036",
+          "timestamp": "08:05:30",
+          "seconds": 29130,
+          "isMajor": false,
+          "title": "Gets more 5",
+          "description": "x gets more 5,500 as rakeback from Mr. C",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_036_08_05_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:05:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=08h05m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d23-evt-037",
+          "timestamp": "08:59:40",
+          "seconds": 32380,
+          "isMajor": false,
+          "title": "Cashes out 70k and leaves the casino",
+          "description": "x cashes out 70k and leaves the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d23_evt_037_08_59_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:59:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2890083155?t=08h59m40s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -23695,10 +23772,10 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
         "Game": "Starting Amount",
-        "Roulette": "91,337",
-        "Blackjack": "27,966",
-        "Slots": "35,675",
-        "Wheelspin": "90,837"
+        "Roulette": "100,258",
+        "Blackjack": "46,046",
+        "Slots": "72,258",
+        "Wheelspin": "70,758"
       }
     }
   }
