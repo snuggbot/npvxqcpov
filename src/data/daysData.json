@@ -24179,7 +24179,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2891086107",
       "kickVod": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3",
       "kickStreamUrl": "",
-      "eventsCount": 24,
+      "eventsCount": 26,
       "events": [
         {
           "id": "d24-evt-001",
@@ -24649,6 +24649,45 @@
           "imageCaption": "Stream snapshot @ 07:03:25",
           "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=07h03m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=25403"
+        },
+        {
+          "id": "d24-evt-025",
+          "timestamp": "07:31:00",
+          "seconds": 27060,
+          "isMajor": false,
+          "title": "Pulls over a speeding vehicle",
+          "description": "x pulls over a speeding vehicle, he provides x with a fake name and when x confronts him about it he drives off, it turns into a chase but the suspect escapes shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_025_07_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=07h31m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=27058"
+        },
+        {
+          "id": "d24-evt-026",
+          "timestamp": "08:02:30",
+          "seconds": 28950,
+          "isMajor": false,
+          "title": "Investigates a drug sale report",
+          "description": "x investigates a drug sale report, x pulls the suspect over but drug sale is currently legal in the city, however the car is flagged stolen, x lets him go with a verbal warning",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_026_08_02_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:02:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=08h02m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=28948"
         }
       ],
       "characterInfo": {
