@@ -24179,7 +24179,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2891086107",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 3,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d24-evt-001",
@@ -24237,6 +24237,45 @@
           "image": "/images/frames/d24_evt_003_01_43_47.jpg",
           "imageCaption": "Stream snapshot @ 01:43:47",
           "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=01h43m47s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d24-evt-004",
+          "timestamp": "02:05:55",
+          "seconds": 7555,
+          "isMajor": false,
+          "title": "Tiny tony expresses his appreciation to x for all the b",
+          "description": "Tiny Tony expresses his appreciation to x for all the business he's doing with the brick bois",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d24_evt_004_02_05_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=02h05m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d24-evt-005",
+          "timestamp": "02:26:00",
+          "seconds": 8760,
+          "isMajor": false,
+          "title": "Robs amts",
+          "description": "x robs AMTs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_005_02_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=02h26m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
