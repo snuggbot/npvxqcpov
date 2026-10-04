@@ -24179,7 +24179,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2891086107",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d24-evt-001",
@@ -24357,6 +24357,45 @@
           "imageCaption": "Stream snapshot @ 03:38:25",
           "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=03h38m25s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d24-evt-010",
+          "timestamp": "03:53:50",
+          "seconds": 14030,
+          "isMajor": false,
+          "title": "& marty are allowing into the casino even though it's c",
+          "description": "x & Marty are allowing into the casino even though it's closed, x buys 65k chips",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d24_evt_010_03_53_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:53:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=03h53m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d24-evt-011",
+          "timestamp": "04:23:40",
+          "seconds": 15820,
+          "isMajor": true,
+          "title": "- 04:24:22 nancy sends a picture to x of people standin",
+          "description": "- 04:24:22 Nancy sends a picture to x of people standing at the staircase near the spot they placed the tents at at the airport, it looks like Jack Kettleman",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_011_04_23_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:23:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=04h23m40s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -24364,7 +24403,10 @@
         "timeLoggedIn": "Jean Paul : ~ 234:16:00 / Pierre Paul: 13:27:00 / Total : 245:43:00",
         "timesJailed": "2 arrests - He's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Game": "Starting Amount",
+        "Roulette": "25,846 (gets 25k from Marty)",
+        "Blackjack": "51,046 (gets 50k from Marty)"
       }
     }
   }
