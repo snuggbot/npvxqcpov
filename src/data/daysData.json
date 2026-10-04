@@ -24179,15 +24179,15 @@
       "twitchVod": "https://www.twitch.tv/videos/2891086107",
       "kickVod": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d24-evt-001",
-          "timestamp": "34:16:00",
-          "seconds": 123360,
+          "timestamp": "41:58:00",
+          "seconds": 151080,
           "isMajor": false,
-          "title": "/ pierre paul: 13:27:00 / total : 245:43:00",
-          "description": "/ Pierre Paul: 13:27:00 / Total : 245:43:00",
+          "title": "/ pierre paul: 15:54:00 / total : 255:52:00",
+          "description": "/ Pierre Paul: 15:54:00 / Total : 255:52:00",
           "category": "general",
           "tags": [
             "general"
@@ -24195,10 +24195,10 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d24_evt_001_34_16_00.jpg",
-          "imageCaption": "Stream snapshot @ 34:16:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=34h16m00s",
-          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=123358"
+          "image": "/images/frames/d24_evt_001_41_58_00.jpg",
+          "imageCaption": "Stream snapshot @ 41:58:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=41h58m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=151078"
         },
         {
           "id": "d24-evt-002",
@@ -24472,19 +24472,197 @@
           "imageCaption": "Stream snapshot @ 05:38:10",
           "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=05h38m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=20288"
+        },
+        {
+          "id": "d24-evt-016",
+          "timestamp": "05:40:30",
+          "seconds": 20430,
+          "isMajor": true,
+          "title": "- 05:42:25 x shares the picture of the people at the ai",
+          "description": "- 05:42:25 x shares the picture of the people at the airport near their tents spot, Marty says they're 100% Italians, Nancy managed to talk her way out with them saying that she loves planes and if they wanted to talk about them, x messages her asking her to remove the tents if she hasn't cooked yet",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d24_evt_016_05_40_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:40:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=05h40m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=20428"
+        },
+        {
+          "id": "d24-evt-017",
+          "timestamp": "06:00:50",
+          "seconds": 21650,
+          "isMajor": true,
+          "title": "- 06:01:25 nancy is cooking jet at the airport spot",
+          "description": "- 06:01:25 Nancy is cooking jet at the airport spot",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_017_06_00_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:00:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=06h00m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=21648"
+        },
+        {
+          "id": "d24-evt-018",
+          "timestamp": "06:26:55",
+          "seconds": 23215,
+          "isMajor": false,
+          "title": "& marty look at cars at the automobile",
+          "description": "x & Marty look at cars at the automobile",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d24_evt_018_06_26_55.jpg",
+          "imageCaption": "Stream snapshot @ 06:26:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=06h26m55s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=23213"
+        },
+        {
+          "id": "d24-evt-019",
+          "timestamp": "06:42:14",
+          "seconds": 24134,
+          "isMajor": true,
+          "title": "- 06:44:07 nancy says that the people that were at the ",
+          "description": "- 06:44:07 Nancy says that the people that were at the airport spot earlier are Beric (Judge) and Rhodes (Cop), x asks Nancy to be very careful cooking at the spot since they could be spied on",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_019_06_42_14.jpg",
+          "imageCaption": "Stream snapshot @ 06:42:14",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=06h42m14s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=24132"
+        },
+        {
+          "id": "d24-evt-020",
+          "timestamp": "06:53:20",
+          "seconds": 24800,
+          "isMajor": false,
+          "title": "& marty start gambling again",
+          "description": "x & Marty start gambling again",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d24_evt_020_06_53_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:53:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=06h53m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=24798"
+        },
+        {
+          "id": "d24-evt-021",
+          "timestamp": "06:58:45",
+          "seconds": 25125,
+          "isMajor": false,
+          "title": "Pays marty 50k back and deposits cashes out 200k for hi",
+          "description": "x pays Marty 50k back and deposits cashes out 200k for himself",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d24_evt_021_06_58_45.jpg",
+          "imageCaption": "Stream snapshot @ 06:58:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=06h58m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=25123"
+        },
+        {
+          "id": "d24-evt-022",
+          "timestamp": "07:00:05",
+          "seconds": 25205,
+          "isMajor": true,
+          "title": "- 07:00:23 after a short gambling session",
+          "description": "- 07:00:23 after a short gambling session, x ends up with 219,549$ in his personal account",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_022_07_00_05.jpg",
+          "imageCaption": "Stream snapshot @ 07:00:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=07h00m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=25203"
+        },
+        {
+          "id": "d24-evt-023",
+          "timestamp": "41:58:00",
+          "seconds": 151080,
+          "isMajor": false,
+          "title": "/ pierre paul: 15:54:00 / total : 255:52:00",
+          "description": "/ Pierre Paul: 15:54:00 / Total : 255:52:00",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_023_41_58_00.jpg",
+          "imageCaption": "Stream snapshot @ 41:58:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=41h58m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=151078"
+        },
+        {
+          "id": "d24-evt-024",
+          "timestamp": "07:03:25",
+          "seconds": 25405,
+          "isMajor": false,
+          "title": "Switches to pp",
+          "description": "x switches to PP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_024_07_03_25.jpg",
+          "imageCaption": "Stream snapshot @ 07:03:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=07h03m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=25403"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 234:16:00 / Pierre Paul: 13:27:00 / Total : 245:43:00",
-        "timesJailed": "2 arrests - He's currently out on bail",
+        "timeLoggedIn": "Jean Paul : ~ 241:58:00 / Pierre Paul: 15:54:00 / Total : 255:52:00",
+        "timesJailed": "3 (cuffing suspects successfully)",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Current Ongoing Quest Line(s)": "None Yet",
         "Game": "Starting Amount",
         "Roulette": "25,846 (gets 25k from Marty)",
-        "Blackjack": "110,509",
+        "Blackjack": "100,027 (withdraws 100k from personal account)",
         "Slots": "140,009",
-        "Wheelspin": "140,509"
+        "Wheelspin": "140,509",
+        "Character": "Pierre Paul"
       }
     }
   }
