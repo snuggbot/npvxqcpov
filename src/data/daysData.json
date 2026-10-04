@@ -24179,7 +24179,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2891086107",
       "kickVod": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3",
       "kickStreamUrl": "",
-      "eventsCount": 26,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d24-evt-001",
@@ -24676,7 +24676,7 @@
           "seconds": 28950,
           "isMajor": false,
           "title": "Investigates a drug sale report",
-          "description": "x investigates a drug sale report, x pulls the suspect over but drug sale is currently legal in the city, however the car is flagged stolen, x lets him go with a verbal warning",
+          "description": "x investigates a drug sale report, x pulls the suspect over but drug sale is currently legal in the city, however the car is flagged stolen, x lets him go with a verbal warning and impounds the stolen car",
           "category": "mechanic",
           "tags": [
             "mechanic"
@@ -24688,6 +24688,25 @@
           "imageCaption": "Stream snapshot @ 08:02:30",
           "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=08h02m30s",
           "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=28948"
+        },
+        {
+          "id": "d24-evt-027",
+          "timestamp": "08:15:20",
+          "seconds": 29720,
+          "isMajor": false,
+          "title": "Pulls over a speeding vehicle",
+          "description": "x pulls over a speeding vehicle, flagged stolen, x lets him go with a 600$ fine and impounds the stolen car",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_027_08_15_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:15:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=08h15m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=29718"
         }
       ],
       "characterInfo": {
