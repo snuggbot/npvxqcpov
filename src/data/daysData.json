@@ -24179,7 +24179,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2891086107",
       "kickVod": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3",
       "kickStreamUrl": "",
-      "eventsCount": 35,
+      "eventsCount": 36,
       "events": [
         {
           "id": "d24-evt-001",
@@ -24863,6 +24863,25 @@
           "imageCaption": "Stream snapshot @ 09:34:20",
           "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=09h34m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=34458"
+        },
+        {
+          "id": "d24-evt-036",
+          "timestamp": "11:30:00",
+          "seconds": 41400,
+          "isMajor": true,
+          "title": "- 11:30:45 x decides to end the day after losing everyt",
+          "description": "- 11:30:45 x decides to end the day after losing everything he's made today sadly",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_036_11_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 11:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=11h30m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=41398"
         }
       ],
       "characterInfo": {
@@ -24872,9 +24891,9 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "None Yet",
         "Game": "Starting Amount",
-        "Roulette": "25,846 (gets 25k from Marty)",
-        "Blackjack": "100,027 (withdraws 100k from personal account)",
-        "Slots": "100,027",
+        "Roulette": "146,508",
+        "Blackjack": "57,834 (withdraws 55k)",
+        "Slots": "110,508",
         "Wheelspin": "140,509",
         "Character": "Pierre Paul"
       }
