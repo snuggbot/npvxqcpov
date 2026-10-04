@@ -24179,7 +24179,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2891086107",
       "kickVod": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3",
       "kickStreamUrl": "",
-      "eventsCount": 29,
+      "eventsCount": 35,
       "events": [
         {
           "id": "d24-evt-001",
@@ -24747,6 +24747,122 @@
           "imageCaption": "Stream snapshot @ 08:43:35",
           "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=08h43m35s",
           "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=31413"
+        },
+        {
+          "id": "d24-evt-030",
+          "timestamp": "09:14:20",
+          "seconds": 33260,
+          "isMajor": true,
+          "title": "- 09:15:00 x performs a crazy stunt using the cop car",
+          "description": "- 09:15:00 x performs a crazy stunt using the cop car, x is caught through the dash cams",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_030_09_14_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:14:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=09h14m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=33258"
+        },
+        {
+          "id": "d24-evt-031",
+          "timestamp": "09:17:04",
+          "seconds": 33424,
+          "isMajor": true,
+          "title": "- 09:17:35 (x reacts to a clip of the other police offi",
+          "description": "- 09:17:35 (x reacts to a clip of the other police officer witnessing him do the stunt through dash cam)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_031_09_17_04.jpg",
+          "imageCaption": "Stream snapshot @ 09:17:04",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=09h17m04s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=33422"
+        },
+        {
+          "id": "d24-evt-032",
+          "timestamp": "09:29:06",
+          "seconds": 34146,
+          "isMajor": true,
+          "title": "- 09:30:46 x runs into the officer that watched him do ",
+          "description": "- 09:30:46 x runs into the officer that watched him do the stunt through the dash cam, she says that she's not going to report someone for limit testing their cars (w person)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_032_09_29_06.jpg",
+          "imageCaption": "Stream snapshot @ 09:29:06",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=09h29m06s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=34144"
+        },
+        {
+          "id": "d24-evt-033",
+          "timestamp": "09:32:00",
+          "seconds": 34320,
+          "isMajor": false,
+          "title": "Switches back to jp",
+          "description": "x switches back to JP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_033_09_32_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:32:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=09h32m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=34318"
+        },
+        {
+          "id": "d24-evt-034",
+          "timestamp": "09:32:40",
+          "seconds": 34360,
+          "isMajor": true,
+          "title": "- 09:33:02 x calls the brick bois",
+          "description": "- 09:33:02 x calls the brick bois, Tony is at the casino (he opened it) and x joins him shortly after",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d24_evt_034_09_32_40.jpg",
+          "imageCaption": "Stream snapshot @ 09:32:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=09h32m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=34358"
+        },
+        {
+          "id": "d24-evt-035",
+          "timestamp": "09:34:20",
+          "seconds": 34460,
+          "isMajor": false,
+          "title": "Buys 100k chips and starts gambling:",
+          "description": "x buys 100k chips and starts gambling:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d24_evt_035_09_34_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:34:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2891086107?t=09h34m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1037b-a7f0-7fdb-bbd7-91dce4f8f1e3?t=34458"
         }
       ],
       "characterInfo": {
@@ -24758,7 +24874,7 @@
         "Game": "Starting Amount",
         "Roulette": "25,846 (gets 25k from Marty)",
         "Blackjack": "100,027 (withdraws 100k from personal account)",
-        "Slots": "140,009",
+        "Slots": "100,027",
         "Wheelspin": "140,509",
         "Character": "Pierre Paul"
       }
