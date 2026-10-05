@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25125,6 +25125,45 @@
           "image": "/images/frames/d25_evt_011_01_35_15.jpg",
           "imageCaption": "Stream snapshot @ 01:35:15",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h35m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-012",
+          "timestamp": "01:42:30",
+          "seconds": 6150,
+          "isMajor": false,
+          "title": "They buy and place a saw machine thinking it might help",
+          "description": "they buy and place a saw machine thinking it might help get the refined material but it doesn't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_012_01_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h42m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-013",
+          "timestamp": "02:02:55",
+          "seconds": 7375,
+          "isMajor": true,
+          "title": "- 02:03:57 speedy finds a mold for refined plastic from",
+          "description": "- 02:03:57 Speedy finds a mold for refined plastic from a friend, he's going to get one",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d25_evt_013_02_02_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:02:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h02m55s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
