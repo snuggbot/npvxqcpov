@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25074,7 +25074,7 @@
           "seconds": 4620,
           "isMajor": false,
           "title": "They get spotted by a cop and it turns into a chase aga",
-          "description": "they get spotted by a cop and it turns into a chase again",
+          "description": "they get spotted by a cop and it turns into a chase again, they eventually escape",
           "category": "chase",
           "tags": [
             "chase"
@@ -25085,6 +25085,46 @@
           "image": "/images/frames/d25_evt_009_01_17_00.jpg",
           "imageCaption": "Stream snapshot @ 01:17:00",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h17m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-010",
+          "timestamp": "01:27:26",
+          "seconds": 5246,
+          "isMajor": false,
+          "title": "Ginger had 3 sales ready for backbags but apparently th",
+          "description": "Ginger had 3 sales ready for backbags but apparently the recipe have been changed a bit to craft them, they need refined plastic and refined rubber now",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_010_01_27_26.jpg",
+          "imageCaption": "Stream snapshot @ 01:27:26",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h27m26s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-011",
+          "timestamp": "01:35:15",
+          "seconds": 5715,
+          "isMajor": true,
+          "title": "- 01:38:00 tony calls beef on behalf of x",
+          "description": "- 01:38:00 Tony calls Beef on behalf of x, he says x's trial will probably be tomorrow and it should be an easy win, he also says that Lang has a warrant that expires after 10 days",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d25_evt_011_01_35_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:35:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h35m15s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
