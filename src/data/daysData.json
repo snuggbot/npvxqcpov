@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25045,6 +25045,46 @@
           "image": "/images/frames/d25_evt_007_01_04_40.jpg",
           "imageCaption": "Stream snapshot @ 01:04:40",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h04m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-008",
+          "timestamp": "01:14:30",
+          "seconds": 4470,
+          "isMajor": false,
+          "title": "Intercepts the cops chasing tony and marty which helps ",
+          "description": "x intercepts the cops chasing Tony and Marty which helps them flee",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d25_evt_008_01_14_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:14:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h14m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-009",
+          "timestamp": "01:17:00",
+          "seconds": 4620,
+          "isMajor": false,
+          "title": "They get spotted by a cop and it turns into a chase aga",
+          "description": "they get spotted by a cop and it turns into a chase again",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_009_01_17_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:17:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h17m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
