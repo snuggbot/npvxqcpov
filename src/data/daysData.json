@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d25-evt-001",
@@ -24927,6 +24927,124 @@
           "image": "/images/frames/d25_evt_001_41_58_00.jpg",
           "imageCaption": "Stream snapshot @ 41:58:00",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=41h58m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-002",
+          "timestamp": "00:45:35",
+          "seconds": 2735,
+          "isMajor": false,
+          "title": "Logs in and starts day 25!",
+          "description": "x logs in and starts day 25!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_002_00_45_35.jpg",
+          "imageCaption": "Stream snapshot @ 00:45:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=00h45m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-003",
+          "timestamp": "00:45:50",
+          "seconds": 2750,
+          "isMajor": true,
+          "title": "- 00:46:00 x has gambled off stream and he has around 3",
+          "description": "- 00:46:00 x has gambled off stream and he has around 365k in his personal account",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_003_00_45_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:45:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=00h45m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-004",
+          "timestamp": "00:50:10",
+          "seconds": 3010,
+          "isMajor": true,
+          "title": "- 00:51:25 x calls nancy",
+          "description": "- 00:51:25 x calls Nancy, she's done 130 cooks, she says she needs better equipment because atm the max purity she can achieve is 20%",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_004_00_50_10.jpg",
+          "imageCaption": "Stream snapshot @ 00:50:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=00h50m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-005",
+          "timestamp": "00:56:50",
+          "seconds": 3410,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Tony and Marty rob ATMs, they have a hostage",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d25_evt_005_00_56_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:56:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=00h56m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-006",
+          "timestamp": "01:02:40",
+          "seconds": 3760,
+          "isMajor": false,
+          "title": "Gets his photo taken by someone working for the news wh",
+          "description": "x gets his photo taken by someone working for the news while robbing an ATM",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_006_01_02_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:02:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h02m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-007",
+          "timestamp": "01:04:40",
+          "seconds": 3880,
+          "isMajor": false,
+          "title": "Goes back to a previously broken atm machine and finds ",
+          "description": "x goes back to a previously broken ATM machine and finds a cop securing the cash out of it, he ignores the cop, gets some cash and rams his car a few times before driving off",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_007_01_04_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:04:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=01h04m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
