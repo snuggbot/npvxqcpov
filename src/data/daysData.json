@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 26,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25429,6 +25429,88 @@
           "image": "/images/frames/d25_evt_026_06_39_30.jpg",
           "imageCaption": "Stream snapshot @ 06:39:30",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=06h39m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-027",
+          "timestamp": "06:43:20",
+          "seconds": 24200,
+          "isMajor": false,
+          "title": "Meets with ginger to get some rubber and plastic",
+          "description": "x meets with Ginger to get some rubber and plastic. he will be using her storage unit to refine materials too in exchange for helping her setup the machinery, he consults Marty about the same, Marty says no but he agrees anyway",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d25_evt_027_06_43_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:43:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=06h43m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-028",
+          "timestamp": "07:11:00",
+          "seconds": 25860,
+          "isMajor": true,
+          "title": "Lang argues with saleem about the way the pawn shop is ",
+          "description": "Lang argues with Saleem about the way the pawn shop is being ran, they eventually clear the air and settle things down",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d25_evt_028_07_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=07h11m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-029",
+          "timestamp": "07:45:58",
+          "seconds": 27958,
+          "isMajor": true,
+          "title": "- 07:48:55 x and marty discuss drusilla's bonus pay for",
+          "description": "- 07:48:55 x and Marty discuss Drusilla's bonus pay for working extra hard, Marty also brings up the fact that Lang has sold his 5% share of the pawn shop and that if he's going to pay the guys out of the account Lang won't be getting anything",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d25_evt_029_07_45_58.jpg",
+          "imageCaption": "Stream snapshot @ 07:45:58",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=07h45m58s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-030",
+          "timestamp": "07:49:00",
+          "seconds": 28140,
+          "isMajor": false,
+          "title": "Is chopping cars for materials",
+          "description": "x is chopping cars for materials",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_030_07_49_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:49:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=07h49m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
