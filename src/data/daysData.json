@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25186,6 +25186,47 @@
           "image": "/images/frames/d25_evt_014_02_06_45.jpg",
           "imageCaption": "Stream snapshot @ 02:06:45",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h06m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-015",
+          "timestamp": "02:12:07",
+          "seconds": 7927,
+          "isMajor": true,
+          "title": "- 02:12:25 lang receives a text message from someone as",
+          "description": "- 02:12:25 Lang receives a text message from someone asking to meet him along with his trusted associates",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d25_evt_015_02_12_07.jpg",
+          "imageCaption": "Stream snapshot @ 02:12:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h12m07s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-016",
+          "timestamp": "02:21:35",
+          "seconds": 8495,
+          "isMajor": true,
+          "title": "- 02:30:55 the crew arrive to the meeting spot with the",
+          "description": "- 02:30:55 the crew arrive to the meeting spot with the person that texted Lang, waiting for them is a driver and a lemo, he asks them to leave their weapons in a box nearby to drive them to the actual meeting spot, shortly after they arrive at the meeting spot, they're introduced to Cici (Cecilia), she's gathering about 8 crews of 6 each, they will go head to head against each other finding the keys to the luxurious car behind her (including other items needed to drive the car), it's basically a competition, brick bois will need a 6th crew member",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d25_evt_016_02_21_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:21:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h21m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
