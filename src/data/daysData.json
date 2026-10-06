@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25246,6 +25246,70 @@
           "image": "/images/frames/d25_evt_017_02_39_35.jpg",
           "imageCaption": "Stream snapshot @ 02:39:35",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h39m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-018",
+          "timestamp": "03:00:30",
+          "seconds": 10830,
+          "isMajor": false,
+          "title": "The crew is getting dressed for the job",
+          "description": "the crew is getting dressed for the job",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_018_03_00_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:00:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=03h00m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-019",
+          "timestamp": "03:14:20",
+          "seconds": 11660,
+          "isMajor": true,
+          "title": "- 03:15:04 x inspects the book with info about nadia an",
+          "description": "- 03:15:04 x inspects the book with info about Nadia and the convoy",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_019_03_14_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:14:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=03h14m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-020",
+          "timestamp": "03:27:19",
+          "seconds": 12439,
+          "isMajor": true,
+          "title": "- 04:29:25 the plane lands",
+          "description": "- 04:29:25 the plane lands, a convoy of 3 cars arrive and escort the target, the crew is tailing them, the crew intercepts the convoy and kidnap Nadia successfully, the cops are alerted and on edge, x gets pulled over but Nadia is with Tony, Tony checks her briefcase for trackers and finds nothing, Lang intercepts the cop that pulled x over and x drives off, it turns into a chase, meanwhile Tony is investigating Nadia, the chase continues, they eventually escape after a long chase and link up with Tony and M1 holding Naida, she says that in order for them to sell the diamond they will need the proper identification for it, it can be found at the Thorn family's private archive in the vault at Paleto bank, seems like they will need to get the identification paper first (Tony suggest duping the papers so the family won't be alerted) and then steal some tools that Apex will be collecting on Wednesday, Apex is private art security and those tools will be needed to rob the art gallery, they also discuss the probability of replacing the real diamond with the fake on they have from the previous job, Speedy then stabs Nadia and they get out",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony",
+            "Speedy"
+          ],
+          "image": "/images/frames/d25_evt_020_03_27_19.jpg",
+          "imageCaption": "Stream snapshot @ 03:27:19",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=03h27m19s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
