@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552",
       "kickStreamUrl": "",
-      "eventsCount": 32,
+      "eventsCount": 38,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25553,6 +25553,122 @@
           "imageCaption": "Stream snapshot @ 09:14:42",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=09h14m42s",
           "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=33280"
+        },
+        {
+          "id": "d25-evt-033",
+          "timestamp": "09:48:00",
+          "seconds": 35280,
+          "isMajor": false,
+          "title": "- 09:00:00 x withdraws 100k from his personal account a",
+          "description": "- 09:00:00 x withdraws 100k from his personal account and starts gambling with the crew:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_033_09_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=09h48m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=35278"
+        },
+        {
+          "id": "d25-evt-034",
+          "timestamp": "10:13:40",
+          "seconds": 36820,
+          "isMajor": false,
+          "title": "- 10:13:55 a big 135k slots win",
+          "description": "- 10:13:55 a big 135k Slots win",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_034_10_13_40.jpg",
+          "imageCaption": "Stream snapshot @ 10:13:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=10h13m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=36818"
+        },
+        {
+          "id": "d25-evt-035",
+          "timestamp": "10:31:46",
+          "seconds": 37906,
+          "isMajor": true,
+          "title": "- 10:32:00 x leaves the casino and deposits 300k",
+          "description": "- 10:32:00 x leaves the casino and deposits 300k, he now has 638k in his personal account",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_035_10_31_46.jpg",
+          "imageCaption": "Stream snapshot @ 10:31:46",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=10h31m46s",
+          "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=37904"
+        },
+        {
+          "id": "d25-evt-036",
+          "timestamp": "10:33:00",
+          "seconds": 37980,
+          "isMajor": false,
+          "title": "Loans marty 50k",
+          "description": "x loans Marty 50k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d25_evt_036_10_33_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:33:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=10h33m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=37978"
+        },
+        {
+          "id": "d25-evt-037",
+          "timestamp": "10:49:00",
+          "seconds": 38940,
+          "isMajor": false,
+          "title": "Buys more materials from tiny tony for 20k",
+          "description": "x buys more materials from Tiny Tony for 20k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d25_evt_037_10_49_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:49:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=10h49m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=38938"
+        },
+        {
+          "id": "d25-evt-038",
+          "timestamp": "11:17:00",
+          "seconds": 40620,
+          "isMajor": false,
+          "title": "Withdraws 100k and starts gambling:",
+          "description": "x withdraws 100k and starts gambling:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_038_11_17_00.jpg",
+          "imageCaption": "Stream snapshot @ 11:17:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=11h17m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=40618"
         }
       ],
       "characterInfo": {
@@ -25562,9 +25678,10 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
         "Game": "Starting Amount",
-        "Blackjack": "100,124",
-        "Slots": "175,124",
-        "Blakcjack": "88,373"
+        "Blackjack": "70,056 (cashes out 60k)",
+        "Slots": "67,032 (withdraws 60k)",
+        "Blakcjack": "88,373",
+        "Roulette": "40,212"
       }
     }
   }
