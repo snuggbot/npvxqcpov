@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 22,
+      "eventsCount": 26,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25353,6 +25353,83 @@
           "imageCaption": "Stream snapshot @ 05:11:20",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=05h11m20s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-023",
+          "timestamp": "06:09:05",
+          "seconds": 22145,
+          "isMajor": true,
+          "title": "- 06:13:50 the crew link up with m1",
+          "description": "- 06:13:50 the crew link up with M1, they hand the identification paper to him, on Wednesday they will grab the tools from Apex and on Friday at 8pm EST they will hit the art gallery",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_023_06_09_05.jpg",
+          "imageCaption": "Stream snapshot @ 06:09:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=06h09m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-024",
+          "timestamp": "06:16:00",
+          "seconds": 22560,
+          "isMajor": true,
+          "title": "- 06:16:20 x calls lang to open the casino for one hand",
+          "description": "- 06:16:20 x calls Lang to open the casino for one hand, he agrees",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d25_evt_024_06_16_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:16:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=06h16m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-025",
+          "timestamp": "06:37:55",
+          "seconds": 23875,
+          "isMajor": true,
+          "title": "- 06:38:20 x cashes out the chips and has around 438k i",
+          "description": "- 06:38:20 x cashes out the chips and has around 438k in his personal account now",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_025_06_37_55.jpg",
+          "imageCaption": "Stream snapshot @ 06:37:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=06h37m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-026",
+          "timestamp": "06:39:30",
+          "seconds": 23970,
+          "isMajor": true,
+          "title": "- 06:41:28 beef calls x saying the trial is going to be",
+          "description": "- 06:41:28 Beef calls x saying the trial is going to be next Monday, it got delayed because of the DA",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_026_06_39_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:39:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=06h39m30s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -25360,7 +25437,11 @@
         "timeLoggedIn": "Jean Paul : ~ 241:58:00 / Pierre Paul: 15:54:00 / Total : 255:52:00",
         "timesJailed": "2 arrests - He's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
+        "Game": "Starting Amount",
+        "Blackjack": "100,124",
+        "Slots": "175,124",
+        "Blakcjack": "88,373"
       }
     }
   }
