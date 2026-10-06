@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25151,8 +25151,8 @@
           "timestamp": "02:02:55",
           "seconds": 7375,
           "isMajor": true,
-          "title": "- 02:03:57 speedy finds a mold for refined plastic from",
-          "description": "- 02:03:57 Speedy finds a mold for refined plastic from a friend, he's going to get one",
+          "title": "- 02:04:00 speedy finds a mold for refined plastic from",
+          "description": "- 02:04:00 Speedy finds a mold for refined plastic from a friend, he's going to get one",
           "category": "social",
           "tags": [
             "social"
@@ -25164,6 +25164,28 @@
           "image": "/images/frames/d25_evt_013_02_02_55.jpg",
           "imageCaption": "Stream snapshot @ 02:02:55",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h02m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-014",
+          "timestamp": "02:06:45",
+          "seconds": 7605,
+          "isMajor": true,
+          "title": "- 02:09:00 speedy confirms from his friend zeek that th",
+          "description": "- 02:09:00 Speedy confirms from his friend Zeek that the mold is used to make both refined plastic and rubber and that he's got it from doing sanitation, on another note Lang brings up the idea of buying a gas station since other crews seem to be doing it",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d25_evt_014_02_06_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:06:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h06m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
