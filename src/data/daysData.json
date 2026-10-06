@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 20,
+      "eventsCount": 22,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25310,6 +25310,48 @@
           "image": "/images/frames/d25_evt_020_03_27_19.jpg",
           "imageCaption": "Stream snapshot @ 03:27:19",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=03h27m19s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-021",
+          "timestamp": "04:39:42",
+          "seconds": 16782,
+          "isMajor": true,
+          "title": "- 04:49:22 the crew meet up with m1",
+          "description": "- 04:49:22 the crew meet up with M1, they're introduced to Kalita Dub (roleplayed by streamer",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_021_04_39_42.jpg",
+          "imageCaption": "Stream snapshot @ 04:39:42",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=04h39m42s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-022",
+          "timestamp": "05:11:20",
+          "seconds": 18680,
+          "isMajor": true,
+          "title": "- 04:53:45 they arrive at paleto bank and start the rob",
+          "description": "- 04:53:45 they arrive at Paleto bank and start the robbery (they have a hostage), Marty hacks the outside electrical panel (dodge the red boxes hack), x and Marty use a keypad cracker and they hack 3 doors on the outside first then they head inside the bank again, Marty hacks a briefcase and gets 6 codes, the cops arrive, Marty and Tony gets locked inside the room with the briefcase (the door de-synced), pressing each red button activates a hack and syncing them unlocked the door for Marty and Tony, then they hack the main compute and unlock the first vault door, Marty hacks and unlocks the 2nd vault door, the get about 120k of clean cash and the identification documents (another book), they drive off and it turns into a chase, they drop x with the papers and cash at the cable car that goes all the way to top of mount Chiliad, x jumps off and parachutes his way down the mountain, he gets to the escape vehicle and drives off",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d25_evt_022_05_11_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:11:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=05h11m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
