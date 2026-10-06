@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25228,6 +25228,25 @@
           "imageCaption": "Stream snapshot @ 02:21:35",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h21m35s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d25-evt-017",
+          "timestamp": "02:39:35",
+          "seconds": 9575,
+          "isMajor": true,
+          "title": "- 02:48:42 the crew meet up with m1",
+          "description": "- 02:48:42 the crew meet up with M1, they discuss the security at the art gallery using the photos they took earlier during the tour, he suggests hitting the gallery on Thursday, however he wants them to kidnap someone for him today, Nadia a gem appraiser to get intel out of her, the plane is arriving in 30 minutes and she will have security with her, they will need to intercept her convoy and kidnap her",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_017_02_39_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:39:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=02h39m35s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -25235,7 +25254,7 @@
         "timeLoggedIn": "Jean Paul : ~ 241:58:00 / Pierre Paul: 15:54:00 / Total : 255:52:00",
         "timesJailed": "2 arrests - He's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition"
       }
     }
   }
