@@ -24908,7 +24908,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2892818882",
       "kickVod": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552",
       "kickStreamUrl": "",
-      "eventsCount": 38,
+      "eventsCount": 39,
       "events": [
         {
           "id": "d25-evt-001",
@@ -25669,6 +25669,25 @@
           "imageCaption": "Stream snapshot @ 11:17:00",
           "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=11h17m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=40618"
+        },
+        {
+          "id": "d25-evt-039",
+          "timestamp": "13:00:57",
+          "seconds": 46857,
+          "isMajor": true,
+          "title": "- 13:01:27 big 200k blackjack win",
+          "description": "- 13:01:27 big 200k Blackjack win",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d25_evt_039_13_00_57.jpg",
+          "imageCaption": "Stream snapshot @ 13:00:57",
+          "twitchUrl": "https://www.twitch.tv/videos/2892818882?t=13h00m57s",
+          "kickUrl": "https://kick.com/xqc/videos/01a10d91-9880-79c9-95bf-c8e4d69ae552?t=46855"
         }
       ],
       "characterInfo": {
@@ -25678,8 +25697,8 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
         "Game": "Starting Amount",
-        "Blackjack": "70,056 (cashes out 60k)",
-        "Slots": "67,032 (withdraws 60k)",
+        "Blackjack": "52,428 (cashes out 300k)",
+        "Slots": "40,428",
         "Blakcjack": "88,373",
         "Roulette": "40,212"
       }
