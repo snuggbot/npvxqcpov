@@ -25713,7 +25713,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d26-evt-001",
@@ -25790,6 +25790,64 @@
           "image": "/images/frames/d26_evt_004_01_22_47.jpg",
           "imageCaption": "Stream snapshot @ 01:22:47",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h22m47s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-005",
+          "timestamp": "01:43:40",
+          "seconds": 6220,
+          "isMajor": false,
+          "title": "Clocks in at burger shot to help ginger cook",
+          "description": "x clocks in at burger shot to help Ginger cook",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_005_01_43_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:43:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h43m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-006",
+          "timestamp": "01:53:40",
+          "seconds": 6820,
+          "isMajor": true,
+          "title": "- 01:55:20 x calls lang to explain to him that he's not",
+          "description": "- 01:55:20 x calls Lang to explain to him that he's not paid in this current cycle out of the pawn shop money since he sold his share to Saleem, he said that he's buying his share back",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_006_01_53_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:53:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h53m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-007",
+          "timestamp": "02:09:00",
+          "seconds": 7740,
+          "isMajor": true,
+          "title": "- 02:13:30 x pays beef 23k to cure him of some of the d",
+          "description": "- 02:13:30 x pays Beef 23k to cure him of some of the diseases he has (4 diseases)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_007_02_09_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:09:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h09m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
