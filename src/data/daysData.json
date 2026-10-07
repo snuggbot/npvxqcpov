@@ -25711,17 +25711,17 @@
       "updated": "2026-10-06T17:49:27+00:00",
       "isLive": true,
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
-      "kickVod": "https://kick.com/xqc",
+      "kickVod": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d26-evt-001",
-          "timestamp": "55:12:00",
-          "seconds": 198720,
+          "timestamp": "64:12:00",
+          "seconds": 231120,
           "isMajor": false,
-          "title": "/ pierre paul: 15:54:00 / total : 271:06:00",
-          "description": "/ Pierre Paul: 15:54:00 / Total : 271:06:00",
+          "title": "/ pierre paul: 15:54:00 / total : 280:06:00",
+          "description": "/ Pierre Paul: 15:54:00 / Total : 280:06:00",
           "category": "general",
           "tags": [
             "general"
@@ -25729,10 +25729,10 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d26_evt_001_55_12_00.jpg",
-          "imageCaption": "Stream snapshot @ 55:12:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=55h12m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "image": "/images/frames/d26_evt_001_64_12_00.jpg",
+          "imageCaption": "Stream snapshot @ 64:12:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=64h12m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=231118"
         },
         {
           "id": "d26-evt-002",
@@ -25751,7 +25751,7 @@
           "image": "/images/frames/d26_evt_002_01_08_07.jpg",
           "imageCaption": "Stream snapshot @ 01:08:07",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h08m07s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=4085"
         },
         {
           "id": "d26-evt-003",
@@ -25770,7 +25770,7 @@
           "image": "/images/frames/d26_evt_003_01_09_50.jpg",
           "imageCaption": "Stream snapshot @ 01:09:50",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h09m50s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=4188"
         },
         {
           "id": "d26-evt-004",
@@ -25790,7 +25790,7 @@
           "image": "/images/frames/d26_evt_004_01_22_47.jpg",
           "imageCaption": "Stream snapshot @ 01:22:47",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h22m47s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=4965"
         },
         {
           "id": "d26-evt-005",
@@ -25809,7 +25809,7 @@
           "image": "/images/frames/d26_evt_005_01_43_40.jpg",
           "imageCaption": "Stream snapshot @ 01:43:40",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h43m40s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=6218"
         },
         {
           "id": "d26-evt-006",
@@ -25829,7 +25829,7 @@
           "image": "/images/frames/d26_evt_006_01_53_40.jpg",
           "imageCaption": "Stream snapshot @ 01:53:40",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h53m40s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=6818"
         },
         {
           "id": "d26-evt-007",
@@ -25848,7 +25848,7 @@
           "image": "/images/frames/d26_evt_007_02_09_00.jpg",
           "imageCaption": "Stream snapshot @ 02:09:00",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h09m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=7738"
         },
         {
           "id": "d26-evt-008",
@@ -25868,7 +25868,7 @@
           "image": "/images/frames/d26_evt_008_02_48_30.jpg",
           "imageCaption": "Stream snapshot @ 02:48:30",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h48m30s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=10108"
         },
         {
           "id": "d26-evt-009",
@@ -25890,7 +25890,7 @@
           "image": "/images/frames/d26_evt_009_02_51_30.jpg",
           "imageCaption": "Stream snapshot @ 02:51:30",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h51m30s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=10288"
         },
         {
           "id": "d26-evt-010",
@@ -25909,7 +25909,7 @@
           "image": "/images/frames/d26_evt_010_03_08_20.jpg",
           "imageCaption": "Stream snapshot @ 03:08:20",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=03h08m20s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=11298"
         },
         {
           "id": "d26-evt-011",
@@ -25929,7 +25929,7 @@
           "image": "/images/frames/d26_evt_011_03_46_40.jpg",
           "imageCaption": "Stream snapshot @ 03:46:40",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=03h46m40s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=13598"
         },
         {
           "id": "d26-evt-012",
@@ -25949,7 +25949,7 @@
           "image": "/images/frames/d26_evt_012_04_20_50.jpg",
           "imageCaption": "Stream snapshot @ 04:20:50",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=04h20m50s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=15648"
         },
         {
           "id": "d26-evt-013",
@@ -25969,7 +25969,7 @@
           "image": "/images/frames/d26_evt_013_04_56_50.jpg",
           "imageCaption": "Stream snapshot @ 04:56:50",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=04h56m50s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=17808"
         },
         {
           "id": "d26-evt-014",
@@ -25988,7 +25988,7 @@
           "image": "/images/frames/d26_evt_014_05_00_15.jpg",
           "imageCaption": "Stream snapshot @ 05:00:15",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h00m15s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=18013"
         },
         {
           "id": "d26-evt-015",
@@ -26007,7 +26007,7 @@
           "image": "/images/frames/d26_evt_015_05_33_10.jpg",
           "imageCaption": "Stream snapshot @ 05:33:10",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h33m10s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=19988"
         },
         {
           "id": "d26-evt-016",
@@ -26026,7 +26026,7 @@
           "image": "/images/frames/d26_evt_016_05_52_50.jpg",
           "imageCaption": "Stream snapshot @ 05:52:50",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h52m50s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=21168"
         },
         {
           "id": "d26-evt-017",
@@ -26046,7 +26046,7 @@
           "image": "/images/frames/d26_evt_017_05_55_25.jpg",
           "imageCaption": "Stream snapshot @ 05:55:25",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h55m25s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=21323"
         },
         {
           "id": "d26-evt-018",
@@ -26066,7 +26066,7 @@
           "image": "/images/frames/d26_evt_018_06_24_20.jpg",
           "imageCaption": "Stream snapshot @ 06:24:20",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=06h24m20s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=23058"
         },
         {
           "id": "d26-evt-019",
@@ -26086,18 +26086,119 @@
           "image": "/images/frames/d26_evt_019_06_56_05.jpg",
           "imageCaption": "Stream snapshot @ 06:56:05",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=06h56m05s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=24963"
+        },
+        {
+          "id": "d26-evt-020",
+          "timestamp": "07:56:00",
+          "seconds": 28560,
+          "isMajor": false,
+          "title": "Lang gives x access to the casino and he starts gamblin",
+          "description": "Lang gives x access to the casino and he starts gambling",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_020_07_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=07h56m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=28558"
+        },
+        {
+          "id": "d26-evt-021",
+          "timestamp": "07:59:20",
+          "seconds": 28760,
+          "isMajor": true,
+          "title": "- 08:00:00 lang can't unban x from gambling so instead ",
+          "description": "- 08:00:00 Lang can't unban x from gambling so instead he asks Lang to do the gambling for him:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_021_07_59_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:59:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=07h59m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=28758"
+        },
+        {
+          "id": "d26-evt-022",
+          "timestamp": "08:35:15",
+          "seconds": 30915,
+          "isMajor": false,
+          "title": "Lang hands x 538k gambling for him using marty's money",
+          "description": "Lang hands x 538k gambling for him using Marty's money, he pays 50k to Marty back, he has 476k in his personal account",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_022_08_35_15.jpg",
+          "imageCaption": "Stream snapshot @ 08:35:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=08h35m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=30913"
+        },
+        {
+          "id": "d26-evt-023",
+          "timestamp": "09:29:10",
+          "seconds": 34150,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Lang are robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_023_09_29_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:29:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=09h29m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=34148"
+        },
+        {
+          "id": "d26-evt-024",
+          "timestamp": "10:05:30",
+          "seconds": 36330,
+          "isMajor": true,
+          "title": "- 10:07:55 x looks at his mailbox",
+          "description": "- 10:07:55 x looks at his mailbox, there are 5 sealed envelops, he opens them and finds fines of 12k fine, 1.7k, 9k, a court summon and another court summon, he decides to leave them in the mailbox and not pay any fine",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_024_10_05_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:05:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=10h05m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1130c-a818-7dab-8dc6-6e77b6471426?t=36328"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 255:12:00 / Pierre Paul: 15:54:00 / Total : 271:06:00",
+        "timeLoggedIn": "Jean Paul : ~ 264:12:00 / Pierre Paul: 15:54:00 / Total : 280:06:00",
         "timesJailed": "2 arrests - He's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
         "Game": "Starting Amount",
         "3 Card Poker": "80,000",
-        "Blackjack": "82,868 (withdraw 80k)",
+        "Blackjack": "50,000 (takes 50k from Marty)",
         "Slots": "77,689 (withdraw 70k)"
       }
     }
