@@ -25713,7 +25713,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d26-evt-001",
@@ -26046,6 +26046,46 @@
           "image": "/images/frames/d26_evt_017_05_55_25.jpg",
           "imageCaption": "Stream snapshot @ 05:55:25",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h55m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-018",
+          "timestamp": "06:24:20",
+          "seconds": 23060,
+          "isMajor": false,
+          "title": "And marty are chopping cars",
+          "description": "x and Marty are chopping cars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d26_evt_018_06_24_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:24:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=06h24m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-019",
+          "timestamp": "06:56:05",
+          "seconds": 24965,
+          "isMajor": true,
+          "title": "- 07:41:50 x starts the clown risk challenge",
+          "description": "- 07:41:50 x starts the clown risk challenge, he uses a bike to drive up the railing, it's a risky game where people stand at the edge of the bridge at the top and roll the dice, depending on the dice roll the person then performs an action which might cause them to fall off the top and even take people down with them, eventually a few people are left, x has to performs a slide and he falls off the bridge, he uses a parachute and hits a tree on his way down and get incapacitated",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_019_06_56_05.jpg",
+          "imageCaption": "Stream snapshot @ 06:56:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=06h56m05s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
