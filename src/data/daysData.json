@@ -25713,7 +25713,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d26-evt-001",
@@ -25969,6 +25969,83 @@
           "image": "/images/frames/d26_evt_013_04_56_50.jpg",
           "imageCaption": "Stream snapshot @ 04:56:50",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=04h56m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-014",
+          "timestamp": "05:00:15",
+          "seconds": 18015,
+          "isMajor": false,
+          "title": "Is robbing atms",
+          "description": "x is robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_014_05_00_15.jpg",
+          "imageCaption": "Stream snapshot @ 05:00:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h00m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-015",
+          "timestamp": "05:33:10",
+          "seconds": 19990,
+          "isMajor": false,
+          "title": "Robbing more atms",
+          "description": "robbing more ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_015_05_33_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:33:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h33m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-016",
+          "timestamp": "05:52:50",
+          "seconds": 21170,
+          "isMajor": false,
+          "title": "Places ads around the city mentioning that he's buying ",
+          "description": "x places ads around the city mentioning that he's buying materials",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_016_05_52_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:52:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h52m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-017",
+          "timestamp": "05:55:25",
+          "seconds": 21325,
+          "isMajor": true,
+          "title": "- 05:56:52 chatterbox has a challenge for everyone in t",
+          "description": "- 05:56:52 Chatterbox has a challenge for everyone in the city, it's called clown risk",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d26_evt_017_05_55_25.jpg",
+          "imageCaption": "Stream snapshot @ 05:55:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=05h55m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
