@@ -25713,7 +25713,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d26-evt-001",
@@ -25950,6 +25950,26 @@
           "imageCaption": "Stream snapshot @ 04:20:50",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=04h20m50s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-013",
+          "timestamp": "04:56:50",
+          "seconds": 17810,
+          "isMajor": true,
+          "title": "- 05:03:30 mr",
+          "description": "- 05:03:30 Mr. C asks x where did he play poker, he replies saying the doors where open to the vip lounge, Lang calls x afterwards saying that he's already told Mr. C that he gave them access to the vip lounge so he knew that x was lying, the casino will be open tomorrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_013_04_56_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:56:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=04h56m50s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -25960,8 +25980,8 @@
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
         "Game": "Starting Amount",
         "3 Card Poker": "80,000",
-        "Blackjack": "19,868",
-        "Slots": "80,000 (withdraws 80k)"
+        "Blackjack": "82,868 (withdraw 80k)",
+        "Slots": "77,689 (withdraw 70k)"
       }
     }
   }
