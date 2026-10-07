@@ -25713,7 +25713,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d26-evt-001",
@@ -25732,6 +25732,64 @@
           "image": "/images/frames/d26_evt_001_55_12_00.jpg",
           "imageCaption": "Stream snapshot @ 55:12:00",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=55h12m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-002",
+          "timestamp": "01:08:07",
+          "seconds": 4087,
+          "isMajor": false,
+          "title": "Logs in and starts day 26!",
+          "description": "x logs in and starts day 26!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_002_01_08_07.jpg",
+          "imageCaption": "Stream snapshot @ 01:08:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h08m07s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-003",
+          "timestamp": "01:09:50",
+          "seconds": 4190,
+          "isMajor": true,
+          "title": "- 01:10:10 mr",
+          "description": "- 01:10:10 Mr. C tells x he's band from the casino (doesn't seem serious about it idk yet)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_003_01_09_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:09:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h09m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-004",
+          "timestamp": "01:22:47",
+          "seconds": 4967,
+          "isMajor": true,
+          "title": "- 01:24:26 x calls marty",
+          "description": "- 01:24:26 x calls Marty, he said that he's also banned from the casino and that they can open the casino when its closed for 15k an hour, also the food at the store isn't as good anymore, burger shot is the better alternative",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d26_evt_004_01_22_47.jpg",
+          "imageCaption": "Stream snapshot @ 01:22:47",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=01h22m47s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
