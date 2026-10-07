@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26231,6 +26231,83 @@
           "image": "/images/frames/d27_evt_001_64_12_00.jpg",
           "imageCaption": "Stream snapshot @ 64:12:00",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=64h12m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-002",
+          "timestamp": "00:57:55",
+          "seconds": 3475,
+          "isMajor": false,
+          "title": "Logs in and starts day 27!",
+          "description": "x logs in and starts day 27!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_002_00_57_55.jpg",
+          "imageCaption": "Stream snapshot @ 00:57:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=00h57m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-003",
+          "timestamp": "01:00:50",
+          "seconds": 3650,
+          "isMajor": false,
+          "title": "Gets dressed for the mayor's meeting",
+          "description": "x gets dressed for the mayor's meeting",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_003_01_00_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:00:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h00m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-004",
+          "timestamp": "01:04:14",
+          "seconds": 3854,
+          "isMajor": true,
+          "title": "- 01:04:50 x calls mayor eliza",
+          "description": "- 01:04:50 x calls Mayor Eliza, she's expecting him in her office at city hall",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_004_01_04_14.jpg",
+          "imageCaption": "Stream snapshot @ 01:04:14",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h04m14s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-005",
+          "timestamp": "01:08:35",
+          "seconds": 4115,
+          "isMajor": true,
+          "title": "- 01:19:35 x meets with the mayor",
+          "description": "- 01:19:35 x meets with the Mayor, she says that the strawberry gas station is already owned by a business called Ron Oil (Alex Ron is the owner of Ron Oil), x inquires about the gas station at innocence, x also suggests that these gas station should be auctioned and the mayor likes the idea, after discussing a few points about the city, energy sources ..etc x hints that his budget is 2mil$ (has 450k in his personal acc atm), he also brings up the ''rumors'' that he's a felon, the mayor confirms that having a criminal record can and will be a problem so he will need to settle that and be aware in the future but she will get in touch with him about the innocence gas station",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_005_01_08_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:08:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h08m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
