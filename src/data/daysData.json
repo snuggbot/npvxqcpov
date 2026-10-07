@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26308,6 +26308,84 @@
           "image": "/images/frames/d27_evt_005_01_08_35.jpg",
           "imageCaption": "Stream snapshot @ 01:08:35",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h08m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-006",
+          "timestamp": "01:23:40",
+          "seconds": 5020,
+          "isMajor": true,
+          "title": "- 01:24:20 x is welcomed into the casino",
+          "description": "- 01:24:20 x is welcomed into the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_006_01_23_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:23:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h23m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-007",
+          "timestamp": "01:27:50",
+          "seconds": 5270,
+          "isMajor": true,
+          "title": "- 01:32:20 x links up with mr",
+          "description": "- 01:32:20 x links up with Mr. C, he apologizes to him for his behavior, Mr. C accepts his apology and tells him that for this month only gold card holders will have access to the diamond vip 3rd floor lounge and that he can open the vip lounge for him and the crew when needed, Marty joins the convo and Mr. C unbans him from the casino, Mr. C will look into x's rakeback",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d27_evt_007_01_27_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:27:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h27m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-008",
+          "timestamp": "01:32:20",
+          "seconds": 5540,
+          "isMajor": false,
+          "title": "Withdraws 200k but buys 100k worth of chips",
+          "description": "x withdraws 200k but buys 100k worth of chips",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_008_01_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h32m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-009",
+          "timestamp": "01:35:50",
+          "seconds": 5750,
+          "isMajor": true,
+          "title": "- 01:36:50 mr",
+          "description": "- 01:36:50 Mr. C pulls out x's and Marty's gambling stats, x in total is up around a 100k, Marty is down around 300k",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d27_evt_009_01_35_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:35:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=01h35m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
