@@ -25713,7 +25713,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d26-evt-001",
@@ -25848,6 +25848,48 @@
           "image": "/images/frames/d26_evt_007_02_09_00.jpg",
           "imageCaption": "Stream snapshot @ 02:09:00",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h09m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-008",
+          "timestamp": "02:48:30",
+          "seconds": 10110,
+          "isMajor": true,
+          "title": "- 02:50:03 x calls the mayor telling her he wants to bu",
+          "description": "- 02:50:03 x calls the mayor telling her he wants to buy strawberry gas station, she asks him to meet tomorrow an hour after storm",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_008_02_48_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:48:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h48m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-009",
+          "timestamp": "02:51:30",
+          "seconds": 10290,
+          "isMajor": true,
+          "title": "- 02:53:40 tony gets a message from cici saying that sh",
+          "description": "- 02:53:40 Tony gets a message from Cici saying that she wants to increase the chances of him winning the car and for that he needs to meet with her alone, she asks him not to share this message with anyone but he shares it with the crew, also the mayor texts x setting up a meeting tomorrow about the gas station",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d26_evt_009_02_51_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:51:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h51m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
