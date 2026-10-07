@@ -25713,7 +25713,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2893740610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d26-evt-001",
@@ -25891,6 +25891,65 @@
           "imageCaption": "Stream snapshot @ 02:51:30",
           "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=02h51m30s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-010",
+          "timestamp": "03:08:20",
+          "seconds": 11300,
+          "isMajor": false,
+          "title": "The crew rob some atms",
+          "description": "the crew rob some ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d26_evt_010_03_08_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:08:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=03h08m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-011",
+          "timestamp": "03:46:40",
+          "seconds": 13600,
+          "isMajor": true,
+          "title": "- 03:48:30 lang gives the crew access to the vip floor ",
+          "description": "- 03:48:30 Lang gives the crew access to the vip floor at the casino, x buys 80k worth of chips",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_011_03_46_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:46:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=03h46m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d26-evt-012",
+          "timestamp": "04:20:50",
+          "seconds": 15650,
+          "isMajor": true,
+          "title": "- 04:21:05 lang charges x 17",
+          "description": "- 04:21:05 Lang charges x 17,250 to open the casino for 1 hour",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d26_evt_012_04_20_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:20:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2893740610?t=04h20m50s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -25898,7 +25957,11 @@
         "timeLoggedIn": "Jean Paul : ~ 255:12:00 / Pierre Paul: 15:54:00 / Total : 271:06:00",
         "timesJailed": "2 arrests - He's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
+        "Game": "Starting Amount",
+        "3 Card Poker": "80,000",
+        "Blackjack": "19,868",
+        "Slots": "80,000 (withdraws 80k)"
       }
     }
   }
