@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 26,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26725,6 +26725,25 @@
           "imageCaption": "Stream snapshot @ 06:36:40",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=06h36m40s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-027",
+          "timestamp": "07:07:40",
+          "seconds": 25660,
+          "isMajor": true,
+          "title": "- 07:08:10 after losing a bunch",
+          "description": "- 07:08:10 after losing a bunch, x looks at the accounts and they're drained",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_027_07_07_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:07:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=07h07m40s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -26734,10 +26753,11 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
         "Game": "Starting Amount",
-        "Blackjack": "120,649 (withdraws 70k from personal and 50k from bricked house holdings)",
+        "Blackjack": "103,706 (Withdraws 100k from Bricked Holdings)",
         "Slots": "188,803 (pays the accounts back)",
         "Wheel Spins": "301,215",
-        "Roulette": "241, 649"
+        "Roulette": "241, 649",
+        "Slots1": "175,684"
       }
     }
   }
