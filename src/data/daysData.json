@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 20,
+      "eventsCount": 26,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26606,6 +26606,124 @@
           "image": "/images/frames/d27_evt_020_05_40_10.jpg",
           "imageCaption": "Stream snapshot @ 05:40:10",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=05h40m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-021",
+          "timestamp": "05:45:40",
+          "seconds": 20740,
+          "isMajor": true,
+          "title": "- 05:50:40 the betting rules for the fighting cage are ",
+          "description": "- 05:50:40 the betting rules for the fighting cage are explained, x decides to bet 20k on Chatterbox to win against Vivek, 20k on Den Sheisty to win against Tony, 20k on Gigi C to win against Kali and finally 20k on Donnie Pickass to win against The Shaved Man (4 bets, 80k in total)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d27_evt_021_05_45_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:45:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=05h45m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-022",
+          "timestamp": "05:57:00",
+          "seconds": 21420,
+          "isMajor": true,
+          "title": "- 05:57:25 chatterbox wins (x'bet hits)",
+          "description": "- 05:57:25 Chatterbox wins (x'bet hits)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d27_evt_022_05_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=05h57m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-023",
+          "timestamp": "05:58:50",
+          "seconds": 21530,
+          "isMajor": true,
+          "title": "- 06:00:50 gigi c wins (x'bet hits)",
+          "description": "- 06:00:50 Gigi C wins (x'bet hits)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_023_05_58_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:58:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=05h58m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-024",
+          "timestamp": "06:12:55",
+          "seconds": 22375,
+          "isMajor": true,
+          "title": "- 06:15:45 tony wins (x's bet doesn't hit)",
+          "description": "- 06:15:45 Tony wins (x's bet doesn't hit)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d27_evt_024_06_12_55.jpg",
+          "imageCaption": "Stream snapshot @ 06:12:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=06h12m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-025",
+          "timestamp": "06:17:15",
+          "seconds": 22635,
+          "isMajor": true,
+          "title": "- 06:34:30 donnie pickass wins the best of 3 (x'bet hit",
+          "description": "- 06:34:30 Donnie Pickass wins the best of 3 (x'bet hits)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_025_06_17_15.jpg",
+          "imageCaption": "Stream snapshot @ 06:17:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=06h17m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-026",
+          "timestamp": "06:36:40",
+          "seconds": 23800,
+          "isMajor": true,
+          "title": "- 06:38:35 x gets 86",
+          "description": "- 06:38:35 x gets 86,360 (6,260 win)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_026_06_36_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:36:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=06h36m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
