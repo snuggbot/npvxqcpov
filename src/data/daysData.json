@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 32,
+      "eventsCount": 34,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26843,6 +26843,45 @@
           "image": "/images/frames/d27_evt_032_08_42_00.jpg",
           "imageCaption": "Stream snapshot @ 08:42:00",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=08h42m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-033",
+          "timestamp": "10:07:50",
+          "seconds": 36470,
+          "isMajor": true,
+          "title": "- 10:08:20 (x watches a clip of air 1's pov slamming in",
+          "description": "- 10:08:20 (x watches a clip of air 1's pov slamming into a bridge mid air and exploding)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_033_10_07_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:07:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=10h07m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-034",
+          "timestamp": "10:08:50",
+          "seconds": 36530,
+          "isMajor": true,
+          "title": "- 10:09:05 (x watched another clip of a cop car hitting",
+          "description": "- 10:09:05 (x watched another clip of a cop car hitting a gas tank and exploding during the chase earlier)",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_034_10_08_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:08:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=10h08m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
