@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26426,6 +26426,27 @@
           "imageCaption": "Stream snapshot @ 02:01:00",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=02h01m00s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-012",
+          "timestamp": "03:01:10",
+          "seconds": 10870,
+          "isMajor": true,
+          "title": "- 03:05:01 the crew link up with m1",
+          "description": "- 03:05:01 the crew link up with M1, the objective today to stealthily rob the equipment (mainly a crimson access card), they also discuss the art gallery job happening on Friday, he provides the group with armor, pistols, silencer and ammo",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_012_03_01_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:01:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=03h01m10s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -26435,9 +26456,10 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
         "Game": "Starting Amount",
-        "Blackjack": "101,215 (withdraws 100k)",
+        "Blackjack": "101,648 (withdraws 100k)",
         "Slots": "298,215",
-        "Wheel Spins": "301,215"
+        "Wheel Spins": "301,215",
+        "Roulette": "241, 649"
       }
     }
   }
