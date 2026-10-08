@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26446,6 +26446,48 @@
           "image": "/images/frames/d27_evt_012_03_01_10.jpg",
           "imageCaption": "Stream snapshot @ 03:01:10",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=03h01m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-013",
+          "timestamp": "03:13:30",
+          "seconds": 11610,
+          "isMajor": false,
+          "title": "The crew change clothes for the job",
+          "description": "the crew change clothes for the job",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_013_03_13_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:13:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=03h13m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-014",
+          "timestamp": "03:31:05",
+          "seconds": 12665,
+          "isMajor": true,
+          "title": "- 04:24:30 the crew spots the vehicle target and start ",
+          "description": "- 04:24:30 the crew spots the vehicle target and start tailing them, eventually the crew intercepts the convoy's security, x jumps off highground and gets incapacitated, Marty helps him up, the cops arrive and they negotiate using the hostage, the crew can't find or get in contact with Tony, meanwhile x and Marty enter the codes into 4 containers and hack them:",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "lore",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d27_evt_014_03_31_05.jpg",
+          "imageCaption": "Stream snapshot @ 03:31:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=03h31m05s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
