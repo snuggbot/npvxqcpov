@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26488,6 +26488,27 @@
           "image": "/images/frames/d27_evt_014_03_31_05.jpg",
           "imageCaption": "Stream snapshot @ 03:31:05",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=03h31m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-015",
+          "timestamp": "04:26:40",
+          "seconds": 16000,
+          "isMajor": true,
+          "title": "- 04:28:00 while getting treated at the hospital beef t",
+          "description": "- 04:28:00 while getting treated at the hospital Beef tells x that he apparently has a new warrant for robbing an ATM",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d27_evt_015_04_26_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:26:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=04h26m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
