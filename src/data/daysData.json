@@ -26212,7 +26212,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2894499419",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 31,
+      "eventsCount": 32,
       "events": [
         {
           "id": "d27-evt-001",
@@ -26821,6 +26821,28 @@
           "image": "/images/frames/d27_evt_031_08_13_13.jpg",
           "imageCaption": "Stream snapshot @ 08:13:13",
           "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=08h13m13s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d27-evt-032",
+          "timestamp": "08:42:00",
+          "seconds": 31320,
+          "isMajor": true,
+          "title": "- 10:02:50 they arrive at paleto bay",
+          "description": "- 10:02:50 they arrive at Paleto Bay, they split up and enter different shops (by hacking electrical panels outside each), x finds a crimson access card (each shop provides an access card in exchange for a specific item, there are also items scattered around these shops that can be exchanged at other stores for cards), they eventually find the correct card, the Paleto Bank guard takes both the code and the Ornamental Egg and they enter the bank, there is a new hack at the electrical panel behind the bank, it's a difficult one but Marty manages to crack it, there are more panels and hacking each one opens a door inside the bank (3 in total), they get to the vault and Lang finds a gold access card (a card for the city vault) plus 130k money, the cops arrive including air1 (heli), they exchange the hostage and the chase starts, after a very long chase, swapping cars multiple times they manage to escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d27_evt_032_08_42_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:42:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2894499419?t=08h42m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
