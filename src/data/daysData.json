@@ -27045,10 +27045,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x0weeh/nopixel_v_day_28_recap_oct_8th_xqcs_pov_with/",
       "updated": "2026-10-08T17:02:30+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "twitchVod": "https://www.twitch.tv/videos/2895508402",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d28-evt-001",
@@ -27066,7 +27066,124 @@
           ],
           "image": "/images/frames/d28_evt_001_76_17_00.jpg",
           "imageCaption": "Stream snapshot @ 76:17:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=76h17m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=76h17m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-002",
+          "timestamp": "00:39:37",
+          "seconds": 2377,
+          "isMajor": false,
+          "title": "Logs in and starts day 28!",
+          "description": "x logs in and starts day 28!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_002_00_39_37.jpg",
+          "imageCaption": "Stream snapshot @ 00:39:37",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=00h39m37s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-003",
+          "timestamp": "00:49:47",
+          "seconds": 2987,
+          "isMajor": true,
+          "title": "- 00:50:59 nancy calls x asking if he's the one that to",
+          "description": "- 00:50:59 Nancy calls x asking if he's the one that took the cooked jet off the ground near the tents at the airport to which he says no, she's concerned that the location has been compromised",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_003_00_49_47.jpg",
+          "imageCaption": "Stream snapshot @ 00:49:47",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=00h49m47s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-004",
+          "timestamp": "01:14:20",
+          "seconds": 4460,
+          "isMajor": false,
+          "title": "Calls jason polam asking him to clock in at g6 and fix ",
+          "description": "x calls Jason Polam asking him to clock in at G6 and fix the ATMs, he says G6 employees are on strike since the pay is so low and that no one in the city can clock in",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_004_01_14_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:14:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h14m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-005",
+          "timestamp": "01:20:00",
+          "seconds": 4800,
+          "isMajor": false,
+          "title": "Receives a call from ron otterman and bogg dann asking ",
+          "description": "x receives a call from Ron Otterman and Bogg Dann asking if he knows anything about an ai tablet, they found it following a convoy and they don't know what's the use of it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Bogg"
+          ],
+          "image": "/images/frames/d28_evt_005_01_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h20m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-006",
+          "timestamp": "01:21:50",
+          "seconds": 4910,
+          "isMajor": false,
+          "title": "Brings a couple of people (irish and posy) to try and c",
+          "description": "x brings a couple of people (Irish and Posy) to try and clock in at G6 HQ but no one's able to clock in",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_006_01_21_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:21:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h21m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-007",
+          "timestamp": "01:31:10",
+          "seconds": 5470,
+          "isMajor": false,
+          "title": "Calls clayton (ex g6 employee) asking if he can clock i",
+          "description": "x calls Clayton (ex G6 employee) asking if he can clock in at G6 but he also can't",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_007_01_31_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:31:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h31m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
