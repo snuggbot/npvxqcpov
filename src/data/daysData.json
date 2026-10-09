@@ -27048,7 +27048,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2895508402",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 11,
       "events": [
         {
           "id": "d28-evt-001",
@@ -27184,6 +27184,83 @@
           "image": "/images/frames/d28_evt_007_01_31_10.jpg",
           "imageCaption": "Stream snapshot @ 01:31:10",
           "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h31m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-008",
+          "timestamp": "01:34:20",
+          "seconds": 5660,
+          "isMajor": false,
+          "title": "Calls jason again",
+          "description": "x calls Jason again, he says the strike might be over in a couple of days",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_008_01_34_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:34:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h34m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-009",
+          "timestamp": "01:38:50",
+          "seconds": 5930,
+          "isMajor": false,
+          "title": "And marty get a hostage and rob some atms",
+          "description": "x and Marty get a hostage and rob some ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d28_evt_009_01_38_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:38:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h38m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-010",
+          "timestamp": "01:55:50",
+          "seconds": 6950,
+          "isMajor": false,
+          "title": "They continue robbing atms",
+          "description": "they continue robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_010_01_55_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:55:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h55m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-011",
+          "timestamp": "02:17:00",
+          "seconds": 8220,
+          "isMajor": false,
+          "title": "They get another hostage and continue robbing atms",
+          "description": "they get another hostage and continue robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_011_02_17_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:17:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=02h17m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
