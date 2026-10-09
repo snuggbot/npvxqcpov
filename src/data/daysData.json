@@ -27045,10 +27045,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x0weeh/nopixel_v_day_28_recap_oct_8th_xqcs_pov_with/",
       "updated": "2026-10-08T17:02:30+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2895508402",
+      "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d28-evt-001",
@@ -27066,7 +27066,7 @@
           ],
           "image": "/images/frames/d28_evt_001_76_17_00.jpg",
           "imageCaption": "Stream snapshot @ 76:17:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=76h17m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=76h17m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27085,7 +27085,7 @@
           ],
           "image": "/images/frames/d28_evt_002_00_39_37.jpg",
           "imageCaption": "Stream snapshot @ 00:39:37",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=00h39m37s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h39m37s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27104,7 +27104,7 @@
           ],
           "image": "/images/frames/d28_evt_003_00_49_47.jpg",
           "imageCaption": "Stream snapshot @ 00:49:47",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=00h49m47s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h49m47s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27125,7 +27125,7 @@
           ],
           "image": "/images/frames/d28_evt_004_01_14_20.jpg",
           "imageCaption": "Stream snapshot @ 01:14:20",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h14m20s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h14m20s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27145,7 +27145,7 @@
           ],
           "image": "/images/frames/d28_evt_005_01_20_00.jpg",
           "imageCaption": "Stream snapshot @ 01:20:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h20m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h20m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27164,7 +27164,7 @@
           ],
           "image": "/images/frames/d28_evt_006_01_21_50.jpg",
           "imageCaption": "Stream snapshot @ 01:21:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h21m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h21m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27183,7 +27183,7 @@
           ],
           "image": "/images/frames/d28_evt_007_01_31_10.jpg",
           "imageCaption": "Stream snapshot @ 01:31:10",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h31m10s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h31m10s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27202,7 +27202,7 @@
           ],
           "image": "/images/frames/d28_evt_008_01_34_20.jpg",
           "imageCaption": "Stream snapshot @ 01:34:20",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h34m20s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h34m20s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27222,7 +27222,7 @@
           ],
           "image": "/images/frames/d28_evt_009_01_38_50.jpg",
           "imageCaption": "Stream snapshot @ 01:38:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h38m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h38m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27241,7 +27241,7 @@
           ],
           "image": "/images/frames/d28_evt_010_01_55_50.jpg",
           "imageCaption": "Stream snapshot @ 01:55:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=01h55m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h55m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -27260,7 +27260,268 @@
           ],
           "image": "/images/frames/d28_evt_011_02_17_00.jpg",
           "imageCaption": "Stream snapshot @ 02:17:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2895508402?t=02h17m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h17m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-012",
+          "timestamp": "03:17:55",
+          "seconds": 11875,
+          "isMajor": false,
+          "title": "Lang links up with x and marty",
+          "description": "Lang links up with x and Marty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d28_evt_012_03_17_55.jpg",
+          "imageCaption": "Stream snapshot @ 03:17:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h17m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-013",
+          "timestamp": "03:20:00",
+          "seconds": 12000,
+          "isMajor": false,
+          "title": "Lang and marty are gambling while x spectates",
+          "description": "Lang and Marty are gambling while x spectates",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d28_evt_013_03_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h20m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-014",
+          "timestamp": "03:40:50",
+          "seconds": 13250,
+          "isMajor": false,
+          "title": "Robs more atms",
+          "description": "x robs more ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_014_03_40_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:40:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h40m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-015",
+          "timestamp": "03:47:20",
+          "seconds": 13640,
+          "isMajor": false,
+          "title": "Runs into a tree while driving a bike and gets incapaci",
+          "description": "x runs into a tree while driving a bike and gets incapacitated",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_015_03_47_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=03h47m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-016",
+          "timestamp": "04:31:00",
+          "seconds": 16260,
+          "isMajor": false,
+          "title": "Robs cars and atms",
+          "description": "x robs cars and ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_016_04_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=04h31m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-017",
+          "timestamp": "04:40:00",
+          "seconds": 16800,
+          "isMajor": false,
+          "title": "Meets up with tiny tony and buys materials",
+          "description": "x meets up with Tiny Tony and buys materials",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d28_evt_017_04_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=04h40m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-018",
+          "timestamp": "05:04:55",
+          "seconds": 18295,
+          "isMajor": true,
+          "title": "- 05:13:15 x",
+          "description": "- 05:13:15 x, Lang and Marty meet up with M1, he wants the crew to get him a document today that will help them with tomorrow's art gallery job, he provides them with silencers and he's going to share the location",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d28_evt_018_05_04_55.jpg",
+          "imageCaption": "Stream snapshot @ 05:04:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h04m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-019",
+          "timestamp": "05:19:40",
+          "seconds": 19180,
+          "isMajor": true,
+          "title": "- 05:24:25 they arrive at the house",
+          "description": "- 05:24:25 they arrive at the house, take down the security guards, search it and find the document",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_019_05_19_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:19:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h19m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-020",
+          "timestamp": "05:40:15",
+          "seconds": 20415,
+          "isMajor": true,
+          "title": "- 05:40:50 they're trying to solve the puzzle",
+          "description": "- 05:40:50 they're trying to solve the puzzle, they believe the answer is somewhere around the docks",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d28_evt_020_05_40_15.jpg",
+          "imageCaption": "Stream snapshot @ 05:40:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h40m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-021",
+          "timestamp": "05:58:20",
+          "seconds": 21500,
+          "isMajor": true,
+          "title": "- 06:00:50 marty tells x that they've found a billboard",
+          "description": "- 06:00:50 Marty tells x that they've found a billboard that says slaughter 7 which is the answer to the puzzle, there's a container near by but they need a grinder to open it",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d28_evt_021_05_58_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:58:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h58m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-022",
+          "timestamp": "06:04:00",
+          "seconds": 21840,
+          "isMajor": true,
+          "title": "- 06:04:50 they open the container and find a book",
+          "description": "- 06:04:50 they open the container and find a book, they're waiting for Tony to link up with them to ready it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d28_evt_022_06_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h04m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-023",
+          "timestamp": "06:07:54",
+          "seconds": 22074,
+          "isMajor": true,
+          "title": "- 06:19:35 they meet up with m1 and tony",
+          "description": "- 06:19:35 they meet up with M1 and Tony, they read the book, they need to decipher it for tomorrow, they ask M1 for the weekly reward (pawn shop performance), he says he will reward them tomorrow",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d28_evt_023_06_07_54.jpg",
+          "imageCaption": "Stream snapshot @ 06:07:54",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h07m54s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d28-evt-024",
+          "timestamp": "07:13:00",
+          "seconds": 25980,
+          "isMajor": false,
+          "title": "And marty go bird hunting",
+          "description": "x and Marty go bird hunting",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d28_evt_024_07_13_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:13:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=07h13m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
