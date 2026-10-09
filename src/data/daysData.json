@@ -27625,7 +27625,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2896233200",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d29-evt-001",
@@ -27762,6 +27762,25 @@
           "image": "/images/frames/d29_evt_007_01_35_45.jpg",
           "imageCaption": "Stream snapshot @ 01:35:45",
           "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h35m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d29-evt-008",
+          "timestamp": "01:53:13",
+          "seconds": 6793,
+          "isMajor": false,
+          "title": "The crew is getting dressed for the job",
+          "description": "the crew is getting dressed for the job",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_008_01_53_13.jpg",
+          "imageCaption": "Stream snapshot @ 01:53:13",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h53m13s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
