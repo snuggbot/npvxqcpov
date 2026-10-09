@@ -27625,7 +27625,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2896233200",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d29-evt-001",
@@ -27644,6 +27644,65 @@
           "image": "/images/frames/d29_evt_001_86_17_00.jpg",
           "imageCaption": "Stream snapshot @ 86:17:00",
           "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=86h17m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d29-evt-002",
+          "timestamp": "00:22:20",
+          "seconds": 1340,
+          "isMajor": false,
+          "title": "Logs in and starts day 29!",
+          "description": "x logs in and starts day 29!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_002_00_22_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:22:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=00h22m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d29-evt-003",
+          "timestamp": "00:30:00",
+          "seconds": 1800,
+          "isMajor": false,
+          "title": "Moves some materials (saying they're his) from the bric",
+          "description": "x moves some materials (saying they're his) from the BrickBois' storage unit to Ginger's",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_003_00_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=00h30m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d29-evt-004",
+          "timestamp": "00:34:50",
+          "seconds": 2090,
+          "isMajor": true,
+          "title": "- 00:56:00 the crew link up together",
+          "description": "- 00:56:00 the crew link up together, they discuss the plan together for today's Art Gallery job, Speedy won't be there for the job sadly (it's too late time wise for him), they also discuss the money/materials issues they're having lately, x is convinced that someone is stealing materials while the rest of the crew disagree, x decides that going forward he won't be storing materials in the crew's storage unit anymore",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d29_evt_004_00_34_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:34:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=00h34m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
