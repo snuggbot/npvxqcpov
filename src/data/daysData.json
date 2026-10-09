@@ -27625,7 +27625,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2896233200",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d29-evt-001",
@@ -27703,6 +27703,65 @@
           "image": "/images/frames/d29_evt_004_00_34_50.jpg",
           "imageCaption": "Stream snapshot @ 00:34:50",
           "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=00h34m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d29-evt-005",
+          "timestamp": "01:04:00",
+          "seconds": 3840,
+          "isMajor": false,
+          "title": "Tony drives the crew around going through the escape pl",
+          "description": "Tony drives the crew around going through the escape plan, it's pretty elaborate",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d29_evt_005_01_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h04m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d29-evt-006",
+          "timestamp": "01:31:35",
+          "seconds": 5495,
+          "isMajor": true,
+          "title": "- 01:33:20 x practices the parachute escape",
+          "description": "- 01:33:20 x practices the parachute escape, he succeeds at first try",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_006_01_31_35.jpg",
+          "imageCaption": "Stream snapshot @ 01:31:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h31m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d29-evt-007",
+          "timestamp": "01:35:45",
+          "seconds": 5745,
+          "isMajor": true,
+          "title": "- 01:40:30 x calls jason polam",
+          "description": "- 01:40:30 x calls Jason Polam, they reach reach to an agreement, later Jason will be fixing certain ATMs and x will be robbing them shortly after, they will decide on the route together later and x will be paying him for doing these repairs",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_007_01_35_45.jpg",
+          "imageCaption": "Stream snapshot @ 01:35:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h35m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
