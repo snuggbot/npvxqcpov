@@ -27622,10 +27622,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x1hylp/nopixel_v_day_29_recap_oct_9th_xqcs_pov_with/",
       "updated": "2026-10-09T10:36:20+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2896233200",
-      "kickVod": "https://kick.com/xqc",
+      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "kickVod": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d29-evt-001",
@@ -27643,8 +27643,8 @@
           ],
           "image": "/images/frames/d29_evt_001_86_17_00.jpg",
           "imageCaption": "Stream snapshot @ 86:17:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=86h17m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=86h17m00s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=310618"
         },
         {
           "id": "d29-evt-002",
@@ -27662,8 +27662,8 @@
           ],
           "image": "/images/frames/d29_evt_002_00_22_20.jpg",
           "imageCaption": "Stream snapshot @ 00:22:20",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=00h22m20s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h22m20s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=1338"
         },
         {
           "id": "d29-evt-003",
@@ -27681,8 +27681,8 @@
           ],
           "image": "/images/frames/d29_evt_003_00_30_00.jpg",
           "imageCaption": "Stream snapshot @ 00:30:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=00h30m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h30m00s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=1798"
         },
         {
           "id": "d29-evt-004",
@@ -27702,8 +27702,8 @@
           ],
           "image": "/images/frames/d29_evt_004_00_34_50.jpg",
           "imageCaption": "Stream snapshot @ 00:34:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=00h34m50s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h34m50s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=2088"
         },
         {
           "id": "d29-evt-005",
@@ -27722,8 +27722,8 @@
           ],
           "image": "/images/frames/d29_evt_005_01_04_00.jpg",
           "imageCaption": "Stream snapshot @ 01:04:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h04m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h04m00s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=3838"
         },
         {
           "id": "d29-evt-006",
@@ -27741,8 +27741,8 @@
           ],
           "image": "/images/frames/d29_evt_006_01_31_35.jpg",
           "imageCaption": "Stream snapshot @ 01:31:35",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h31m35s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h31m35s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=5493"
         },
         {
           "id": "d29-evt-007",
@@ -27761,8 +27761,8 @@
           ],
           "image": "/images/frames/d29_evt_007_01_35_45.jpg",
           "imageCaption": "Stream snapshot @ 01:35:45",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h35m45s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h35m45s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=5743"
         },
         {
           "id": "d29-evt-008",
@@ -27780,8 +27780,46 @@
           ],
           "image": "/images/frames/d29_evt_008_01_53_13.jpg",
           "imageCaption": "Stream snapshot @ 01:53:13",
-          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=01h53m13s",
-          "kickUrl": "https://kick.com/xqc"
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h53m13s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=6791"
+        },
+        {
+          "id": "d29-evt-009",
+          "timestamp": "02:06:35",
+          "seconds": 7595,
+          "isMajor": true,
+          "title": "- 02:07:07 (x is going to attend his brother's bd dinne",
+          "description": "- 02:07:07 (x is going to attend his brother's BD dinner IRL)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_009_02_06_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:06:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h06m35s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=7593"
+        },
+        {
+          "id": "d29-evt-010",
+          "timestamp": "02:12:20",
+          "seconds": 7940,
+          "isMajor": true,
+          "title": "- 02:12:55",
+          "description": "- 02:12:55",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_010_02_12_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:12:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h12m20s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=7938"
         }
       ],
       "characterInfo": {
