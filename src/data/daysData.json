@@ -27625,7 +27625,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2896233200",
       "kickVod": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d29-evt-001",
@@ -27820,6 +27820,108 @@
           "imageCaption": "Stream snapshot @ 02:12:20",
           "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=02h12m20s",
           "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=7938"
+        },
+        {
+          "id": "d29-evt-011",
+          "timestamp": "04:11:22",
+          "seconds": 15082,
+          "isMajor": true,
+          "title": "- 04:13:20 they arrive at the marked location",
+          "description": "- 04:13:20 they arrive at the marked location, Lang hacks a laptop which gives him the location to the car (boosted car)",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d29_evt_011_04_11_22.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:22",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=04h11m22s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=15080"
+        },
+        {
+          "id": "d29-evt-012",
+          "timestamp": "04:14:35",
+          "seconds": 15275,
+          "isMajor": true,
+          "title": "- 04:15:50 they find the car and hack the ignition",
+          "description": "- 04:15:50 they find the car and hack the ignition",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d29_evt_012_04_14_35.jpg",
+          "imageCaption": "Stream snapshot @ 04:14:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=04h14m35s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=15273"
+        },
+        {
+          "id": "d29-evt-013",
+          "timestamp": "04:25:20",
+          "seconds": 15920,
+          "isMajor": true,
+          "title": "- 04:26:45 the cops finally catch up to the boosted car",
+          "description": "- 04:26:45 the cops finally catch up to the boosted car, they ram into it and it stalls, they repair the car while Lang is on foot, it's a long chase and eventually Tony decides to ditch the heavily damaged car",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d29_evt_013_04_25_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:25:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=04h25m20s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=15918"
+        },
+        {
+          "id": "d29-evt-014",
+          "timestamp": "05:21:40",
+          "seconds": 19300,
+          "isMajor": false,
+          "title": "After escaping the cops and changing outfits",
+          "description": "after escaping the cops and changing outfits, Tony and Lang are approached by cops agaom, Tony is being questioned and it turns into a chase again, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d29_evt_014_05_21_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:21:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=05h21m40s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=19298"
+        },
+        {
+          "id": "d29-evt-015",
+          "timestamp": "06:19:28",
+          "seconds": 22768,
+          "isMajor": true,
+          "title": "- 06:49:30 lang (pretending to be a janitor) uses the c",
+          "description": "- 06:49:30 Lang (pretending to be a janitor) uses the crimson card and enters the art gallery from the back, he hacks into another door using the code 'Vangogh' (answer to the riddle) which gives him access to the CCTV room, he finds an access card but then he's escorted by Ginger Ale and security to the outside the gallery, the crew distracts Ginger so that Lang can try again, Lang tries to enter the back of the art gallery again but he's stopped and questioned by cops and security, he's not allowed in however he ignores them and enters when no one's looking, he finds the cods to the loading bay, changes clothes and leaves",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d29_evt_015_06_19_28.jpg",
+          "imageCaption": "Stream snapshot @ 06:19:28",
+          "twitchUrl": "https://www.twitch.tv/videos/2896233200?t=06h19m28s",
+          "kickUrl": "https://kick.com/buddha/videos/01a121ca-b458-757f-9ebc-a4117890a00f?t=22766"
         }
       ],
       "characterInfo": {
