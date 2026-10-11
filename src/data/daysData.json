@@ -28050,7 +28050,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2897283075",
       "kickVod": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d30-evt-001",
@@ -28073,6 +28073,25 @@
         },
         {
           "id": "d30-evt-002",
+          "timestamp": "01:17:10",
+          "seconds": 4630,
+          "isMajor": false,
+          "title": "Logs in and starts day 30!",
+          "description": "x logs in and starts day 30!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d30_evt_002_01_17_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:17:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=01h17m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=4628"
+        },
+        {
+          "id": "d30-evt-003",
           "timestamp": "01:20:00",
           "seconds": 4800,
           "isMajor": false,
@@ -28091,7 +28110,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=4798"
         },
         {
-          "id": "d30-evt-003",
+          "id": "d30-evt-004",
           "timestamp": "01:38:25",
           "seconds": 5905,
           "isMajor": true,
@@ -28113,7 +28132,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=5903"
         },
         {
-          "id": "d30-evt-004",
+          "id": "d30-evt-005",
           "timestamp": "01:55:00",
           "seconds": 6900,
           "isMajor": false,
@@ -28134,7 +28153,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=6898"
         },
         {
-          "id": "d30-evt-005",
+          "id": "d30-evt-006",
           "timestamp": "02:39:00",
           "seconds": 9540,
           "isMajor": false,
@@ -28153,7 +28172,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=9538"
         },
         {
-          "id": "d30-evt-006",
+          "id": "d30-evt-007",
           "timestamp": "03:15:25",
           "seconds": 11725,
           "isMajor": true,
@@ -28172,7 +28191,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=11723"
         },
         {
-          "id": "d30-evt-007",
+          "id": "d30-evt-008",
           "timestamp": "03:21:30",
           "seconds": 12090,
           "isMajor": false,
@@ -28192,7 +28211,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=12088"
         },
         {
-          "id": "d30-evt-008",
+          "id": "d30-evt-009",
           "timestamp": "03:30:00",
           "seconds": 12600,
           "isMajor": false,
@@ -28212,7 +28231,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=12598"
         },
         {
-          "id": "d30-evt-009",
+          "id": "d30-evt-010",
           "timestamp": "03:41:10",
           "seconds": 13270,
           "isMajor": false,
@@ -28232,7 +28251,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=13268"
         },
         {
-          "id": "d30-evt-010",
+          "id": "d30-evt-011",
           "timestamp": "03:52:15",
           "seconds": 13935,
           "isMajor": false,
@@ -28253,7 +28272,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=13933"
         },
         {
-          "id": "d30-evt-011",
+          "id": "d30-evt-012",
           "timestamp": "04:12:40",
           "seconds": 15160,
           "isMajor": false,
@@ -28273,7 +28292,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=15158"
         },
         {
-          "id": "d30-evt-012",
+          "id": "d30-evt-013",
           "timestamp": "04:23:00",
           "seconds": 15780,
           "isMajor": false,
@@ -28292,7 +28311,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=15778"
         },
         {
-          "id": "d30-evt-013",
+          "id": "d30-evt-014",
           "timestamp": "05:25:00",
           "seconds": 19500,
           "isMajor": false,
@@ -28311,7 +28330,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=19498"
         },
         {
-          "id": "d30-evt-014",
+          "id": "d30-evt-015",
           "timestamp": "05:30:20",
           "seconds": 19820,
           "isMajor": true,
@@ -28330,7 +28349,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=19818"
         },
         {
-          "id": "d30-evt-015",
+          "id": "d30-evt-016",
           "timestamp": "06:19:35",
           "seconds": 22775,
           "isMajor": true,
@@ -28349,7 +28368,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=22773"
         },
         {
-          "id": "d30-evt-016",
+          "id": "d30-evt-017",
           "timestamp": "06:24:10",
           "seconds": 23050,
           "isMajor": true,
@@ -28368,7 +28387,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=23048"
         },
         {
-          "id": "d30-evt-017",
+          "id": "d30-evt-018",
           "timestamp": "06:40:35",
           "seconds": 24035,
           "isMajor": false,
@@ -28387,7 +28406,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=24033"
         },
         {
-          "id": "d30-evt-018",
+          "id": "d30-evt-019",
           "timestamp": "06:51:05",
           "seconds": 24665,
           "isMajor": false,
@@ -28406,7 +28425,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=24663"
         },
         {
-          "id": "d30-evt-019",
+          "id": "d30-evt-020",
           "timestamp": "06:55:35",
           "seconds": 24935,
           "isMajor": false,
@@ -28427,7 +28446,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=24933"
         },
         {
-          "id": "d30-evt-020",
+          "id": "d30-evt-021",
           "timestamp": "07:01:10",
           "seconds": 25270,
           "isMajor": false,
@@ -28448,7 +28467,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=25268"
         },
         {
-          "id": "d30-evt-021",
+          "id": "d30-evt-022",
           "timestamp": "07:31:00",
           "seconds": 27060,
           "isMajor": true,
@@ -28467,7 +28486,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=27058"
         },
         {
-          "id": "d30-evt-022",
+          "id": "d30-evt-023",
           "timestamp": "07:34:30",
           "seconds": 27270,
           "isMajor": false,
@@ -28488,7 +28507,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=27268"
         },
         {
-          "id": "d30-evt-023",
+          "id": "d30-evt-024",
           "timestamp": "09:03:50",
           "seconds": 32630,
           "isMajor": true,
@@ -28507,7 +28526,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=32628"
         },
         {
-          "id": "d30-evt-024",
+          "id": "d30-evt-025",
           "timestamp": "09:06:20",
           "seconds": 32780,
           "isMajor": false,
@@ -28526,7 +28545,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=32778"
         },
         {
-          "id": "d30-evt-025",
+          "id": "d30-evt-026",
           "timestamp": "09:18:45",
           "seconds": 33525,
           "isMajor": false,
@@ -28546,7 +28565,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=33523"
         },
         {
-          "id": "d30-evt-026",
+          "id": "d30-evt-027",
           "timestamp": "09:42:30",
           "seconds": 34950,
           "isMajor": false,
@@ -28565,7 +28584,7 @@
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=34948"
         },
         {
-          "id": "d30-evt-027",
+          "id": "d30-evt-028",
           "timestamp": "10:25:00",
           "seconds": 37500,
           "isMajor": false,
@@ -28583,6 +28602,107 @@
           "imageCaption": "Stream snapshot @ 10:25:00",
           "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=10h25m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=37498"
+        },
+        {
+          "id": "d30-evt-029",
+          "timestamp": "10:54:50",
+          "seconds": 39290,
+          "isMajor": false,
+          "title": "And marty decide to keep the birds they caught hunting ",
+          "description": "x and Marty decide to keep the birds they caught hunting to be in the storage unit for the time being to be later sold for Lang",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d30_evt_029_10_54_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:54:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=10h54m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=39288"
+        },
+        {
+          "id": "d30-evt-030",
+          "timestamp": "11:16:10",
+          "seconds": 40570,
+          "isMajor": false,
+          "title": "They take a look at the cargo units progress at the doc",
+          "description": "they take a look at the cargo units progress at the docks, Textile Pawn is at 146/150 and Hawick is at 136/150",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d30_evt_030_11_16_10.jpg",
+          "imageCaption": "Stream snapshot @ 11:16:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=11h16m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=40568"
+        },
+        {
+          "id": "d30-evt-031",
+          "timestamp": "11:23:35",
+          "seconds": 41015,
+          "isMajor": false,
+          "title": "Withdraws 140k and starts gambling with marty",
+          "description": "x withdraws 140k and starts gambling with Marty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d30_evt_031_11_23_35.jpg",
+          "imageCaption": "Stream snapshot @ 11:23:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=11h23m35s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=41013"
+        },
+        {
+          "id": "d30-evt-032",
+          "timestamp": "12:47:40",
+          "seconds": 46060,
+          "isMajor": false,
+          "title": "Lang pays x and marty around 50k each (for the birds pl",
+          "description": "Lang pays x and Marty around 50k each (for the birds plus an extra loan)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d30_evt_032_12_47_40.jpg",
+          "imageCaption": "Stream snapshot @ 12:47:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=12h47m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=46058"
+        },
+        {
+          "id": "d30-evt-033",
+          "timestamp": "13:19:55",
+          "seconds": 47995,
+          "isMajor": false,
+          "title": "Robs atms",
+          "description": "x robs ATMs, the cops arrive and it turns into a chase and they escape shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d30_evt_033_13_19_55.jpg",
+          "imageCaption": "Stream snapshot @ 13:19:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=13h19m55s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1276e-1c10-7ce8-884b-52456c940599?t=47993"
         }
       ],
       "characterInfo": {
@@ -28592,9 +28712,9 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
         "Game": "Starting Amount",
-        "Blackjack": "71,860 (withdraws 60k)",
-        "Slots": "101,860 (withdraws 100k)",
-        "Roulette": "130,936"
+        "Blackjack": "58,348 (Marty gives x 50k)",
+        "Slots": "67,679",
+        "Roulette": "128,254"
       }
     }
   }
