@@ -28050,7 +28050,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2897283075",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d30-evt-001",
@@ -28069,6 +28069,106 @@
           "image": "/images/frames/d30_evt_001_88_11_00.jpg",
           "imageCaption": "Stream snapshot @ 88:11:00",
           "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=88h11m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d30-evt-002",
+          "timestamp": "01:20:00",
+          "seconds": 4800,
+          "isMajor": false,
+          "title": "Showcases how devs work on projects in game (adding ite",
+          "description": "x showcases how devs work on projects in game (adding items, hacks .. etc)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d30_evt_002_01_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=01h20m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d30-evt-003",
+          "timestamp": "01:38:25",
+          "seconds": 5905,
+          "isMajor": true,
+          "title": "- 01:39:20 x tells lang that he coordinated an atm run ",
+          "description": "- 01:39:20 x tells Lang that he coordinated an ATM run with Jason Polam yesterday where Jason fixes the ATMs and x robs them, he's made around 180k",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d30_evt_003_01_38_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:38:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=01h38m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d30-evt-004",
+          "timestamp": "01:55:00",
+          "seconds": 6900,
+          "isMajor": false,
+          "title": "Gets pulled over for speeding",
+          "description": "x gets pulled over for speeding, he drives off and it turns into a chase, Lang picks x up and the chase continues, the eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d30_evt_004_01_55_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:55:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=01h55m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d30-evt-005",
+          "timestamp": "02:39:00",
+          "seconds": 9540,
+          "isMajor": false,
+          "title": "Starts bird hunting",
+          "description": "x starts bird hunting",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d30_evt_005_02_39_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:39:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=02h39m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d30-evt-006",
+          "timestamp": "03:15:25",
+          "seconds": 11725,
+          "isMajor": true,
+          "title": "- 03:16:35 x calls yuno to see if he's able to repair a",
+          "description": "- 03:16:35 x calls Yuno to see if he's able to repair ATMs (he refers to them in call as 'tanks'), Yuno will see what he can do and get back to x",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d30_evt_006_03_15_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:15:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2897283075?t=03h15m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
