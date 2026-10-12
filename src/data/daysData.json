@@ -28724,10 +28724,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x40qa9/nopixel_v_day_31_recap_oct_12th_xqcs_pov_with/",
       "updated": "2026-10-12T12:37:36+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "twitchVod": "https://www.twitch.tv/videos/2899071610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d31-evt-001",
@@ -28745,7 +28745,7 @@
           ],
           "image": "/images/frames/d31_evt_001_99_24_00.jpg",
           "imageCaption": "Stream snapshot @ 99:24:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=99h24m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=99h24m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -28764,7 +28764,7 @@
           ],
           "image": "/images/frames/d31_evt_002_00_34_50.jpg",
           "imageCaption": "Stream snapshot @ 00:34:50",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h34m50s",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h34m50s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -28784,7 +28784,7 @@
           ],
           "image": "/images/frames/d31_evt_003_00_38_00.jpg",
           "imageCaption": "Stream snapshot @ 00:38:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h38m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h38m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -28803,7 +28803,7 @@
           ],
           "image": "/images/frames/d31_evt_004_00_40_30.jpg",
           "imageCaption": "Stream snapshot @ 00:40:30",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h40m30s",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h40m30s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -28823,7 +28823,30 @@
           ],
           "image": "/images/frames/d31_evt_005_00_56_30.jpg",
           "imageCaption": "Stream snapshot @ 00:56:30",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h56m30s",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h56m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-006",
+          "timestamp": "01:07:20",
+          "seconds": 4040,
+          "isMajor": true,
+          "title": "- 02:28:00 the crew start the cargo boat heist",
+          "description": "- 02:28:00 The crew start the cargo boat heist, Marty hacks the laptop, Tony gets a hostage, Marty tries to open the first container, succeeds second try, he fails twice on the second container and hands the grinder over to x, x one taps the 7 containers left (they get nothing new, the usual loot), they exchange the hostage and the chase begins (a must watch chase, might be the craziest chase in Nopixel V so far, includes, car swaps, a bus, truck, jet-ski, boat), they somehow eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d31_evt_006_01_07_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:07:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=01h07m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
