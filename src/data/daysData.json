@@ -28727,7 +28727,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899071610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 5,
       "events": [
         {
           "id": "d31-evt-001",
@@ -28746,6 +28746,84 @@
           "image": "/images/frames/d31_evt_001_99_24_00.jpg",
           "imageCaption": "Stream snapshot @ 99:24:00",
           "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=99h24m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-002",
+          "timestamp": "00:34:50",
+          "seconds": 2090,
+          "isMajor": false,
+          "title": "Logs in and starts day 31!",
+          "description": "x logs in and starts day 31!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_002_00_34_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:34:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h34m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-003",
+          "timestamp": "00:38:00",
+          "seconds": 2280,
+          "isMajor": false,
+          "title": "Calls lang",
+          "description": "x calls Lang, Lang is going to buy the birds x has in the storage unit but he needs to feed them first",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d31_evt_003_00_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h38m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-004",
+          "timestamp": "00:40:30",
+          "seconds": 2430,
+          "isMajor": false,
+          "title": "Feeds the birds at the storage unit",
+          "description": "x feeds the birds at the storage unit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_004_00_40_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:40:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h40m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-005",
+          "timestamp": "00:56:30",
+          "seconds": 3390,
+          "isMajor": false,
+          "title": "Lang pays x 55k for all the birds",
+          "description": "Lang pays x 55k for all the birds",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d31_evt_005_00_56_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:56:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=00h56m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
