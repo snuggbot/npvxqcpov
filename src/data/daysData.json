@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 3,
+      "eventsCount": 4,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29442,6 +29442,26 @@
           "image": "/images/frames/d32_evt_003_00_36_30.jpg",
           "imageCaption": "Stream snapshot @ 00:36:30",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=00h36m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-004",
+          "timestamp": "00:43:07",
+          "seconds": 2587,
+          "isMajor": true,
+          "title": "- 00:52:45 x links up with the crew",
+          "description": "- 00:52:45 x links up with the crew, they meet up with the pawn shop runners again, they discuss the same point from last night except the fact that Primo is spokes person today, they want to be working hand in hand while still being under the main crew's supervision, x agrees and reassures then (I don't get the point tbh, we don't even know how turfs are going to operate still, i feel like the conversation is too early to have?)",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_004_00_43_07.jpg",
+          "imageCaption": "Stream snapshot @ 00:43:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=00h43m07s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
