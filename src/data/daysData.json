@@ -29374,6 +29374,46 @@
         "Slots": "102,726",
         "Roulette": "57,296 (withdraws 100k from the brick house, gives 50k to Marty)"
       }
+    },
+    "32": {
+      "dayNumber": 32,
+      "title": "Day 32",
+      "redditTitle": "NoPixel V | Day 32 Recap Oct 13th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x5069g/nopixel_v_day_32_recap_oct_13th_xqcs_pov_with/",
+      "updated": "2026-10-13T15:46:02+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2899071610",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 1,
+      "events": [
+        {
+          "id": "d32-evt-001",
+          "timestamp": "10:53:00",
+          "seconds": 39180,
+          "isMajor": false,
+          "title": "/ pierre paul: 15:54:00 / total : 326:47:00",
+          "description": "/ Pierre Paul: 15:54:00 / Total : 326:47:00",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_001_10_53_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:53:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=10h53m00s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 310:53:00 / Pierre Paul: 15:54:00 / Total : 326:47:00",
+        "timesJailed": "3 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition"
+      }
     }
   }
 }
