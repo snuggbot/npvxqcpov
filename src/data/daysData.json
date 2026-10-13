@@ -28727,7 +28727,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899071610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d31-evt-001",
@@ -28847,6 +28847,25 @@
           "image": "/images/frames/d31_evt_006_01_07_20.jpg",
           "imageCaption": "Stream snapshot @ 01:07:20",
           "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=01h07m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-007",
+          "timestamp": "02:33:10",
+          "seconds": 9190,
+          "isMajor": false,
+          "title": "- 02:33:45 (x reacts to a clip of the person they run o",
+          "description": "- 02:33:45 (x reacts to a clip of the person they run over with the boat)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_007_02_33_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:33:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=02h33m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
