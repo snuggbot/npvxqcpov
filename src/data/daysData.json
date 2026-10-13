@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 3,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29404,6 +29404,44 @@
           "image": "/images/frames/d32_evt_001_10_53_00.jpg",
           "imageCaption": "Stream snapshot @ 10:53:00",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=10h53m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-002",
+          "timestamp": "00:34:20",
+          "seconds": 2060,
+          "isMajor": false,
+          "title": "Logs in and starts day 32!",
+          "description": "x logs in and starts day 32!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_002_00_34_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:34:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=00h34m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-003",
+          "timestamp": "00:36:30",
+          "seconds": 2190,
+          "isMajor": false,
+          "title": "Gets run over and incapacitated",
+          "description": "x gets run over and incapacitated",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_003_00_36_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:36:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=00h36m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
