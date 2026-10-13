@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 9,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29508,7 +29508,7 @@
           "id": "d32-evt-007",
           "timestamp": "01:11:50",
           "seconds": 4310,
-          "isMajor": false,
+          "isMajor": true,
           "title": "- 01:12:40 x reads the fragments book",
           "description": "- 01:12:40 x reads the fragments book",
           "category": "general",
@@ -29521,6 +29521,44 @@
           "image": "/images/frames/d32_evt_007_01_11_50.jpg",
           "imageCaption": "Stream snapshot @ 01:11:50",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h11m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-008",
+          "timestamp": "01:16:50",
+          "seconds": 4610,
+          "isMajor": true,
+          "title": "- 01:19:20 x calls the pawn runners to relay the info a",
+          "description": "- 01:19:20 x calls the pawn runners to relay the info about fragment C and D to work together and solve the fragments asap",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_008_01_16_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:16:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h16m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-009",
+          "timestamp": "01:20:20",
+          "seconds": 4820,
+          "isMajor": true,
+          "title": "- 01:24:30 fragment a leads them to fort zancudo",
+          "description": "- 01:24:30 Fragment A leads them to fort Zancudo, they find a box, in the box they get fragment A, 4 grinders and 4 wedges",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_009_01_20_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:20:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h20m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
