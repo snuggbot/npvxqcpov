@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29656,6 +29656,83 @@
           "image": "/images/frames/d32_evt_014_01_38_40.jpg",
           "imageCaption": "Stream snapshot @ 01:38:40",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h38m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-015",
+          "timestamp": "01:43:30",
+          "seconds": 6210,
+          "isMajor": true,
+          "title": "- 01:44:40 m1 calls x confirming that all the riddles b",
+          "description": "- 01:44:40 M1 calls x confirming that all the riddles been solved, he encourages the crews to meet up asap",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_015_01_43_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:43:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h43m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-016",
+          "timestamp": "01:44:44",
+          "seconds": 6284,
+          "isMajor": false,
+          "title": "Calls nino again",
+          "description": "x calls Nino again, they will meet up soon under the rockford plaza",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_016_01_44_44.jpg",
+          "imageCaption": "Stream snapshot @ 01:44:44",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h44m44s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-017",
+          "timestamp": "01:46:45",
+          "seconds": 6405,
+          "isMajor": true,
+          "title": "- 01:47:27 x tells drusilla that he needs to speak to h",
+          "description": "- 01:47:27 x tells Drusilla that he needs to speak to her soon about the pawn shop runners",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_017_01_46_45.jpg",
+          "imageCaption": "Stream snapshot @ 01:46:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h46m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-018",
+          "timestamp": "01:47:55",
+          "seconds": 6475,
+          "isMajor": true,
+          "title": "- 01:48:10 nino calls x saying that they're not going t",
+          "description": "- 01:48:10 Nino calls x saying that they're not going to bring the 3 fragments to the meeting",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_018_01_47_55.jpg",
+          "imageCaption": "Stream snapshot @ 01:47:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h47m55s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
