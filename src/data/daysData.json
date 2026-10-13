@@ -28727,7 +28727,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899071610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d31-evt-001",
@@ -28866,6 +28866,67 @@
           "image": "/images/frames/d31_evt_007_02_33_10.jpg",
           "imageCaption": "Stream snapshot @ 02:33:10",
           "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=02h33m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-008",
+          "timestamp": "02:41:50",
+          "seconds": 9710,
+          "isMajor": true,
+          "title": "- 02:42:20 x watches the video clip they filmed at the ",
+          "description": "- 02:42:20 x watches the video clip they filmed at the beach for his court and takes a quick look at the court case documents",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_008_02_41_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:41:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=02h41m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-009",
+          "timestamp": "02:45:11",
+          "seconds": 9911,
+          "isMajor": true,
+          "title": "- 02:47:35 marty says that the people that work at the ",
+          "description": "- 02:47:35 Marty says that the people that work at the pawn currently want to be treated more as partners than underlings, x doesn't agree with that",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d31_evt_009_02_45_11.jpg",
+          "imageCaption": "Stream snapshot @ 02:45:11",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=02h45m11s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-010",
+          "timestamp": "02:53:30",
+          "seconds": 10410,
+          "isMajor": true,
+          "title": "- 03:26:40 they meet up with the pawn shop runners to d",
+          "description": "- 03:26:40 they meet up with the pawn shop runners to discuss how business is going to look like in the future, Conclusion for the meeting: the pawn shop runners are asking to be treated equally and with more respect, they want to have more authority with decision making and to basically be a closer layer to the main crew members with a potential of having another layer beneath them of new recruits too, there will be another meeting with the runners to discuss this further",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_010_02_53_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:53:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=02h53m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
