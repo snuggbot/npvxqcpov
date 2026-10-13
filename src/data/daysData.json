@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 7,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29462,6 +29462,65 @@
           "image": "/images/frames/d32_evt_004_00_43_07.jpg",
           "imageCaption": "Stream snapshot @ 00:43:07",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=00h43m07s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-005",
+          "timestamp": "00:54:00",
+          "seconds": 3240,
+          "isMajor": true,
+          "title": "- 00:54:50 marty says atms give out more money and wedg",
+          "description": "- 00:54:50 Marty says ATMs give out more money and wedges last longer",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d32_evt_005_00_54_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:54:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=00h54m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-006",
+          "timestamp": "00:56:30",
+          "seconds": 3390,
+          "isMajor": true,
+          "title": "- 01:10:30 the crew and other pawn shop crews link up w",
+          "description": "- 01:10:30 the crew and other pawn shop crews link up with M1, M1 mentions that the cargo heist is undergoing changes, there are routes, first is the normal usual route, second route is there are 4 new fragments have been added, if collected they will have access to a bigger cargo shipment, M1 mentions that the fragmentation thing is a 1 of 1, every shop opens a box with a book in it, the book explains what the 4 fragments are about",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_006_00_56_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:56:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=00h56m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-007",
+          "timestamp": "01:11:50",
+          "seconds": 4310,
+          "isMajor": false,
+          "title": "- 01:12:40 x reads the fragments book",
+          "description": "- 01:12:40 x reads the fragments book",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_007_01_11_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:11:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h11m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
