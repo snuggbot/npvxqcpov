@@ -28727,7 +28727,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899071610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d31-evt-001",
@@ -28985,6 +28985,63 @@
           "imageCaption": "Stream snapshot @ 03:52:02",
           "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=03h52m02s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-014",
+          "timestamp": "04:17:50",
+          "seconds": 15470,
+          "isMajor": false,
+          "title": "Withdraws 80k and starts gambling",
+          "description": "x withdraws 80k and starts gambling",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_014_04_17_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:17:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=04h17m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-015",
+          "timestamp": "04:27:25",
+          "seconds": 16045,
+          "isMajor": true,
+          "title": "- 04:27:50 x decides on a code word for the court case",
+          "description": "- 04:27:50 x decides on a code word for the court case, if he says the word 'Freeman' then he's running out",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_015_04_27_25.jpg",
+          "imageCaption": "Stream snapshot @ 04:27:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=04h27m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-016",
+          "timestamp": "04:28:26",
+          "seconds": 16106,
+          "isMajor": true,
+          "title": "- 06:50:00 ernesto has a bike ready for x as a runway v",
+          "description": "- 06:50:00 Ernesto has a bike ready for x as a runway vehicle, x arrives at the court house, the crew is ready to help x out in case things go bad for him, seems like the odds are in x's favor but since he has an active warrant and while waiting for the verdict x and the crew decide to leave the court house",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_016_04_28_26.jpg",
+          "imageCaption": "Stream snapshot @ 04:28:26",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=04h28m26s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -28992,7 +29049,10 @@
         "timeLoggedIn": "Jean Paul : ~ 299:24:00 / Pierre Paul: 15:54:00 / Total : 315:18:00",
         "timesJailed": "2 arrests - He's currently out on bail",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition",
+        "Game": "Amount Starting",
+        "Blackjack": "80,848",
+        "Slots": "40,848"
       }
     }
   }
