@@ -28727,7 +28727,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899071610",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d31-evt-001",
@@ -28927,6 +28927,63 @@
           "image": "/images/frames/d31_evt_010_02_53_30.jpg",
           "imageCaption": "Stream snapshot @ 02:53:30",
           "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=02h53m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-011",
+          "timestamp": "03:29:30",
+          "seconds": 12570,
+          "isMajor": false,
+          "title": "Is getting dressed for court",
+          "description": "x is getting dressed for court",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_011_03_29_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:29:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=03h29m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-012",
+          "timestamp": "03:32:50",
+          "seconds": 12770,
+          "isMajor": true,
+          "title": "- 03:43:05 x calls beef",
+          "description": "- 03:43:05 x calls Beef, the trial is in an hour, they discuss the current warrant x has for robbing the ATM",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_012_03_32_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:32:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=03h32m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d31-evt-013",
+          "timestamp": "03:52:02",
+          "seconds": 13922,
+          "isMajor": true,
+          "title": "- 03:57:00 beef calls x saying that the cops are going ",
+          "description": "- 03:57:00 Beef calls x saying that the cops are going to arrest x after the case because he has a warrant",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d31_evt_013_03_52_02.jpg",
+          "imageCaption": "Stream snapshot @ 03:52:02",
+          "twitchUrl": "https://www.twitch.tv/videos/2899071610?t=03h52m02s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
