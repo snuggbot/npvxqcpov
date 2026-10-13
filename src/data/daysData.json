@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29560,6 +29560,103 @@
           "imageCaption": "Stream snapshot @ 01:20:20",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h20m20s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-010",
+          "timestamp": "01:31:30",
+          "seconds": 5490,
+          "isMajor": true,
+          "title": "- 01:31:45 the fragment near the purple dino is gone",
+          "description": "- 01:31:45 the fragment near the purple dino is gone, the only one left is Fragment B",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_010_01_31_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:31:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h31m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-011",
+          "timestamp": "01:33:20",
+          "seconds": 5600,
+          "isMajor": true,
+          "title": "- 01:34:30 m1 calls x saying nino's crew has all other ",
+          "description": "- 01:34:30 M1 calls x saying Nino's crew has all other 3 Fragments, he suggests that they should meet up",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_011_01_33_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:33:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h33m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-012",
+          "timestamp": "01:34:33",
+          "seconds": 5673,
+          "isMajor": true,
+          "title": "- 01:36:25 x calls nino",
+          "description": "- 01:36:25 x calls Nino, they're going to meet soon and discuss how to proceed but they're willing to work together (M1 mentioned that people shouldn't fight against each other for the fragments)",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_012_01_34_33.jpg",
+          "imageCaption": "Stream snapshot @ 01:34:33",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h34m33s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-013",
+          "timestamp": "01:37:00",
+          "seconds": 5820,
+          "isMajor": true,
+          "title": "- 01:37:15 lang says that their crew has been disqualif",
+          "description": "- 01:37:15 Lang says that their crew has been disqualified from Cici's competition (removing that from ongoing quests)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d32_evt_013_01_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h37m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-014",
+          "timestamp": "01:38:40",
+          "seconds": 5920,
+          "isMajor": true,
+          "title": "- 01:40:25 nancy have moved the tents since the old spo",
+          "description": "- 01:40:25 Nancy have moved the tents since the old spot at the airport got banned",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_014_01_38_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:38:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h38m40s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -29567,7 +29664,7 @@
         "timeLoggedIn": "Jean Paul : ~ 310:53:00 / Pierre Paul: 15:54:00 / Total : 326:47:00",
         "timesJailed": "3 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers) / 5- Cici's competition"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
     }
   }
