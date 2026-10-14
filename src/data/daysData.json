@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 34,
+      "eventsCount": 40,
       "events": [
         {
           "id": "d32-evt-001",
@@ -30052,6 +30052,121 @@
           "image": "/images/frames/d32_evt_034_05_57_50.jpg",
           "imageCaption": "Stream snapshot @ 05:57:50",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=05h57m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-035",
+          "timestamp": "06:34:30",
+          "seconds": 23670,
+          "isMajor": false,
+          "title": "They break into the safe at the back of a store using a",
+          "description": "they break into the safe at the back of a store using a listening kit but find only cash, nothing new",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_035_06_34_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:34:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=06h34m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-036",
+          "timestamp": "06:41:40",
+          "seconds": 24100,
+          "isMajor": false,
+          "title": "They hit a bunch of atms",
+          "description": "they hit a bunch of ATMs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_036_06_41_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:41:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=06h41m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-037",
+          "timestamp": "07:24:27",
+          "seconds": 26667,
+          "isMajor": true,
+          "title": "- 07:25:25 m1 calls x",
+          "description": "- 07:25:25 M1 calls x, x updates him about the colored cards, M1 wants to link up tomorrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_037_07_24_27.jpg",
+          "imageCaption": "Stream snapshot @ 07:24:27",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=07h24m27s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-038",
+          "timestamp": "08:06:00",
+          "seconds": 29160,
+          "isMajor": false,
+          "title": "More pawn runners drama",
+          "description": "more pawn runners drama, x tweets that the pawn shop is hiring",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_038_08_06_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:06:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=08h06m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-039",
+          "timestamp": "08:40:30",
+          "seconds": 31230,
+          "isMajor": false,
+          "title": "Visits other pawn shops trying to look at their invento",
+          "description": "x visits other pawn shops trying to look at their inventory, he get rejected and leaves",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_039_08_40_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:40:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=08h40m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-040",
+          "timestamp": "08:44:45",
+          "seconds": 31485,
+          "isMajor": true,
+          "title": "- 08:46:15 x visits 4head's pawn shop and they allow hi",
+          "description": "- 08:46:15 x visits 4head's pawn shop and they allow him to look at the safe room, everything is clean",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_040_08_44_45.jpg",
+          "imageCaption": "Stream snapshot @ 08:44:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=08h44m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
