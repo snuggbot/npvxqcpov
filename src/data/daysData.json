@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 18,
+      "eventsCount": 28,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29733,6 +29733,205 @@
           "image": "/images/frames/d32_evt_018_01_47_55.jpg",
           "imageCaption": "Stream snapshot @ 01:47:55",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h47m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-019",
+          "timestamp": "01:59:40",
+          "seconds": 7180,
+          "isMajor": true,
+          "title": "- 02:18:10 x's crew link up with nino's crew",
+          "description": "- 02:18:10 x's crew link up with Nino's crew, x offers a 50-50 split in terms of job and loot even though x's crew has 1 fragment and Nino's has 3 but they can't do anything if they don't have all 4, M1 calls x during the meeting and tells x that there is no job, it's just that there are 2 shipping containers so they can do 50-50, M1 is going to call Nino as well, also during the meeting C. Dawson calls Lang telling him that he's wanted for questioning about the art gallery robbery, M1 calls Nino and everyone agrees on 50-50",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d32_evt_019_01_59_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:59:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=01h59m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-020",
+          "timestamp": "02:35:40",
+          "seconds": 9340,
+          "isMajor": false,
+          "title": "The crew change outfits",
+          "description": "the crew change outfits",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_020_02_35_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:35:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=02h35m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-021",
+          "timestamp": "02:42:40",
+          "seconds": 9760,
+          "isMajor": false,
+          "title": "Benji calls x asking for guns to buy",
+          "description": "Benji calls x asking for guns to buy, x at first agrees but then they decide not to sell any guns since they're hard to come around, instead x is going to give one gun to Benji for free as a token of good faith",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "crypto",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_021_02_42_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:42:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=02h42m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-022",
+          "timestamp": "02:57:00",
+          "seconds": 10620,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Tony hit some ATMs, Jayson Polam spots them robbing the ATMs, x sends him 9k to keep fixing them",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d32_evt_022_02_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=02h57m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-023",
+          "timestamp": "03:13:30",
+          "seconds": 11610,
+          "isMajor": true,
+          "title": "- 03:13:50 m1 calls x",
+          "description": "- 03:13:50 M1 calls x, he's going to send the location, he reminds x that they shouldn't fight with Nino's crew so no guns",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_023_03_13_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:13:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=03h13m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-024",
+          "timestamp": "03:47:25",
+          "seconds": 13645,
+          "isMajor": true,
+          "title": "- 03:50:15 they arrive at the location",
+          "description": "- 03:50:15 they arrive at the location, M1 gives them the code to the container, they get 5 grinders, 5 wedges, a wifi network card, a wifi pear, an encrypted hard drive and an unlocked laptop,",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_024_03_47_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=03h47m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-025",
+          "timestamp": "03:55:00",
+          "seconds": 14100,
+          "isMajor": false,
+          "title": "They try using the laptop at the inner circle spot but ",
+          "description": "they try using the laptop at the inner circle spot but there is no connection",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_025_03_55_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:55:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=03h55m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-026",
+          "timestamp": "03:58:28",
+          "seconds": 14308,
+          "isMajor": true,
+          "title": "- 04:20:15 they try using it at a fleeca but there is n",
+          "description": "- 04:20:15 they try using it at a fleeca but there is no connection, however the crew notice many sticky notes scattered around inside the the fleeca, Lang uses the main PC but needs a password, there's an option to get a hint to the password by solving a few security checks which they do and get a hint, the hint is that the password is the date of the incident, they look at the scattered notes and try two different passwords and fail which locks the system for 60 seconds, also the cops get alerted and arrive at the scene, the cops eventually let them go, the crew decide to visit a different Fleeca but first to dress like technicians",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d32_evt_026_03_58_28.jpg",
+          "imageCaption": "Stream snapshot @ 03:58:28",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=03h58m28s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-027",
+          "timestamp": "04:20:30",
+          "seconds": 15630,
+          "isMajor": false,
+          "title": "The crew dress up like i",
+          "description": "the crew dress up like I.T technicians",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_027_04_20_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:20:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=04h20m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-028",
+          "timestamp": "04:28:40",
+          "seconds": 16120,
+          "isMajor": false,
+          "title": "Gets run over and incapacitated",
+          "description": "x gets run over and incapacitated",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_028_04_28_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:28:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=04h28m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
