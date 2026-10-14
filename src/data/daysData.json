@@ -29385,7 +29385,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2899924626",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 28,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d32-evt-001",
@@ -29932,6 +29932,47 @@
           "image": "/images/frames/d32_evt_028_04_28_40.jpg",
           "imageCaption": "Stream snapshot @ 04:28:40",
           "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=04h28m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-029",
+          "timestamp": "04:39:20",
+          "seconds": 16760,
+          "isMajor": true,
+          "title": "- 04:40:40 drusilla calls x saying that they can only d",
+          "description": "- 04:40:40 Drusilla calls x saying that they can only do 1 job at a time at the pawn shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d32_evt_029_04_39_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:39:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=04h39m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d32-evt-030",
+          "timestamp": "04:41:00",
+          "seconds": 16860,
+          "isMajor": true,
+          "title": "- 05:07:55 the crew arrive at the fleeca and start inve",
+          "description": "- 05:07:55 the crew arrive at the Fleeca and start investigating the sticky notes, Marty and x work together and get the password correctly, they login and complete a 2 steps process to open the door to the security office and vault corridor (#1), x then accesses the Fleeca vault timelock which is a 5 steps process to open the bank's vault (#2), they use the laptop (they got from the fragments container earlier today) and hack the security panel (#3) which then they have 10 seconds to approve the lock request through the security console, Marty tries to approve it but it rejects his credentials (it says that they need a pink card), they did get a skyblue card from the fragments container earlier so they might need to find the right bank to hit first since the sticky notes scattered around do mention colors too, shortly after a group of people arrive dressed as G6 workers, x holds one of them at gun point and he confesses that they're also here for the same reason, they let them go eventually since they're no use to them, they also decide to leave the bank since they don't have a pink card to get into the vault",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d32_evt_030_04_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2899924626?t=04h41m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
