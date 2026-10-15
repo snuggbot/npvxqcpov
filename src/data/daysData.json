@@ -30344,7 +30344,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2900842637",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 1,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d33-evt-001",
@@ -30363,6 +30363,102 @@
           "image": "/images/frames/d33_evt_001_24_08_00.jpg",
           "imageCaption": "Stream snapshot @ 24:08:00",
           "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=24h08m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-002",
+          "timestamp": "00:27:10",
+          "seconds": 1630,
+          "isMajor": false,
+          "title": "Logs in and starts day 33!",
+          "description": "x logs in and starts day 33!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_002_00_27_10.jpg",
+          "imageCaption": "Stream snapshot @ 00:27:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=00h27m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-003",
+          "timestamp": "00:29:35",
+          "seconds": 1775,
+          "isMajor": false,
+          "title": "Calls the crew",
+          "description": "x calls the crew, the pawn shop is doing well, they have like 15 people working for them and they have been robbing ATMs and houses all day",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_003_00_29_35.jpg",
+          "imageCaption": "Stream snapshot @ 00:29:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=00h29m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-004",
+          "timestamp": "00:38:25",
+          "seconds": 2305,
+          "isMajor": false,
+          "title": "Starts robbing houses looking for cards",
+          "description": "x starts robbing houses looking for cards",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_004_00_38_25.jpg",
+          "imageCaption": "Stream snapshot @ 00:38:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=00h38m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-005",
+          "timestamp": "00:45:40",
+          "seconds": 2740,
+          "isMajor": false,
+          "title": "Arrives at the masquerade party",
+          "description": "x arrives at the masquerade party",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_005_00_45_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:45:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=00h45m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-006",
+          "timestamp": "58:37:00",
+          "seconds": 211020,
+          "isMajor": false,
+          "title": "Mr",
+          "description": "Mr. C starts an auction at the masquerade",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_006_58_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 58:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=58h37m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
