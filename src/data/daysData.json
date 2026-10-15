@@ -30344,7 +30344,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2900842637",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 18,
+      "eventsCount": 24,
       "events": [
         {
           "id": "d33-evt-001",
@@ -30692,6 +30692,125 @@
           "image": "/images/frames/d33_evt_018_04_29_20.jpg",
           "imageCaption": "Stream snapshot @ 04:29:20",
           "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=04h29m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-019",
+          "timestamp": "04:46:50",
+          "seconds": 17210,
+          "isMajor": false,
+          "title": "- 04:47:15 x gets called a juicer by a local",
+          "description": "- 04:47:15 x gets called a juicer by a local",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_019_04_46_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:46:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=04h46m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-020",
+          "timestamp": "05:24:00",
+          "seconds": 19440,
+          "isMajor": false,
+          "title": "Starts bird hunting",
+          "description": "x starts bird hunting",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_020_05_24_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:24:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=05h24m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-021",
+          "timestamp": "07:19:35",
+          "seconds": 26375,
+          "isMajor": false,
+          "title": "Calls luciano",
+          "description": "x calls Luciano, trying to see if he has any info about the fleeca bank robberies or if he has any cards but he doesn't seem to know much about any of that",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_021_07_19_35.jpg",
+          "imageCaption": "Stream snapshot @ 07:19:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=07h19m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-022",
+          "timestamp": "07:28:30",
+          "seconds": 26910,
+          "isMajor": false,
+          "title": "- 07:37:50 (funny bit) x and marty bluff tony saying th",
+          "description": "- 07:37:50 (funny bit) x and Marty bluff Tony saying that they chose 'Cars' as a specialty during the meeting with M1 but as a requirement they're supposed to chop their own cars, Tony gets emotional",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d33_evt_022_07_28_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:28:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=07h28m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-023",
+          "timestamp": "07:44:52",
+          "seconds": 27892,
+          "isMajor": false,
+          "title": "- 07:46:40 they tell tony the truth about what happened",
+          "description": "- 07:46:40 they tell Tony the truth about what happened during the meeting with M1",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d33_evt_023_07_44_52.jpg",
+          "imageCaption": "Stream snapshot @ 07:44:52",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=07h44m52s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-024",
+          "timestamp": "08:10:20",
+          "seconds": 29420,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Tony and Marty start a mount Chiliad race",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d33_evt_024_08_10_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:10:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=08h10m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
