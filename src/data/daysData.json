@@ -30344,7 +30344,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2900842637",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d33-evt-001",
@@ -30460,6 +30460,239 @@
           "imageCaption": "Stream snapshot @ 58:37:00",
           "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=58h37m00s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-007",
+          "timestamp": "01:28:40",
+          "seconds": 5320,
+          "isMajor": false,
+          "title": "And marty rob atms",
+          "description": "x and Marty rob ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d33_evt_007_01_28_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:28:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=01h28m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-008",
+          "timestamp": "01:49:30",
+          "seconds": 6570,
+          "isMajor": true,
+          "title": "- 01:50:30 marty buys the keycard from the inner circle",
+          "description": "- 01:50:30 Marty buys the keycard from the inner circle shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d33_evt_008_01_49_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:49:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=01h49m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-009",
+          "timestamp": "01:56:00",
+          "seconds": 6960,
+          "isMajor": false,
+          "title": "And marty are testing if the keycard they had bought fr",
+          "description": "x and Marty are testing if the keycard they had bought from the inner circle shop will unlock the Fleeca vault so they break into one,",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d33_evt_009_01_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=01h56m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-010",
+          "timestamp": "02:05:25",
+          "seconds": 7525,
+          "isMajor": false,
+          "title": "Ginger calls x asking why does lang think that she's sn",
+          "description": "Ginger calls x asking why does Lang think that she's snitched on him to the cops, x says that it's related to the art gallery",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d33_evt_010_02_05_25.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=02h05m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-011",
+          "timestamp": "02:10:00",
+          "seconds": 7800,
+          "isMajor": false,
+          "title": "Withdraws 120k from his personal account and starts gam",
+          "description": "x withdraws 120k from his personal account and starts gambling",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_011_02_10_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:10:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=02h10m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-012",
+          "timestamp": "02:42:00",
+          "seconds": 9720,
+          "isMajor": false,
+          "title": "Cashes out 200k and leaves the casino",
+          "description": "x cashes out 200k and leaves the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_012_02_42_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:42:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=02h42m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-013",
+          "timestamp": "02:54:25",
+          "seconds": 10465,
+          "isMajor": false,
+          "title": "Gets his rakeback from mr",
+          "description": "x gets his rakeback from Mr. C 88,652$",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_013_02_54_25.jpg",
+          "imageCaption": "Stream snapshot @ 02:54:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=02h54m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-014",
+          "timestamp": "02:56:18",
+          "seconds": 10578,
+          "isMajor": true,
+          "title": "- 03:05:30 the crew link up with m1",
+          "description": "- 03:05:30 the crew link up with M1, the crew wants the spot at Cypress Flats (little Japan) and want to be specialized in 'money' (not confirmed yet), M1 says that they will need to do a few raids to get rid of a few groups to get the spot they want as their hideout, locations of these raids will be shared later, x asks M1 if he knows anything about the Fleeca colored cards but he dismisses the question",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_014_02_56_18.jpg",
+          "imageCaption": "Stream snapshot @ 02:56:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=02h56m18s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-015",
+          "timestamp": "03:38:25",
+          "seconds": 13105,
+          "isMajor": false,
+          "title": "Starts gambling",
+          "description": "x starts gambling",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_015_03_38_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:38:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=03h38m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-016",
+          "timestamp": "04:12:15",
+          "seconds": 15135,
+          "isMajor": true,
+          "title": "- 04:13:30 x gets invited to poetry night next tuesday",
+          "description": "- 04:13:30 x gets invited to poetry night next Tuesday, he accepts the invitation",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_016_04_12_15.jpg",
+          "imageCaption": "Stream snapshot @ 04:12:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=04h12m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-017",
+          "timestamp": "04:26:20",
+          "seconds": 15980,
+          "isMajor": true,
+          "title": "- 04:28:10 a massive 300k win on slots",
+          "description": "- 04:28:10 a massive 300k win on slots",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_017_04_26_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:26:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=04h26m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d33-evt-018",
+          "timestamp": "04:29:20",
+          "seconds": 16160,
+          "isMajor": false,
+          "title": "Cashes out 308",
+          "description": "x cashes out 308,000$ and leaves the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d33_evt_018_04_29_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:29:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2900842637?t=04h29m20s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -30467,7 +30700,11 @@
         "timeLoggedIn": "Jean Paul : ~ 324:08:00 / Pierre Paul: 15:54:00 / Total : 340:02:00",
         "timesJailed": "3 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Game": "Starting Amount",
+        "Slots": "84,188 (caches out 63k back to brick house)",
+        "Blackjack": "16,315",
+        "Roulette": "80,183 (withdraws 80k from personal)"
       }
     }
   }
