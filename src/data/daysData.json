@@ -30932,7 +30932,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2901708053",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d34-evt-001",
@@ -31186,6 +31186,83 @@
           "image": "/images/frames/d34_evt_013_03_41_45.jpg",
           "imageCaption": "Stream snapshot @ 03:41:45",
           "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=03h41m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-014",
+          "timestamp": "03:55:50",
+          "seconds": 14150,
+          "isMajor": true,
+          "title": "- 04:30:00 the quest begins",
+          "description": "- 04:30:00 the quest begins, x links up with Ron Otterman, x is piloting the Weazel news heli while Ron rides with him and reports on the police chase and uses a camera, they track and report on the chase for a while but they have to land before running out of fuel",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_014_03_55_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:55:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=03h55m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-015",
+          "timestamp": "04:30:00",
+          "seconds": 16200,
+          "isMajor": false,
+          "title": "- 04:00:00 (funny rp bit) the landing is a bit rough so",
+          "description": "- 04:00:00 (funny RP bit) the landing is a bit rough so the Heli needs fixing, x shoots a flare and a cargo plane arrives shortly after (piloted and played by the same person that plays M1, Capped on Kick at",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_015_04_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=04h30m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-016",
+          "timestamp": "05:05:00",
+          "seconds": 18300,
+          "isMajor": true,
+          "title": "- 05:09:00 finally m2",
+          "description": "- 05:09:00 finally M2, Ron and x fly off in M2's cargo heli, shortly after M2 screams that the heli is going down so they all jump off the heli and x lands in the water below ending the quest",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_016_05_05_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:05:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h05m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-017",
+          "timestamp": "05:10:26",
+          "seconds": 18626,
+          "isMajor": false,
+          "title": "- 05:10:39 x reacts to a character sheet of m1's charac",
+          "description": "- 05:10:39 x reacts to a character sheet of M1's characters",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_017_05_10_26.jpg",
+          "imageCaption": "Stream snapshot @ 05:10:26",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h10m26s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
