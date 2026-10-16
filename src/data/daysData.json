@@ -30921,6 +30921,204 @@
         "Blackjack": "461,912",
         "Roulette": "500,912"
       }
+    },
+    "34": {
+      "dayNumber": 34,
+      "title": "Day 34",
+      "redditTitle": "NoPixel V | Day 34 Recap Oct 15th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x6jajx/nopixel_v_day_34_recap_oct_15th_xqcs_pov_with/",
+      "updated": "2026-10-15T11:36:31+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2901708053",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 9,
+      "events": [
+        {
+          "id": "d34-evt-001",
+          "timestamp": "00:39:50",
+          "seconds": 2390,
+          "isMajor": false,
+          "title": "Logs in and starts day 34!",
+          "description": "x logs in and starts day 34!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_001_00_39_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:39:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=00h39m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-002",
+          "timestamp": "00:42:00",
+          "seconds": 2520,
+          "isMajor": true,
+          "title": "- 00:44:20 x looks at the safe in the storage unit",
+          "description": "- 00:44:20 x looks at the safe in the storage unit, Marty has found 2 Manipulated security cards (yellow and pink, x calls Marty afterwards, Marty also speaks about a riddle that they're solving at the moment",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d34_evt_002_00_42_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:42:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=00h42m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-003",
+          "timestamp": "00:47:15",
+          "seconds": 2835,
+          "isMajor": true,
+          "title": "- 00:48:00 marty says that he's found the cards from ro",
+          "description": "- 00:48:00 Marty says that he's found the cards from robing the convenience stores",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d34_evt_003_00_47_15.jpg",
+          "imageCaption": "Stream snapshot @ 00:47:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=00h47m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-004",
+          "timestamp": "00:48:45",
+          "seconds": 2925,
+          "isMajor": true,
+          "title": "- 00:54:05 marty leads x to an npc with a riddle",
+          "description": "- 00:54:05 Marty leads x to an NPC with a riddle, the answer to the riddle Tequi-La-La bar",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d34_evt_004_00_48_45.jpg",
+          "imageCaption": "Stream snapshot @ 00:48:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=00h48m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-005",
+          "timestamp": "00:54:55",
+          "seconds": 3295,
+          "isMajor": true,
+          "title": "- 00:59:40 they arrive at tequi-la-la bar",
+          "description": "- 00:59:40 they arrive at Tequi-La-La bar, which leads to another NPC who needs a code and the code is the word 'The' (based on the first puzzle from the first NPC) revealing that the next place is prison",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_005_00_54_55.jpg",
+          "imageCaption": "Stream snapshot @ 00:54:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=00h54m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-006",
+          "timestamp": "01:02:25",
+          "seconds": 3745,
+          "isMajor": true,
+          "title": "- 01:03:13 they find the new npc at the prison who also",
+          "description": "- 01:03:13 they find the new NPC at the prison who also needs a code",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_006_01_02_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:02:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=01h02m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-007",
+          "timestamp": "01:32:15",
+          "seconds": 5535,
+          "isMajor": true,
+          "title": "- 01:32:30 x and marty put the puzzle on hold since lan",
+          "description": "- 01:32:30 x and Marty put the puzzle on hold since Lang and Tony has awoken and they're going to do the Fleeca heist instead, they're getting dressed as I.T technicians for it",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d34_evt_007_01_32_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=01h32m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-008",
+          "timestamp": "01:41:50",
+          "seconds": 6110,
+          "isMajor": true,
+          "title": "- 01:42:15 they get a hostage from burger shot",
+          "description": "- 01:42:15 they get a hostage from burger shot",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_008_01_41_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:41:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=01h41m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-009",
+          "timestamp": "01:43:30",
+          "seconds": 6210,
+          "isMajor": true,
+          "title": "- 02:57:40 they arrive at the fleeca",
+          "description": "- 02:57:40 they arrive at the Fleeca, go through the usual Fleeca hacking process except this time they use the yellow card which gives them a 5 minute lock timer for the vault door to release, the phone in the security room starts ringing, Marty answers it which reduces the time to 30 seconds, the main vault door opens then and x uses a crowbar to unlock the last door, they get 23 gold bars and around 60k rolled money, they may have needed drills to drill into lockers as well (to be confirmed), they exchange the hostage and the chase begins, it's a very long and a crazy chase but they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d34_evt_009_01_43_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:43:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=01h43m30s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "timeLoggedIn": "Jean Paul : ~ 335:42 / Pierre Paul: 15:54 / Total : 351:36",
+        "timesJailed": "3 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
