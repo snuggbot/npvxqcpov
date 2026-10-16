@@ -30932,7 +30932,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2901708053",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d34-evt-001",
@@ -31110,6 +31110,82 @@
           "image": "/images/frames/d34_evt_009_01_43_30.jpg",
           "imageCaption": "Stream snapshot @ 01:43:30",
           "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=01h43m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-010",
+          "timestamp": "03:03:00",
+          "seconds": 10980,
+          "isMajor": false,
+          "title": "After escaping the cops x logs off from jp",
+          "description": "after escaping the cops x logs off from JP",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_010_03_03_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:03:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=03h03m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-011",
+          "timestamp": "03:03:00",
+          "seconds": 10980,
+          "isMajor": true,
+          "title": "- 03:07:50 x creates a new character called dexter jone",
+          "description": "- 03:07:50 x creates a new character called Dexter Jones (a heli pilot), this character is made for a special DM quest",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_011_03_03_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:03:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=03h03m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-012",
+          "timestamp": "03:08:20",
+          "seconds": 11300,
+          "isMajor": true,
+          "title": "- 03:36:40 x goes into dm/admin mode and starts buildin",
+          "description": "- 03:36:40 x goes into DM/Admin mode and starts building for the quest, the premise is that it's basically an accident site",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_012_03_08_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:08:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=03h08m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-013",
+          "timestamp": "03:41:45",
+          "seconds": 13305,
+          "isMajor": true,
+          "title": "- 03:47:10 x practices flying a heli for the dm quest",
+          "description": "- 03:47:10 x practices flying a heli for the DM quest",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_013_03_41_45.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=03h41m45s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
