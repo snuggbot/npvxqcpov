@@ -30932,7 +30932,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2901708053",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 29,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d34-evt-001",
@@ -31499,6 +31499,82 @@
           "imageCaption": "Stream snapshot @ 07:11:30",
           "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=07h11m30s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-030",
+          "timestamp": "07:32:20",
+          "seconds": 27140,
+          "isMajor": false,
+          "title": "- 07:34:00 300k slots maxwin",
+          "description": "- 07:34:00 300k slots maxwin",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_030_07_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=07h32m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-031",
+          "timestamp": "07:47:45",
+          "seconds": 28065,
+          "isMajor": false,
+          "title": "- 07:48:46 277k slots win",
+          "description": "- 07:48:46 277k slots win",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_031_07_47_45.jpg",
+          "imageCaption": "Stream snapshot @ 07:47:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=07h47m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-032",
+          "timestamp": "07:57:00",
+          "seconds": 28620,
+          "isMajor": false,
+          "title": "Cashes out 585k and leaves the casino",
+          "description": "x cashes out 585k and leaves the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_032_07_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=07h57m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-033",
+          "timestamp": "07:58:10",
+          "seconds": 28690,
+          "isMajor": true,
+          "title": "- 07:58:30 x deposits 585k and gets an achievement for ",
+          "description": "- 07:58:30 x deposits 585k and gets an achievement for reaching 1mil in his bank account",
+          "category": "crypto",
+          "tags": [
+            "crypto"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_033_07_58_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:58:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=07h58m10s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -31507,7 +31583,8 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
         "Game": "Starting Amount",
-        "Slots": "107,163 (withdraws 100k from personal)"
+        "Slots": "388,627",
+        "Blackjack": "413,627"
       }
     }
   }
