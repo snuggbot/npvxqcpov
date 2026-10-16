@@ -30932,7 +30932,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2901708053",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 33,
+      "eventsCount": 36,
       "events": [
         {
           "id": "d34-evt-001",
@@ -31575,16 +31575,76 @@
           "imageCaption": "Stream snapshot @ 07:58:10",
           "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=07h58m10s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-034",
+          "timestamp": "08:30:20",
+          "seconds": 30620,
+          "isMajor": true,
+          "title": "- 08:45:30 x",
+          "description": "- 08:45:30 x, Tony and Swan rob another Fleeca (Red), Tony and x do the hacking process together, Tony persuades the phone operator (spamming E), they get 58k rolled money and 39 gold bars, they leave without ant cops around so no chase here",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d34_evt_034_08_30_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:30:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=08h30m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-035",
+          "timestamp": "08:56:10",
+          "seconds": 32170,
+          "isMajor": false,
+          "title": "- 08:56:35 x has 1",
+          "description": "- 08:56:35 x has 1.1mil in his personal account",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_035_08_56_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:56:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=08h56m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-036",
+          "timestamp": "08:57:00",
+          "seconds": 32220,
+          "isMajor": false,
+          "title": "Switches to pp",
+          "description": "x switches to PP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_036_08_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=08h57m00s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
-        "timeLoggedIn": "Jean Paul : ~ 335:42 / Pierre Paul: 15:54 / Total : 351:36",
-        "timesJailed": "3 arrests",
+        "timeLoggedIn": "Jean Paul : ~ 341:49 / Pierre Paul: 18:03 / Total : 359:52",
+        "timesJailed": "3 (cuffing suspects successfully)",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Current Ongoing Quest Line(s)": "None Yet",
         "Game": "Starting Amount",
         "Slots": "388,627",
-        "Blackjack": "413,627"
+        "Blackjack": "413,627",
+        "Character": "Pierre Paul"
       }
     }
   }
