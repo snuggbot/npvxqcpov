@@ -30932,7 +30932,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2901708053",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d34-evt-001",
@@ -31263,6 +31263,127 @@
           "image": "/images/frames/d34_evt_017_05_10_26.jpg",
           "imageCaption": "Stream snapshot @ 05:10:26",
           "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h10m26s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-018",
+          "timestamp": "05:13:00",
+          "seconds": 18780,
+          "isMajor": false,
+          "title": "Logs back in as jp",
+          "description": "x logs back in as JP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_018_05_13_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:13:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h13m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-019",
+          "timestamp": "05:22:20",
+          "seconds": 19340,
+          "isMajor": true,
+          "title": "- 05:22:30 marty gets another card robbing a store (red",
+          "description": "- 05:22:30 Marty gets another card robbing a store (red)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d34_evt_019_05_22_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:22:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h22m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-020",
+          "timestamp": "05:26:00",
+          "seconds": 19560,
+          "isMajor": true,
+          "title": "- 05:26:53 tony got arrested during the fleeca chase ea",
+          "description": "- 05:26:53 Tony got arrested during the Fleeca chase earlier and fined",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d34_evt_020_05_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-021",
+          "timestamp": "05:40:20",
+          "seconds": 20420,
+          "isMajor": true,
+          "title": "- 05:40:51 x robs a store and finds a yellow card",
+          "description": "- 05:40:51 x robs a store and finds a yellow card",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_021_05_40_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:40:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h40m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-022",
+          "timestamp": "05:47:54",
+          "seconds": 20874,
+          "isMajor": true,
+          "title": "- 05:49:03 x is surprised that the laptop doesn't break",
+          "description": "- 05:49:03 x is surprised that the laptop doesn't break when used at the Fleeca Vault, also Marty says that 4head's got the hard drive only out of the cargo ship heist so one part for the laptop only",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d34_evt_022_05_47_54.jpg",
+          "imageCaption": "Stream snapshot @ 05:47:54",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h47m54s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-023",
+          "timestamp": "05:56:50",
+          "seconds": 21410,
+          "isMajor": true,
+          "title": "- 05:58:00 x buys a wingsuit from the inner room shop a",
+          "description": "- 05:58:00 x buys a wingsuit from the inner room shop and puts it on",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_023_05_56_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:56:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=05h56m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
