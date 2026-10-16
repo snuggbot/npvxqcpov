@@ -30932,7 +30932,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2901708053",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 29,
       "events": [
         {
           "id": "d34-evt-001",
@@ -31461,13 +31461,53 @@
           "imageCaption": "Stream snapshot @ 06:37:20",
           "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=06h37m20s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-028",
+          "timestamp": "06:44:10",
+          "seconds": 24250,
+          "isMajor": true,
+          "title": "- 07:03:40 they hit another fleeca (pink)",
+          "description": "- 07:03:40 they hit another Fleeca (Pink), they go through the same hacking process, this time x answers the phone in the security room (he has to spam E like breaking an ATM machine) and persuades the operator which drops the timer to 30 seconds, they get into the vault room and get 72k rolled money and 28 gold bars, x tries to use the drill/screwdriver but that finds nothing else, they exchange the hostage and chase begins, they escape in a few minutes",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_028_06_44_10.jpg",
+          "imageCaption": "Stream snapshot @ 06:44:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=06h44m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d34-evt-029",
+          "timestamp": "07:11:30",
+          "seconds": 25890,
+          "isMajor": false,
+          "title": "Withdraws 150k and starts gambling",
+          "description": "x withdraws 150k and starts gambling",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d34_evt_029_07_11_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:11:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2901708053?t=07h11m30s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "timeLoggedIn": "Jean Paul : ~ 335:42 / Pierre Paul: 15:54 / Total : 351:36",
         "timesJailed": "3 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Game": "Starting Amount",
+        "Slots": "107,163 (withdraws 100k from personal)"
       }
     }
   }
