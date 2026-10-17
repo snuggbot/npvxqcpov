@@ -31873,10 +31873,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x7m4wq/nopixel_v_day_35_recap_oct_16th_xqcs_pov_with/",
       "updated": "2026-10-16T17:17:03+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2902672687",
+      "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 3,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d35-evt-001",
@@ -31894,7 +31894,7 @@
           ],
           "image": "/images/frames/d35_evt_001_00_31_40.jpg",
           "imageCaption": "Stream snapshot @ 00:31:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=00h31m40s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h31m40s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -31914,7 +31914,7 @@
           ],
           "image": "/images/frames/d35_evt_002_01_34_25.jpg",
           "imageCaption": "Stream snapshot @ 01:34:25",
-          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=01h34m25s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h34m25s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -31934,7 +31934,111 @@
           ],
           "image": "/images/frames/d35_evt_003_01_39_09.jpg",
           "imageCaption": "Stream snapshot @ 01:39:09",
-          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=01h39m09s",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h39m09s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-004",
+          "timestamp": "01:42:15",
+          "seconds": 6135,
+          "isMajor": true,
+          "title": "- 01:43:50 x calls the mayor again telling her that inn",
+          "description": "- 01:43:50 x calls the mayor again telling her that innocence is not worth the money but he's interested in buying strawberry gas station, she says that it's still not available for sale but it should be in a few days",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_004_01_42_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:42:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h42m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-005",
+          "timestamp": "01:53:30",
+          "seconds": 6810,
+          "isMajor": true,
+          "title": "- 02:00:03 the crew link up with m1",
+          "description": "- 02:00:03 the crew link up with M1, the main mission is to raid and destroy a warehouse in connection to the turfs, M1 hands them 4 sticky bombs and heavy pistols, the only lead he has is that there is a grey van around the block (cypress flats) that they need to locate which will lead them to a stash house which will lead them to the actual location of the warehouse",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_005_01_53_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:53:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h53m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-006",
+          "timestamp": "02:05:20",
+          "seconds": 7520,
+          "isMajor": true,
+          "title": "- 02:15:45 they locate a grey van and kill the driver b",
+          "description": "- 02:15:45 they locate a grey van and kill the driver but it's empty, shortly after they locate another grey van and find a notebook in the back of it that says 'cypress flats room 3' so they head to cypress flats building, they look around and the only way in is through the roof, they have to rappel down to the balcony and enter the apartment, x finds a black access card while Marty hacks a laptop which gives them the location to the stash house",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d35_evt_006_02_05_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h05m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-007",
+          "timestamp": "02:16:40",
+          "seconds": 8200,
+          "isMajor": true,
+          "title": "- 02:31:50 they arrive at the stash house",
+          "description": "- 02:31:50 they arrive at the stash house, take down a bunch of armed locals inside, Marty is hacking a laptop while x, Tony and Lang cut paintings off the walls and find more black access cards behind them, more armed locals arrive and start shooting from outside the house, they also seem to be throwing molotovs and grenades, x, Tony and Lang are holding the top floor while Marty is still trying to hack the laptop, Marty eventually succeeds but the cops arrive, they drive off in 2 different cars and lose the cops",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d35_evt_007_02_16_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:16:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h16m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-008",
+          "timestamp": "02:33:20",
+          "seconds": 9200,
+          "isMajor": true,
+          "title": "- 02:37:00 finally",
+          "description": "- 02:37:00 finally, they arrive at the warehouse, each black access card they found has 1 number on it so they try different combinations of 4 numbers and enter the warehouse, inside they take down a bunch of armed locals, they use the sticky bombs and blow up the warehouse",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_008_02_33_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:33:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h33m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
