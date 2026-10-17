@@ -31876,7 +31876,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2902672687",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d35-evt-001",
@@ -32079,6 +32079,106 @@
           "imageCaption": "Stream snapshot @ 02:54:00",
           "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=02h54m00s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-011",
+          "timestamp": "03:12:40",
+          "seconds": 11560,
+          "isMajor": true,
+          "title": "- 02:24:23 x",
+          "description": "- 02:24:23 x, Tony, Primo and Marty rob a Fleeca, they get 56k rolled plus gold bars, the drive off without any cops around",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d35_evt_011_03_12_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:12:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=03h12m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-012",
+          "timestamp": "02:28:40",
+          "seconds": 8920,
+          "isMajor": false,
+          "title": "Withdraws 150k and starts gambling",
+          "description": "x withdraws 150k and starts gambling",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_012_02_28_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:28:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=02h28m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-013",
+          "timestamp": "03:37:50",
+          "seconds": 13070,
+          "isMajor": true,
+          "title": "- 03:41:30 300k slots maxwin followed by a 215k win",
+          "description": "- 03:41:30 300k slots maxwin followed by a 215k win",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_013_03_37_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:37:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=03h37m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-014",
+          "timestamp": "03:47:35",
+          "seconds": 13655,
+          "isMajor": false,
+          "title": "Cashes out 388k and leaves the casino",
+          "description": "x cashes out 388k and leaves the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_014_03_47_35.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=03h47m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-015",
+          "timestamp": "03:53:30",
+          "seconds": 14010,
+          "isMajor": true,
+          "title": "- 03:54:38 x invites marty to join his health insurance",
+          "description": "- 03:54:38 x invites Marty to join his health insurance plan",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d35_evt_015_03_53_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:53:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=03h53m30s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -32086,7 +32186,11 @@
         "timeLoggedIn": "Jean Paul : ~ 341:49 / Pierre Paul: 18:03 / Total : 359:52",
         "timesJailed": "3 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Game": "Starting Amount",
+        "Blackjack": "438,030",
+        "Slots": "154,500",
+        "Roulette": "471,030 (gives Marty 50k)"
       }
     }
   }
