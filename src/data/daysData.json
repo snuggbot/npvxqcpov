@@ -31876,7 +31876,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2902672687",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d35-evt-001",
@@ -32179,18 +32179,257 @@
           "imageCaption": "Stream snapshot @ 03:53:30",
           "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=03h53m30s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-016",
+          "timestamp": "04:11:00",
+          "seconds": 15060,
+          "isMajor": false,
+          "title": "Switches to pp",
+          "description": "x switches to PP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_016_04_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=04h11m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-017",
+          "timestamp": "04:14:20",
+          "seconds": 15260,
+          "isMajor": true,
+          "title": "- 04:18:00 x joins an on going meeting at the pd",
+          "description": "- 04:18:00 x joins an on going meeting at the PD, it's regarding a warehouse that got blown up at the docks which belonged to the red gang aka 6chambers, C. Dawson mention that turfs are a thing now and that cops need to be more vigilant",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_017_04_14_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:14:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=04h14m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-018",
+          "timestamp": "04:26:00",
+          "seconds": 15960,
+          "isMajor": false,
+          "title": "Rides with shiesty",
+          "description": "x rides with Shiesty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_018_04_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=04h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-019",
+          "timestamp": "04:32:20",
+          "seconds": 16340,
+          "isMajor": false,
+          "title": "(funny bit) they pullover a speeding vehicle",
+          "description": "(funny bit) they pullover a speeding vehicle, Shiesty needs to attend a meeting so they just leave the scene",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_019_04_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=04h32m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-020",
+          "timestamp": "04:42:20",
+          "seconds": 16940,
+          "isMajor": true,
+          "title": "- 04:49:30 x spots an atm robbery (it's marty)",
+          "description": "- 04:49:30 x spots an ATM robbery (it's Marty), x and an additional unit confront Marty and it turns into a chase, the chase continues, x's car flips and Marty escapes shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d35_evt_020_04_42_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:42:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=04h42m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-021",
+          "timestamp": "04:50:40",
+          "seconds": 17440,
+          "isMajor": true,
+          "title": "- 05:02:20 x and shiesty are chasing a speeding vehicle",
+          "description": "- 05:02:20 x and Shiesty are chasing a speeding vehicle, it turns out it's Zahn and Kalita, the suspects' car gives out and x manages to arrest and cuff Zahn, Kalita gets incapacitated on the road, shortly after Tony and Marty arrive trying to interfere, Tony goes down but x revives him (he believes it wasn't fair the way he went down), Tony and Marty try to interfere a multiple times before giving up and leaving",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d35_evt_021_04_50_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:50:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=04h50m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-022",
+          "timestamp": "05:10:00",
+          "seconds": 18600,
+          "isMajor": true,
+          "title": "- 05:12:00 x and dean escort and treat kalita at the ho",
+          "description": "- 05:12:00 x and Dean escort and treat Kalita at the hospital (she has a warrant too) but Zahn was rescued, meahwhile Dean's car gets stolen (i believe by Marty), so they escort Kalita in another car",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d35_evt_022_05_10_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:10:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=05h10m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-023",
+          "timestamp": "05:15:12",
+          "seconds": 18912,
+          "isMajor": true,
+          "title": "- 05:16:40 x and dean process kalita's arrest",
+          "description": "- 05:16:40 x and Dean process Kalita's arrest",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_023_05_15_12.jpg",
+          "imageCaption": "Stream snapshot @ 05:15:12",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=05h15m12s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-024",
+          "timestamp": "05:18:25",
+          "seconds": 19105,
+          "isMajor": true,
+          "title": "- 05:22:20 x gets summoned by shawn to join him and rid",
+          "description": "- 05:22:20 x gets summoned by Shawn to join him and ride in air1 with him and operate the camera",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_024_05_18_25.jpg",
+          "imageCaption": "Stream snapshot @ 05:18:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=05h18m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-025",
+          "timestamp": "05:24:55",
+          "seconds": 19495,
+          "isMajor": true,
+          "title": "X's first air1 cameraman pursuit",
+          "description": "x's first air1 cameraman pursuit",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_025_05_24_55.jpg",
+          "imageCaption": "Stream snapshot @ 05:24:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=05h24m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-026",
+          "timestamp": "05:41:00",
+          "seconds": 20460,
+          "isMajor": false,
+          "title": "Air1 lands to refuel",
+          "description": "air1 lands to refuel, the chase continues",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_026_05_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=05h41m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-027",
+          "timestamp": "06:01:50",
+          "seconds": 21710,
+          "isMajor": false,
+          "title": "Refueling again",
+          "description": "refueling again, the chase still continues",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_027_06_01_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:01:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h01m50s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 341:49 / Pierre Paul: 18:03 / Total : 359:52",
-        "timesJailed": "3 arrests",
+        "timesJailed": "3 (cuffing suspects successfully)",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Current Ongoing Quest Line(s)": "None Yet",
         "Game": "Starting Amount",
         "Blackjack": "438,030",
         "Slots": "154,500",
-        "Roulette": "471,030 (gives Marty 50k)"
+        "Roulette": "471,030 (gives Marty 50k)",
+        "Character": "Pierre Paul"
       }
     }
   }
