@@ -31876,7 +31876,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2902672687",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 34,
       "events": [
         {
           "id": "d35-evt-001",
@@ -32416,6 +32416,141 @@
           "image": "/images/frames/d35_evt_027_06_01_50.jpg",
           "imageCaption": "Stream snapshot @ 06:01:50",
           "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h01m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-028",
+          "timestamp": "06:16:25",
+          "seconds": 22585,
+          "isMajor": false,
+          "title": "One of the suspects is down",
+          "description": "one of the suspects is down, the chase continues",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_028_06_16_25.jpg",
+          "imageCaption": "Stream snapshot @ 06:16:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h16m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-029",
+          "timestamp": "06:22:00",
+          "seconds": 22920,
+          "isMajor": false,
+          "title": "Most of the suspects are down",
+          "description": "most of the suspects are down",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_029_06_22_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:22:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h22m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-030",
+          "timestamp": "06:24:00",
+          "seconds": 23040,
+          "isMajor": false,
+          "title": "Air1 is refueling for the 3rd time during this long cha",
+          "description": "air1 is refueling for the 3rd time during this long chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_030_06_24_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:24:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h24m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-031",
+          "timestamp": "06:37:25",
+          "seconds": 23845,
+          "isMajor": false,
+          "title": "The chase ends",
+          "description": "the chase ends, they managed to arrest 4 of the suspects",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_031_06_37_25.jpg",
+          "imageCaption": "Stream snapshot @ 06:37:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h37m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-032",
+          "timestamp": "06:46:50",
+          "seconds": 24410,
+          "isMajor": false,
+          "title": "- 06:47:07 they return back to pd",
+          "description": "- 06:47:07 they return back to PD, mission's over",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_032_06_46_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:46:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h46m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-033",
+          "timestamp": "06:48:26",
+          "seconds": 24506,
+          "isMajor": false,
+          "title": "- 06:49:35 c",
+          "description": "- 06:49:35 C. Dawson tells x not to forget the police reports and compliments him on his comms and tracking skills",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_033_06_48_26.jpg",
+          "imageCaption": "Stream snapshot @ 06:48:26",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h48m26s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-034",
+          "timestamp": "06:50:00",
+          "seconds": 24600,
+          "isMajor": false,
+          "title": "Switched back to jp",
+          "description": "x switched back to JP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_034_06_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=06h50m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
