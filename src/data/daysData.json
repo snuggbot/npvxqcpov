@@ -31865,6 +31865,86 @@
         "Blackjack": "413,627",
         "Character": "Pierre Paul"
       }
+    },
+    "35": {
+      "dayNumber": 35,
+      "title": "Day 35",
+      "redditTitle": "NoPixel V | Day 35 Recap Oct 16th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x7m4wq/nopixel_v_day_35_recap_oct_16th_xqcs_pov_with/",
+      "updated": "2026-10-16T17:17:03+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2902672687",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 3,
+      "events": [
+        {
+          "id": "d35-evt-001",
+          "timestamp": "00:31:40",
+          "seconds": 1900,
+          "isMajor": false,
+          "title": "Logs in and starts day 35!",
+          "description": "x logs in and starts day 35!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_001_00_31_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:31:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=00h31m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-002",
+          "timestamp": "01:34:25",
+          "seconds": 5665,
+          "isMajor": true,
+          "title": "- 01:36:10 x calls mayor eliza following up on buying t",
+          "description": "- 01:36:10 x calls Mayor Eliza following up on buying the innocence gas station, she tells him that it's for sale, he arrives at the gas station and sees the for sale sign, it's up for 1mil$, they haven't decided yet",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d35_evt_002_01_34_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:34:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=01h34m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d35-evt-003",
+          "timestamp": "01:39:09",
+          "seconds": 5949,
+          "isMajor": true,
+          "title": "- 01:40:50 lang is willing to put in 250k for innocence",
+          "description": "- 01:40:50 Lang is willing to put in 250k for innocence gas station, they decide that it's not worth the money",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d35_evt_003_01_39_09.jpg",
+          "imageCaption": "Stream snapshot @ 01:39:09",
+          "twitchUrl": "https://www.twitch.tv/videos/2902672687?t=01h39m09s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 341:49 / Pierre Paul: 18:03 / Total : 359:52",
+        "timesJailed": "3 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
