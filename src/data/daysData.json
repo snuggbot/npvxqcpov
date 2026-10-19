@@ -32653,7 +32653,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2904505458",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 22,
+      "eventsCount": 26,
       "events": [
         {
           "id": "d36-evt-001",
@@ -33080,6 +33080,82 @@
           "imageCaption": "Stream snapshot @ 05:22:00",
           "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=05h22m00s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-023",
+          "timestamp": "05:50:55",
+          "seconds": 21055,
+          "isMajor": false,
+          "title": "Jason polam calls x right after storm (saying that they",
+          "description": "Jason Polam calls x right after storm (saying that they're the first 2 people to log in to the server)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_023_05_50_55.jpg",
+          "imageCaption": "Stream snapshot @ 05:50:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=05h50m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-024",
+          "timestamp": "06:25:20",
+          "seconds": 23120,
+          "isMajor": false,
+          "title": "- 06:27:12 300k slots maxwin",
+          "description": "- 06:27:12 300k slots maxwin",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_024_06_25_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:25:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=06h25m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-025",
+          "timestamp": "06:45:20",
+          "seconds": 24320,
+          "isMajor": false,
+          "title": "- 06:46:57 another 300k slots maxwin",
+          "description": "- 06:46:57 another 300k slots maxwin",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_025_06_45_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:45:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=06h45m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-026",
+          "timestamp": "07:47:44",
+          "seconds": 28064,
+          "isMajor": false,
+          "title": "Cashes out 601",
+          "description": "x cashes out 601,121$ and leaves the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_026_07_47_44.jpg",
+          "imageCaption": "Stream snapshot @ 07:47:44",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=07h47m44s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -33089,8 +33165,9 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
         "Game": "Starting Amount",
-        "Slots": "83,799",
-        "Blackjack": "113,799"
+        "Slots": "141,154 (withdraws 100k)",
+        "Blackjack": "113,799",
+        "BJ": "661,121"
       }
     }
   }
