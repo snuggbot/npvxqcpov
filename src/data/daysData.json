@@ -32642,6 +32642,221 @@
         "Roulette": "75,112",
         "Character": "Pierre Paul"
       }
+    },
+    "36": {
+      "dayNumber": 36,
+      "title": "Day 36",
+      "redditTitle": "NoPixel V | Day 36 Recap Oct 18th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x8yneo/nopixel_v_day_36_recap_oct_18th_xqcs_pov_with/",
+      "updated": "2026-10-18T09:09:15+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2904505458",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 10,
+      "events": [
+        {
+          "id": "d36-evt-001",
+          "timestamp": "00:48:55",
+          "seconds": 2935,
+          "isMajor": false,
+          "title": "Logs in and starts the day 36!",
+          "description": "x logs in and starts the day 36!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_001_00_48_55.jpg",
+          "imageCaption": "Stream snapshot @ 00:48:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=00h48m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-002",
+          "timestamp": "00:55:30",
+          "seconds": 3330,
+          "isMajor": true,
+          "title": "- 00:56:30 x shows chat the car options he has in mind",
+          "description": "- 00:56:30 x shows chat the car options he has in mind",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_002_00_55_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:55:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=00h55m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-003",
+          "timestamp": "01:29:20",
+          "seconds": 5360,
+          "isMajor": true,
+          "title": "- 01:32:25 x adds ginger to the brick house pawn shop",
+          "description": "- 01:32:25 x adds Ginger to the brick house pawn shop",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_003_01_29_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:29:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=01h29m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-004",
+          "timestamp": "01:49:55",
+          "seconds": 6595,
+          "isMajor": true,
+          "title": "- 01:57:13 x meets up with the pawn shop crew",
+          "description": "- 01:57:13 x meets up with the pawn shop crew, he informs them that they need to do the boat cargo heist and that he needs their help since the main crew except Speedy is not around, he chooses Hazel, Swan, Speedy, Druzilla",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d36_evt_004_01_49_55.jpg",
+          "imageCaption": "Stream snapshot @ 01:49:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=01h49m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-005",
+          "timestamp": "02:05:37",
+          "seconds": 7537,
+          "isMajor": true,
+          "title": "- 02:06:15 x chooses larry as the last man for the carg",
+          "description": "- 02:06:15 x chooses Larry as the last man for the cargo heist crew",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_005_02_05_37.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:37",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=02h05m37s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-006",
+          "timestamp": "02:20:30",
+          "seconds": 8430,
+          "isMajor": true,
+          "title": "- 02:24:55 x tries the cargo ship hack but fails 4 time",
+          "description": "- 02:24:55 x tries the cargo ship hack but fails 4 times, he needs to get more breach chips",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_006_02_20_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:20:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=02h20m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-007",
+          "timestamp": "02:27:20",
+          "seconds": 8840,
+          "isMajor": true,
+          "title": "- 02:27:30 x buys 5 more breach chips",
+          "description": "- 02:27:30 x buys 5 more breach chips",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_007_02_27_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:27:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=02h27m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-008",
+          "timestamp": "02:29:50",
+          "seconds": 8990,
+          "isMajor": true,
+          "title": "- 02:31:10 x tries the cargo hack again",
+          "description": "- 02:31:10 x tries the cargo hack again, this time he succeeds first try",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_008_02_29_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:29:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=02h29m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-009",
+          "timestamp": "02:38:50",
+          "seconds": 9530,
+          "isMajor": true,
+          "title": "- 02:46:10 x breaks into the cargo containers",
+          "description": "- 02:46:10 x breaks into the cargo containers, he finds a laptop in the 1st container, a wifi network card in the second, a laptop again in the third, weed seeds in the fourth, 3k rolled money in the fifth, a wifi peer in the sixth, 4 pistols in the seventh and 3k rolled money in the eighth, they leave without any cops around",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_009_02_38_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:38:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=02h38m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-010",
+          "timestamp": "02:48:20",
+          "seconds": 10100,
+          "isMajor": false,
+          "title": "Thanks the crew and everyone part ways",
+          "description": "x thanks the crew and everyone part ways",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_010_02_48_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:48:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=02h48m20s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 347:58 / Pierre Paul: 20:42 / Total : 368:40",
+        "timesJailed": "3 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
