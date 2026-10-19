@@ -32653,7 +32653,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2904505458",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 22,
       "events": [
         {
           "id": "d36-evt-001",
@@ -32848,6 +32848,238 @@
           "imageCaption": "Stream snapshot @ 02:48:20",
           "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=02h48m20s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-011",
+          "timestamp": "03:05:30",
+          "seconds": 11130,
+          "isMajor": false,
+          "title": "Test drives a car he's interested in",
+          "description": "x test drives a car he's interested in",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_011_03_05_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:05:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=03h05m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-012",
+          "timestamp": "03:15:48",
+          "seconds": 11748,
+          "isMajor": true,
+          "title": "- 03:19:25 x places a deposit to order car parts (didn'",
+          "description": "- 03:19:25 x places a deposit to order car parts (didn't decide on which car yet)",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_012_03_15_48.jpg",
+          "imageCaption": "Stream snapshot @ 03:15:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=03h15m48s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-013",
+          "timestamp": "03:20:10",
+          "seconds": 12010,
+          "isMajor": false,
+          "title": "Looks at the car customization options again",
+          "description": "x looks at the car customization options again",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_013_03_20_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:20:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=03h20m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-014",
+          "timestamp": "03:33:20",
+          "seconds": 12800,
+          "isMajor": true,
+          "title": "- 03:35:40 chat votes for their choice of car for x",
+          "description": "- 03:35:40 chat votes for their choice of car for x",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_014_03_33_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:33:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=03h33m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-015",
+          "timestamp": "03:44:00",
+          "seconds": 13440,
+          "isMajor": true,
+          "title": "- 03:47:43 apparently carlitos is causing hawick's crew",
+          "description": "- 03:47:43 apparently Carlitos is causing hawick's crew some trouble, Zuck wants him dead, x then asks about the new employees, Zuck then introduces x to the new recruit in progress (he sounds like Cyr but chat says it's not)",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_015_03_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=03h44m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-016",
+          "timestamp": "03:48:40",
+          "seconds": 13720,
+          "isMajor": false,
+          "title": "Robs atms without a hostage",
+          "description": "x robs ATMs without a hostage, get spotted by cops and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_016_03_48_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:48:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=03h48m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-017",
+          "timestamp": "03:54:38",
+          "seconds": 14078,
+          "isMajor": true,
+          "title": "- 03:55:39 zuck calls x back saying the new recruit in ",
+          "description": "- 03:55:39 Zuck calls x back saying the new recruit in progress turns out to be a snitch",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_017_03_54_38.jpg",
+          "imageCaption": "Stream snapshot @ 03:54:38",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=03h54m38s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-018",
+          "timestamp": "04:02:30",
+          "seconds": 14550,
+          "isMajor": true,
+          "title": "- 04:07:15 adam the mosley's cardealer calls x asking i",
+          "description": "- 04:07:15 Adam the Mosley's cardealer calls x asking if he's made up his mind about the car, he bluffs x saying that he's the only employee and that the people that took 200k deposit from him earlier were scammers, he says that the car should be ready by Wednesday and that x is getting a 15% discount, Adam then sends 50k to x asking him to do slots buy-ins at the casino on his behalf",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_018_04_02_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:02:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=04h02m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-019",
+          "timestamp": "04:08:40",
+          "seconds": 14920,
+          "isMajor": false,
+          "title": "Withdraws 150k and starts gambling:",
+          "description": "x withdraws 150k and starts gambling:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_019_04_08_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:08:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=04h08m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-020",
+          "timestamp": "04:14:20",
+          "seconds": 15260,
+          "isMajor": true,
+          "title": "- 04:17:00 x wins 216k and send adam the winnings as pr",
+          "description": "- 04:17:00 x wins 216k and send Adam the winnings as promised 130k$ for his 50k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_020_04_14_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:14:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=04h14m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-021",
+          "timestamp": "05:14:13",
+          "seconds": 18853,
+          "isMajor": false,
+          "title": "Dr",
+          "description": "Dr. Beef calls x, seems like he's looking to provide some black market doctor services (away from the hospital)",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_021_05_14_13.jpg",
+          "imageCaption": "Stream snapshot @ 05:14:13",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=05h14m13s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d36-evt-022",
+          "timestamp": "05:22:00",
+          "seconds": 19320,
+          "isMajor": false,
+          "title": "Druz calls x saying that she had a lot of fun doing the",
+          "description": "Druz calls x saying that she had a lot of fun doing the cargo boat heist and would love to do it again",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d36_evt_022_05_22_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:22:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2904505458?t=05h22m00s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -32855,7 +33087,10 @@
         "timeLoggedIn": "Jean Paul : ~ 347:58 / Pierre Paul: 20:42 / Total : 368:40",
         "timesJailed": "3 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
-        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Game": "Starting Amount",
+        "Slots": "83,799",
+        "Blackjack": "113,799"
       }
     }
   }
