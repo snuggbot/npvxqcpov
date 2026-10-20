@@ -33356,7 +33356,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2905320411",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 20,
       "events": [
         {
           "id": "d37-evt-001",
@@ -33511,12 +33511,247 @@
           "imageCaption": "Stream snapshot @ 02:50:00",
           "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=02h50m00s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-009",
+          "timestamp": "03:41:25",
+          "seconds": 13285,
+          "isMajor": true,
+          "title": "- 03:42:55 speedy shows the crew a huge crushing machin",
+          "description": "- 03:42:55 Speedy shows the crew a huge crushing machine",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d37_evt_009_03_41_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=03h41m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-010",
+          "timestamp": "03:43:03",
+          "seconds": 13383,
+          "isMajor": true,
+          "title": "- 03:45:05 x gets a call to confirm if he's attending p",
+          "description": "- 03:45:05 x gets a call to confirm if he's attending poetry night tonight, he says that he will be there",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_010_03_43_03.jpg",
+          "imageCaption": "Stream snapshot @ 03:43:03",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=03h43m03s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-011",
+          "timestamp": "04:04:00",
+          "seconds": 14640,
+          "isMajor": false,
+          "title": "And marty rob atms",
+          "description": "x and Marty rob ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d37_evt_011_04_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=04h04m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-012",
+          "timestamp": "04:15:30",
+          "seconds": 15330,
+          "isMajor": true,
+          "title": "- 05:13:00 they get spotted robbing atms",
+          "description": "- 05:13:00 they get spotted robbing ATMs, Marty gets downed and cuffed but x manages to put him in the car and drive off and it turns into a chase, eventually x gets arrested along with Marty",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d37_evt_012_04_15_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:15:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=04h15m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-013",
+          "timestamp": "05:16:00",
+          "seconds": 18960,
+          "isMajor": false,
+          "title": "Is sent to jail for 62 months",
+          "description": "x is sent to jail for 62 months",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_013_05_16_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:16:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=05h16m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-014",
+          "timestamp": "05:26:30",
+          "seconds": 19590,
+          "isMajor": false,
+          "title": "While jailed (x logs off jp and logs in as dexter jones",
+          "description": "while jailed (x logs off JP and logs in as Dexter Jones)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_014_05_26_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:26:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=05h26m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-015",
+          "timestamp": "05:26:50",
+          "seconds": 19610,
+          "isMajor": true,
+          "title": "- 05:27:30 continuing the dm mission from last time",
+          "description": "- 05:27:30 Continuing the DM mission from last time, x (as Dexter Jones) wants to build a hangar where Ron is going to fix the heli that broke down after their mission last time (the police heli chase)",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_015_05_26_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:26:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=05h26m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-016",
+          "timestamp": "05:34:10",
+          "seconds": 20050,
+          "isMajor": true,
+          "title": "",
+          "description": "",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_016_05_34_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:34:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=05h34m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-017",
+          "timestamp": "05:51:00",
+          "seconds": 21060,
+          "isMajor": true,
+          "title": "- 06:04:14 x",
+          "description": "- 06:04:14 x, M2, Ron and a bunch of people are repairing the heli, it ends up by everyone getting incapacitated (someone kicks the propane tank causing it to explode)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_017_05_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=05h51m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-018",
+          "timestamp": "06:06:50",
+          "seconds": 22010,
+          "isMajor": false,
+          "title": "Logs back in as jp",
+          "description": "x logs back in as JP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_018_06_06_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:06:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=06h06m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-019",
+          "timestamp": "06:25:00",
+          "seconds": 23100,
+          "isMajor": false,
+          "title": "Robs a revolver off druzilla (it's an act so that she c",
+          "description": "x robs a revolver off Druzilla (it's an act so that she can report it stolen but this way x gets a clean gun)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_019_06_25_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:25:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=06h25m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-020",
+          "timestamp": "06:49:00",
+          "seconds": 24540,
+          "isMajor": false,
+          "title": "Brings back the joker drip",
+          "description": "x brings back the joker drip",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_020_06_49_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:49:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=06h49m00s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 347:58 / Pierre Paul: 22:16 / Total : 370:14",
-        "timesJailed": "3 arrests",
+        "timesJailed": "4 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
