@@ -33345,6 +33345,181 @@
         "BJ": "661,121",
         "Character": "Pierre Paul"
       }
+    },
+    "37": {
+      "dayNumber": 37,
+      "title": "Day 37",
+      "redditTitle": "NoPixel V | Day 37 Recap Oct 19th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1x9sz17/nopixel_v_day_37_recap_oct_19th_xqcs_pov_with/",
+      "updated": "2026-10-19T10:12:07+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2905320411",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 8,
+      "events": [
+        {
+          "id": "d37-evt-001",
+          "timestamp": "00:31:50",
+          "seconds": 1910,
+          "isMajor": false,
+          "title": "Logs in and starts day 37!",
+          "description": "x logs in and starts day 37!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_001_00_31_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:31:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=00h31m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-002",
+          "timestamp": "00:32:00",
+          "seconds": 1920,
+          "isMajor": false,
+          "title": "Has 1",
+          "description": "x has 1.5mil in his account after going down to 700k gambling off stream",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_002_00_32_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:32:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=00h32m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-003",
+          "timestamp": "00:41:20",
+          "seconds": 2480,
+          "isMajor": false,
+          "title": "Calls a zack from mosley's",
+          "description": "x calls a Zack from Mosley's, he's going to meet Adam/Zack tomorrow hoping to get further discount on the car",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_003_00_41_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:41:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=00h41m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-004",
+          "timestamp": "00:51:20",
+          "seconds": 3080,
+          "isMajor": false,
+          "title": "(grinders have a new icon in the game's ui)",
+          "description": "(grinders have a new icon in the game's ui)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_004_00_51_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:51:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=00h51m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-005",
+          "timestamp": "01:00:00",
+          "seconds": 3600,
+          "isMajor": false,
+          "title": "Buys hq car parts from primo and zuck",
+          "description": "x buys HQ car parts from Primo and Zuck",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_005_01_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=01h00m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-006",
+          "timestamp": "01:24:30",
+          "seconds": 5070,
+          "isMajor": false,
+          "title": "Hands 294 hq car parts to zack from mosley's",
+          "description": "x hands 294 HQ car parts to Zack from Mosley's",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_006_01_24_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:24:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=01h24m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-007",
+          "timestamp": "01:51:00",
+          "seconds": 6660,
+          "isMajor": true,
+          "title": "- 02:44:05 the crew rob a fleeca",
+          "description": "- 02:44:05 the crew rob a Fleeca, they get 21 gold bars, 66k rolled money, they exchange the hostage and the chase begins, it's a crazy long chase but they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_007_01_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=01h51m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d37-evt-008",
+          "timestamp": "02:50:00",
+          "seconds": 10200,
+          "isMajor": false,
+          "title": "Benji asks x for some info about robbing a fleeca and i",
+          "description": "Benji asks x for some info about robbing a Fleeca and in exchange they might swap Fleeca cards with Benji",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d37_evt_008_02_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2905320411?t=02h50m00s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 347:58 / Pierre Paul: 22:16 / Total : 370:14",
+        "timesJailed": "3 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
