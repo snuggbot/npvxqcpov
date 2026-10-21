@@ -33889,7 +33889,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907037919",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d38-evt-001",
@@ -34044,6 +34044,83 @@
           "image": "/images/frames/d38_evt_008_01_27_10.jpg",
           "imageCaption": "Stream snapshot @ 01:27:10",
           "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=01h27m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-009",
+          "timestamp": "01:31:25",
+          "seconds": 5485,
+          "isMajor": false,
+          "title": "Arrives at the event",
+          "description": "x arrives at the event",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_009_01_31_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:31:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=01h31m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-010",
+          "timestamp": "01:32:00",
+          "seconds": 5520,
+          "isMajor": true,
+          "title": "- 01:32:20 x asks to be introduced as the joker",
+          "description": "- 01:32:20 x asks to be introduced as the Joker, Mr. C says that he will do that if x makes it to the end",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_010_01_32_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=01h32m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-011",
+          "timestamp": "01:34:20",
+          "seconds": 5660,
+          "isMajor": true,
+          "title": "- 01:46:45 the fighters are climbing their way to the t",
+          "description": "- 01:46:45 the fighters are climbing their way to the top jumping on platforms around the cage, x falls a few times and eventually gets incapacitated, he gets treated and tries to climb his way up again, x falls down a few more times and gets punched and incapacitated, eventually x makes it to the top but he wasn't first, x decides to go to the hospital since he has trouble regaining stamina",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_011_01_34_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:34:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=01h34m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-012",
+          "timestamp": "01:49:30",
+          "seconds": 6570,
+          "isMajor": true,
+          "title": "- 01:50:23 lang is going to be positioned on a rooftop ",
+          "description": "- 01:50:23 Lang is going to be positioned on a rooftop in case x is going to need help during the fight",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d38_evt_012_01_49_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:49:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=01h49m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
