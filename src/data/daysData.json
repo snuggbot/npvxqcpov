@@ -33889,7 +33889,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907037919",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 16,
       "events": [
         {
           "id": "d38-evt-001",
@@ -34121,6 +34121,82 @@
           "image": "/images/frames/d38_evt_012_01_49_30.jpg",
           "imageCaption": "Stream snapshot @ 01:49:30",
           "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=01h49m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-013",
+          "timestamp": "01:52:00",
+          "seconds": 6720,
+          "isMajor": false,
+          "title": "Gets treated at the hospital",
+          "description": "x gets treated at the hospital",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_013_01_52_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:52:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=01h52m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-014",
+          "timestamp": "02:00:00",
+          "seconds": 7200,
+          "isMajor": false,
+          "title": "Returns to bum fights",
+          "description": "x returns to Bum Fights",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_014_02_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h00m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-015",
+          "timestamp": "02:02:50",
+          "seconds": 7370,
+          "isMajor": false,
+          "title": "The first fight is an objects throwing fight where figh",
+          "description": "the first fight is an objects throwing fight where fighters are in separate hot tubs throwing stuff on each other",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_015_02_02_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:02:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h02m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-016",
+          "timestamp": "02:10:00",
+          "seconds": 7800,
+          "isMajor": true,
+          "title": "- 02:11:00 x is going to enter the fight with a dog by ",
+          "description": "- 02:11:00 x is going to enter the fight with a dog by his side",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_016_02_10_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:10:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h10m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
