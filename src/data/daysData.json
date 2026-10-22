@@ -33889,7 +33889,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907037919",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 38,
+      "eventsCount": 51,
       "events": [
         {
           "id": "d38-evt-001",
@@ -34639,6 +34639,265 @@
           "image": "/images/frames/d38_evt_038_05_59_45.jpg",
           "imageCaption": "Stream snapshot @ 05:59:45",
           "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=05h59m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-039",
+          "timestamp": "06:16:31",
+          "seconds": 22591,
+          "isMajor": true,
+          "title": "- 06:19:20 harry calls x saying that he's fired from th",
+          "description": "- 06:19:20 Harry calls x saying that he's fired from the Casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_039_06_16_31.jpg",
+          "imageCaption": "Stream snapshot @ 06:16:31",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=06h16m31s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-040",
+          "timestamp": "06:26:30",
+          "seconds": 23190,
+          "isMajor": false,
+          "title": "Since no one's able to let x into the casino anymore",
+          "description": "since no one's able to let x into the casino anymore, x gets on the roof of the casino using a parachute but he can't find any way into the casino from the rooftop",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_040_06_26_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:26:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=06h26m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-041",
+          "timestamp": "06:51:00",
+          "seconds": 24660,
+          "isMajor": false,
+          "title": "Tries to get to the rooftop of the casino building (the",
+          "description": "x tries to get to the rooftop of the casino building (the highest rooftop) which he does but there is no way into the casino at all",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_041_06_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=06h51m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-042",
+          "timestamp": "06:58:55",
+          "seconds": 25135,
+          "isMajor": true,
+          "title": "- 07:17:25 x attends lang's trial (lang shot someone in",
+          "description": "- 07:17:25 x attends Lang's trial (Lang shot someone in front of the casino earlier because they had their gun out), Lang calls x to the stand, x gets questioned by C. Dawson, Dawson's witness is late to the trial (Mr. C), Marty and x leave the court room looking to find Mr. C",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d38_evt_042_06_58_55.jpg",
+          "imageCaption": "Stream snapshot @ 06:58:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=06h58m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-043",
+          "timestamp": "07:23:55",
+          "seconds": 26635,
+          "isMajor": true,
+          "title": "- 07:31:20 x and marty take dr",
+          "description": "- 07:31:20 x and Marty take Dr. Beef as a hostage so that he can't make it to the trial and represent Mr. C, he says that Mr. C is just a witness and he's not representing him, instead they need to get hold of Nino Chavez, Marty then receives a call from Lang saying that Mr. C is in the ICU so Lang is free for now, they let go of Dr. Beef too, x wants to go the to hospital where Mr. C is and get his casino card",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d38_evt_043_07_23_55.jpg",
+          "imageCaption": "Stream snapshot @ 07:23:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=07h23m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-044",
+          "timestamp": "07:33:00",
+          "seconds": 27180,
+          "isMajor": false,
+          "title": "Changes into a pest control uniform worker",
+          "description": "x changes into a pest control uniform worker",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_044_07_33_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:33:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=07h33m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-045",
+          "timestamp": "07:34:15",
+          "seconds": 27255,
+          "isMajor": true,
+          "title": "- 07:36:50 he arrives at the hospital and makes his way",
+          "description": "- 07:36:50 he arrives at the hospital and makes his way in acting as a pest control contractor, he's then kicked back to the hospital lobby by the cops",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_045_07_34_15.jpg",
+          "imageCaption": "Stream snapshot @ 07:34:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=07h34m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-046",
+          "timestamp": "07:49:00",
+          "seconds": 28140,
+          "isMajor": false,
+          "title": "And marty spend a while testing how to make cars explod",
+          "description": "x and Marty spend a while testing how to make cars explode by pouring fuel over them",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d38_evt_046_07_49_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:49:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=07h49m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-047",
+          "timestamp": "08:12:15",
+          "seconds": 29535,
+          "isMajor": false,
+          "title": "They also test shooting a propane tank",
+          "description": "they also test shooting a propane tank, it takes some time before blowing up",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_047_08_12_15.jpg",
+          "imageCaption": "Stream snapshot @ 08:12:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h12m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-048",
+          "timestamp": "08:14:00",
+          "seconds": 29640,
+          "isMajor": true,
+          "title": "- 08:16:20 x and marty use a propane tank to destroy a ",
+          "description": "- 08:16:20 x and Marty use a propane tank to destroy a cop car parked at the hospital",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d38_evt_048_08_14_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:14:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h14m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-049",
+          "timestamp": "08:17:00",
+          "seconds": 29820,
+          "isMajor": true,
+          "title": "- 08:17:50 they destroy another propane tank in front o",
+          "description": "- 08:17:50 they destroy another propane tank in front of the PD",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_049_08_17_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:17:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h17m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-050",
+          "timestamp": "08:29:20",
+          "seconds": 30560,
+          "isMajor": false,
+          "title": "- 08:35:35 ron otterman takes x and marty for a ride in",
+          "description": "- 08:35:35 Ron Otterman takes x and Marty for a ride in his new heli, x tests his wingsuit again but it does Nathan so he uses the parachute to land instead, he then uses admin mode to fly up and text the wingsuit again but it doesn't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d38_evt_050_08_29_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:29:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h29m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-051",
+          "timestamp": "08:38:35",
+          "seconds": 31115,
+          "isMajor": false,
+          "title": "- 08:41:40 ron takes marty and x for a flight in a hot ",
+          "description": "- 08:41:40 Ron takes Marty and x for a flight in a hot air balloon",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d38_evt_051_08_38_35.jpg",
+          "imageCaption": "Stream snapshot @ 08:38:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h38m35s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
