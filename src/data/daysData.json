@@ -33889,7 +33889,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907037919",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 51,
+      "eventsCount": 60,
       "events": [
         {
           "id": "d38-evt-001",
@@ -34898,6 +34898,182 @@
           "image": "/images/frames/d38_evt_051_08_38_35.jpg",
           "imageCaption": "Stream snapshot @ 08:38:35",
           "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h38m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-052",
+          "timestamp": "08:49:40",
+          "seconds": 31780,
+          "isMajor": false,
+          "title": "And marty test destroying a couple of planes using a pr",
+          "description": "x and Marty test destroying a couple of planes using a propane tank",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d38_evt_052_08_49_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:49:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h49m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-053",
+          "timestamp": "08:54:40",
+          "seconds": 32080,
+          "isMajor": false,
+          "title": "Falls down trying to parachute and gets incapacitated",
+          "description": "x falls down trying to parachute and gets incapacitated",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_053_08_54_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:54:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h54m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-054",
+          "timestamp": "08:58:20",
+          "seconds": 32300,
+          "isMajor": false,
+          "title": "- 08:58:50 (x reacts to a clip of harry shooting down m",
+          "description": "- 08:58:50 (x reacts to a clip of Harry shooting down Mr. C after getting fired)",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_054_08_58_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:58:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=08h58m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-055",
+          "timestamp": "09:27:50",
+          "seconds": 34070,
+          "isMajor": true,
+          "title": "- 09:29:20 x calls nino asking if they have any fleeca ",
+          "description": "- 09:29:20 x calls Nino asking if they have any Fleeca cards to trade with them, Nino doesn't have any but he mentions that there is more to the Fleeca robberies that just the usual loot but they will need to get their hand on a drill which is hard to come by apparently, x expresses his appreciation for the info from Nino",
+          "category": "crypto",
+          "tags": [
+            "crypto"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_055_09_27_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:27:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=09h27m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-056",
+          "timestamp": "09:30:30",
+          "seconds": 34230,
+          "isMajor": false,
+          "title": "And marty start robbing houses hoping to find a drill",
+          "description": "x and Marty start robbing houses hoping to find a drill",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d38_evt_056_09_30_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:30:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=09h30m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-057",
+          "timestamp": "09:51:30",
+          "seconds": 35490,
+          "isMajor": false,
+          "title": "They rob some atms",
+          "description": "they rob some ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_057_09_51_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:51:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=09h51m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-058",
+          "timestamp": "09:56:00",
+          "seconds": 35760,
+          "isMajor": false,
+          "title": "Tony calls saying that he just left from prison",
+          "description": "Tony calls saying that he just left from prison, he was there for 200 months",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d38_evt_058_09_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=09h56m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-059",
+          "timestamp": "10:02:30",
+          "seconds": 36150,
+          "isMajor": false,
+          "title": "They go back to robbing houses",
+          "description": "they go back to robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_059_10_02_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:02:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=10h02m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-060",
+          "timestamp": "10:23:40",
+          "seconds": 37420,
+          "isMajor": false,
+          "title": "The cops arrive as they rob a house",
+          "description": "the cops arrive as they rob a house, x hides in the basement of the house but get spotted, he runs outside and drives off",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_060_10_23_40.jpg",
+          "imageCaption": "Stream snapshot @ 10:23:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=10h23m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
