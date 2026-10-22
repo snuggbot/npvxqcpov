@@ -33889,7 +33889,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907037919",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 21,
+      "eventsCount": 38,
       "events": [
         {
           "id": "d38-evt-001",
@@ -34295,12 +34295,357 @@
           "imageCaption": "Stream snapshot @ 03:00:35",
           "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=03h00m35s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-022",
+          "timestamp": "03:04:08",
+          "seconds": 11048,
+          "isMajor": true,
+          "title": "- 03:09:30 the crew link up with m1",
+          "description": "- 03:09:30 the crew link up with M1, he says that tomorrow the turfs will be going online and ready, also he mentions that the warehouse they destroyed a few days ago made the cartel unhappy and there will be more missions related to that soon, on another note he mentions that the cops might know that they were behind the art gallery robbery, the crew make a point that if they're going down then M1 is also going down with them",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_022_03_04_08.jpg",
+          "imageCaption": "Stream snapshot @ 03:04:08",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=03h04m08s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-023",
+          "timestamp": "03:44:40",
+          "seconds": 13480,
+          "isMajor": true,
+          "title": "- 03:57:00 the crew is robbing a fleeca",
+          "description": "- 03:57:00 the crew is robbing a Fleeca, they get 63k rolled money (not sure how many gold bars, Marty didn't mention it) but they leave with no cops around",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d38_evt_023_03_44_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:44:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=03h44m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-024",
+          "timestamp": "04:05:45",
+          "seconds": 14745,
+          "isMajor": true,
+          "title": "- 04:10:40 lang goes to the pd for questioning",
+          "description": "- 04:10:40 Lang goes to the PD for questioning, he's being questioned at the entrance of the PD while the rest of the crew wait for him in the car, he tells them that if he puts his hands up the crew should shoot the cops which will allow him to escape, shortly after Lang puts his hands up and the crew take down the cops and drive off with Lang",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d38_evt_024_04_05_45.jpg",
+          "imageCaption": "Stream snapshot @ 04:05:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h05m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-025",
+          "timestamp": "04:11:20",
+          "seconds": 15080,
+          "isMajor": true,
+          "title": "- 04:13:35 speedy didn't make it out and the crew is tr",
+          "description": "- 04:13:35 Speedy didn't make it out and the crew is trying to rescue him",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d38_evt_025_04_11_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h11m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-026",
+          "timestamp": "04:15:00",
+          "seconds": 15300,
+          "isMajor": true,
+          "title": "- 04:15:20 the crew change outfits first",
+          "description": "- 04:15:20 the crew change outfits first",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_026_04_15_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:15:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h15m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-027",
+          "timestamp": "04:27:10",
+          "seconds": 16030,
+          "isMajor": true,
+          "title": "- 04:27:47 x hands his items to druz in case he gets ar",
+          "description": "- 04:27:47 x hands his items to Druz in case he gets arrested trying to rescue Speedy",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d38_evt_027_04_27_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:27:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h27m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-028",
+          "timestamp": "04:29:30",
+          "seconds": 16170,
+          "isMajor": true,
+          "title": "- 04:32:13 x covers the front of his car with fuel and ",
+          "description": "- 04:32:13 x covers the front of his car with fuel and parks it near all the cop cars at the hospital where Speedy is being held at and then Tony uses the back fire from his car to light it up but nothing happens to x's car, it wasn't enough to blow it up, they decide to switch clothes again",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony",
+            "Speedy"
+          ],
+          "image": "/images/frames/d38_evt_028_04_29_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:29:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h29m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-029",
+          "timestamp": "04:33:45",
+          "seconds": 16425,
+          "isMajor": true,
+          "title": "- 04:34:30 tony takes down the cop on high ground",
+          "description": "- 04:34:30 Tony takes down the cop on high ground",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d38_evt_029_04_33_45.jpg",
+          "imageCaption": "Stream snapshot @ 04:33:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h33m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-030",
+          "timestamp": "04:45:10",
+          "seconds": 17110,
+          "isMajor": true,
+          "title": "- 04:45:30 the crew try to take down air1 but the shots",
+          "description": "- 04:45:30 the crew try to take down air1 but the shots don't really connect",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_030_04_45_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:45:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h45m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-031",
+          "timestamp": "04:51:00",
+          "seconds": 17460,
+          "isMajor": true,
+          "title": "- 04:52:30 they manage to loose air1 and escape for now",
+          "description": "- 04:52:30 they manage to loose air1 and escape for now",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_031_04_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h51m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-032",
+          "timestamp": "04:56:30",
+          "seconds": 17790,
+          "isMajor": true,
+          "title": "- 04:57:15 they shoot and destroy air1 while it's refue",
+          "description": "- 04:57:15 they shoot and destroy air1 while it's refueling",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_032_04_56_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:56:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=04h56m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-033",
+          "timestamp": "05:21:30",
+          "seconds": 19290,
+          "isMajor": true,
+          "title": "- 05:27:00 the crew intercept the cops convoy escorting",
+          "description": "- 05:27:00 the crew intercept the cops convoy escorting Speedy and exchange gunfire, there are so many cops around, x gets ambushed by cops and taken down on a rooftop",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d38_evt_033_05_21_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:21:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=05h21m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-034",
+          "timestamp": "05:29:07",
+          "seconds": 19747,
+          "isMajor": false,
+          "title": "- 05:30:08 (x watches clips of the cops's pov getting d",
+          "description": "- 05:30:08 (x watches clips of the cops's pov getting downed when Lang came in for questioning)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d38_evt_034_05_29_07.jpg",
+          "imageCaption": "Stream snapshot @ 05:29:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=05h29m07s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-035",
+          "timestamp": "05:41:10",
+          "seconds": 20470,
+          "isMajor": false,
+          "title": "- 05:42:00 x is escorted to the hospital",
+          "description": "- 05:42:00 x is escorted to the hospital",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_035_05_41_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:41:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=05h41m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-036",
+          "timestamp": "05:43:50",
+          "seconds": 20630,
+          "isMajor": true,
+          "title": "- 05:44:42 lang goes down too after taking a few cops d",
+          "description": "- 05:44:42 Lang goes down too after taking a few cops down with him",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d38_evt_036_05_43_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:43:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=05h43m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-037",
+          "timestamp": "05:51:43",
+          "seconds": 21103,
+          "isMajor": true,
+          "title": "- 05:55:00 x asks for a bench trial (it will happen aft",
+          "description": "- 05:55:00 x asks for a bench trial (it will happen after storm)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_037_05_51_43.jpg",
+          "imageCaption": "Stream snapshot @ 05:51:43",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=05h51m43s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-038",
+          "timestamp": "05:59:45",
+          "seconds": 21585,
+          "isMajor": true,
+          "title": "- 06:03:25 x is free to go for now until the cops put a",
+          "description": "- 06:03:25 x is free to go for now until the cops put all the charges together for the bench trial",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_038_05_59_45.jpg",
+          "imageCaption": "Stream snapshot @ 05:59:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=05h59m45s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 358:23 / Pierre Paul: 22:16 / Total : 380:39",
-        "timesJailed": "4 arrests",
+        "timesJailed": "5 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
         "Game": "Starting Amount",
