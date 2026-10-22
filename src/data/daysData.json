@@ -33889,7 +33889,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907037919",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 16,
+      "eventsCount": 21,
       "events": [
         {
           "id": "d38-evt-001",
@@ -34198,6 +34198,103 @@
           "imageCaption": "Stream snapshot @ 02:10:00",
           "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h10m00s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-017",
+          "timestamp": "02:13:00",
+          "seconds": 7980,
+          "isMajor": false,
+          "title": "Donnie the pickass fights luchador",
+          "description": "Donnie The Pickass fights Luchador, Luchador wins",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_017_02_13_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:13:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h13m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-018",
+          "timestamp": "02:26:35",
+          "seconds": 8795,
+          "isMajor": true,
+          "title": "- 02:27:27 x challenges mr",
+          "description": "- 02:27:27 x challenges Mr. C to a fist fight, Mr. C says he will have someone fighting for him and they can do it next week",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_018_02_26_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:26:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h26m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-019",
+          "timestamp": "02:34:10",
+          "seconds": 9250,
+          "isMajor": false,
+          "title": "Starts gambling while mr",
+          "description": "x starts gambling while Mr. C sorts out his rakeback",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_019_02_34_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:34:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h34m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-020",
+          "timestamp": "02:55:30",
+          "seconds": 10530,
+          "isMajor": false,
+          "title": "Gets his rakeback from mr",
+          "description": "x gets his rakeback from Mr. C 160k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d38_evt_020_02_55_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:55:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=02h55m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d38-evt-021",
+          "timestamp": "03:00:35",
+          "seconds": 10835,
+          "isMajor": true,
+          "title": "- 03:01:47 tony says that he might have a warrant for m",
+          "description": "- 03:01:47 Tony says that he might have a warrant for murder x5",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d38_evt_021_03_00_35.jpg",
+          "imageCaption": "Stream snapshot @ 03:00:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2907037919?t=03h00m35s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
@@ -34208,7 +34305,7 @@
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
         "Game": "Starting Amount",
         "BJ": "315,789",
-        "Slots": "215,143 (withdraws 200k)"
+        "Slots": "69,895"
       }
     }
   }
