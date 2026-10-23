@@ -35117,7 +35117,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907859259",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 29,
+      "eventsCount": 35,
       "events": [
         {
           "id": "d39-evt-001",
@@ -35678,6 +35678,123 @@
           "image": "/images/frames/d39_evt_029_05_08_10.jpg",
           "imageCaption": "Stream snapshot @ 05:08:10",
           "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=05h08m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-030",
+          "timestamp": "05:19:30",
+          "seconds": 19170,
+          "isMajor": true,
+          "title": "- 05:20:10 x arrives at the location where nancy droppe",
+          "description": "- 05:20:10 x arrives at the location where Nancy dropped the jet pills, there's so much of it",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_030_05_19_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:19:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=05h19m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-031",
+          "timestamp": "05:30:08",
+          "seconds": 19808,
+          "isMajor": true,
+          "title": "- 05:31:40 lang says that his people get 22$ per sale e",
+          "description": "- 05:31:40 Lang says that his people get 22$ per sale Escrow",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d39_evt_031_05_30_08.jpg",
+          "imageCaption": "Stream snapshot @ 05:30:08",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=05h30m08s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-032",
+          "timestamp": "05:32:48",
+          "seconds": 19968,
+          "isMajor": true,
+          "title": "- 05:40:30 they are able to add brokers (under treaties",
+          "description": "- 05:40:30 they are able to add brokers (under treaties) even if they're part of another crew, it seems like its a system to create alliances/hostilities",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_032_05_32_48.jpg",
+          "imageCaption": "Stream snapshot @ 05:32:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=05h32m48s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-033",
+          "timestamp": "05:42:58",
+          "seconds": 20578,
+          "isMajor": true,
+          "title": "- 05:48:45 x calls nancy suggesting having a full crew ",
+          "description": "- 05:48:45 x calls Nancy suggesting having a full crew pushing products regardless of purity, she will work on that",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_033_05_42_58.jpg",
+          "imageCaption": "Stream snapshot @ 05:42:58",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=05h42m58s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-034",
+          "timestamp": "05:48:50",
+          "seconds": 20930,
+          "isMajor": false,
+          "title": "Starts robbing houses",
+          "description": "x starts robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_034_05_48_50.jpg",
+          "imageCaption": "Stream snapshot @ 05:48:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=05h48m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-035",
+          "timestamp": "06:43:08",
+          "seconds": 24188,
+          "isMajor": true,
+          "title": "- 06:49:04 seems like lang is exchanging gunfire with 4",
+          "description": "- 06:49:04 seems like Lang is exchanging gunfire with 4head's crew while robbing houses, Lang pings the location and x heads there, 4head's crew saying they just want Lang out the crib, they say that the house Lang is robbing is their house, they finish robbing the house and leave",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d39_evt_035_06_43_08.jpg",
+          "imageCaption": "Stream snapshot @ 06:43:08",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=06h43m08s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
