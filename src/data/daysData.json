@@ -35117,7 +35117,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907859259",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 29,
       "events": [
         {
           "id": "d39-evt-001",
@@ -35435,8 +35435,8 @@
           "timestamp": "03:05:50",
           "seconds": 11150,
           "isMajor": true,
-          "title": "- 03:07:15 x adds a secondary paint to his car for 30k",
-          "description": "- 03:07:15 x adds a secondary paint to his car for 30k",
+          "title": "- 03:07:15 x adds a secondary paint (trim) to his car f",
+          "description": "- 03:07:15 x adds a secondary paint (trim) to his car for 30k",
           "category": "mechanic",
           "tags": [
             "mechanic"
@@ -35447,6 +35447,237 @@
           "image": "/images/frames/d39_evt_017_03_05_50.jpg",
           "imageCaption": "Stream snapshot @ 03:05:50",
           "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h05m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-018",
+          "timestamp": "03:13:30",
+          "seconds": 11610,
+          "isMajor": false,
+          "title": "Calls nancy asking for all the jet she has to sell on t",
+          "description": "x calls Nancy asking for all the jet she has to sell on their turf",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_018_03_13_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:13:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h13m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-019",
+          "timestamp": "03:19:05",
+          "seconds": 11945,
+          "isMajor": true,
+          "title": "- 03:27:50 the crew discuss the brokers & treaties feat",
+          "description": "- 03:27:50 the crew discuss the brokers & treaties feature on the hideout's laptop, they eventually agree to add Swan as a broker to understand how %cuts work when selling jet for example",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_019_03_19_05.jpg",
+          "imageCaption": "Stream snapshot @ 03:19:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h19m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-020",
+          "timestamp": "03:27:55",
+          "seconds": 12475,
+          "isMajor": true,
+          "title": "- 03:28:15 c",
+          "description": "- 03:28:15 C. Dawson calls x saying that he's wanted and that he has a warrant",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_020_03_27_55.jpg",
+          "imageCaption": "Stream snapshot @ 03:27:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h27m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-021",
+          "timestamp": "03:30:00",
+          "seconds": 12600,
+          "isMajor": false,
+          "title": "Swan is selling jet on the turf",
+          "description": "Swan is selling jet on the turf",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_021_03_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h30m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-022",
+          "timestamp": "03:32:40",
+          "seconds": 12760,
+          "isMajor": true,
+          "title": "- 03:35:20 x changes swan's cut from 0% to 30% (the max",
+          "description": "- 03:35:20 x changes Swan's cut from 0% to 30% (the maximum is 30%), she still gets the same amount after changing the percentage",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_022_03_32_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:32:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h32m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-023",
+          "timestamp": "03:46:00",
+          "seconds": 13560,
+          "isMajor": false,
+          "title": "Is decorating/placing items in the hideout",
+          "description": "x is decorating/placing items in the hideout",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_023_03_46_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:46:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h46m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-024",
+          "timestamp": "04:03:50",
+          "seconds": 14630,
+          "isMajor": true,
+          "title": "- 04:06:45 x calls 4head asking about the drill and how",
+          "description": "- 04:06:45 x calls 4head asking about the drill and how it works when robbing a Fleeca, x proposes that they test the drill and rob a Fleeca with the person that has the drill, 4head is just a middleman, 4head is going to propose the same",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_024_04_03_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:03:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=04h03m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-025",
+          "timestamp": "04:10:00",
+          "seconds": 15000,
+          "isMajor": true,
+          "title": "- 04:13:25 x calls nino asking about the drill too",
+          "description": "- 04:13:25 x calls Nino asking about the drill too, he estimates the value of the drill to be around 50k and it seems to work like a grinder (it looses durability if you fail the hack), Nino confirms that they're found in houses",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_025_04_10_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:10:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=04h10m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-026",
+          "timestamp": "04:13:35",
+          "seconds": 15215,
+          "isMajor": true,
+          "title": "- 04:16:49 x calls 4head again",
+          "description": "- 04:16:49 x calls 4head again, 4head says that the person with the drill isn't accepting any deal, the conversation gets heated and x hangs up the phone, x tells the crew that they need to rob houses till they find a drill",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_026_04_13_35.jpg",
+          "imageCaption": "Stream snapshot @ 04:13:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=04h13m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-027",
+          "timestamp": "04:18:00",
+          "seconds": 15480,
+          "isMajor": false,
+          "title": "Continues to place machines in the hideout and decorate",
+          "description": "x continues to place machines in the hideout and decorate it",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_027_04_18_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:18:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=04h18m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-028",
+          "timestamp": "04:20:00",
+          "seconds": 15600,
+          "isMajor": true,
+          "title": "- 04:22:02 x calls nancy",
+          "description": "- 04:22:02 x calls Nancy, she's going to supply them with some jet, rumors in the street 25% purity product is achievable atm",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_028_04_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=04h20m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-029",
+          "timestamp": "05:08:10",
+          "seconds": 18490,
+          "isMajor": false,
+          "title": "Robs atms",
+          "description": "x robs ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_029_05_08_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:08:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=05h08m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
