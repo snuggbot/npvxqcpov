@@ -35106,6 +35106,163 @@
         "BJ": "315,789",
         "Slots": "69,895"
       }
+    },
+    "39": {
+      "dayNumber": 39,
+      "title": "Day 39",
+      "redditTitle": "NoPixel V | Day 39 Recap Oct 22nd | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xcmr2g/nopixel_v_day_39_recap_oct_22nd_xqcs_pov_with/",
+      "updated": "2026-10-22T16:07:00+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2907859259",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 7,
+      "events": [
+        {
+          "id": "d39-evt-001",
+          "timestamp": "00:22:00",
+          "seconds": 1320,
+          "isMajor": false,
+          "title": "Logs in and starts day 39",
+          "description": "x logs in and starts day 39",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_001_00_22_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:22:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=00h22m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-002",
+          "timestamp": "00:24:00",
+          "seconds": 1440,
+          "isMajor": true,
+          "title": "- 00:24:45 marty is working out a deal with 4head to bu",
+          "description": "- 00:24:45 Marty is working out a deal with 4head to buy a drill, 4head wants the missing laptop pieces in exchange",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d39_evt_002_00_24_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:24:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=00h24m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-003",
+          "timestamp": "00:24:46",
+          "seconds": 1486,
+          "isMajor": false,
+          "title": "Meets with adam from mosley's and gives him 320 hq car ",
+          "description": "x meets with Adam from Mosley's and gives him 320 HQ car parts, (Adam is getting Ddos'ed IRL so he's unable to interact atm), another employee comes in and x hands over the parts to him instead",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_003_00_24_46.jpg",
+          "imageCaption": "Stream snapshot @ 00:24:46",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=00h24m46s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-004",
+          "timestamp": "00:29:30",
+          "seconds": 1770,
+          "isMajor": false,
+          "title": "(funny moment)",
+          "description": "(funny moment)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_004_00_29_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:29:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=00h29m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-005",
+          "timestamp": "00:32:25",
+          "seconds": 1945,
+          "isMajor": true,
+          "title": "- 00:34:35 marty says that the person that has the dril",
+          "description": "- 00:34:35 Marty says that the person that has the drill thinks its a bad deal and doesnt want to exchange it with the laptop",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d39_evt_005_00_32_25.jpg",
+          "imageCaption": "Stream snapshot @ 00:32:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=00h32m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-006",
+          "timestamp": "00:50:00",
+          "seconds": 3000,
+          "isMajor": true,
+          "title": "- 01:00:30 the crew get keys to their new hideout",
+          "description": "- 01:00:30 the crew get keys to their new hideout, there is a laptop where they can manage and buy a lot of variety of stuff including new items, M1 says this is the first phase only and things will just get better",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_006_00_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=00h50m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-007",
+          "timestamp": "01:00:50",
+          "seconds": 3650,
+          "isMajor": true,
+          "title": "- 01:05:40 they take a look at the new laptop (so many ",
+          "description": "- 01:05:40 they take a look at the new laptop (so many features)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_007_01_00_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:00:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=01h00m50s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 369:20 / Pierre Paul: 22:16 / Total : 391:36",
+        "timesJailed": "5 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
