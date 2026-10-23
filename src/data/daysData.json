@@ -36214,6 +36214,123 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "40": {
+      "dayNumber": 40,
+      "title": "Day 40",
+      "redditTitle": "NoPixel V | Day 40 Recap Oct 23rd | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xdjzce/nopixel_v_day_40_recap_oct_23rd_xqcs_pov_with/",
+      "updated": "2026-10-23T17:12:26+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2908856317",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 5,
+      "events": [
+        {
+          "id": "d40-evt-001",
+          "timestamp": "00:39:20",
+          "seconds": 2360,
+          "isMajor": false,
+          "title": "Logs in and starts day 40!",
+          "description": "x logs in and starts day 40!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_001_00_39_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:39:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h39m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-002",
+          "timestamp": "00:42:00",
+          "seconds": 2520,
+          "isMajor": true,
+          "title": "- 00:42:35 x shows off the corner of the hideout he's f",
+          "description": "- 00:42:35 x shows off the corner of the hideout he's finished decorating off stream",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_002_00_42_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:42:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h42m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-003",
+          "timestamp": "00:42:40",
+          "seconds": 2560,
+          "isMajor": false,
+          "title": "Speedy bought an smg for 50k at an auction",
+          "description": "Speedy bought an SMG for 50k at an auction",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d40_evt_003_00_42_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:42:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h42m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-004",
+          "timestamp": "00:48:25",
+          "seconds": 2905,
+          "isMajor": false,
+          "title": "Shows off his new car to ginger",
+          "description": "x shows off his new car to Ginger",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_004_00_48_25.jpg",
+          "imageCaption": "Stream snapshot @ 00:48:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h48m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-005",
+          "timestamp": "00:51:25",
+          "seconds": 3085,
+          "isMajor": false,
+          "title": "Harry asks x to remove his crew members as brokers whic",
+          "description": "Harry asks x to remove his crew members as brokers which he does shortly after (Harry says that their system is completely bugged)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_005_00_51_25.jpg",
+          "imageCaption": "Stream snapshot @ 00:51:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h51m25s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 381:58 / Pierre Paul: 22:16 / Total : 404:14",
+        "timesJailed": "5 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
