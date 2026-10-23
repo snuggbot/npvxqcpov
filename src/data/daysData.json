@@ -35117,7 +35117,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907859259",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d39-evt-001",
@@ -35253,6 +35253,140 @@
           "image": "/images/frames/d39_evt_007_01_00_50.jpg",
           "imageCaption": "Stream snapshot @ 01:00:50",
           "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=01h00m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-008",
+          "timestamp": "01:25:45",
+          "seconds": 5145,
+          "isMajor": false,
+          "title": "(wholesome cop interaction)",
+          "description": "(wholesome cop interaction)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_008_01_25_45.jpg",
+          "imageCaption": "Stream snapshot @ 01:25:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=01h25m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-009",
+          "timestamp": "01:27:00",
+          "seconds": 5220,
+          "isMajor": false,
+          "title": "The crew is going around trying to figure out the way t",
+          "description": "the crew is going around trying to figure out the way to increase their stats on the new laptop in their hideout (it's probably by doing different criminal activities)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_009_01_27_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:27:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=01h27m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-010",
+          "timestamp": "01:40:20",
+          "seconds": 6020,
+          "isMajor": true,
+          "title": "- 01:41:25 the stats on the hideout's laptop are going ",
+          "description": "- 01:41:25 the stats on the hideout's laptop are going up as the crew do different criminal activity",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_010_01_40_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:40:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=01h40m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-011",
+          "timestamp": "01:51:30",
+          "seconds": 6690,
+          "isMajor": true,
+          "title": "- 01:56:13 adam orders the pegassi ignus car for x",
+          "description": "- 01:56:13 Adam orders the Pegassi Ignus car for x",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_011_01_51_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:51:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=01h51m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-012",
+          "timestamp": "01:56:47",
+          "seconds": 7007,
+          "isMajor": true,
+          "title": "- 02:00:05 the crew now have access to a white board wh",
+          "description": "- 02:00:05 the crew now have access to a white board where they can draw, attach images, pin locations and more!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_012_01_56_47.jpg",
+          "imageCaption": "Stream snapshot @ 01:56:47",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=01h56m47s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-013",
+          "timestamp": "02:06:00",
+          "seconds": 7560,
+          "isMajor": false,
+          "title": "Robs atms and tony is robbing houses",
+          "description": "x robs ATMs and Tony is robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d39_evt_013_02_06_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:06:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=02h06m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-014",
+          "timestamp": "02:13:10",
+          "seconds": 7990,
+          "isMajor": false,
+          "title": "Is robbing houses (finding a drill is priority)",
+          "description": "x is robbing houses (finding a drill is priority)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_014_02_13_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:13:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=02h13m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
