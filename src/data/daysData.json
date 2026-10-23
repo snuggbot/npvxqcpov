@@ -35117,7 +35117,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907859259",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d39-evt-001",
@@ -35387,6 +35387,66 @@
           "image": "/images/frames/d39_evt_014_02_13_10.jpg",
           "imageCaption": "Stream snapshot @ 02:13:10",
           "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=02h13m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-015",
+          "timestamp": "02:25:22",
+          "seconds": 8722,
+          "isMajor": true,
+          "title": "- 02:26:00 adam sends a picture of the car to x",
+          "description": "- 02:26:00 Adam sends a picture of the car to x",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_015_02_25_22.jpg",
+          "imageCaption": "Stream snapshot @ 02:25:22",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=02h25m22s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-016",
+          "timestamp": "02:36:05",
+          "seconds": 9365,
+          "isMajor": true,
+          "title": "- 02:58:30 the crew is escorted to mosley's in a limo f",
+          "description": "- 02:58:30 the crew is escorted to Mosley's in a limo for x to receive his car, they arrive to Mosley's and get welcomed in, x is offered a 1 of 1 exclusivity contract where he gets to be the only one in the city to have a Pagassi Ignus but he will need to pay 50k weekly to Mosley's to maintain exclusivity and if he misses a payment they have the right to provoke the contract and sell another Pegassi, x says he will get back to them on that, x pays 850k for the car (Marty gives him 450k) and gets 220k cashback for providing the car parts, x drives off and pays Marty 220k back out of 450k",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d39_evt_016_02_36_05.jpg",
+          "imageCaption": "Stream snapshot @ 02:36:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=02h36m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-017",
+          "timestamp": "03:05:50",
+          "seconds": 11150,
+          "isMajor": true,
+          "title": "- 03:07:15 x adds a secondary paint to his car for 30k",
+          "description": "- 03:07:15 x adds a secondary paint to his car for 30k",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_017_03_05_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:05:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=03h05m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
