@@ -35117,7 +35117,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2907859259",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 35,
+      "eventsCount": 46,
       "events": [
         {
           "id": "d39-evt-001",
@@ -35795,6 +35795,219 @@
           "image": "/images/frames/d39_evt_035_06_43_08.jpg",
           "imageCaption": "Stream snapshot @ 06:43:08",
           "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=06h43m08s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-036",
+          "timestamp": "07:02:58",
+          "seconds": 25378,
+          "isMajor": true,
+          "title": "- 07:22:43 the crew is discussing an important question",
+          "description": "- 07:22:43 the crew is discussing an important question, should they take orders from different crews? (like leaving the area when 4head asked them to earlier for example)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_036_07_02_58.jpg",
+          "imageCaption": "Stream snapshot @ 07:02:58",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=07h02m58s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-037",
+          "timestamp": "07:38:00",
+          "seconds": 27480,
+          "isMajor": false,
+          "title": "Buys a couple of burner phones to use when selling jet ",
+          "description": "x buys a couple of burner phones to use when selling jet to locals",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_037_07_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=07h38m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-038",
+          "timestamp": "07:40:40",
+          "seconds": 27640,
+          "isMajor": false,
+          "title": "Is selling jet on their turf",
+          "description": "x is selling jet on their turf",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_038_07_40_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:40:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=07h40m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-039",
+          "timestamp": "07:58:50",
+          "seconds": 28730,
+          "isMajor": false,
+          "title": "Adds a bunch of lsd members as brokers",
+          "description": "x adds a bunch of LSD members as brokers",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_039_07_58_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:58:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=07h58m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-040",
+          "timestamp": "08:02:00",
+          "seconds": 28920,
+          "isMajor": false,
+          "title": "Spends a while selling jet",
+          "description": "x spends a while selling jet",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_040_08_02_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:02:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=08h02m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-041",
+          "timestamp": "08:23:00",
+          "seconds": 30180,
+          "isMajor": false,
+          "title": "Looks at a few modification options for his car",
+          "description": "x looks at a few modification options for his car",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_041_08_23_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:23:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=08h23m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-042",
+          "timestamp": "08:32:00",
+          "seconds": 30720,
+          "isMajor": true,
+          "title": "- 09:14:40 (please watch this bit",
+          "description": "- 09:14:40 (please watch this bit, it's not a normal Fleeca) the crew rob a Fleeca, (the hostage they have sings a few songs, actually good), they get the loot and leave, shortly after while sorting out the loot a cop car approaches and it turns into a chase, Ron is following the chase in his heli, x calls him and using a voice changer telling him to stop chasing them and leading the cops to them, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_042_08_32_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:32:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=08h32m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-043",
+          "timestamp": "09:26:00",
+          "seconds": 33960,
+          "isMajor": false,
+          "title": "Switches clothes to go and play tennis",
+          "description": "x switches clothes to go and play tennis",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_043_09_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=09h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-044",
+          "timestamp": "09:29:30",
+          "seconds": 34170,
+          "isMajor": false,
+          "title": "And tony try to play tennis but it doesn't really work",
+          "description": "x and Tony try to play tennis but it doesn't really work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d39_evt_044_09_29_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:29:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=09h29m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-045",
+          "timestamp": "09:38:00",
+          "seconds": 34680,
+          "isMajor": false,
+          "title": "The crew are working out at the beach",
+          "description": "the crew are working out at the beach",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_045_09_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=09h38m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d39-evt-046",
+          "timestamp": "09:55:30",
+          "seconds": 35730,
+          "isMajor": false,
+          "title": "They're back to robbing houses",
+          "description": "they're back to robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d39_evt_046_09_55_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:55:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2907859259?t=09h55m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
