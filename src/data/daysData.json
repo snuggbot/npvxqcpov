@@ -36222,10 +36222,10 @@
       "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xdjzce/nopixel_v_day_40_recap_oct_23rd_xqcs_pov_with/",
       "updated": "2026-10-23T17:12:26+00:00",
       "isLive": true,
-      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "twitchVod": "https://www.twitch.tv/videos/2908856317",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 21,
       "events": [
         {
           "id": "d40-evt-001",
@@ -36243,7 +36243,7 @@
           ],
           "image": "/images/frames/d40_evt_001_00_39_20.jpg",
           "imageCaption": "Stream snapshot @ 00:39:20",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h39m20s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h39m20s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36262,7 +36262,7 @@
           ],
           "image": "/images/frames/d40_evt_002_00_42_00.jpg",
           "imageCaption": "Stream snapshot @ 00:42:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h42m00s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h42m00s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36282,7 +36282,7 @@
           ],
           "image": "/images/frames/d40_evt_003_00_42_40.jpg",
           "imageCaption": "Stream snapshot @ 00:42:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h42m40s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h42m40s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36301,7 +36301,7 @@
           ],
           "image": "/images/frames/d40_evt_004_00_48_25.jpg",
           "imageCaption": "Stream snapshot @ 00:48:25",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h48m25s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h48m25s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36320,7 +36320,7 @@
           ],
           "image": "/images/frames/d40_evt_005_00_51_25.jpg",
           "imageCaption": "Stream snapshot @ 00:51:25",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h51m25s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h51m25s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36339,7 +36339,7 @@
           ],
           "image": "/images/frames/d40_evt_006_01_03_10.jpg",
           "imageCaption": "Stream snapshot @ 01:03:10",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h03m10s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h03m10s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36359,7 +36359,7 @@
           ],
           "image": "/images/frames/d40_evt_007_01_11_15.jpg",
           "imageCaption": "Stream snapshot @ 01:11:15",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h11m15s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h11m15s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36380,7 +36380,7 @@
           ],
           "image": "/images/frames/d40_evt_008_01_12_40.jpg",
           "imageCaption": "Stream snapshot @ 01:12:40",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h12m40s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h12m40s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36400,7 +36400,7 @@
           ],
           "image": "/images/frames/d40_evt_009_01_20_10.jpg",
           "imageCaption": "Stream snapshot @ 01:20:10",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h20m10s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h20m10s",
           "kickUrl": "https://kick.com/xqc"
         },
         {
@@ -36426,14 +36426,239 @@
           ],
           "image": "/images/frames/d40_evt_010_01_23_38.jpg",
           "imageCaption": "Stream snapshot @ 01:23:38",
-          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h23m38s",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h23m38s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-011",
+          "timestamp": "03:43:55",
+          "seconds": 13435,
+          "isMajor": true,
+          "title": "- 03:46:10 marty says x has a visitor",
+          "description": "- 03:46:10 Marty says x has a visitor, it's John Dub (he got fired from the PD), he wants to have a conversation with the Brick Bois after leaving the jail",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d40_evt_011_03_43_55.jpg",
+          "imageCaption": "Stream snapshot @ 03:43:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=03h43m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-012",
+          "timestamp": "03:46:12",
+          "seconds": 13572,
+          "isMajor": true,
+          "title": "- 03:47:20 lang uses a crowbar to hold and rob jason po",
+          "description": "- 03:47:20 Lang uses a crowbar to hold and rob Jason Polam in jail but finds nothing on him",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d40_evt_012_03_46_12.jpg",
+          "imageCaption": "Stream snapshot @ 03:46:12",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=03h46m12s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-013",
+          "timestamp": "03:48:15",
+          "seconds": 13695,
+          "isMajor": true,
+          "title": "- 04:21:00 lang says that they forgot to process him an",
+          "description": "- 04:21:00 Lang says that they forgot to process him and that he still has his items on him, he even has a propane tank, they start a riot in jail cuffing cops and robbing them, the cops breach in, shoots everyone down and the riot is over",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d40_evt_013_03_48_15.jpg",
+          "imageCaption": "Stream snapshot @ 03:48:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=03h48m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-014",
+          "timestamp": "04:52:35",
+          "seconds": 17555,
+          "isMajor": false,
+          "title": "- 04:52:45 x is going to do some dm quest stuff while b",
+          "description": "- 04:52:45 x is going to do some DM quest stuff while being jailed and will come back and do some jobs in jail later",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_014_04_52_35.jpg",
+          "imageCaption": "Stream snapshot @ 04:52:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=04h52m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-015",
+          "timestamp": "04:56:00",
+          "seconds": 17760,
+          "isMajor": false,
+          "title": "- 06:13:50 x is doing dm stuff (i'm skipping this entir",
+          "description": "- 06:13:50 x is doing DM stuff (I'm skipping this entire part to avoid spoilers but here is the timestamp if you want to watch it)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_015_04_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=04h56m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-016",
+          "timestamp": "06:14:00",
+          "seconds": 22440,
+          "isMajor": false,
+          "title": "- 06:14:30 x switches back to jp",
+          "description": "- 06:14:30 x switches back to JP, he still has 84 months to serve in jail",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_016_06_14_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:14:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=06h14m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-017",
+          "timestamp": "06:45:40",
+          "seconds": 24340,
+          "isMajor": false,
+          "title": "Leaves the jail",
+          "description": "x leaves the jail",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_017_06_45_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:45:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=06h45m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-018",
+          "timestamp": "06:55:55",
+          "seconds": 24955,
+          "isMajor": true,
+          "title": "- 06:58:35 nino calls x about the ex cop john dub",
+          "description": "- 06:58:35 Nino calls x about the ex cop John Dub, he's trying to get street cred and wants to join a crew, Nino says that he tasked John to take down 2 cops to prove himself which he did, x is willing to have a convo with him if he provides them with guns",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_018_06_55_55.jpg",
+          "imageCaption": "Stream snapshot @ 06:55:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=06h55m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-019",
+          "timestamp": "07:03:00",
+          "seconds": 25380,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Tony and Marty are at the PD",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d40_evt_019_07_03_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:03:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=07h03m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-020",
+          "timestamp": "07:38:00",
+          "seconds": 27480,
+          "isMajor": true,
+          "title": "- 07:39:50 x",
+          "description": "- 07:39:50 x, Marty, Tony, Harry, Hazel and Ginger are preparing for the cargo heist",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d40_evt_020_07_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=07h38m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-021",
+          "timestamp": "07:53:30",
+          "seconds": 28410,
+          "isMajor": true,
+          "title": "- 08:01:50 marty attempts to break in the cargo twice a",
+          "description": "- 08:01:50 Marty attempts to break in the cargo twice and fails, Ginger attempts it one and fails, x then one taps all 8 containers (they mainly get rolled money and 1 part of a laptop, max loss), the cops don't show up so they just drive away",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d40_evt_021_07_53_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:53:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=07h53m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 381:58 / Pierre Paul: 22:16 / Total : 404:14",
-        "timesJailed": "5 arrests",
+        "timesJailed": "6 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
