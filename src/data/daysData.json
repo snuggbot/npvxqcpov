@@ -36225,7 +36225,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2908856317",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d40-evt-001",
@@ -36321,6 +36321,112 @@
           "image": "/images/frames/d40_evt_005_00_51_25.jpg",
           "imageCaption": "Stream snapshot @ 00:51:25",
           "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=00h51m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-006",
+          "timestamp": "01:03:10",
+          "seconds": 3790,
+          "isMajor": false,
+          "title": "Starts robbing houses",
+          "description": "x starts robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d40_evt_006_01_03_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:03:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h03m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-007",
+          "timestamp": "01:11:15",
+          "seconds": 4275,
+          "isMajor": true,
+          "title": "- 01:12:25 speedy gets a text from the sheriff sending ",
+          "description": "- 01:12:25 Speedy gets a text from the sheriff sending him a subpoena for his phone",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d40_evt_007_01_11_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:11:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h11m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-008",
+          "timestamp": "01:12:40",
+          "seconds": 4360,
+          "isMajor": true,
+          "title": "- 01:15:27 lang says the cops might be raiding the stor",
+          "description": "- 01:15:27 Lang says the cops might be raiding the storage unit and there is a cop right outside Harry's hideout too, Lang is assessing the situation for now,",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d40_evt_008_01_12_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:12:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h12m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-009",
+          "timestamp": "01:20:10",
+          "seconds": 4810,
+          "isMajor": true,
+          "title": "- 01:21:33 lang says this is all happening because of b",
+          "description": "- 01:21:33 Lang says this is all happening because of birds (illegal hunting)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d40_evt_009_01_20_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:20:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h20m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d40-evt-010",
+          "timestamp": "01:23:38",
+          "seconds": 5018,
+          "isMajor": true,
+          "title": "- 03:44:00 they search the storage unit and find two un",
+          "description": "- 03:44:00 they search the storage unit and find two undercover cops, they take them as hostages and cuff them in the storage unit building itself while many cops are preparing to enter the storage unit, the crew place a bunch of propane tanks around the storage unit building, x negotiates with the cops, they promise free passage to a vehicle in exchange for the hostages, meanwhile Tony , Harry and his crew are on the outside preparing for a shootout, the crew don't believe the cops and eventually a shootout starts, Speedy goes down and so do a few cops, Lang goes down, x goes down, a shootout outside causes Tony and Harry to go down too, there are cops everywhere and even on rooftops, Marty is the last man standing on the inside, eventually Marty goes down too ending the shootout (Lang and x go down to desync), they're being escorted to the hospital to be treated, they arrive at the PD, x causes mayhem in the PD as usual, x is read his charges, he's facing 688 months in jail and a 76k fine, x causes more mayhem running around punching cops while being processed, eventually gets cuffed again, x is sent to jail for 360 months (the max reduction they can do is 50% so x ends up with 360 months)",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony",
+            "Speedy"
+          ],
+          "image": "/images/frames/d40_evt_010_01_23_38.jpg",
+          "imageCaption": "Stream snapshot @ 01:23:38",
+          "twitchUrl": "https://www.twitch.tv/videos/2908856317?t=01h23m38s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
