@@ -36861,6 +36861,301 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "41": {
+      "dayNumber": 41,
+      "title": "Day 41",
+      "redditTitle": "NoPixel V | Day 41 Recap Oct 24th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xeao9x/nopixel_v_day_41_recap_oct_24th_xqcs_pov_with/",
+      "updated": "2026-10-24T14:52:44+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2909822254",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 14,
+      "events": [
+        {
+          "id": "d41-evt-001",
+          "timestamp": "00:57:40",
+          "seconds": 3460,
+          "isMajor": false,
+          "title": "Logs in and starts day 41",
+          "description": "x logs in and starts day 41",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_001_00_57_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:57:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=00h57m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-002",
+          "timestamp": "00:59:03",
+          "seconds": 3543,
+          "isMajor": true,
+          "title": "- 00:59:30 the brick bois are now class 3 policy in the",
+          "description": "- 00:59:30 the Brick Bois are now Class 3 Policy in the Grey Book (hideout Laptop)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_002_00_59_03.jpg",
+          "imageCaption": "Stream snapshot @ 00:59:03",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=00h59m03s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-003",
+          "timestamp": "01:02:40",
+          "seconds": 3760,
+          "isMajor": false,
+          "title": "Leaves a plant as a gift at the pd for mike bayo (he wr",
+          "description": "x leaves a plant as a gift at the PD for Mike Bayo (he writes Mayo) since he said that they were looking for one",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_003_01_02_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:02:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h02m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-004",
+          "timestamp": "01:06:30",
+          "seconds": 3990,
+          "isMajor": false,
+          "title": "Speaks to speedy",
+          "description": "x speaks to Speedy, they discuss business and the fact that they're behind",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d41_evt_004_01_06_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h06m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-005",
+          "timestamp": "01:16:00",
+          "seconds": 4560,
+          "isMajor": false,
+          "title": "Is robbing atms",
+          "description": "x is robbing ATMs, gets spotted by cops and it turns into a chase, Speedy arranges a bike swap for x and he eventually escapes",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d41_evt_005_01_16_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:16:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h16m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-006",
+          "timestamp": "01:35:20",
+          "seconds": 5720,
+          "isMajor": false,
+          "title": "- 01:00:00 x calls andi coots (works at the mayor's off",
+          "description": "- 01:00:00 x calls Andi Coots (works at the Mayor's office), he complains to her about the fact that his car modifications costed like 30k when it was showing around 1k at Benny's, she said that she will look into it",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_006_01_35_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:35:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h35m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-007",
+          "timestamp": "01:39:50",
+          "seconds": 5990,
+          "isMajor": false,
+          "title": "(x reacts to mike bayo receiving the plant gift from hi",
+          "description": "(x reacts to Mike Bayo receiving the plant gift from him)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_007_01_39_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:39:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h39m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-008",
+          "timestamp": "01:44:00",
+          "seconds": 6240,
+          "isMajor": false,
+          "title": "Looks at car mods prices",
+          "description": "x looks at car mods prices, he gets window tint",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_008_01_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h44m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-009",
+          "timestamp": "01:48:34",
+          "seconds": 6514,
+          "isMajor": false,
+          "title": "Druz says that a guy names gavin golf stole her guns",
+          "description": "Druz says that a guy names Gavin Golf stole her guns, she also mentions that her guns were hot so he's going to get charged if he gets caught by the cops",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_009_01_48_34.jpg",
+          "imageCaption": "Stream snapshot @ 01:48:34",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h48m34s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-010",
+          "timestamp": "01:57:30",
+          "seconds": 7050,
+          "isMajor": false,
+          "title": "Calls druz",
+          "description": "x calls Druz, he adds her as a broker so that she can sell jet",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_010_01_57_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:57:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=01h57m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-011",
+          "timestamp": "02:06:30",
+          "seconds": 7590,
+          "isMajor": false,
+          "title": "Gives a burner phone to druz",
+          "description": "x gives a burner phone to Druz, Speedy is going to coach her on selling Jet",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d41_evt_011_02_06_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:06:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=02h06m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-012",
+          "timestamp": "02:25:40",
+          "seconds": 8740,
+          "isMajor": false,
+          "title": "Hands over jet cooking equipment to zuck",
+          "description": "x hands over Jet cooking equipment to Zuck",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_012_02_25_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:25:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=02h25m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-013",
+          "timestamp": "02:37:35",
+          "seconds": 9455,
+          "isMajor": true,
+          "title": "- 02:39:45 x calls nancy wanting to get his tents back ",
+          "description": "- 02:39:45 x calls Nancy wanting to get his tents back that they provided to her to start cooking, she shares the location but says that he can only move them in 3 days since she just used them to cook, he tells her that he's going to the site to use the tents",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_013_02_37_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:37:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=02h37m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-014",
+          "timestamp": "02:40:28",
+          "seconds": 9628,
+          "isMajor": true,
+          "title": "- 02:47:50 x arrives at the location and looks at the t",
+          "description": "- 02:47:50 x arrives at the location and looks at the tents, he notices that Jet batches are divided into two stacks, one with 10-12% purity batch and another with 20% purity, x believes that Nancy is scamming them giving them the lower purity ones and giving the 20% to Nino, x takes a bunch of 15-16% and 20% ones and drives off",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_014_02_40_28.jpg",
+          "imageCaption": "Stream snapshot @ 02:40:28",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=02h40m28s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 391:18 / Pierre Paul: 22:16 / Total : 413:34",
+        "timesJailed": "6 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
