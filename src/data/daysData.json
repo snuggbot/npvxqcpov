@@ -36872,7 +36872,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2909822254",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 31,
+      "eventsCount": 43,
       "events": [
         {
           "id": "d41-evt-001",
@@ -37480,6 +37480,240 @@
           "image": "/images/frames/d41_evt_031_05_48_20.jpg",
           "imageCaption": "Stream snapshot @ 05:48:20",
           "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=05h48m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-032",
+          "timestamp": "06:21:50",
+          "seconds": 22910,
+          "isMajor": false,
+          "title": "Calls goldie",
+          "description": "x calls Goldie, she's going to provide him with more Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_032_06_21_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:21:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=06h21m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-033",
+          "timestamp": "06:38:00",
+          "seconds": 23880,
+          "isMajor": false,
+          "title": "Continues to rob stores and atms",
+          "description": "x continues to rob stores and ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_033_06_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=06h38m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-034",
+          "timestamp": "07:07:50",
+          "seconds": 25670,
+          "isMajor": false,
+          "title": "Teaches druz how to cook jet",
+          "description": "x teaches Druz how to cook Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_034_07_07_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:07:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=07h07m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-035",
+          "timestamp": "07:23:50",
+          "seconds": 26630,
+          "isMajor": false,
+          "title": "Creates a new phone group called salesforce to include ",
+          "description": "x creates a new phone group called SalesForce to include all their Jet sellers",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_035_07_23_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:23:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=07h23m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-036",
+          "timestamp": "07:36:00",
+          "seconds": 27360,
+          "isMajor": false,
+          "title": "Leaves a message for speedy on the white board updating",
+          "description": "x leaves a message for Speedy on the white board updating him about the Jet sellers",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d41_evt_036_07_36_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:36:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=07h36m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-037",
+          "timestamp": "07:47:00",
+          "seconds": 28020,
+          "isMajor": false,
+          "title": "Gets spotted by a cop robbing atms and it turns into a ",
+          "description": "x gets spotted by a cop robbing ATMs and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_037_07_47_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:47:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=07h47m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-038",
+          "timestamp": "07:54:40",
+          "seconds": 28480,
+          "isMajor": true,
+          "title": "- 07:58:45 a guys names jason calls x (a friend of mart",
+          "description": "- 07:58:45 a guys names Jason calls x (a friend of Marty's), he mentions having a drill which he's used at a Fleeca, x asks if he can borrow the drill, they're going to set up a meeting soon",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d41_evt_038_07_54_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:54:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=07h54m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-039",
+          "timestamp": "08:11:00",
+          "seconds": 29460,
+          "isMajor": false,
+          "title": "(x helps a couple of glitched players using his admin p",
+          "description": "(x helps a couple of glitched players using his admin powers)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_039_08_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=08h11m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-040",
+          "timestamp": "08:14:25",
+          "seconds": 29665,
+          "isMajor": true,
+          "title": "- 08:16:50 marty show x his secret spot with tents to c",
+          "description": "- 08:16:50 Marty show x his secret spot with tents to cook Jet, x places 2 more tents for him",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d41_evt_040_08_14_25.jpg",
+          "imageCaption": "Stream snapshot @ 08:14:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=08h14m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-041",
+          "timestamp": "09:07:00",
+          "seconds": 32820,
+          "isMajor": false,
+          "title": "After distributing jet for a while",
+          "description": "after distributing Jet for a while, x is robbing houses",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_041_09_07_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:07:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=09h07m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-042",
+          "timestamp": "09:30:00",
+          "seconds": 34200,
+          "isMajor": false,
+          "title": "Swan helps repair x's car for 2",
+          "description": "Swan helps repair x's car for 2.2k",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_042_09_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=09h30m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-043",
+          "timestamp": "10:00:00",
+          "seconds": 36000,
+          "isMajor": false,
+          "title": "And marty get spotted robbing atms and it turns into a ",
+          "description": "x and Marty get spotted robbing ATMs and it turns into a chase air1 included, the chase lasts for 40 minutes but x eventually escapes air1",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d41_evt_043_10_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=10h00m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
