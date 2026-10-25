@@ -36872,7 +36872,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2909822254",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d41-evt-001",
@@ -37146,6 +37146,318 @@
           "image": "/images/frames/d41_evt_014_02_40_28.jpg",
           "imageCaption": "Stream snapshot @ 02:40:28",
           "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=02h40m28s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-015",
+          "timestamp": "03:05:50",
+          "seconds": 11150,
+          "isMajor": false,
+          "title": "Shows druz nancy's cooking spot so she can start cookin",
+          "description": "x shows Druz Nancy's cooking spot so she can start cooking there too, he also tells her to press Nancy a bit",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_015_03_05_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:05:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h05m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-016",
+          "timestamp": "03:09:50",
+          "seconds": 11390,
+          "isMajor": false,
+          "title": "Nancy calls x",
+          "description": "Nancy calls x, she says she will have more product for him soon",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_016_03_09_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:09:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h09m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-017",
+          "timestamp": "03:15:00",
+          "seconds": 11700,
+          "isMajor": false,
+          "title": "Has a potential cooking spot",
+          "description": "x has a potential cooking spot",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_017_03_15_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:15:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h15m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-018",
+          "timestamp": "03:15:55",
+          "seconds": 11755,
+          "isMajor": false,
+          "title": "Andy coots calls x",
+          "description": "Andy coots calls x, she says that the prices for modifications is probably based on the class of the car (she advises him to contact the devs about it)",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_018_03_15_55.jpg",
+          "imageCaption": "Stream snapshot @ 03:15:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h15m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-019",
+          "timestamp": "03:18:30",
+          "seconds": 11910,
+          "isMajor": false,
+          "title": "(x logs in with the character dexter jones to test the ",
+          "description": "(x logs in with the character Dexter Jones to test the modification prices, he confirms that the modification price is based on the price of the car)",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_019_03_18_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:18:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h18m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-020",
+          "timestamp": "03:24:20",
+          "seconds": 12260,
+          "isMajor": false,
+          "title": "Calls andy back and relays the info to her",
+          "description": "x calls Andy back and relays the info to her",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_020_03_24_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:24:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h24m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-021",
+          "timestamp": "03:31:00",
+          "seconds": 12660,
+          "isMajor": false,
+          "title": "Is robbing atms",
+          "description": "x is robbing ATMs, gets spotted by cops and it turns into a chase but he escapes quickly with his car",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_021_03_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h31m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-022",
+          "timestamp": "03:51:17",
+          "seconds": 13877,
+          "isMajor": true,
+          "title": "- 04:01:22 nancy calls x",
+          "description": "- 04:01:22 Nancy calls x, x wants to keep the production in a closed loop or mostly in a closed loop where she cooks Jet, he buys most of it especially the highest purity ones 15-20% and she will be completely transparent about the other people she's selling Jet to like Nino and potentially maybe Benji or whoever",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_022_03_51_17.jpg",
+          "imageCaption": "Stream snapshot @ 03:51:17",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=03h51m17s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-023",
+          "timestamp": "04:09:55",
+          "seconds": 14995,
+          "isMajor": false,
+          "title": "- 04:00:00 tony calls x",
+          "description": "- 04:00:00 Tony calls x, he's not very happy with the way the pawn shop is working",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d41_evt_023_04_09_55.jpg",
+          "imageCaption": "Stream snapshot @ 04:09:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=04h09m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-024",
+          "timestamp": "04:19:20",
+          "seconds": 15560,
+          "isMajor": true,
+          "title": "- 04:26:20 x meets up with roxy foxy",
+          "description": "- 04:26:20 x meets up with Roxy Foxy, Quinton and Ken Sama, he hires all 3 of them to sell Jet",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_024_04_19_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:19:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=04h19m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-025",
+          "timestamp": "04:27:00",
+          "seconds": 16020,
+          "isMajor": false,
+          "title": "Buys everyone of them a burner phone to prepare them to",
+          "description": "x buys everyone of them a burner phone to prepare them to sell Jet",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_025_04_27_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:27:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=04h27m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-026",
+          "timestamp": "04:35:30",
+          "seconds": 16530,
+          "isMajor": false,
+          "title": "Hands them over to druz so that she can train them",
+          "description": "x hands them over to Druz so that she can train them, x introduces Druz as his best Jet seller",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_026_04_35_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:35:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=04h35m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-027",
+          "timestamp": "04:41:00",
+          "seconds": 16860,
+          "isMajor": false,
+          "title": "Adds all 3 of them as brokers",
+          "description": "x adds all 3 of them as brokers",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_027_04_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=04h41m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-028",
+          "timestamp": "04:47:00",
+          "seconds": 17220,
+          "isMajor": false,
+          "title": "Meets nancy and pays her 15k for some jet",
+          "description": "x meets Nancy and pays her 15k for some Jet",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_028_04_47_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:47:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=04h47m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-029",
+          "timestamp": "04:50:25",
+          "seconds": 17425,
+          "isMajor": true,
+          "title": "- 04:55:45 x runs into raymundo",
+          "description": "- 04:55:45 x runs into Raymundo, he's cooking Jet for his group (Jason Polam, Clay and Yuno), x offers him a deal, to scale up his operation and protection but they will need to sell all their Jet to x's crew, he will relay the info to his crew, they exchange info and will be in touch",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_029_04_50_25.jpg",
+          "imageCaption": "Stream snapshot @ 04:50:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=04h50m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d41-evt-030",
+          "timestamp": "05:23:20",
+          "seconds": 19400,
+          "isMajor": false,
+          "title": "Raymundo calls x asking for cooking equipment",
+          "description": "Raymundo calls x asking for cooking equipment, x says that he will provide him with some one they meet with his crew and discuss business",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d41_evt_030_05_23_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:23:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2909822254?t=05h23m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
