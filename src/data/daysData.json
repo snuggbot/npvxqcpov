@@ -37775,7 +37775,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2911620180",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 27,
+      "eventsCount": 34,
       "events": [
         {
           "id": "d42-evt-001",
@@ -38302,6 +38302,143 @@
           "image": "/images/frames/d42_evt_027_07_01_00.jpg",
           "imageCaption": "Stream snapshot @ 07:01:00",
           "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h01m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-028",
+          "timestamp": "07:18:00",
+          "seconds": 26280,
+          "isMajor": false,
+          "title": "Is chopping cars",
+          "description": "x is chopping cars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_028_07_18_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:18:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h18m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-029",
+          "timestamp": "07:23:20",
+          "seconds": 26600,
+          "isMajor": true,
+          "title": "- 07:25:30 x adds swan as a family member so that she c",
+          "description": "- 07:25:30 x adds Swan as a family member so that she can chop cars with them too",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_029_07_23_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:23:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h23m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-030",
+          "timestamp": "07:27:40",
+          "seconds": 26860,
+          "isMajor": false,
+          "title": "Swan starts chopping cars",
+          "description": "Swan starts chopping cars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_030_07_27_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:27:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h27m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-031",
+          "timestamp": "07:31:00",
+          "seconds": 27060,
+          "isMajor": false,
+          "title": "Druz is buying x some guns",
+          "description": "Druz is buying x some guns",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_031_07_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h31m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-032",
+          "timestamp": "07:41:30",
+          "seconds": 27690,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Tony and Marty rob G6 employees (they're looking for guns but find none on them)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d42_evt_032_07_41_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:41:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h41m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-033",
+          "timestamp": "07:42:55",
+          "seconds": 27775,
+          "isMajor": false,
+          "title": "- 07:44:33 roxy calls x (acting weird) asking him to me",
+          "description": "- 07:44:33 Roxy calls x (acting weird) asking him to meet at the car wash to hand over the guns he's ordered",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_033_07_42_55.jpg",
+          "imageCaption": "Stream snapshot @ 07:42:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h42m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-034",
+          "timestamp": "07:45:30",
+          "seconds": 27930,
+          "isMajor": true,
+          "title": "- 07:54:30 x links up with roxy foxy to get some guns b",
+          "description": "- 07:54:30 x links up with Roxy Foxy to get some guns but she's acting weird along with Robert (like zombies), Roxy hands over the weapons to x, shortly after Robert and Roxy hug x, Robert punches x calling it a European fist bump which causes him to get infected, Ken-Sama calls x warning him about the infection and that he should stay away from them and they drive off",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Ken-Sama"
+          ],
+          "image": "/images/frames/d42_evt_034_07_45_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:45:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h45m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
