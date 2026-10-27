@@ -37775,7 +37775,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2911620180",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 5,
+      "eventsCount": 27,
       "events": [
         {
           "id": "d42-evt-001",
@@ -37871,6 +37871,437 @@
           "image": "/images/frames/d42_evt_005_01_26_10.jpg",
           "imageCaption": "Stream snapshot @ 01:26:10",
           "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=01h26m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-006",
+          "timestamp": "01:32:10",
+          "seconds": 5530,
+          "isMajor": true,
+          "title": "- 01:35:40 x is robbing a pharmacy (first time) and get",
+          "description": "- 01:35:40 x is robbing a pharmacy (first time) and gets a bunch of different medical supplies (each has a purity stat), he also robs the till for rolled money (no safe key or cards)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_006_01_32_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=01h32m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-007",
+          "timestamp": "01:39:25",
+          "seconds": 5965,
+          "isMajor": true,
+          "title": "- 01:46:40 x cooks jet (completely changed with a bunch",
+          "description": "- 01:46:40 x cooks Jet (completely changed with a bunch of different mini games), x gets 8% even though he's performed well across all skill checks",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_007_01_39_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:39:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=01h39m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-008",
+          "timestamp": "01:55:30",
+          "seconds": 6930,
+          "isMajor": false,
+          "title": "Lets ginger cook jet",
+          "description": "x lets Ginger cook jet, she also gets 8% purity, she does another patch shortly after and gets 6%",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_008_01_55_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:55:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=01h55m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-009",
+          "timestamp": "02:10:55",
+          "seconds": 7855,
+          "isMajor": true,
+          "title": "- 02:11:45 ginger says that there is 0 orders available",
+          "description": "- 02:11:45 Ginger says that there is 0 orders available at the pawnshop",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_009_02_10_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:10:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=02h10m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-010",
+          "timestamp": "02:13:00",
+          "seconds": 7980,
+          "isMajor": false,
+          "title": "Invites druz to cook jet",
+          "description": "x invites Druz to cook jet, she gets 8% as well on her first cook",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_010_02_13_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:13:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=02h13m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-011",
+          "timestamp": "02:36:00",
+          "seconds": 9360,
+          "isMajor": false,
+          "title": "Lang get 17% purity (lang got lucky with his initial te",
+          "description": "Lang get 17% purity (Lang got lucky with his initial test sequence results getting 4 blue squares while everyone else got 0 to 1 only)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d42_evt_011_02_36_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:36:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=02h36m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-012",
+          "timestamp": "02:38:50",
+          "seconds": 9530,
+          "isMajor": false,
+          "title": "Tony gets 10% purity",
+          "description": "Tony gets 10% purity",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d42_evt_012_02_38_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:38:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=02h38m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-013",
+          "timestamp": "02:40:25",
+          "seconds": 9625,
+          "isMajor": true,
+          "title": "- 02:44:10 lang cooks jet again but this time using hig",
+          "description": "- 02:44:10 Lang cooks Jet again but this time using high purity ingredients and gets 24%",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d42_evt_013_02_40_25.jpg",
+          "imageCaption": "Stream snapshot @ 02:40:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=02h40m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-014",
+          "timestamp": "02:51:50",
+          "seconds": 10310,
+          "isMajor": true,
+          "title": "- 02:54:00 x cooks using lang's sequence and gets 24% t",
+          "description": "- 02:54:00 x cooks using Lang's sequence and gets 24% too but using worse ingredients",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d42_evt_014_02_51_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:51:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=02h51m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-015",
+          "timestamp": "03:01:00",
+          "seconds": 10860,
+          "isMajor": false,
+          "title": "Sells some jet using speedy's phone (contacts)",
+          "description": "x sells some Jet using Speedy's phone (contacts)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d42_evt_015_03_01_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:01:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=03h01m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-016",
+          "timestamp": "03:48:40",
+          "seconds": 13720,
+          "isMajor": false,
+          "title": "Is chopping cars",
+          "description": "x is chopping cars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_016_03_48_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:48:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=03h48m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-017",
+          "timestamp": "04:11:30",
+          "seconds": 15090,
+          "isMajor": true,
+          "title": "- 04:31:20 3 people approach x asking to trade stuff fo",
+          "description": "- 04:31:20 3 people approach x asking to trade stuff for jet/weed (seems like undercover cops), he takes them to the meeting spot (fight club) and sends a message to the crew to join him, the crew come in and hold the 3 individuals at gunpoint, search them but find nothing special on them, they smoke a few joints to prove that they're not cops, the crew decide to let them go",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crypto",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_017_04_11_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=04h11m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-018",
+          "timestamp": "04:39:30",
+          "seconds": 16770,
+          "isMajor": false,
+          "title": "The",
+          "description": "the",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_018_04_39_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:39:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=04h39m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-019",
+          "timestamp": "04:40:40",
+          "seconds": 16840,
+          "isMajor": true,
+          "title": "- 05:00:30 the crew is looking to rob a pharmacy but so",
+          "description": "- 05:00:30 the crew is looking to rob a pharmacy but someone's already robbing it, they decide to interfere and attack the robbers, it turns into a shootout, x falls off the roof and gets incapacitated, Marty picks him up in his car, Swan joins them for support, everyone gets incapacitated (just before storm)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d42_evt_019_04_40_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:40:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=04h40m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-020",
+          "timestamp": "05:13:10",
+          "seconds": 18790,
+          "isMajor": false,
+          "title": "Calls nino looking for a drill but the one they had is ",
+          "description": "x calls Nino looking for a drill but the one they had is broken",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_020_05_13_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:13:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=05h13m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-021",
+          "timestamp": "05:16:00",
+          "seconds": 18960,
+          "isMajor": false,
+          "title": "Starts robbing houses looking for a drill",
+          "description": "x starts robbing houses looking for a drill",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_021_05_16_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:16:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=05h16m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-022",
+          "timestamp": "05:19:20",
+          "seconds": 19160,
+          "isMajor": true,
+          "title": "- 05:20:10 x finds a laptop robbing a random house",
+          "description": "- 05:20:10 x finds a laptop robbing a random house",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_022_05_19_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:19:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=05h19m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-023",
+          "timestamp": "05:28:20",
+          "seconds": 19700,
+          "isMajor": false,
+          "title": "Someone disrespects lang and x takes him down",
+          "description": "someone disrespects Lang and x takes him down",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d42_evt_023_05_28_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:28:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=05h28m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-024",
+          "timestamp": "06:14:00",
+          "seconds": 22440,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty and Lang discuss their relationship with BNE, brokers and connections, they want to focus on robbing pharmacies for now",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d42_evt_024_06_14_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:14:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=06h14m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-025",
+          "timestamp": "06:32:20",
+          "seconds": 23540,
+          "isMajor": false,
+          "title": "Is experimenting with jet cooking",
+          "description": "x is experimenting with jet cooking",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_025_06_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=06h32m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-026",
+          "timestamp": "06:57:00",
+          "seconds": 25020,
+          "isMajor": false,
+          "title": "Asks roxy foxy to buy a bunch of guns using her license",
+          "description": "x asks Roxy Foxy to buy a bunch of guns using her license so that he can get clean guns",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_026_06_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=06h57m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d42-evt-027",
+          "timestamp": "07:01:00",
+          "seconds": 25260,
+          "isMajor": false,
+          "title": "Is robbing atms",
+          "description": "x is robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d42_evt_027_07_01_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:01:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2911620180?t=07h01m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
