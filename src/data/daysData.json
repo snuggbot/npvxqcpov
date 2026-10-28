@@ -38764,7 +38764,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2912487657",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 9,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d43-evt-001",
@@ -38946,6 +38946,281 @@
           "image": "/images/frames/d43_evt_009_04_15_40.jpg",
           "imageCaption": "Stream snapshot @ 04:15:40",
           "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=04h15m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-010",
+          "timestamp": "07:03:00",
+          "seconds": 25380,
+          "isMajor": false,
+          "title": "Is cooking jet",
+          "description": "x is cooking Jet, he test runs all Hs and all Js and gets 2 blue slots, he cooks using seq#1 and gets 17%, seq#2 and gets 13% (ingredients were low quality for both cooks)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_010_07_03_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:03:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=07h03m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-011",
+          "timestamp": "07:43:00",
+          "seconds": 27780,
+          "isMajor": false,
+          "title": "The crew is chopping cars",
+          "description": "the crew is chopping cars",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_011_07_43_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:43:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=07h43m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-012",
+          "timestamp": "08:47:40",
+          "seconds": 31660,
+          "isMajor": false,
+          "title": "While getting ready to rob the pharmacies",
+          "description": "while getting ready to rob the pharmacies, x holds one of the Carlitos at gunpoint but the guy shoots x and incapacitates him, Zeek interferes and downs the guy and gets x to safety",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_012_08_47_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:47:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=08h47m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-013",
+          "timestamp": "08:55:30",
+          "seconds": 32130,
+          "isMajor": false,
+          "title": "And zeek rob a pharmacy",
+          "description": "x and Zeek rob a pharmacy",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_013_08_55_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:55:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=08h55m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-014",
+          "timestamp": "09:07:00",
+          "seconds": 32820,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Swan, Tony, Zeek and Marty rob an ammunation, x and Zeek camp the rooftops since they only have a 4 door, they get a pistol from the safe, the rest of the crew exchange the hostage and drive off, x and Zeek walk away once everyone's left",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d43_evt_014_09_07_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:07:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=09h07m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-015",
+          "timestamp": "09:15:50",
+          "seconds": 33350,
+          "isMajor": false,
+          "title": "Adds zeek to the family so that he can chop cars at the",
+          "description": "x adds Zeek to the family so that he can chop cars at their spot too",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_015_09_15_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:15:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=09h15m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-016",
+          "timestamp": "09:34:00",
+          "seconds": 34440,
+          "isMajor": false,
+          "title": "The whole squad is involved in a cop chase but they eve",
+          "description": "the whole squad is involved in a cop chase but they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_016_09_34_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:34:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=09h34m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-017",
+          "timestamp": "09:48:17",
+          "seconds": 35297,
+          "isMajor": false,
+          "title": "Wants to hire zeek and his crew (the alchemists) but ma",
+          "description": "x wants to hire Zeek and his crew (the alchemists) but Marty doesn't trust thhis crew apart from Zeek",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d43_evt_017_09_48_17.jpg",
+          "imageCaption": "Stream snapshot @ 09:48:17",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=09h48m17s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-018",
+          "timestamp": "09:52:10",
+          "seconds": 35530,
+          "isMajor": true,
+          "title": "- 09:53:00 ginger calls x saying there are new things t",
+          "description": "- 09:53:00 Ginger calls x saying there are new things to the bank in Paleto",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_018_09_52_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:52:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=09h52m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-019",
+          "timestamp": "09:53:20",
+          "seconds": 35600,
+          "isMajor": false,
+          "title": "Is going to provide gloryon with jet cooking ingredient",
+          "description": "x is going to provide Gloryon with Jet cooking ingredients to help experiment",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_019_09_53_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:53:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=09h53m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-020",
+          "timestamp": "10:05:30",
+          "seconds": 36330,
+          "isMajor": true,
+          "title": "- 10:15:15 x",
+          "description": "- 10:15:15 x, Marty and Tony meet up with Jason (the guy that has the drill), they convince him to do the Fleeca together using his drill but he wants to wait for Bogg Dann since he promised to rob the Fleeca with him next",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony",
+            "Bogg"
+          ],
+          "image": "/images/frames/d43_evt_020_10_05_30.jpg",
+          "imageCaption": "Stream snapshot @ 10:05:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=10h05m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-021",
+          "timestamp": "10:19:20",
+          "seconds": 37160,
+          "isMajor": false,
+          "title": "Hands over gloryon the cooking ingredients",
+          "description": "x hands over Gloryon the cooking ingredients",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_021_10_19_20.jpg",
+          "imageCaption": "Stream snapshot @ 10:19:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=10h19m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-022",
+          "timestamp": "10:40:45",
+          "seconds": 38445,
+          "isMajor": true,
+          "title": "- 11:11:30 they start the fleeca along with bogg dann",
+          "description": "- 11:11:30 they start the Fleeca along with Bogg Dann, Jason does the drilling (getting more rolled cash), they exchange the hostage and it turns into a chase, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Bogg"
+          ],
+          "image": "/images/frames/d43_evt_022_10_40_45.jpg",
+          "imageCaption": "Stream snapshot @ 10:40:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=10h40m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-023",
+          "timestamp": "11:20:00",
+          "seconds": 40800,
+          "isMajor": false,
+          "title": "They change outfits",
+          "description": "they change outfits",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_023_11_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 11:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=11h20m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
