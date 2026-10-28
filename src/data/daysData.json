@@ -38753,6 +38753,165 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "43": {
+      "dayNumber": 43,
+      "title": "Day 43",
+      "redditTitle": "NoPixel V | Day 43 Recap Oct 27th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xgyv3o/nopixel_v_day_43_recap_oct_27th_xqcs_pov_with/",
+      "updated": "2026-10-27T17:26:53+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2912487657",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 7,
+      "events": [
+        {
+          "id": "d43-evt-001",
+          "timestamp": "00:49:40",
+          "seconds": 2980,
+          "isMajor": false,
+          "title": "Logs in and starts day 43!",
+          "description": "x logs in and starts day 43!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_001_00_49_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:49:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=00h49m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-002",
+          "timestamp": "00:54:40",
+          "seconds": 3280,
+          "isMajor": true,
+          "title": "- 00:58:37 the crew link up",
+          "description": "- 00:58:37 the crew link up, they say that they were baited by Nate Karama (one of the clowns) into buying a drill but as he arrived at the meeting spot 4head and his crew pulled up and shot everyone down, the crew then go to the fun house and start shooting a bunch of clowns but the cops arrive and they mainly target Speedy and he gets shot at and goes down, the crew fire back and retrieve Speedy's body and escape the cops, x says there is no room for diplomacy here with 4head, it's war!",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d43_evt_002_00_54_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:54:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=00h54m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-003",
+          "timestamp": "01:00:45",
+          "seconds": 3645,
+          "isMajor": false,
+          "title": "Speedy says there might be another chop spot behind the",
+          "description": "Speedy says there might be another chop spot behind the tumbler, potential competition (not confirmed)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d43_evt_003_01_00_45.jpg",
+          "imageCaption": "Stream snapshot @ 01:00:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=01h00m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-004",
+          "timestamp": "01:07:40",
+          "seconds": 4060,
+          "isMajor": false,
+          "title": "Starts cooking jet using seq#1 and gets 18% purity",
+          "description": "x starts cooking Jet using Seq#1 and gets 18% purity, then using Seq#2 and gets 12%, then using Seq#3 and gets 10%",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_004_01_07_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:07:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=01h07m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-005",
+          "timestamp": "01:28:00",
+          "seconds": 5280,
+          "isMajor": false,
+          "title": "Switches outfits",
+          "description": "x switches outfits",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_005_01_28_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:28:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=01h28m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-006",
+          "timestamp": "01:33:45",
+          "seconds": 5625,
+          "isMajor": false,
+          "title": "The 3 sus stoners from yesterday call x and ask for som",
+          "description": "the 3 sus stoners from yesterday call x and ask for some weed, x meets up with them and there is a 4th individual with them now called noseferatu, x give them some jet",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_006_01_33_45.jpg",
+          "imageCaption": "Stream snapshot @ 01:33:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=01h33m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d43-evt-007",
+          "timestamp": "01:45:03",
+          "seconds": 6303,
+          "isMajor": false,
+          "title": "Was going to pay the fines at the pawn shop so that the",
+          "description": "x was going to pay the fines at the pawn shop so that they can continue doing runs but the fines were already paid",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d43_evt_007_01_45_03.jpg",
+          "imageCaption": "Stream snapshot @ 01:45:03",
+          "twitchUrl": "https://www.twitch.tv/videos/2912487657?t=01h45m03s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 414:07 / Pierre Paul: 22:16 / Total : 436:23",
+        "timesJailed": "6 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
