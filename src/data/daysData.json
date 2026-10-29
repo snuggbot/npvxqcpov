@@ -39319,7 +39319,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2913405592",
       "kickVod": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d44-evt-001",
@@ -39532,6 +39532,83 @@
           "imageCaption": "Stream snapshot @ 02:18:10",
           "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=02h18m10s",
           "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=8288"
+        },
+        {
+          "id": "d44-evt-012",
+          "timestamp": "02:20:00",
+          "seconds": 8400,
+          "isMajor": false,
+          "title": "More jet cooking",
+          "description": "more jet cooking",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_012_02_20_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:20:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=02h20m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=8398"
+        },
+        {
+          "id": "d44-evt-013",
+          "timestamp": "02:32:40",
+          "seconds": 9160,
+          "isMajor": true,
+          "title": "- 02:33:12 marty",
+          "description": "- 02:33:12 Marty, Ginger and Swan are going to join x attempting the fun house too",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d44_evt_013_02_32_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:32:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=02h32m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=9158"
+        },
+        {
+          "id": "d44-evt-014",
+          "timestamp": "02:39:00",
+          "seconds": 9540,
+          "isMajor": false,
+          "title": "Puts on the joker uniform preparing for the fun house",
+          "description": "x puts on the joker uniform preparing for the fun house",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_014_02_39_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:39:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=02h39m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=9538"
+        },
+        {
+          "id": "d44-evt-015",
+          "timestamp": "02:46:00",
+          "seconds": 9960,
+          "isMajor": true,
+          "title": "- 02:00:00 (unique event: the clowns' fun house) they a",
+          "description": "- 02:00:00 (Unique Event: the clowns' fun house) they arrive at the event (the fun house), they're instructed put away their weapons/items except for food and drink and also to put on glasses (set the brightness to 0%), they're tasked to find 6 keys and escape without leaving anyone behind while being hunted, attempt result:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_015_02_46_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:46:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=02h46m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=9958"
         }
       ],
       "characterInfo": {
