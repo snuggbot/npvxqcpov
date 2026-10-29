@@ -39308,6 +39308,239 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "44": {
+      "dayNumber": 44,
+      "title": "Day 44",
+      "redditTitle": "NoPixel V | Day 44 Recap Oct 28th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xhw13z/nopixel_v_day_44_recap_oct_28th_xqcs_pov_with/",
+      "updated": "2026-10-28T18:19:59+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2913405592",
+      "kickVod": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142",
+      "kickStreamUrl": "",
+      "eventsCount": 11,
+      "events": [
+        {
+          "id": "d44-evt-001",
+          "timestamp": "00:33:40",
+          "seconds": 2020,
+          "isMajor": false,
+          "title": "Logs in and starts day 44",
+          "description": "x logs in and starts day 44",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_001_00_33_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:33:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=00h33m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=2018"
+        },
+        {
+          "id": "d44-evt-002",
+          "timestamp": "00:40:00",
+          "seconds": 2400,
+          "isMajor": false,
+          "title": "Continues to experiment with cooking jet",
+          "description": "x continues to experiment with cooking Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_002_00_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=00h40m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=2398"
+        },
+        {
+          "id": "d44-evt-003",
+          "timestamp": "01:06:05",
+          "seconds": 3965,
+          "isMajor": false,
+          "title": "Gloryon asks x about the laptop needed for fleeca",
+          "description": "Gloryon asks x about the laptop needed for Fleeca, x doesn't mind lending him one, Gloryon shares some useful information about cooking jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_003_01_06_05.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h06m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=3963"
+        },
+        {
+          "id": "d44-evt-004",
+          "timestamp": "01:11:20",
+          "seconds": 4280,
+          "isMajor": false,
+          "title": "Marty tells x to be careful",
+          "description": "Marty tells x to be careful, they've been in many gun fights today (without specifying with whom)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d44_evt_004_01_11_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:11:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h11m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=4278"
+        },
+        {
+          "id": "d44-evt-005",
+          "timestamp": "01:28:15",
+          "seconds": 5295,
+          "isMajor": true,
+          "title": "- 01:30:55 chatterbox calls x offering him a challenge ",
+          "description": "- 01:30:55 Chatterbox calls x offering him a challenge to escape the fun house, he requires 4 people to do it and 10k$, he calls x back shortly after and setup a time",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d44_evt_005_01_28_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:28:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h28m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=5293"
+        },
+        {
+          "id": "d44-evt-006",
+          "timestamp": "01:32:20",
+          "seconds": 5540,
+          "isMajor": false,
+          "title": "- 01:00:00 benji calls x",
+          "description": "- 01:00:00 Benji calls x, again x is willing to lend them a laptop for collateral",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_006_01_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h32m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=5538"
+        },
+        {
+          "id": "d44-evt-007",
+          "timestamp": "01:36:30",
+          "seconds": 5790,
+          "isMajor": false,
+          "title": "- 01:36:55 x jumps off trying to use a parachute but ge",
+          "description": "- 01:36:55 x jumps off trying to use a parachute but gets incapacitated",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_007_01_36_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:36:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h36m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=5788"
+        },
+        {
+          "id": "d44-evt-008",
+          "timestamp": "01:38:50",
+          "seconds": 5930,
+          "isMajor": false,
+          "title": "- 01:39:20 x tries to land but gets incapacitated again",
+          "description": "- 01:39:20 x tries to land but gets incapacitated again",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_008_01_38_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:38:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h38m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=5928"
+        },
+        {
+          "id": "d44-evt-009",
+          "timestamp": "01:47:00",
+          "seconds": 6420,
+          "isMajor": false,
+          "title": "- 01:00:00 x speaks to ron otterman",
+          "description": "- 01:00:00 x speaks to Ron Otterman, he asks him to stop flying over their turf, they also discuss the facts that cops were spotted over roof tops earlier",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_009_01_47_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:47:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h47m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=6418"
+        },
+        {
+          "id": "d44-evt-010",
+          "timestamp": "01:57:00",
+          "seconds": 7020,
+          "isMajor": false,
+          "title": "Continues to experiment with cooking jet",
+          "description": "x continues to experiment with cooking Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_010_01_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=01h57m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=7018"
+        },
+        {
+          "id": "d44-evt-011",
+          "timestamp": "02:18:10",
+          "seconds": 8290,
+          "isMajor": true,
+          "title": "- 02:18:58 x calls druz asking her if she wants to join",
+          "description": "- 02:18:58 x calls Druz asking her if she wants to join him and challenge the clown fun house, she agrees",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_011_02_18_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:18:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=02h18m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=8288"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 429:26 / Pierre Paul: 22:16 / Total : 451:42",
+        "timesJailed": "7 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
