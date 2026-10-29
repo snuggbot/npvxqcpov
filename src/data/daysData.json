@@ -39319,7 +39319,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2913405592",
       "kickVod": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d44-evt-001",
@@ -39596,8 +39596,8 @@
           "timestamp": "02:46:00",
           "seconds": 9960,
           "isMajor": true,
-          "title": "- 02:00:00 (unique event: the clowns' fun house) they a",
-          "description": "- 02:00:00 (Unique Event: the clowns' fun house) they arrive at the event (the fun house), they're instructed put away their weapons/items except for food and drink and also to put on glasses (set the brightness to 0%), they're tasked to find 6 keys and escape without leaving anyone behind while being hunted, attempt result:",
+          "title": "- 03:19:40 (unique event: the clowns' fun house) they a",
+          "description": "- 03:19:40 (Unique Event: the clowns' fun house) they arrive at the event (the fun house), they're instructed put away their weapons/items except for food and drink and also to put on glasses (set the brightness to 0%), they're tasked to find 6 keys and escape without leaving anyone behind while being hunted, attempt result:",
           "category": "general",
           "tags": [
             "general"
@@ -39609,6 +39609,295 @@
           "imageCaption": "Stream snapshot @ 02:46:00",
           "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=02h46m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=9958"
+        },
+        {
+          "id": "d44-evt-016",
+          "timestamp": "03:27:05",
+          "seconds": 12425,
+          "isMajor": false,
+          "title": "Calls harry asking if he can clean 200k rolled money to",
+          "description": "x calls Harry asking if he can clean 200k rolled money to which he says yes, Harry needs weed seeds so they discuss mutual business to help boost each other",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_016_03_27_05.jpg",
+          "imageCaption": "Stream snapshot @ 03:27:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=03h27m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=12423"
+        },
+        {
+          "id": "d44-evt-017",
+          "timestamp": "03:37:00",
+          "seconds": 13020,
+          "isMajor": false,
+          "title": "Hands harry 234k rolled to clean",
+          "description": "x hands Harry 234k rolled to clean",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_017_03_37_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:37:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=03h37m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=13018"
+        },
+        {
+          "id": "d44-evt-018",
+          "timestamp": "03:42:10",
+          "seconds": 13330,
+          "isMajor": false,
+          "title": "Gloryon calls x",
+          "description": "Gloryon calls x, Gloryon is at 6/10 blue slots cooking Jet and x is at 4-5",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_018_03_42_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:42:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=03h42m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=13328"
+        },
+        {
+          "id": "d44-evt-019",
+          "timestamp": "03:43:40",
+          "seconds": 13420,
+          "isMajor": false,
+          "title": "Checks the cargo progress at the docks",
+          "description": "x checks the cargo progress at the docks, Hawick's is the highest at 112/150",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_019_03_43_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:43:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=03h43m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=13418"
+        },
+        {
+          "id": "d44-evt-020",
+          "timestamp": "03:47:00",
+          "seconds": 13620,
+          "isMajor": false,
+          "title": "More jet cooking",
+          "description": "more jet cooking",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_020_03_47_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=03h47m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=13618"
+        },
+        {
+          "id": "d44-evt-021",
+          "timestamp": "04:09:00",
+          "seconds": 14940,
+          "isMajor": false,
+          "title": "The crew is robbing pharmacies before storm (x and ging",
+          "description": "the crew is robbing pharmacies before storm (x and Ginger + Marty and Swan two teams)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d44_evt_021_04_09_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:09:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=04h09m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=14938"
+        },
+        {
+          "id": "d44-evt-022",
+          "timestamp": "04:16:50",
+          "seconds": 15410,
+          "isMajor": false,
+          "title": "Is able to rob two pharmacies easily after storm (high ",
+          "description": "x is able to rob two pharmacies easily after storm (high prio login)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_022_04_16_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:16:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=04h16m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=15408"
+        },
+        {
+          "id": "d44-evt-023",
+          "timestamp": "04:25:40",
+          "seconds": 15940,
+          "isMajor": false,
+          "title": "Tony wakes up and they rob one more pharmacy",
+          "description": "Tony wakes up and they rob one more pharmacy",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d44_evt_023_04_25_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:25:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=04h25m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=15938"
+        },
+        {
+          "id": "d44-evt-024",
+          "timestamp": "04:41:20",
+          "seconds": 16880,
+          "isMajor": false,
+          "title": "Harry calls x saying that cj took down ron because he w",
+          "description": "Harry calls x saying that CJ took down Ron because he was taking pictures spying on them",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_024_04_41_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:41:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=04h41m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=16878"
+        },
+        {
+          "id": "d44-evt-025",
+          "timestamp": "04:44:10",
+          "seconds": 17050,
+          "isMajor": false,
+          "title": "Lang wakes up",
+          "description": "Lang wakes up, M1 wants to meet with the crew",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d44_evt_025_04_44_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:44:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=04h44m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=17048"
+        },
+        {
+          "id": "d44-evt-026",
+          "timestamp": "04:48:23",
+          "seconds": 17303,
+          "isMajor": true,
+          "title": "- 05:01:50 the crew link up with m1 at their hideout",
+          "description": "- 05:01:50 the crew link up with M1 at their hideout, apparently there is a private luxury art exhibition happening on Friday at the Maze bank tower, M1 is after a special artwork, he says that if the crew can get it they will get 150k plus Escrow, he gives them 2 options as an escape plan, 1 is parachuting off the top or 2 jumping on a blimp (they like #2), for plan number 2 they will need to get in touch with a contact of M1 to persuade him into flying his blimp near the Maze bank tower which should happen tomorrow, x asks M1 for a drill, M1 drops a hint for them saying that with their business they should be able to make these drills, finally he mentions that the exhibition will take place in 2 apartments so 2 teams will be needed",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_026_04_48_23.jpg",
+          "imageCaption": "Stream snapshot @ 04:48:23",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=04h48m23s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=17301"
+        },
+        {
+          "id": "d44-evt-027",
+          "timestamp": "05:04:00",
+          "seconds": 18240,
+          "isMajor": false,
+          "title": "Is back to jet cooking while the rest of crew is focusi",
+          "description": "x is back to jet cooking while the rest of crew is focusing on car chopping",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_027_05_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=05h04m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=18238"
+        },
+        {
+          "id": "d44-evt-028",
+          "timestamp": "05:32:40",
+          "seconds": 19960,
+          "isMajor": true,
+          "title": "- 05:34:40 x manages to achieve 41% purity using the be",
+          "description": "- 05:34:40 x manages to achieve 41% purity using the below seq#1 (using 100% purity ingredients)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_028_05_32_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:32:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=05h32m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=19958"
+        },
+        {
+          "id": "d44-evt-029",
+          "timestamp": "06:18:45",
+          "seconds": 22725,
+          "isMajor": true,
+          "title": "- 06:21:25 the experiments have paid off",
+          "description": "- 06:21:25 the experiments have paid off, x manages to achieve 48% purity",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_029_06_18_45.jpg",
+          "imageCaption": "Stream snapshot @ 06:18:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=06h18m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=22723"
+        },
+        {
+          "id": "d44-evt-030",
+          "timestamp": "06:27:26",
+          "seconds": 23246,
+          "isMajor": true,
+          "title": "- 06:31:50 (this is related to nopixel 4",
+          "description": "- 06:31:50 (this is related to Nopixel 4.0) Mickey calls x, he confronts x about what he did with D Company, x says that he did it to protect them, x felt that he was unable to make any stone move no matter what he did and so he decided to leave, he thought that time was going to be a teacher, they also text each other after hanging up",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_030_06_27_26.jpg",
+          "imageCaption": "Stream snapshot @ 06:27:26",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=06h27m26s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=23244"
         }
       ],
       "characterInfo": {
