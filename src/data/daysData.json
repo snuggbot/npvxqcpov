@@ -39319,7 +39319,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2913405592",
       "kickVod": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142",
       "kickStreamUrl": "",
-      "eventsCount": 33,
+      "eventsCount": 40,
       "events": [
         {
           "id": "d44-evt-001",
@@ -39956,11 +39956,145 @@
           "imageCaption": "Stream snapshot @ 07:15:40",
           "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=07h15m40s",
           "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=26138"
+        },
+        {
+          "id": "d44-evt-034",
+          "timestamp": "07:44:00",
+          "seconds": 27840,
+          "isMajor": false,
+          "title": "The crew decide to do the fleeca tomorrow using the 2 d",
+          "description": "the crew decide to do the Fleeca tomorrow using the 2 drills they're cooking rn since everyone is tired",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_034_07_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=07h44m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=27838"
+        },
+        {
+          "id": "d44-evt-035",
+          "timestamp": "07:51:00",
+          "seconds": 28260,
+          "isMajor": true,
+          "title": "- 07:57:10 x explains to the crew the way the drill wor",
+          "description": "- 07:57:10 x explains to the crew the way the drill works since he tried it yesterday",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_035_07_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=07h51m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=28258"
+        },
+        {
+          "id": "d44-evt-036",
+          "timestamp": "08:13:40",
+          "seconds": 29620,
+          "isMajor": false,
+          "title": "Calls harry",
+          "description": "x calls Harry, Harry is going to send x 100k for now out of 234k rolled money, Harry still owes x 110k clean money (90% cut)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_036_08_13_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:13:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=08h13m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=29618"
+        },
+        {
+          "id": "d44-evt-037",
+          "timestamp": "08:40:40",
+          "seconds": 31240,
+          "isMajor": true,
+          "title": "- 08:41:40 x changes the color of his car to pink/purpl",
+          "description": "- 08:41:40 x changes the color of his car to pink/purplish for 80k$",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_037_08_40_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:40:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=08h40m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=31238"
+        },
+        {
+          "id": "d44-evt-038",
+          "timestamp": "08:05:10",
+          "seconds": 29110,
+          "isMajor": false,
+          "title": "Cooks jet using the same most successful sequence which",
+          "description": "x cooks jet using the same most successful sequence which he achieved 48% with earlier and this time he gets 49%, that's his PB atm (the max is 50%)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_038_08_05_10.jpg",
+          "imageCaption": "Stream snapshot @ 08:05:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=08h05m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=29108"
+        },
+        {
+          "id": "d44-evt-039",
+          "timestamp": "09:06:45",
+          "seconds": 32805,
+          "isMajor": true,
+          "title": "- 09:07:15 x sells 48% pure jet pill to a local for 173",
+          "description": "- 09:07:15 x sells 48% pure jet pill to a local for 173$ (15% to go all the way up to 336$)",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_039_09_06_45.jpg",
+          "imageCaption": "Stream snapshot @ 09:06:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=09h06m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=32803"
+        },
+        {
+          "id": "d44-evt-040",
+          "timestamp": "09:28:10",
+          "seconds": 34090,
+          "isMajor": false,
+          "title": "Robs a pharmacy before going to bed",
+          "description": "x robs a pharmacy before going to bed",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_040_09_28_10.jpg",
+          "imageCaption": "Stream snapshot @ 09:28:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=09h28m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=34088"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 429:26 / Pierre Paul: 22:16 / Total : 451:42",
+        "timeLoggedIn": "Jean Paul : ~ 438:23 / Pierre Paul: 22:16 / Total : 460:39",
         "timesJailed": "7 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
