@@ -40110,7 +40110,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2914211670",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 4,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d45-evt-001",
@@ -40176,8 +40176,8 @@
           "timestamp": "00:52:00",
           "seconds": 3120,
           "isMajor": false,
-          "title": "Is cooking jet",
-          "description": "x is cooking Jet",
+          "title": "Is cooking a batch of jet",
+          "description": "x is cooking a batch of Jet, he gets 49% purity",
           "category": "general",
           "tags": [
             "general"
@@ -40188,6 +40188,88 @@
           "image": "/images/frames/d45_evt_004_00_52_00.jpg",
           "imageCaption": "Stream snapshot @ 00:52:00",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=00h52m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-005",
+          "timestamp": "00:58:00",
+          "seconds": 3480,
+          "isMajor": false,
+          "title": "Apparently 4head wants to stop the bloodshed with brick",
+          "description": "apparently 4head wants to stop the bloodshed with Brick Bois",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=00h58m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-006",
+          "timestamp": "01:00:40",
+          "seconds": 3640,
+          "isMajor": false,
+          "title": "Marty sends everyone 40k for selling a laptop for 200k",
+          "description": "Marty sends everyone 40k for selling a laptop for 200k",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h00m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-007",
+          "timestamp": "01:07:00",
+          "seconds": 4020,
+          "isMajor": false,
+          "title": "Grabs a hostage preparing for a fleeca robbery",
+          "description": "x grabs a hostage preparing for a Fleeca robbery",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h07m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-008",
+          "timestamp": "01:09:20",
+          "seconds": 4160,
+          "isMajor": true,
+          "title": "- 01:35:37 x",
+          "description": "- 01:35:37 x, Marty, Lang and Tony enter the Fleeca, x and Lang are drilling the lockers using 2 different drills, they drill through the 4 lockers and get all the loot, Lang gets a network diagnostic Kit (prolly for Paleto bank heist), they exchange the hostage and the chase begins, x is assigned vip (has all the loot), x parachutes off a bridge into the water where Speedy is waiting for him in a boat, the rest of the crew escape the cops shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony",
+            "Speedy"
+          ],
+          "image": null,
+          "imageCaption": null,
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h09m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
