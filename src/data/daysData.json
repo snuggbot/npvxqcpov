@@ -40110,7 +40110,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2914211670",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d45-evt-001",
@@ -40204,8 +40204,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d45_evt_005_00_58_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:58:00",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=00h58m00s",
           "kickUrl": "https://kick.com/xqc"
         },
@@ -40224,8 +40224,8 @@
             "Jean Paul (X)",
             "Marty Banks"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d45_evt_006_01_00_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:00:40",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h00m40s",
           "kickUrl": "https://kick.com/xqc"
         },
@@ -40243,8 +40243,8 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d45_evt_007_01_07_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:07:00",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h07m00s",
           "kickUrl": "https://kick.com/xqc"
         },
@@ -40267,9 +40267,50 @@
             "Tony",
             "Speedy"
           ],
-          "image": null,
-          "imageCaption": null,
+          "image": "/images/frames/d45_evt_008_01_09_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:09:20",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h09m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-009",
+          "timestamp": "01:37:50",
+          "seconds": 5870,
+          "isMajor": false,
+          "title": "Goldie says that the cops were around their chop spot a",
+          "description": "Goldie says that the cops were around their chop spot and saw the cooking tents around, they can't take them down rn since they were used to cook earlier",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_009_01_37_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:37:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h37m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-010",
+          "timestamp": "01:40:00",
+          "seconds": 6000,
+          "isMajor": false,
+          "title": "Speedy agrees with x about giving any weed seeds they g",
+          "description": "Speedy agrees with x about giving any weed seeds they get to Harry",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Speedy"
+          ],
+          "image": "/images/frames/d45_evt_010_01_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h40m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
