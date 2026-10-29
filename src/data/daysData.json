@@ -39319,7 +39319,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2913405592",
       "kickVod": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d44-evt-001",
@@ -39898,6 +39898,64 @@
           "imageCaption": "Stream snapshot @ 06:27:26",
           "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=06h27m26s",
           "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=23244"
+        },
+        {
+          "id": "d44-evt-031",
+          "timestamp": "07:00:00",
+          "seconds": 25200,
+          "isMajor": false,
+          "title": "The crew is chopping cars",
+          "description": "the crew is chopping cars, they're close to 20k Escrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_031_07_00_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:00:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=07h00m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=25198"
+        },
+        {
+          "id": "d44-evt-032",
+          "timestamp": "07:12:00",
+          "seconds": 25920,
+          "isMajor": true,
+          "title": "- 07:13:43 having made 21",
+          "description": "- 07:13:43 having made 21.1k Escrow the crew decide to buy a Tool Chest for 21k Escrow, they then provide 188 Steel and 75 circuit boards and click dispatch, they have to collect it from the docks",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_032_07_12_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:12:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=07h12m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=25918"
+        },
+        {
+          "id": "d44-evt-033",
+          "timestamp": "07:15:40",
+          "seconds": 26140,
+          "isMajor": true,
+          "title": "- 07:28:25 they meet the claim adjuster at the docks (n",
+          "description": "- 07:28:25 they meet the claim adjuster at the docks (NPC), they are tasked to deliver a car to a specific location, wait for 5 minutes and then x gets prompted to collect the assets from the trunk of the car, they find 4 items, a Radio Shell Mold, Armor Plate Mold backpack frame mold and workshop blueprint tier 1, they add the blueprint at the assembler machine and they get new recipes including: Grinder, Heavy Armor, Heavy Duty Drill, Lockpick Set, Medium Armor, Radio and a Tracker Disabling Tool (MAXWIN)",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d44_evt_033_07_15_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:15:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2913405592?t=07h15m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1847b-42e8-75d3-b259-e9864d6f9142?t=26138"
         }
       ],
       "characterInfo": {
