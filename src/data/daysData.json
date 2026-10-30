@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 14,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d46-evt-001",
@@ -41644,6 +41644,25 @@
           "image": "/images/frames/d46_evt_014_02_35_00.jpg",
           "imageCaption": "Stream snapshot @ 02:35:00",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h35m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-015",
+          "timestamp": "02:38:20",
+          "seconds": 9500,
+          "isMajor": false,
+          "title": "Stashes his ignis away as an escape car if needed later",
+          "description": "x stashes his Ignis away as an escape car if needed later",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_015_02_38_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:38:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h38m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
