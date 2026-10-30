@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 8,
       "events": [
         {
           "id": "d46-evt-001",
@@ -41485,6 +41485,49 @@
           "image": "/images/frames/d46_evt_006_01_48_00.jpg",
           "imageCaption": "Stream snapshot @ 01:48:00",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h48m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-007",
+          "timestamp": "01:54:20",
+          "seconds": 6860,
+          "isMajor": false,
+          "title": "Marty says that crafting radios is more expensive again",
+          "description": "Marty says that crafting radios is more expensive again",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_007_01_54_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:54:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h54m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-008",
+          "timestamp": "01:55:25",
+          "seconds": 6925,
+          "isMajor": true,
+          "title": "- 02:03:00 x goes to the hospital to check on the sickn",
+          "description": "- 02:03:00 x goes to the hospital to check on the sickness he's just got from Chatterbox, the doctor fully treats him for free! he runs into Chatterbox at the hospital again, Chatterbox chases x and punches him again causing him to get sick yet again, Tony arrives and shoots down Chatterbox, x goes back to the hospital and gets treated again, the cops arrive as x and Tony are leaving the hospital, C. Dawson wants to GSR test them both before letting them go, Tony makes a run for it and the cops chase him, so x is free to go",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d46_evt_008_01_55_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:55:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h55m25s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
