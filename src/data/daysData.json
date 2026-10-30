@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 2,
+      "eventsCount": 6,
       "events": [
         {
           "id": "d46-evt-001",
@@ -41406,6 +41406,85 @@
           "image": "/images/frames/d46_evt_002_01_03_30.jpg",
           "imageCaption": "Stream snapshot @ 01:03:30",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h03m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-003",
+          "timestamp": "01:36:00",
+          "seconds": 5760,
+          "isMajor": false,
+          "title": "The cost of making radios has been reduced to 30 circui",
+          "description": "the cost of making radios has been reduced to 30 circuit boards now",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_003_01_36_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:36:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h36m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-004",
+          "timestamp": "01:41:30",
+          "seconds": 6090,
+          "isMajor": true,
+          "title": "- 01:42:45 x changes the plate of his car for 11",
+          "description": "- 01:42:45 x changes the plate of his car for 11.5k",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_004_01_41_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:41:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h41m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-005",
+          "timestamp": "01:46:40",
+          "seconds": 6400,
+          "isMajor": false,
+          "title": "Looks at their pawnshop numbers and it's not looking go",
+          "description": "x looks at their pawnshop numbers and it's not looking good",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_005_01_46_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:46:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h46m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-006",
+          "timestamp": "01:48:00",
+          "seconds": 6480,
+          "isMajor": true,
+          "title": "- 01:51:00 chatterbox punches x and makes him sick agai",
+          "description": "- 01:51:00 Chatterbox punches x and makes him sick again, he says it's Lang's fault and drives off",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Chatterbox"
+          ],
+          "image": "/images/frames/d46_evt_006_01_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h48m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
