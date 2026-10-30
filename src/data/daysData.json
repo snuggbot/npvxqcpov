@@ -40110,7 +40110,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2914211670",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d45-evt-001",
@@ -40311,6 +40311,71 @@
           "image": "/images/frames/d45_evt_010_01_40_00.jpg",
           "imageCaption": "Stream snapshot @ 01:40:00",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h40m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-011",
+          "timestamp": "01:51:00",
+          "seconds": 6660,
+          "isMajor": true,
+          "title": "- 02:11:00 everyone is trying to rob the pharmacies",
+          "description": "- 02:11:00 everyone is trying to rob the pharmacies, 4head arrives and demands a cut from the loot, the crew say no and he drives off, chaos all around, Marty and Tony go down but the rest of the crew manage to rob a pharmacy, x goes back with his car and rescues Tony, he drops Tony at the hospital and goes back for Marty, he finds Marty's body and rescues him too, he drives to the hospital but the cops are there so he decides to call Dr. Beef and meet up away from the hospital to get Marty treated",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d45_evt_011_01_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=01h51m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-012",
+          "timestamp": "02:14:10",
+          "seconds": 8050,
+          "isMajor": true,
+          "title": "- 02:15:40 dr",
+          "description": "- 02:15:40 Dr. Beef arrives and treats Marty in vinewood, x pays him 5k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d45_evt_012_02_14_10.jpg",
+          "imageCaption": "Stream snapshot @ 02:14:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=02h14m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-013",
+          "timestamp": "02:17:50",
+          "seconds": 8270,
+          "isMajor": false,
+          "title": "Shiesty calls x saying that he doesn't believe the fact",
+          "description": "Shiesty calls x saying that he doesn't believe the fact that x have never received his car and that he's lying",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_013_02_17_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:17:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=02h17m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
