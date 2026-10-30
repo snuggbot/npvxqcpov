@@ -40110,7 +40110,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2914211670",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 22,
       "events": [
         {
           "id": "d45-evt-001",
@@ -40376,6 +40376,191 @@
           "image": "/images/frames/d45_evt_013_02_17_50.jpg",
           "imageCaption": "Stream snapshot @ 02:17:50",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=02h17m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-014",
+          "timestamp": "02:27:45",
+          "seconds": 8865,
+          "isMajor": true,
+          "title": "- 02:38:40 the crew link up with m1",
+          "description": "- 02:38:40 the crew link up with M1, he says that of they're going to use the blimp to escape tomorrow after the job they will need to find someone named Greg and persuade him into helping them, x gives one of the 49% purity jet pills to M1 and he consumes it and starts free styling, he gives them a few locations to check out and says that Greg will be driving a black Deity car",
+          "category": "medical",
+          "tags": [
+            "medical",
+            "job",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_014_02_27_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:27:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=02h27m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-015",
+          "timestamp": "02:44:20",
+          "seconds": 9860,
+          "isMajor": true,
+          "title": "- 02:49:10 the crew go to mosley's to receive his car",
+          "description": "- 02:49:10 The crew go to Mosley's to receive his car, apparently Vasquez Sindacco wants to buy a Pegassi Ignis like x, x says that he wants to buy the exclusivity contract later",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_015_02_44_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:44:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=02h44m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-016",
+          "timestamp": "02:55:40",
+          "seconds": 10540,
+          "isMajor": true,
+          "title": "- 03:23:00 they locate the black deity and shoot the ti",
+          "description": "- 03:23:00 They locate the black Deity and shoot the tire causing the car to flip over, they get Greg to get into their car and drive off, they stop at a cave and the cops arrive shortly after observing them from distance and taking pictures, x initiates contact with the cops saying that this is a DND meeting, the cops play along but the crew drive off and it turns into a chase, Tony's car catches on fire and explodes, the crew get into another car and the chase continues, they eventually escape in different cars",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d45_evt_016_02_55_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:55:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=02h55m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-017",
+          "timestamp": "03:30:00",
+          "seconds": 12600,
+          "isMajor": false,
+          "title": "Is cooking jet",
+          "description": "x is cooking Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_017_03_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=03h30m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-018",
+          "timestamp": "03:41:20",
+          "seconds": 13280,
+          "isMajor": true,
+          "title": "- 03:43:21 x meets with druz",
+          "description": "- 03:43:21 x meets with Druz, he wants her to run the pawnshop but she says that she has no interest in that",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_018_03_41_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:41:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=03h41m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-019",
+          "timestamp": "03:43:30",
+          "seconds": 13410,
+          "isMajor": true,
+          "title": "- 03:48:10 the crew link up with m1",
+          "description": "- 03:48:10 the crew link up with M1, M1 says that the 2 paintings they will be after tomorrow at the art exhibition are 'the horse' and 'the church', they will link up tomorrow at 16:30 EST for supply and final preparations, Tony says that Greg won't be available tomorrow since he has a date with some girl but his friend David will be the blimp flyer, the horse painting goes to M1 and the church painting goes to someone called Lean (chat says it's Buddha's DM character Lean Nardo), x says that they need to find someone to run the pawnshop, Lang suggests Lexi Law, x also brings up the fact that they can't add more brokers on the app as they hit max number of brokers",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d45_evt_019_03_43_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:43:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=03h43m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-020",
+          "timestamp": "03:48:18",
+          "seconds": 13698,
+          "isMajor": true,
+          "title": "- 03:54:17 x continues to talk with druz",
+          "description": "- 03:54:17 x continues to talk with Druz, she's going to focus on solo activities and mainly car chopping for now",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_020_03_48_18.jpg",
+          "imageCaption": "Stream snapshot @ 03:48:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=03h48m18s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-021",
+          "timestamp": "03:54:18",
+          "seconds": 14058,
+          "isMajor": true,
+          "title": "- 03:54:58 (volume warning) x receives an interesting c",
+          "description": "- 03:54:58 (volume warning) x receives an interesting call",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_021_03_54_18.jpg",
+          "imageCaption": "Stream snapshot @ 03:54:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=03h54m18s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-022",
+          "timestamp": "03:55:20",
+          "seconds": 14120,
+          "isMajor": true,
+          "title": "- 03:58:25 x calls ginger and asks her if she wants to ",
+          "description": "- 03:58:25 x calls Ginger and asks her if she wants to be head of pawnshop to which she says no, she's given a choice to chop or sell jet, she will get back to x in a few minutes",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_022_03_55_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:55:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=03h55m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
