@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 14,
       "events": [
         {
           "id": "d46-evt-001",
@@ -41528,6 +41528,122 @@
           "image": "/images/frames/d46_evt_008_01_55_25.jpg",
           "imageCaption": "Stream snapshot @ 01:55:25",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=01h55m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-009",
+          "timestamp": "02:06:45",
+          "seconds": 7605,
+          "isMajor": false,
+          "title": "(x uses his admin powers to help a glitched player)",
+          "description": "(x uses his admin powers to help a glitched player)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_009_02_06_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:06:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h06m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-010",
+          "timestamp": "02:10:25",
+          "seconds": 7825,
+          "isMajor": false,
+          "title": "Calls carlo marciano for pawn materials",
+          "description": "x calls Carlo Marciano for pawn materials, he's going to call x back later",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_010_02_10_25.jpg",
+          "imageCaption": "Stream snapshot @ 02:10:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h10m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-011",
+          "timestamp": "02:14:00",
+          "seconds": 8040,
+          "isMajor": false,
+          "title": "Calls benji looking for additional fleeca cards but he ",
+          "description": "x calls Benji looking for additional Fleeca cards but he doesn't have any",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_011_02_14_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:14:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h14m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-012",
+          "timestamp": "02:22:00",
+          "seconds": 8520,
+          "isMajor": true,
+          "title": "- 02:29:45 the crew link up with m1",
+          "description": "- 02:29:45 the crew link up with M1, he hands over a notebook to everyone with instructions related to the art exhibition today, (Lang keeps mentioning that he's feeling sick and is acting weird), he provides them with guns, silencer and ammo, Lang punches everyone around making everyone sick as well, they still need David's help to fly the blimp, he also insists that the crew should go from the back and be stealthy",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d46_evt_012_02_22_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:22:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h22m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-013",
+          "timestamp": "02:30:00",
+          "seconds": 9000,
+          "isMajor": false,
+          "title": "Calls diego looking to trade some materials for plastic",
+          "description": "x calls Diego looking to trade some materials for plastic, steel and circuit boards, he will contact x later",
+          "category": "crypto",
+          "tags": [
+            "crypto",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_013_02_30_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:30:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h30m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-014",
+          "timestamp": "02:35:00",
+          "seconds": 9300,
+          "isMajor": true,
+          "title": "- 02:35:45 x gets treated at the hospital from the sick",
+          "description": "- 02:35:45 x gets treated at the hospital from the sickness for the third time today",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_014_02_35_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:35:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h35m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
