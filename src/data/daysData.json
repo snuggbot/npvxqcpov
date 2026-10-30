@@ -40110,7 +40110,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2914211670",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 44,
       "events": [
         {
           "id": "d45-evt-001",
@@ -40724,6 +40724,281 @@
           "image": "/images/frames/d45_evt_030_05_00_10.jpg",
           "imageCaption": "Stream snapshot @ 05:00:10",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=05h00m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-031",
+          "timestamp": "06:06:47",
+          "seconds": 22007,
+          "isMajor": false,
+          "title": "The escrow is not going up at all for some reason",
+          "description": "the Escrow is not going up at all for some reason",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_031_06_06_47.jpg",
+          "imageCaption": "Stream snapshot @ 06:06:47",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=06h06m47s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-032",
+          "timestamp": "06:15:00",
+          "seconds": 22500,
+          "isMajor": false,
+          "title": "Adds swan back as family since escrow is not going up",
+          "description": "x adds Swan back as family since Escrow is not going up",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_032_06_15_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:15:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=06h15m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-033",
+          "timestamp": "06:18:40",
+          "seconds": 22720,
+          "isMajor": false,
+          "title": "Is cooking jet",
+          "description": "x is cooking Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_033_06_18_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:18:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=06h18m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-034",
+          "timestamp": "06:50:00",
+          "seconds": 24600,
+          "isMajor": false,
+          "title": "Adds ken-sama as a family member and buys some material",
+          "description": "x adds Ken-Sama as a family member and buys some materials from him for 18.5k",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Ken-Sama"
+          ],
+          "image": "/images/frames/d45_evt_034_06_50_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:50:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=06h50m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-035",
+          "timestamp": "06:54:30",
+          "seconds": 24870,
+          "isMajor": false,
+          "title": "Adds druz as a family member",
+          "description": "x adds Druz as a family member",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_035_06_54_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:54:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=06h54m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-036",
+          "timestamp": "07:04:00",
+          "seconds": 25440,
+          "isMajor": false,
+          "title": "Convinces a cop to buy him a lockpick",
+          "description": "x convinces a cop to buy him a lockpick",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_036_07_04_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:04:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=07h04m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-037",
+          "timestamp": "07:06:00",
+          "seconds": 25560,
+          "isMajor": false,
+          "title": "Discovery man (i believe his name was curtis) invites x",
+          "description": "Discovery man (i believe his name was Curtis) invites x to attend the auction happening tomorrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_037_07_06_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:06:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=07h06m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-038",
+          "timestamp": "07:11:30",
+          "seconds": 25890,
+          "isMajor": false,
+          "title": "Robs a pharmacy",
+          "description": "x robs a pharmacy",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_038_07_11_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:11:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=07h11m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-039",
+          "timestamp": "07:47:20",
+          "seconds": 28040,
+          "isMajor": true,
+          "title": "- 08:07:50 the crew is robbing a fleeca",
+          "description": "- 08:07:50 the crew is robbing a Fleeca, Lang and x are drilling the lockers, x gets another Network diagnostic kit, they exchange the hostages and the chase starts, they escape the cops shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d45_evt_039_07_47_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:47:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=07h47m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-040",
+          "timestamp": "08:18:00",
+          "seconds": 29880,
+          "isMajor": false,
+          "title": "Adds rob as family temporarily",
+          "description": "x adds rob as family temporarily",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_040_08_18_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:18:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=08h18m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-041",
+          "timestamp": "08:28:30",
+          "seconds": 30510,
+          "isMajor": false,
+          "title": "The crew arrive at paleto to attempt the heist again",
+          "description": "the crew arrive at paleto to attempt the heist again, x gets downed by a local so they will have to come back later",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_041_08_28_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:28:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=08h28m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-042",
+          "timestamp": "08:31:40",
+          "seconds": 30700,
+          "isMajor": false,
+          "title": "John dub calls marty (he has him on speaker)",
+          "description": "John Dub calls Marty (he has him on speaker), he's forming his own crew",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d45_evt_042_08_31_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:31:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=08h31m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-043",
+          "timestamp": "08:38:40",
+          "seconds": 31120,
+          "isMajor": true,
+          "title": "- 08:40:20 tony has a theory about john dub starting hi",
+          "description": "- 08:40:20 Tony has a theory about John Dub starting his own crew connecting it to the picture the took earlier of him meeting with the C. Dawson, he believes that John Dub is trying to get his old job back but in order to do so he must form a crew and bring in criminals",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d45_evt_043_08_38_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:38:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=08h38m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-044",
+          "timestamp": "08:46:30",
+          "seconds": 31590,
+          "isMajor": true,
+          "title": "- 09:34:00 the crew attempt paleto heist for the second",
+          "description": "- 09:34:00 the crew attempt Paleto heist for the second time, they fail again even though they've prepared better this time with comms and taking notes down (the heist has many steps to it and seems complicated so far), they decide to drive away before the cops arrive",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_044_08_46_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:46:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=08h46m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
