@@ -40110,7 +40110,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2914211670",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 22,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d45-evt-001",
@@ -40561,6 +40561,169 @@
           "image": "/images/frames/d45_evt_022_03_55_20.jpg",
           "imageCaption": "Stream snapshot @ 03:55:20",
           "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=03h55m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-023",
+          "timestamp": "04:02:20",
+          "seconds": 14540,
+          "isMajor": true,
+          "title": "- 04:03:25 ginger is going to continue doing what she's",
+          "description": "- 04:03:25 Ginger is going to continue doing what she's doing atm since she's doing a good job at it",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_023_04_02_20.jpg",
+          "imageCaption": "Stream snapshot @ 04:02:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=04h02m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-024",
+          "timestamp": "04:09:00",
+          "seconds": 14940,
+          "isMajor": false,
+          "title": "Is going through the brokers list with marty",
+          "description": "x is going through the brokers list with Marty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d45_evt_024_04_09_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:09:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=04h09m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-025",
+          "timestamp": "04:13:45",
+          "seconds": 15225,
+          "isMajor": false,
+          "title": "Ginger calls x saying that she did a chop job but it di",
+          "description": "Ginger calls x saying that she did a chop job but it didn't count (towards the Escrow), x is investigating the issue",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_025_04_13_45.jpg",
+          "imageCaption": "Stream snapshot @ 04:13:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=04h13m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-026",
+          "timestamp": "04:25:00",
+          "seconds": 15900,
+          "isMajor": true,
+          "title": "- 04:27:00 x gets his first 50% purity batch of jet (ma",
+          "description": "- 04:27:00 x gets his first 50% purity batch of Jet (max purity for now)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_026_04_25_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:25:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=04h25m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-027",
+          "timestamp": "04:28:55",
+          "seconds": 16135,
+          "isMajor": false,
+          "title": "Ginger says that the cops are circling the are around t",
+          "description": "Ginger says that the cops are circling the are around their turf",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_027_04_28_55.jpg",
+          "imageCaption": "Stream snapshot @ 04:28:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=04h28m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-028",
+          "timestamp": "04:35:45",
+          "seconds": 16545,
+          "isMajor": false,
+          "title": "Harry is sending x the rest of the money he cleaned for",
+          "description": "Harry is sending x the rest of the money he cleaned for him",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d45_evt_028_04_35_45.jpg",
+          "imageCaption": "Stream snapshot @ 04:35:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=04h35m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-029",
+          "timestamp": "04:39:00",
+          "seconds": 16740,
+          "isMajor": true,
+          "title": "- 04:40:15 tony shares a photo of the cops talking to s",
+          "description": "- 04:40:15 Tony shares a photo of the cops talking to someone near their turf, Marty believes that it's John Dub, they then destroy a parked cop car",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d45_evt_029_04_39_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:39:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=04h39m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d45-evt-030",
+          "timestamp": "05:00:10",
+          "seconds": 18010,
+          "isMajor": true,
+          "title": "- 05:52:00 they arrive at paleto and start investigatin",
+          "description": "- 05:52:00 they arrive at Paleto and start investigating, Marty uses the network diagnostic kit on the main PC (we can only see a small preview of what his POV looks like on x's stream), they had to let go of the hostage because she's a doctor and they have to get a new one, the cops arrive, locals flood the bank, the rest of the crew get a new hostage, x and Marty are trying to figure out the login page options, x goes to the rooftop of the bank and he uses the laptop to hack into an electrical panel, he sees a private number which he relays to Lang and Lang calls it using his phone, Lang hears a phone ringing inside the bank and answers it, he's prompted with a few dialogue options, he chooses 'We are taking what is in the vault' but the operator doesn't like that and hangs up the phone, Lang tries to call the number again but it doesn't work, Marty says the vault panel reads 'the vault is sealed until next business day', the operator calls the bank phone again and Marty answers this time, he chooses the option 'we need to reset a system account' but the operator hangs up again, the main pc is locked out, Lang calls again and this time the dialogue options are related to G6 security, the options lead to them saying that the lock down is for an entire day, Lang calls the number again but it doesn't work anymore, they decide to leave for now after failing their first attempt, they exchange the hostage and the chase starts, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d45_evt_030_05_00_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:00:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2914211670?t=05h00m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
