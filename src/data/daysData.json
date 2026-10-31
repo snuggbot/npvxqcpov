@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 33,
+      "eventsCount": 45,
       "events": [
         {
           "id": "d46-evt-001",
@@ -42024,6 +42024,238 @@
           "image": "/images/frames/d46_evt_033_08_45_50.jpg",
           "imageCaption": "Stream snapshot @ 08:45:50",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=08h45m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-034",
+          "timestamp": "09:05:00",
+          "seconds": 32700,
+          "isMajor": false,
+          "title": "Gets his cooking equipment back from bne",
+          "description": "x gets his cooking equipment back from BNE",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_034_09_05_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:05:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=09h05m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-035",
+          "timestamp": "09:30:50",
+          "seconds": 34250,
+          "isMajor": true,
+          "title": "- 09:43:30 x",
+          "description": "- 09:43:30 x, Marty, Goldie, Ginger and Harry are doing the cargo heist, for some reason there are 6 containers instead of 8 this time, another container disappears, Goldie is grinding the containers but she fails, x takes over and opens the first container, he coaches Goldie with instructions and hands her the grinder again, she tries again, the containers keep disappearing for some reason and they're left with 3 in total, x opens the second one while Goldie tries to open the last one but she fails, x takes over and opens the 3rd container (they only get rolled money and pistols)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_035_09_30_50.jpg",
+          "imageCaption": "Stream snapshot @ 09:30:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=09h30m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-036",
+          "timestamp": "09:48:00",
+          "seconds": 35280,
+          "isMajor": false,
+          "title": "(x uses his admin powers to try and figure out what hap",
+          "description": "(x uses his admin powers to try and figure out what happened to the other 3 containers but finds nathan)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_036_09_48_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:48:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=09h48m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-037",
+          "timestamp": "09:56:40",
+          "seconds": 35800,
+          "isMajor": true,
+          "title": "- 09:59:00 x and marty arrive at paleto bank to investi",
+          "description": "- 09:59:00 x and Marty arrive at Paleto bank to investigate using the new items they have from the inner room shop but it leads to nowhere",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_037_09_56_40.jpg",
+          "imageCaption": "Stream snapshot @ 09:56:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=09h56m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-038",
+          "timestamp": "10:03:55",
+          "seconds": 36235,
+          "isMajor": true,
+          "title": "- 10:04:32 marty tries using the decoder at the casino ",
+          "description": "- 10:04:32 Marty tries using the decoder at the casino door and it asks for a network serial identifier, they decide to try using the decoder on locked doors around the city",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_038_10_03_55.jpg",
+          "imageCaption": "Stream snapshot @ 10:03:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h03m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-039",
+          "timestamp": "10:05:40",
+          "seconds": 36340,
+          "isMajor": false,
+          "title": "Receives a call from the old woman at prison",
+          "description": "x receives a call from the old woman at prison, she asks him to kill someone for her so she can get her job back",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_039_10_05_40.jpg",
+          "imageCaption": "Stream snapshot @ 10:05:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h05m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-040",
+          "timestamp": "10:07:15",
+          "seconds": 36435,
+          "isMajor": true,
+          "title": "- 10:11:00 marty tries the casino door again and use 12",
+          "description": "- 10:11:00 Marty tries the casino door again and use 123456 as an identifier and gets a new hack, they both try the hack but they're unable to solve it or understand it yet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_040_10_07_15.jpg",
+          "imageCaption": "Stream snapshot @ 10:07:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h07m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-041",
+          "timestamp": "10:14:50",
+          "seconds": 36890,
+          "isMajor": false,
+          "title": "Buys his own decoder",
+          "description": "x buys his own decoder",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_041_10_14_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:14:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h14m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-042",
+          "timestamp": "10:16:20",
+          "seconds": 36980,
+          "isMajor": true,
+          "title": "- 10:33:00 they try the hack again at the casino door b",
+          "description": "- 10:33:00 they try the hack again at the casino door both using their own decoder, entering different identifiers shows different symbols, they realize that the decoder works even when they're far from the casino, they start mapping out the range of the decoder, it seems to be working only in the area around the casino",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_042_10_16_20.jpg",
+          "imageCaption": "Stream snapshot @ 10:16:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h16m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-043",
+          "timestamp": "10:40:10",
+          "seconds": 38410,
+          "isMajor": true,
+          "title": "- 10:41:10 they trying slotting the decoder into the la",
+          "description": "- 10:41:10 they trying slotting the decoder into the laptop but that doesn't work",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_043_10_40_10.jpg",
+          "imageCaption": "Stream snapshot @ 10:40:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h40m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-044",
+          "timestamp": "10:42:50",
+          "seconds": 38570,
+          "isMajor": false,
+          "title": "(x pulls a classic mah joke)",
+          "description": "(x pulls a classic mah joke)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_044_10_42_50.jpg",
+          "imageCaption": "Stream snapshot @ 10:42:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h42m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-045",
+          "timestamp": "10:44:00",
+          "seconds": 38640,
+          "isMajor": false,
+          "title": "They go back to the casino door",
+          "description": "they go back to the casino door, x tries different combinations but nothing works",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_045_10_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h44m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
