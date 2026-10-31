@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 19,
+      "eventsCount": 30,
       "events": [
         {
           "id": "d46-evt-001",
@@ -41749,6 +41749,222 @@
           "image": "/images/frames/d46_evt_019_04_34_10.jpg",
           "imageCaption": "Stream snapshot @ 04:34:10",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=04h34m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-020",
+          "timestamp": "05:01:00",
+          "seconds": 18060,
+          "isMajor": true,
+          "title": "- 05:01:52 x calls marty saying that swan and ginger we",
+          "description": "- 05:01:52 x calls Marty saying that Swan and Ginger were robbing a pharmacy and BNE pulled up on them and they knew it was them and they decided to rob the pharmacy themselves instead and over took it, x is mad about it and wants his table and pots back that he provided to BNE earlier",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_020_05_01_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:01:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=05h01m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-021",
+          "timestamp": "05:10:10",
+          "seconds": 18610,
+          "isMajor": false,
+          "title": "Ginger calls x",
+          "description": "Ginger calls x, x is trying to understand the situation with BNE but Ginger is not being accurate with her story",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_021_05_10_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:10:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=05h10m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-022",
+          "timestamp": "05:26:00",
+          "seconds": 19560,
+          "isMajor": false,
+          "title": "Lang is going to sell 10 radios for 15k each (each cost",
+          "description": "Lang is going to sell 10 radios for 15k each (each costs around 3.2k to make)",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d46_evt_022_05_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=05h26m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-023",
+          "timestamp": "05:28:10",
+          "seconds": 19690,
+          "isMajor": false,
+          "title": "Calls swan to hear her side of the story about the bne ",
+          "description": "x calls Swan to hear her side of the story about the BNE encounter, they will meet at the pharmacy and she will show him more in details",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_023_05_28_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:28:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=05h28m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-024",
+          "timestamp": "05:40:00",
+          "seconds": 20400,
+          "isMajor": true,
+          "title": "- 05:50:50 x meets with ginger and swan",
+          "description": "- 05:50:50 x meets with Ginger and Swan, they recreate what happened with BNE, x and Lang conclude that BNE shouldn't have overtook the pharmacy robbery and x still wants his stuff back",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d46_evt_024_05_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=05h40m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-025",
+          "timestamp": "05:57:30",
+          "seconds": 21450,
+          "isMajor": false,
+          "title": "Is cooking jet",
+          "description": "x is cooking Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_025_05_57_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:57:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=05h57m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-026",
+          "timestamp": "06:20:40",
+          "seconds": 22840,
+          "isMajor": true,
+          "title": "- 06:26:20 x meets up with ginger",
+          "description": "- 06:26:20 x meets up with Ginger, Ken and Swan, he wants to rob the Fleeca with them after storm, x is going to provide them radios",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_026_06_20_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:20:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=06h20m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-027",
+          "timestamp": "06:34:00",
+          "seconds": 23640,
+          "isMajor": false,
+          "title": "Is cooking more jet",
+          "description": "x is cooking more Jet",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_027_06_34_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:34:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=06h34m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-028",
+          "timestamp": "06:56:00",
+          "seconds": 24960,
+          "isMajor": false,
+          "title": "Splits a pharmacy robbery (i believe with benji's crew?",
+          "description": "x splits a pharmacy robbery (i believe with Benji's crew?)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_028_06_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=06h56m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-029",
+          "timestamp": "07:11:50",
+          "seconds": 25910,
+          "isMajor": false,
+          "title": "Runs into ron otterman",
+          "description": "x runs into Ron Otterman, he's waiting for someone in a Hawaiian shirt to rob the pharmacy so he can take pictures of them",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_029_07_11_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:11:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=07h11m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-030",
+          "timestamp": "07:36:00",
+          "seconds": 27360,
+          "isMajor": true,
+          "title": "- 08:26:10 x and the a team (ken",
+          "description": "- 08:26:10 x and the A team (Ken, Ginger and Swan) arrive at the Fleeca, x gives them different tasks and walk them through the robbery process, the cops arrive, x and Swan are drilling the lockers (2 lockers each), they complete the heist but don't get a diagnostic kit this time, they exchange the hostage and the chase starts (Swan is driving), they swap cars and separate, Ken gets cuffed but they manage to rescue him, they all manage to escape eventually",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_030_07_36_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:36:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=07h36m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
