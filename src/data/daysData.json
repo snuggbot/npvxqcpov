@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 30,
+      "eventsCount": 33,
       "events": [
         {
           "id": "d46-evt-001",
@@ -41952,7 +41952,7 @@
           "seconds": 27360,
           "isMajor": true,
           "title": "- 08:26:10 x and the a team (ken",
-          "description": "- 08:26:10 x and the A team (Ken, Ginger and Swan) arrive at the Fleeca, x gives them different tasks and walk them through the robbery process, the cops arrive, x and Swan are drilling the lockers (2 lockers each), they complete the heist but don't get a diagnostic kit this time, they exchange the hostage and the chase starts (Swan is driving), they swap cars and separate, Ken gets cuffed but they manage to rescue him, they all manage to escape eventually",
+          "description": "- 08:26:10 x and the A team (Ken, Ginger and Swan) arrive at the Fleeca, x gives them different tasks and walk them through the robbery process, the cops arrive, x and Swan are drilling the lockers (2 lockers each), they complete the heist but don't get a diagnostic kit this time, they exchange the hostage and the chase starts (Swan is driving), they swap cars and separate, Ken gets cuffed but they manage to rescue him, Ken is still in cuffs but they all manage to escape eventually",
           "category": "chase",
           "tags": [
             "chase",
@@ -41965,6 +41965,65 @@
           "image": "/images/frames/d46_evt_030_07_36_00.jpg",
           "imageCaption": "Stream snapshot @ 07:36:00",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=07h36m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-031",
+          "timestamp": "08:30:50",
+          "seconds": 30650,
+          "isMajor": false,
+          "title": "(x reacts to a clip of dawson getting grieved by anothe",
+          "description": "(x reacts to a clip of Dawson getting grieved by another cop)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_031_08_30_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:30:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=08h30m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-032",
+          "timestamp": "08:39:50",
+          "seconds": 31190,
+          "isMajor": true,
+          "title": "- 08:40:55 quinton brings keys and uncuffs ken",
+          "description": "- 08:40:55 Quinton brings keys and uncuffs Ken, x tells the team to split the money between them and congratulates them and leaves",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_032_08_39_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:39:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=08h39m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-033",
+          "timestamp": "08:45:50",
+          "seconds": 31550,
+          "isMajor": true,
+          "title": "- 08:48:00 marty says there are 2 new items that they c",
+          "description": "- 08:48:00 Marty says there are 2 new items that they can buy from the inner room shop and hands over the cache card to x to look at the shop, the new items are a Nu Epsilon Decrypt Chip (40k) and a Network Packet Decoder (15k), Marty says that he's bought both already",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_033_08_45_50.jpg",
+          "imageCaption": "Stream snapshot @ 08:45:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=08h45m50s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
