@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 45,
+      "eventsCount": 49,
       "events": [
         {
           "id": "d46-evt-001",
@@ -42256,6 +42256,84 @@
           "image": "/images/frames/d46_evt_045_10_44_00.jpg",
           "imageCaption": "Stream snapshot @ 10:44:00",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h44m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-046",
+          "timestamp": "10:52:00",
+          "seconds": 39120,
+          "isMajor": false,
+          "title": "They try lester's house but find nothing",
+          "description": "they try Lester's house but find nothing",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_046_10_52_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:52:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h52m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-047",
+          "timestamp": "10:56:00",
+          "seconds": 39360,
+          "isMajor": false,
+          "title": "And marty rob a couple of pharmacies",
+          "description": "x and Marty rob a couple of pharmacies",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_047_10_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=10h56m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-048",
+          "timestamp": "11:29:00",
+          "seconds": 41340,
+          "isMajor": false,
+          "title": "Is robbing atms",
+          "description": "x is robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_048_11_29_00.jpg",
+          "imageCaption": "Stream snapshot @ 11:29:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=11h29m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-049",
+          "timestamp": "12:02:10",
+          "seconds": 43330,
+          "isMajor": true,
+          "title": "- 12:59:30 x",
+          "description": "- 12:59:30 x, Swan, Goldie and Ginger get a hostage and it turns out to be C. Dawson (in civilian clothes), they roll with it and drive to the Fleeca bank, they cover Dawson's face so that the cops don't recognize him, x makes Dawson take the operator's call and convince him which he does on his second attempt, x and Swan drill the lockers (again no diagnostic kit), they exchange the hostage and the chase starts, they have air1 on them, x calls Zuck to arrange more escape vehicles, it's a long intense chase but they all manage to escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_049_12_02_10.jpg",
+          "imageCaption": "Stream snapshot @ 12:02:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=12h02m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
