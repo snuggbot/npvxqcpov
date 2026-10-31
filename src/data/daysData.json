@@ -41368,7 +41368,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2915062847",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 15,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d46-evt-001",
@@ -41664,12 +41664,98 @@
           "imageCaption": "Stream snapshot @ 02:38:20",
           "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h38m20s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-016",
+          "timestamp": "02:50:55",
+          "seconds": 10255,
+          "isMajor": true,
+          "title": "- 03:35:30 they arrive at the exhibition",
+          "description": "- 03:35:30 they arrive at the exhibition, they use their silent weapons to make their way in shooting many hostiles, they use the elevators, they get locked in a room with a bunch of CCTV camera controls that lead to different codes, a locked laptop that requires a code and they seem to be on a timer as a gas is leaking into the locked room, they removes paintings off the wall while they workout the code for the laptop, meanwhile the cops are making their way in, they get the password to the laptop 'the art hides blood' and x tries to hack the laptop (it's the aimlabs like mini game), the cops breach, they try to escape but eventually x gets cuffed, Marty gets shot down, Tony and Lang manage to leave the building and drive off, the cops are still chasing them but they manage to escape, x and Marty are being escorted by the cops to the hospital",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d46_evt_016_02_50_55.jpg",
+          "imageCaption": "Stream snapshot @ 02:50:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=02h50m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-017",
+          "timestamp": "03:35:40",
+          "seconds": 12940,
+          "isMajor": true,
+          "title": "- 03:58:00 after getting treated at the hospital",
+          "description": "- 03:58:00 after getting treated at the hospital, Lang interferes and uncuffs x, they leave the hospital and it turns into a chase, Lang drives x back to the hospital to help Marty out, x manages to uncuff Marty and they both leave the hospital, Marty run off on a scooter, x gets in a bicycle but he's being chased by air1, the cops arrest and cuff x, Marty arrives in his super car but the cops beat him and x down and they're both incapacitated, they get escorted to the PD",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d46_evt_017_03_35_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:35:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=03h35m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-018",
+          "timestamp": "04:17:18",
+          "seconds": 15438,
+          "isMajor": true,
+          "title": "- 04:21:30 c",
+          "description": "- 04:21:30 C. Dawson is interrogating Marty and x, they refuse to cooperate",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d46_evt_018_04_17_18.jpg",
+          "imageCaption": "Stream snapshot @ 04:17:18",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=04h17m18s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d46-evt-019",
+          "timestamp": "04:34:10",
+          "seconds": 16450,
+          "isMajor": true,
+          "title": "- 04:37:30 x is fined 5",
+          "description": "- 04:37:30 x is fined 5,950$ and sentenced to 30 months in jail",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d46_evt_019_04_34_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:34:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2915062847?t=04h34m10s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 451:45 / Pierre Paul: 22:16 / Total : 474:01",
-        "timesJailed": "7 arrests",
+        "timesJailed": "8 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
