@@ -43171,6 +43171,227 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "48": {
+      "dayNumber": 48,
+      "title": "Day 48",
+      "redditTitle": "NoPixel V | Day 48 Recap Nov 2nd | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xlt3uc/nopixel_v_day_48_recap_nov_2nd_xqcs_pov_with/",
+      "updated": "2026-11-02T09:53:59+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2917899069",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 10,
+      "events": [
+        {
+          "id": "d48-evt-001",
+          "timestamp": "00:31:00",
+          "seconds": 1860,
+          "isMajor": false,
+          "title": "Logs in and starts day 48",
+          "description": "x logs in and starts day 48",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_001_00_31_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:31:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=00h31m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-002",
+          "timestamp": "00:33:35",
+          "seconds": 2015,
+          "isMajor": true,
+          "title": "- 00:35:00 the crew decide to buy an angle set (using e",
+          "description": "- 00:35:00 the crew decide to buy an Angle Set (using Escrow)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_002_00_33_35.jpg",
+          "imageCaption": "Stream snapshot @ 00:33:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=00h33m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-003",
+          "timestamp": "00:36:20",
+          "seconds": 2180,
+          "isMajor": true,
+          "title": "- 00:37:10 marty says everything they do gives them esc",
+          "description": "- 00:37:10 Marty says everything they do gives them Escrow now, he says that they just hit a Fleeca and got around 2k Escrow, meanwhile they arrive at the docks and get the fob to the vehicle which they need to get the Angle set",
+          "category": "mechanic",
+          "tags": [
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d48_evt_003_00_36_20.jpg",
+          "imageCaption": "Stream snapshot @ 00:36:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=00h36m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-004",
+          "timestamp": "00:44:46",
+          "seconds": 2686,
+          "isMajor": true,
+          "title": "- 00:46:00 next they buy lost & found for 10",
+          "description": "- 00:46:00 next they buy Lost & Found for 10.5k Escrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_004_00_44_46.jpg",
+          "imageCaption": "Stream snapshot @ 00:44:46",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=00h44m46s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-005",
+          "timestamp": "00:53:40",
+          "seconds": 3220,
+          "isMajor": true,
+          "title": "- 00:54:50 for lost & found",
+          "description": "- 00:54:50 for Lost & Found, they get 1 fake plate mold, 1 wrench and 2 tracker disabling tools",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_005_00_53_40.jpg",
+          "imageCaption": "Stream snapshot @ 00:53:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=00h53m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-006",
+          "timestamp": "01:01:20",
+          "seconds": 3680,
+          "isMajor": true,
+          "title": "- 01:38:50 the crew rob a fleeca",
+          "description": "- 01:38:50 the crew rob a Fleeca, Marty and Lang drill the lockers (no diagnostic kits), they exchange the hostage and the chase begins, x escapes using a parachute then he uses his car to help the rest of the crew and they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d48_evt_006_01_01_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:01:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=01h01m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-007",
+          "timestamp": "01:42:45",
+          "seconds": 6165,
+          "isMajor": true,
+          "title": "- 01:43:20 x wants to meet up with ken",
+          "description": "- 01:43:20 x wants to meet up with Ken, he has a task for him",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_007_01_42_45.jpg",
+          "imageCaption": "Stream snapshot @ 01:42:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=01h42m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-008",
+          "timestamp": "01:46:00",
+          "seconds": 6360,
+          "isMajor": true,
+          "title": "- 01:47:15 marty says that michael manx told 4head abou",
+          "description": "- 01:47:15 Marty says that Michael Manx told 4head about BB's chop spot to press Primo and rob him, x wants to deal with Michael personally",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d48_evt_008_01_46_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:46:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=01h46m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-009",
+          "timestamp": "01:47:20",
+          "seconds": 6440,
+          "isMajor": true,
+          "title": "- 02:00:40 x links up with ken",
+          "description": "- 02:00:40 x links up with Ken, Roxy and Ginger, the problem is that G6 lead by Jason Polam are seling radios to people which interferes with BB's radios selling market, he wants Roxy and Ken mainly to investigate and confirm these rumors by calling Polam but he doesn't answer, he then asks Roxy to call Yuno, she does and she asks to get 5 radios for 14k each, Yuno says that 5 is a lot and that he will have to get back to her but he can get her 1 radio right away, they agree on getting 2 radios",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_009_01_47_20.jpg",
+          "imageCaption": "Stream snapshot @ 01:47:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=01h47m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-010",
+          "timestamp": "02:01:50",
+          "seconds": 7310,
+          "isMajor": true,
+          "title": "- 02:03:55 x calls c",
+          "description": "- 02:03:55 x calls C. Dawson telling him that they have someone on the inside selling radios illegally, he's going to ping him a location for the radios once they get them off of Yuno so that they can swab them for DNA",
+          "category": "job",
+          "tags": [
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_010_02_01_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:01:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=02h01m50s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 475:22 / Pierre Paul: 22:16 / Total : 497:38",
+        "timesJailed": "9 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
