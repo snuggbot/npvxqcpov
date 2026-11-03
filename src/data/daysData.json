@@ -43182,7 +43182,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2917899069",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 17,
       "events": [
         {
           "id": "d48-evt-001",
@@ -43382,6 +43382,148 @@
           "image": "/images/frames/d48_evt_010_02_01_50.jpg",
           "imageCaption": "Stream snapshot @ 02:01:50",
           "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=02h01m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-011",
+          "timestamp": "02:05:45",
+          "seconds": 7545,
+          "isMajor": true,
+          "title": "- 02:06:30 x pings dawson the set up location",
+          "description": "- 02:06:30 x pings Dawson the set up location",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_011_02_05_45.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=02h05m45s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-012",
+          "timestamp": "02:17:50",
+          "seconds": 8270,
+          "isMajor": true,
+          "title": "- 02:25:45 yuno arrives",
+          "description": "- 02:25:45 Yuno arrives, C. Dawson is on the rooftop taking photos of the exchange, they get a radio and hand it over to Dawson",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_012_02_17_50.jpg",
+          "imageCaption": "Stream snapshot @ 02:17:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=02h17m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-013",
+          "timestamp": "02:30:25",
+          "seconds": 9025,
+          "isMajor": true,
+          "title": "- 02:31:45 x texts dawson saying that the radio cost hi",
+          "description": "- 02:31:45 x texts Dawson saying that the radio cost him 14k, Dawson says that they are unable to check the radio for DNA and that Yuno was on duty 5 minutes before the meeting so he might have seen Dawson's GPS location there",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_013_02_30_25.jpg",
+          "imageCaption": "Stream snapshot @ 02:30:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=02h30m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-014",
+          "timestamp": "02:57:00",
+          "seconds": 10620,
+          "isMajor": true,
+          "title": "- 04:32:00 the crew attempt paleto heist",
+          "description": "- 04:32:00 the crew attempt Paleto heist, x using the laptop on the roof is prompted to intercept the call to both the police and the private number by doing a hack (memory skill check similar to the old thermite hack) but he fails both, the vault gets sealed, they will try again later but for now they exchange the hostage and drive off, the chase begins, Tony gets downed and Marty gets arrested, x tries to rescue Marty but fails so he drives off again, Swan is down too, its now up to Lang, x and Speedy, x tries to rescue Marty again and succeeds this time, x hands over Marty's body to Lang and drives off with Speedy, x calls Ron thinking he's the only flying over them but it's actually air1, Lang, Speedy and x go to the hideout to ambush any cops chasing them (storm hit shortly after)",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony",
+            "Speedy"
+          ],
+          "image": "/images/frames/d48_evt_014_02_57_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:57:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=02h57m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-015",
+          "timestamp": "04:33:23",
+          "seconds": 16403,
+          "isMajor": true,
+          "title": "- 04:33:50 (x reacts to a clip of how tony was downed d",
+          "description": "- 04:33:50 (x reacts to a clip of how Tony was downed during the chase)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d48_evt_015_04_33_23.jpg",
+          "imageCaption": "Stream snapshot @ 04:33:23",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=04h33m23s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-016",
+          "timestamp": "04:38:39",
+          "seconds": 16719,
+          "isMajor": true,
+          "title": "- 04:43:40 roxy calls x saying that she has a warrant f",
+          "description": "- 04:43:40 Roxy calls x saying that she has a warrant for her arrest since one of her guns were used in a shootout (x using the gun he bought off of her), she also says that x has a warrant too",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_016_04_38_39.jpg",
+          "imageCaption": "Stream snapshot @ 04:38:39",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=04h38m39s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-017",
+          "timestamp": "04:45:10",
+          "seconds": 17110,
+          "isMajor": true,
+          "title": "- 04:45:40 x buys a science fair kit for 3",
+          "description": "- 04:45:40 x buys a Science Fair Kit for 3.5k Escrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_017_04_45_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:45:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=04h45m10s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
