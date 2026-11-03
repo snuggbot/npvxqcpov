@@ -43182,7 +43182,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2917899069",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 17,
+      "eventsCount": 23,
       "events": [
         {
           "id": "d48-evt-001",
@@ -43524,6 +43524,125 @@
           "image": "/images/frames/d48_evt_017_04_45_10.jpg",
           "imageCaption": "Stream snapshot @ 04:45:10",
           "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=04h45m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-018",
+          "timestamp": "04:54:00",
+          "seconds": 17640,
+          "isMajor": false,
+          "title": "The crew is mining iron to fulfill the science fair kit",
+          "description": "the crew is mining iron to fulfill the science fair kit requirements (Marty is still in jail)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d48_evt_018_04_54_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:54:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=04h54m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-019",
+          "timestamp": "05:22:00",
+          "seconds": 19320,
+          "isMajor": true,
+          "title": "- 05:23:00 the science fair kit is a thermite blueprint",
+          "description": "- 05:23:00 the science fair kit is a Thermite blueprint!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_019_05_22_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:22:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=05h22m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-020",
+          "timestamp": "05:24:00",
+          "seconds": 19440,
+          "isMajor": true,
+          "title": "- 05:24:20 they need thermite mix to craft thermite",
+          "description": "- 05:24:20 they need Thermite mix to craft Thermite",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_020_05_24_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:24:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=05h24m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-021",
+          "timestamp": "05:43:00",
+          "seconds": 20580,
+          "isMajor": true,
+          "title": "- 05:44:30 x receives a text message saying that his ca",
+          "description": "- 05:44:30 x receives a text message saying that his car will be receiving a strike point for being used in a crime today",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_021_05_43_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:43:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=05h43m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-022",
+          "timestamp": "05:51:30",
+          "seconds": 21090,
+          "isMajor": false,
+          "title": "And swan are robbing atms",
+          "description": "x and Swan are robbing ATMs, get spotted by cops and drive off",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_022_05_51_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:51:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=05h51m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-023",
+          "timestamp": "05:59:40",
+          "seconds": 21580,
+          "isMajor": true,
+          "title": "- 06:02:55 c",
+          "description": "- 06:02:55 C. Dawson calls x about his car being used for different criminal activities again, x sticks to his story that it was never delivered to him in the first place, he also tells C. Dawson about the text message he received about striking his car, Dawson says that they will only strike it if they manage to get hold off the car but it was stolen again",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_023_05_59_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:59:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2917899069?t=05h59m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
