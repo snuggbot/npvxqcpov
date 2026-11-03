@@ -43182,7 +43182,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2871438321",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 23,
+      "eventsCount": 29,
       "events": [
         {
           "id": "d48-evt-001",
@@ -43643,6 +43643,130 @@
           "image": "/images/frames/d48_evt_023_05_59_40.jpg",
           "imageCaption": "Stream snapshot @ 05:59:40",
           "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=05h59m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-024",
+          "timestamp": "06:07:10",
+          "seconds": 22030,
+          "isMajor": true,
+          "title": "- 06:07:20 x buys the peace & quiet kit using 4",
+          "description": "- 06:07:20 x buys the Peace & Quiet kit using 4.2k Escrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_024_06_07_10.jpg",
+          "imageCaption": "Stream snapshot @ 06:07:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h07m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-025",
+          "timestamp": "06:15:40",
+          "seconds": 22540,
+          "isMajor": true,
+          "title": "- 06:16:30 the peace & quiet kit gives them 3 tracker d",
+          "description": "- 06:16:30 the Peace & Quiet kit gives them 3 tracker disabling tools (max loss)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_025_06_15_40.jpg",
+          "imageCaption": "Stream snapshot @ 06:15:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h15m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-026",
+          "timestamp": "06:27:00",
+          "seconds": 23220,
+          "isMajor": true,
+          "title": "- 06:34:40 marty explains to x the process to use the p",
+          "description": "- 06:34:40 Marty explains to x the process to use the PC at Paleto bank since Marty is going to be on the roof this time with the laptop doing the hacks and x is going to use the main PC instead, x explains the hack to Marty",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d48_evt_026_06_27_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:27:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h27m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-027",
+          "timestamp": "06:54:20",
+          "seconds": 24860,
+          "isMajor": true,
+          "title": "- 08:20:00 they arrive at paleto",
+          "description": "- 08:20:00 they arrive at Paleto, Marty manages to intercept both calls doing the memory hack, x gets to a point where he needs to memorize a Captcha and then enter it in a specific order color wise, they get a % of the vault door opening every time x solves a Captcha, the door is still opening even though x is not solving them so it might be just to fasten the process, the door to the vault opens, Tony and Lang are drilling the lockers, x uses Thermite to open the last inner door, there is so much money! (at least 200k), Tony gets an encrypted laptop and 2 notebook pages, he also gets Sierra holds and instructions to the branch papers, Lang gets notebook pages as well, x gets 98 gold bars, they empty the vault with over 5 minutes left for the vault to close (there might be more to it everyone believes), Marty starts spamming buttons and the vault closes almost trapping x inside, they exchange the hostage and the chase begins, the chase is crazy, x gets incapacitated but the cop revives him, x leaves the loot in a bush during the foot chase, x drives off and shoots the cop behind him taking him down, Tony goes back and gets the loot, everyone is separated in a different car, Lang and Marty get are downed, the loot is secured, x and Tony will try to rescue the crew when they escorted to the hospital by cops, x gets cuffs from Quinton, x tries to get Lang from the back of the cop car but gets tazed, Zuck arrives and drives off with x, they decide to move on for now, Tony is in a ranger's cop car",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d48_evt_027_06_54_20.jpg",
+          "imageCaption": "Stream snapshot @ 06:54:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=06h54m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-028",
+          "timestamp": "08:22:40",
+          "seconds": 30160,
+          "isMajor": false,
+          "title": "Tries to chop the ranger's cop car but he can't",
+          "description": "x tries to chop the ranger's cop car but he can't",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d48_evt_028_08_22_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:22:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h22m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d48-evt-029",
+          "timestamp": "08:30:40",
+          "seconds": 30640,
+          "isMajor": false,
+          "title": "Tony smacks the ranger's cop car until it explodes inca",
+          "description": "Tony smacks the ranger's cop car until it explodes incapacitating him in process",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d48_evt_029_08_30_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:30:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=08h30m40s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
