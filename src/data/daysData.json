@@ -44279,7 +44279,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2918798048",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 8,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d49-evt-001",
@@ -44438,12 +44438,56 @@
           "imageCaption": "Stream snapshot @ 02:00:20",
           "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=02h00m20s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-009",
+          "timestamp": "03:56:10",
+          "seconds": 14170,
+          "isMajor": false,
+          "title": "Benji wants to borrow the fleeca laptop tomorrow and x ",
+          "description": "Benji wants to borrow the fleeca laptop tomorrow and x approves",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_009_03_56_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:56:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=03h56m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-010",
+          "timestamp": "04:43:00",
+          "seconds": 16980,
+          "isMajor": true,
+          "title": "- 06:56:50 the crew is attempting paleto again",
+          "description": "- 06:56:50 the crew is attempting Paleto again, Marty intercepts both calls, x is doing the Captcha but they fail it and the vault door opens anyway, x attempts to thermite the inner vault door but catches on fire with Tony and are incapacitated, Lang continues to drill the lockers, he then takes over the Thermite and unlocks the inner vault gate successfully, Lang barely grabs any of the loot inside before the vault door closes but he leaves just in time, they exchange the hostage and the chase begins (air1 included), Marty's car flips over, Marty and x are arrested, Swan managed to get Tony's body out, Lang tries to rescue x at the hospital but he gets arrested too, for today's arrest x is geting 84 months in jail and fined 11.1k$ as for the warrant its an extra 172 months and a 20.5k$ fine plus 10 months and around 8k in fines for possession of firearm charges",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d49_evt_010_04_43_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:43:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=04h43m00s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 487:16 / Pierre Paul: 22:16 / Total : 509:32",
-        "timesJailed": "9 arrests",
+        "timesJailed": "10 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
