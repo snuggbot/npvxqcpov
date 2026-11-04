@@ -44268,6 +44268,185 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "49": {
+      "dayNumber": 49,
+      "title": "Day 49",
+      "redditTitle": "NoPixel V | Day 49 Recap Nov 3rd | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xmz4fh/nopixel_v_day_49_recap_nov_3rd_xqcs_pov_with/",
+      "updated": "2026-11-03T17:24:47+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2871438321",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 8,
+      "events": [
+        {
+          "id": "d49-evt-001",
+          "timestamp": "00:35:50",
+          "seconds": 2150,
+          "isMajor": false,
+          "title": "Logs in and starts day 49!",
+          "description": "x logs in and starts day 49!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_001_00_35_50.jpg",
+          "imageCaption": "Stream snapshot @ 00:35:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h35m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-002",
+          "timestamp": "00:39:00",
+          "seconds": 2340,
+          "isMajor": true,
+          "title": "- 00:40:00 x and marty are deciding the location of the",
+          "description": "- 00:40:00 x and Marty are deciding the location of the auction they're hosting today",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d49_evt_002_00_39_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:39:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=00h39m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-003",
+          "timestamp": "01:33:05",
+          "seconds": 5585,
+          "isMajor": true,
+          "title": "- 01:34:10 the auction place is ready",
+          "description": "- 01:34:10 the auction place is ready",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_003_01_33_05.jpg",
+          "imageCaption": "Stream snapshot @ 01:33:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h33m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-004",
+          "timestamp": "01:35:00",
+          "seconds": 5700,
+          "isMajor": true,
+          "title": "- 01:35:20 x has a secret kitty (easter egg)",
+          "description": "- 01:35:20 x has a secret kitty (Easter egg)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_004_01_35_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:35:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h35m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-005",
+          "timestamp": "01:40:00",
+          "seconds": 6000,
+          "isMajor": false,
+          "title": "Is getting dressed for the auction",
+          "description": "x is getting dressed for the auction",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_005_01_40_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:40:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h40m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-006",
+          "timestamp": "01:56:15",
+          "seconds": 6975,
+          "isMajor": false,
+          "title": "Curtis calls x saying that he expects to see a drill fo",
+          "description": "Curtis calls x saying that he expects to see a drill for sale at the auction",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_006_01_56_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:56:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h56m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-007",
+          "timestamp": "01:57:30",
+          "seconds": 7050,
+          "isMajor": false,
+          "title": "Benji asks if he can bet on items with rolled money",
+          "description": "Benji asks if he can bet on items with rolled money, they decide that they won't take rolled money at the auction",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_007_01_57_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:57:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=01h57m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-008",
+          "timestamp": "02:00:20",
+          "seconds": 7220,
+          "isMajor": true,
+          "title": "- 03:37:00 the bb auction starts",
+          "description": "- 03:37:00 the BB auction starts, the first item is a set of 10 lockpicks sold to the italians for 16k, the second item is a set of 6 radios sold to 4head for 60k, the third item is a set of 2 heavy armors sold for 8k to a gentleman, the fourth item is a set of 10 fake car plates sold for 35k to a gentleman, the fifth item is a set of 2 grinders sold for 10k to a gentleman, the sixth item is a set of 2 tracker disabling tools sold for 25k to a lady, the seventh item is a drill sold for 240k to Benji, the eighth item is a Thermite charge sold for 69k (not sure to whom), the ninth item is an empty Fleeca laptop sold for 140k to a lady, the ninth item is a hydro planter sold for 180k to 4head, the tenth item is an SMG sold for 50k to Swan, the eleventh item is a pump shotgun sold for 45k, Speedy and Lang gets hold of a person sending images and info of the auction using his phone to C. Dawson (names big brother on his phone), they take him to the fightclub hideout and tie him to table, Lang finds cops on the roof top, they call the number again and it's C. Dawson saying he will save his brother, they light him up on fire and down him, they leave the hideout and the cops are outside so it turns into a chase, the M1 spot (fight club) is compromised, it's a long chase but air1 has to refuel which gives them a chance to escape, they all escape the cops",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "medical",
+            "crypto",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang",
+            "Speedy"
+          ],
+          "image": "/images/frames/d49_evt_008_02_00_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:00:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2871438321?t=02h00m20s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 487:16 / Pierre Paul: 22:16 / Total : 509:32",
+        "timesJailed": "9 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
