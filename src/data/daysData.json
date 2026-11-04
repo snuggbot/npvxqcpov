@@ -44279,7 +44279,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2918798048",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d49-evt-001",
@@ -44481,6 +44481,185 @@
           "image": "/images/frames/d49_evt_010_04_43_00.jpg",
           "imageCaption": "Stream snapshot @ 04:43:00",
           "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=04h43m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-011",
+          "timestamp": "07:07:55",
+          "seconds": 25675,
+          "isMajor": true,
+          "title": "- 07:08:10 x's jail time is reduced to 208 months",
+          "description": "- 07:08:10 x's jail time is reduced to 208 months",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_011_07_07_55.jpg",
+          "imageCaption": "Stream snapshot @ 07:07:55",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=07h07m55s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-012",
+          "timestamp": "08:07:40",
+          "seconds": 29260,
+          "isMajor": false,
+          "title": "And marty leave the jail",
+          "description": "x and Marty leave the jail",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d49_evt_012_08_07_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:07:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=08h07m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-013",
+          "timestamp": "08:12:30",
+          "seconds": 29550,
+          "isMajor": true,
+          "title": "- 08:21:10 they're unable to buy the thermite blueprint",
+          "description": "- 08:21:10 they're unable to buy the Thermite blueprint using Escrow for another week (on cooldown), x wants to buy back the Thermite they sold at the auction, it was bought by Dixie Renee, x calls Shang who's also specialized in cars, x tries to convince him to get the Thermite kit and in return x and Marty will work for them and refund their Escrow back",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d49_evt_013_08_12_30.jpg",
+          "imageCaption": "Stream snapshot @ 08:12:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=08h12m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-014",
+          "timestamp": "08:27:40",
+          "seconds": 30460,
+          "isMajor": false,
+          "title": "Marty sells 2 drills to bne for 200k",
+          "description": "Marty sells 2 drills to BNE for 200k",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d49_evt_014_08_27_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:27:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=08h27m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-015",
+          "timestamp": "08:34:00",
+          "seconds": 30840,
+          "isMajor": true,
+          "title": "- 08:34:37 x calls shang back",
+          "description": "- 08:34:37 x calls Shang back, they agreed to getting the Thermite for him in about 45 minutes",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_015_08_34_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:34:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=08h34m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-016",
+          "timestamp": "08:42:40",
+          "seconds": 31360,
+          "isMajor": true,
+          "title": "- 08:44:25 x buys the family heirloom for 20k escrow",
+          "description": "- 08:44:25 x buys the Family Heirloom for 20k Escrow",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_016_08_42_40.jpg",
+          "imageCaption": "Stream snapshot @ 08:42:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=08h42m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-017",
+          "timestamp": "08:51:00",
+          "seconds": 31860,
+          "isMajor": true,
+          "title": "- 08:52:10 the 20k family heirloom is literally just 5 ",
+          "description": "- 08:52:10 the 20k Family Heirloom is literally just 5 pistols with 5 mags (max loss)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d49_evt_017_08_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=08h51m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-018",
+          "timestamp": "09:16:30",
+          "seconds": 33390,
+          "isMajor": false,
+          "title": "And marty are robbing a pharmacy",
+          "description": "x and Marty are robbing a pharmacy",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d49_evt_018_09_16_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:16:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=09h16m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d49-evt-019",
+          "timestamp": "09:22:20",
+          "seconds": 33740,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty, Swan and Tony rob a Fleeca, Marty and Tony drill the lockers (no diagnostic kits), they exchange the hostage and drive off, no chase this time",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d49_evt_019_09_22_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:22:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2918798048?t=09h22m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
