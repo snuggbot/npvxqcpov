@@ -44851,6 +44851,168 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony and Speedy",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "50": {
+      "dayNumber": 50,
+      "title": "Day 50",
+      "redditTitle": "NoPixel V | Day 50 Recap Nov 4th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xnsdxe/nopixel_v_day_50_recap_nov_4th_xqcs_pov_with/",
+      "updated": "2026-11-04T16:18:46+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2919684247",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 7,
+      "events": [
+        {
+          "id": "d50-evt-001",
+          "timestamp": "00:45:10",
+          "seconds": 2710,
+          "isMajor": false,
+          "title": "Logs in and starts day 50!",
+          "description": "x logs in and starts day 50!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_001_00_45_10.jpg",
+          "imageCaption": "Stream snapshot @ 00:45:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=00h45m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-002",
+          "timestamp": "00:46:00",
+          "seconds": 2760,
+          "isMajor": true,
+          "title": "- 00:48:55 (big spoiler alert lore wise abour paleto) x",
+          "description": "- 00:48:55 (Big Spoiler alert Lore Wise abour Paleto) x shares his theory about Paleto heist,",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_002_00_46_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:46:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=00h46m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-003",
+          "timestamp": "00:49:00",
+          "seconds": 2940,
+          "isMajor": true,
+          "title": "- 00:50:00 x looks at paleto and today's login is jrodr",
+          "description": "- 00:50:00 x looks at Paleto and today's login is JRodriquez again, Ginger texts him saying that she managed to get Thermite",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_003_00_49_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:49:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=00h49m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-004",
+          "timestamp": "00:58:00",
+          "seconds": 3480,
+          "isMajor": true,
+          "title": "- 01:01:05 x calls ginger and he will be including her ",
+          "description": "- 01:01:05 x calls Ginger and he will be including her since he's using her Thermite to hit Paleto, she will be waiting on the outside near the water so that they can throw the loot to her from the car and she will use scuba to escape",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_004_00_58_00.jpg",
+          "imageCaption": "Stream snapshot @ 00:58:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=00h58m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-005",
+          "timestamp": "01:06:00",
+          "seconds": 3960,
+          "isMajor": false,
+          "title": "Tests throwing items from the car's window into the wat",
+          "description": "x tests throwing items from the car's window into the water, it works but they need an elevated car to do so",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_005_01_06_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:06:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=01h06m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-006",
+          "timestamp": "01:16:50",
+          "seconds": 4610,
+          "isMajor": true,
+          "title": "- 01:20:30 x shows the crew the strat and they practice",
+          "description": "- 01:20:30 x shows the crew the strat and they practice throwing an items from the car's window",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_006_01_16_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:16:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=01h16m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-007",
+          "timestamp": "01:38:05",
+          "seconds": 5885,
+          "isMajor": true,
+          "title": "- 01:00:00 the crew attempts paleto",
+          "description": "- 01:00:00 the crew attempts Paleto, Marty intercepts both calls, x succeeds with one of the Captcha checks, the system restarts and it says door motor resumes in 1 minute, he succeeds the Captcha for the second time, the vault door opens, x gets a prompt of the PC that says 'Reset counter buttons in the following order 1-2-4-3', Lang Thermites the inner door, x and Lang drill the lockers, x gets a notebook page, they grab all the loot but find nothing new, thye exchange the hostage and the chase begins (air1 included), they do as planned and throw the loot to Ginger off the bridge into the water successfully, air1 is chasing Ginger swimming in the water but it stops to refuel giving Ginger a window to escape where she drops the loot at a safe location, it's a crazy chase, x gets cuffed but they rescue him and the chase continues, Ron texts x throughout the chase letting him know whenever air1 is refueling, Swan is cuffed, Tony forces a cop to drive off at gun point while x is cuffed and stuck in the broken car",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d50_evt_007_01_38_05.jpg",
+          "imageCaption": "Stream snapshot @ 01:38:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=01h38m05s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 498:31 / Pierre Paul: 22:16 / Total : 520:47",
+        "timesJailed": "10 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
