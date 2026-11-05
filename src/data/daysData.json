@@ -44862,7 +44862,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2919684247",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 15,
       "events": [
         {
           "id": "d50-evt-001",
@@ -45004,12 +45004,169 @@
           "imageCaption": "Stream snapshot @ 01:38:05",
           "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=01h38m05s",
           "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-008",
+          "timestamp": "03:13:25",
+          "seconds": 11605,
+          "isMajor": true,
+          "title": "- 03:14:30 x is escorted to the pd",
+          "description": "- 03:14:30 x is escorted to the PD",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_008_03_13_25.jpg",
+          "imageCaption": "Stream snapshot @ 03:13:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=03h13m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-009",
+          "timestamp": "03:19:10",
+          "seconds": 11950,
+          "isMajor": true,
+          "title": "- 03:19:20 x is united with marty at the pd",
+          "description": "- 03:19:20 x is united with Marty at the PD, meanwhile Tony and Lang are still being chased",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d50_evt_009_03_19_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:19:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=03h19m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-010",
+          "timestamp": "03:42:10",
+          "seconds": 13330,
+          "isMajor": true,
+          "title": "- 03:42:40 x is being processed",
+          "description": "- 03:42:40 x is being processed, he's jailed for 80 months and fined an amount of 12,550$, Swan and Marty are also being processed",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d50_evt_010_03_42_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:42:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=03h42m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-011",
+          "timestamp": "04:15:15",
+          "seconds": 15315,
+          "isMajor": false,
+          "title": "And marty are out of jail",
+          "description": "x and Marty are out of Jail",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d50_evt_011_04_15_15.jpg",
+          "imageCaption": "Stream snapshot @ 04:15:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=04h15m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-012",
+          "timestamp": "04:16:00",
+          "seconds": 15360,
+          "isMajor": true,
+          "title": "- 04:17:00 x calls ginger",
+          "description": "- 04:17:00 x calls Ginger, she's recovered all the loot and it's all safe",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_012_04_16_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:16:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=04h16m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-013",
+          "timestamp": "04:26:07",
+          "seconds": 15967,
+          "isMajor": true,
+          "title": "- 04:27:20 x calls shang",
+          "description": "- 04:27:20 x calls Shang, they have the Thermite blueprint, they will meet soon",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_013_04_26_07.jpg",
+          "imageCaption": "Stream snapshot @ 04:26:07",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=04h26m07s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-014",
+          "timestamp": "04:44:00",
+          "seconds": 17040,
+          "isMajor": false,
+          "title": "Test drives a few cars",
+          "description": "x test drives a few cars",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_014_04_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=04h44m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d50-evt-015",
+          "timestamp": "05:20:20",
+          "seconds": 19220,
+          "isMajor": true,
+          "title": "- 05:43:00 the crew link up with shang and his boss mar",
+          "description": "- 05:43:00 the crew link up with Shang and his boss Marry, since they share the same business (cars) they agree that they should be selling drills for 130k each and that they shouldn't be shared with others, only sold, as for radios they decide on 12.5-15k each, They will be providing the crew with 1 Thermite soon",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d50_evt_015_05_20_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:20:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2919684247?t=05h20m20s",
+          "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 498:31 / Pierre Paul: 22:16 / Total : 520:47",
-        "timesJailed": "10 arrests",
+        "timesJailed": "11 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
