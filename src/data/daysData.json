@@ -45439,7 +45439,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2920640394",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 6,
+      "eventsCount": 10,
       "events": [
         {
           "id": "d51-evt-001",
@@ -45556,6 +45556,88 @@
           "image": "/images/frames/d51_evt_006_01_55_15.jpg",
           "imageCaption": "Stream snapshot @ 01:55:15",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h55m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-007",
+          "timestamp": "02:03:05",
+          "seconds": 7385,
+          "isMajor": true,
+          "title": "- 02:03:30 marty says the polish people will take over ",
+          "description": "- 02:03:30 Marty says the Polish people will take over the pawn and even do the cargo heist under Speedy's supervision",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Speedy"
+          ],
+          "image": "/images/frames/d51_evt_007_02_03_05.jpg",
+          "imageCaption": "Stream snapshot @ 02:03:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h03m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-008",
+          "timestamp": "02:05:00",
+          "seconds": 7500,
+          "isMajor": false,
+          "title": "And marty are doing some dora",
+          "description": "x and Marty are doing some dora",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d51_evt_008_02_05_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:05:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h05m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-009",
+          "timestamp": "02:28:35",
+          "seconds": 8915,
+          "isMajor": true,
+          "title": "- 02:30:40 lang says that if they don't pay their fines",
+          "description": "- 02:30:40 Lang says that if they don't pay their fines by the end of tomorrow then everything they own will be gone",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d51_evt_009_02_28_35.jpg",
+          "imageCaption": "Stream snapshot @ 02:28:35",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h28m35s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-010",
+          "timestamp": "02:43:30",
+          "seconds": 9810,
+          "isMajor": true,
+          "title": "- 02:46:25 x and marty buy a 6 seater car",
+          "description": "- 02:46:25 x and Marty buy a 6 seater car",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d51_evt_010_02_43_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:43:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h43m30s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
