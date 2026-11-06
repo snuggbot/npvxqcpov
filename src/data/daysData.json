@@ -45437,9 +45437,9 @@
       "updated": "2026-11-05T14:59:27+00:00",
       "isLive": true,
       "twitchVod": "https://www.twitch.tv/videos/2920640394",
-      "kickVod": "https://kick.com/xqc",
+      "kickVod": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd",
       "kickStreamUrl": "",
-      "eventsCount": 13,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d51-evt-001",
@@ -45458,7 +45458,7 @@
           "image": "/images/frames/d51_evt_001_01_01_15.jpg",
           "imageCaption": "Stream snapshot @ 01:01:15",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h01m15s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=3673"
         },
         {
           "id": "d51-evt-002",
@@ -45477,7 +45477,7 @@
           "image": "/images/frames/d51_evt_002_01_08_17.jpg",
           "imageCaption": "Stream snapshot @ 01:08:17",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h08m17s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=4095"
         },
         {
           "id": "d51-evt-003",
@@ -45497,7 +45497,7 @@
           "image": "/images/frames/d51_evt_003_01_29_34.jpg",
           "imageCaption": "Stream snapshot @ 01:29:34",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h29m34s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=5372"
         },
         {
           "id": "d51-evt-004",
@@ -45517,7 +45517,7 @@
           "image": "/images/frames/d51_evt_004_01_43_00.jpg",
           "imageCaption": "Stream snapshot @ 01:43:00",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h43m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=6178"
         },
         {
           "id": "d51-evt-005",
@@ -45537,7 +45537,7 @@
           "image": "/images/frames/d51_evt_005_01_48_40.jpg",
           "imageCaption": "Stream snapshot @ 01:48:40",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h48m40s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=6518"
         },
         {
           "id": "d51-evt-006",
@@ -45556,7 +45556,7 @@
           "image": "/images/frames/d51_evt_006_01_55_15.jpg",
           "imageCaption": "Stream snapshot @ 01:55:15",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h55m15s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=6913"
         },
         {
           "id": "d51-evt-007",
@@ -45578,7 +45578,7 @@
           "image": "/images/frames/d51_evt_007_02_03_05.jpg",
           "imageCaption": "Stream snapshot @ 02:03:05",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h03m05s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=7383"
         },
         {
           "id": "d51-evt-008",
@@ -45598,7 +45598,7 @@
           "image": "/images/frames/d51_evt_008_02_05_00.jpg",
           "imageCaption": "Stream snapshot @ 02:05:00",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h05m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=7498"
         },
         {
           "id": "d51-evt-009",
@@ -45618,7 +45618,7 @@
           "image": "/images/frames/d51_evt_009_02_28_35.jpg",
           "imageCaption": "Stream snapshot @ 02:28:35",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h28m35s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=8913"
         },
         {
           "id": "d51-evt-010",
@@ -45638,7 +45638,7 @@
           "image": "/images/frames/d51_evt_010_02_43_30.jpg",
           "imageCaption": "Stream snapshot @ 02:43:30",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h43m30s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=9808"
         },
         {
           "id": "d51-evt-011",
@@ -45657,7 +45657,7 @@
           "image": "/images/frames/d51_evt_011_03_02_00.jpg",
           "imageCaption": "Stream snapshot @ 03:02:00",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=03h02m00s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=10918"
         },
         {
           "id": "d51-evt-012",
@@ -45677,7 +45677,7 @@
           "image": "/images/frames/d51_evt_012_03_25_10.jpg",
           "imageCaption": "Stream snapshot @ 03:25:10",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=03h25m10s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=12308"
         },
         {
           "id": "d51-evt-013",
@@ -45696,13 +45696,138 @@
           "image": "/images/frames/d51_evt_013_03_34_20.jpg",
           "imageCaption": "Stream snapshot @ 03:34:20",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=03h34m20s",
-          "kickUrl": "https://kick.com/xqc"
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=12858"
+        },
+        {
+          "id": "d51-evt-014",
+          "timestamp": "04:08:50",
+          "seconds": 14930,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty, Lang and Ginger rob a Fleeca (Ron is their hostage), Marty and x are drilling the lockers (no diagnostic kits), they exchange the hostage and the chase begins, they eventually escape",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d51_evt_014_04_08_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:08:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=04h08m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=14928"
+        },
+        {
+          "id": "d51-evt-015",
+          "timestamp": "05:15:20",
+          "seconds": 18920,
+          "isMajor": false,
+          "title": "- 06:31:50 x",
+          "description": "- 06:31:50 x, Tony, Lang, Swan and Ginger hit another Fleeca (no diagnostic kits again), they exchange the hostage and the chase begins, Ginger is downed but Tony gets her in a car and drive off and the chase continues, Tony's car is out, x and Tony try to rescue Ginger but they fail, x holds EMS at gun point and arrives with them on scene, the cops spot x in the back of the EMS car and ask him to exit the car but he ignores them, EMS say that he's a patient but decide to take Ginger in a cop car instead, they arrive at the hospital, x goes to the front door and shoots down a cop, Swan is downed, x and Marty are still up, x gets pushed by a couple of cops and one of them punches x which stuns him and then they shoot him down,",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d51_evt_015_05_15_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:15:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=05h15m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=18918"
+        },
+        {
+          "id": "d51-evt-016",
+          "timestamp": "06:32:00",
+          "seconds": 23520,
+          "isMajor": true,
+          "title": "- 06:32:35 (x reacts to a clips of buddha witnessing th",
+          "description": "- 06:32:35 (x reacts to a clips of Buddha witnessing the cop punching x in the middle of a shootout)",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_016_06_32_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:32:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=06h32m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=23518"
+        },
+        {
+          "id": "d51-evt-017",
+          "timestamp": "06:42:45",
+          "seconds": 24165,
+          "isMajor": true,
+          "title": "- 06:43:20 (funny bit)",
+          "description": "- 06:43:20 (funny bit)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_017_06_42_45.jpg",
+          "imageCaption": "Stream snapshot @ 06:42:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=06h42m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=24163"
+        },
+        {
+          "id": "d51-evt-018",
+          "timestamp": "06:52:30",
+          "seconds": 24750,
+          "isMajor": false,
+          "title": "Looks at lifeinvader news while being processed",
+          "description": "x looks at Lifeinvader news while being processed",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_018_06_52_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:52:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=06h52m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=24748"
+        },
+        {
+          "id": "d51-evt-019",
+          "timestamp": "07:37:10",
+          "seconds": 27430,
+          "isMajor": true,
+          "title": "- 07:43:30 x has an active warrant because his dna was ",
+          "description": "- 07:43:30 x has an active warrant because his DNA was found on an item that was thrown from the escaping vehicle, x is jailed for 233 months (x reacts to the clip of him throwing the item from the car's window)",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_019_07_37_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:37:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=07h37m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1adfa-8980-733f-a6bd-e9c096e071cd?t=27428"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 508:33 / Pierre Paul: 22:16 / Total : 530:49",
-        "timesJailed": "11 arrests",
+        "timeLoggedIn": "Jean Paul : ~ 515:17 / Pierre Paul: 22:16 / Total : 537:33",
+        "timesJailed": "12 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
