@@ -45439,7 +45439,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2920640394",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 13,
       "events": [
         {
           "id": "d51-evt-001",
@@ -45638,6 +45638,64 @@
           "image": "/images/frames/d51_evt_010_02_43_30.jpg",
           "imageCaption": "Stream snapshot @ 02:43:30",
           "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=02h43m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-011",
+          "timestamp": "03:02:00",
+          "seconds": 10920,
+          "isMajor": false,
+          "title": "Is selling jet",
+          "description": "x is selling jet",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_011_03_02_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:02:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=03h02m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-012",
+          "timestamp": "03:25:10",
+          "seconds": 12310,
+          "isMajor": false,
+          "title": "- 02:00:00 marty says",
+          "description": "- 02:00:00 Marty says",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d51_evt_012_03_25_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:25:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=03h25m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-013",
+          "timestamp": "03:34:20",
+          "seconds": 12860,
+          "isMajor": true,
+          "title": "- 02:43:35 x calls kit archer to pay his fines",
+          "description": "- 02:43:35 x calls Kit Archer to pay his fines, they meet up at the court house, she offers him a payment plan, 9 payments with 7 days in between, x asks for a discount, she gives him a 5% discount so each payment comes to 25,045$",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_013_03_34_20.jpg",
+          "imageCaption": "Stream snapshot @ 03:34:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=03h34m20s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
