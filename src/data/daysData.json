@@ -45428,6 +45428,144 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "51": {
+      "dayNumber": 51,
+      "title": "Day 51",
+      "redditTitle": "NoPixel V | Day 51 Recap Nov 5th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xokse9/nopixel_v_day_51_recap_nov_5th_xqcs_pov_with/",
+      "updated": "2026-11-05T14:59:27+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2920640394",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 6,
+      "events": [
+        {
+          "id": "d51-evt-001",
+          "timestamp": "01:01:15",
+          "seconds": 3675,
+          "isMajor": false,
+          "title": "Logs in and starts day 51!",
+          "description": "x logs in and starts day 51!",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_001_01_01_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:01:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h01m15s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-002",
+          "timestamp": "01:08:17",
+          "seconds": 4097,
+          "isMajor": true,
+          "title": "- 01:11:00 bne hasa flashbang drone",
+          "description": "- 01:11:00 BNE hasa flashbang drone, they could be used against helis",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_002_01_08_17.jpg",
+          "imageCaption": "Stream snapshot @ 01:08:17",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h08m17s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-003",
+          "timestamp": "01:29:34",
+          "seconds": 5374,
+          "isMajor": true,
+          "title": "- 01:30:50 marty buys a micro smg as a gift for x",
+          "description": "- 01:30:50 Marty buys a micro SMG as a gift for x",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d51_evt_003_01_29_34.jpg",
+          "imageCaption": "Stream snapshot @ 01:29:34",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h29m34s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-004",
+          "timestamp": "01:43:00",
+          "seconds": 6180,
+          "isMajor": false,
+          "title": "And marty test drive 2 cars",
+          "description": "x and Marty test drive 2 cars, a 2 seater and a 6 seater",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d51_evt_004_01_43_00.jpg",
+          "imageCaption": "Stream snapshot @ 01:43:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h43m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-005",
+          "timestamp": "01:48:40",
+          "seconds": 6520,
+          "isMajor": true,
+          "title": "- 01:49:30 x is potentially buying a 6 seater car",
+          "description": "- 01:49:30 x is potentially buying a 6 seater car",
+          "category": "job",
+          "tags": [
+            "job",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_005_01_48_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:48:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h48m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d51-evt-006",
+          "timestamp": "01:55:15",
+          "seconds": 6915,
+          "isMajor": true,
+          "title": "- 01:56:00 the crew want to buy a drone controller for ",
+          "description": "- 01:56:00 the crew want to buy a drone controller for 150k from BNE (it costs them 30k Escrow and they can only buy one a month)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d51_evt_006_01_55_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:55:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2920640394?t=01h55m15s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 508:33 / Pierre Paul: 22:16 / Total : 530:49",
+        "timesJailed": "11 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
