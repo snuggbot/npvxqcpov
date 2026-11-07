@@ -45842,7 +45842,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2921546465",
       "kickVod": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130",
       "kickStreamUrl": "",
-      "eventsCount": 12,
+      "eventsCount": 19,
       "events": [
         {
           "id": "d52-evt-001",
@@ -46084,11 +46084,148 @@
           "imageCaption": "Stream snapshot @ 05:05:25",
           "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=05h05m25s",
           "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=18323"
+        },
+        {
+          "id": "d52-evt-013",
+          "timestamp": "07:17:20",
+          "seconds": 26240,
+          "isMajor": false,
+          "title": "They change outfits",
+          "description": "they change outfits",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_013_07_17_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:17:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=07h17m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=26238"
+        },
+        {
+          "id": "d52-evt-014",
+          "timestamp": "07:53:50",
+          "seconds": 28430,
+          "isMajor": false,
+          "title": "The crew rob another fleeca",
+          "description": "the crew rob another Fleeca, x and Tony drill the lockers (no diagnostic kits again), they exchange the hostage and the chase begins, they manage to escape safely",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d52_evt_014_07_53_50.jpg",
+          "imageCaption": "Stream snapshot @ 07:53:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=07h53m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=28428"
+        },
+        {
+          "id": "d52-evt-015",
+          "timestamp": "08:26:00",
+          "seconds": 30360,
+          "isMajor": false,
+          "title": "Is robbing atms",
+          "description": "x is robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_015_08_26_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:26:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=08h26m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=30358"
+        },
+        {
+          "id": "d52-evt-016",
+          "timestamp": "08:51:00",
+          "seconds": 31860,
+          "isMajor": false,
+          "title": "Exchanges fleeca cards with harry",
+          "description": "x exchanges Fleeca cards with Harry, he also shows x the weed farms",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_016_08_51_00.jpg",
+          "imageCaption": "Stream snapshot @ 08:51:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=08h51m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=31858"
+        },
+        {
+          "id": "d52-evt-017",
+          "timestamp": "09:02:20",
+          "seconds": 32540,
+          "isMajor": false,
+          "title": "(x reacts to a clip of ron landing double zeros on roul",
+          "description": "(x reacts to a clip of Ron landing double zeros on Roulette while they were robbing the casino earlier)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_017_09_02_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:02:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=09h02m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=32538"
+        },
+        {
+          "id": "d52-evt-018",
+          "timestamp": "09:07:30",
+          "seconds": 32850,
+          "isMajor": false,
+          "title": "Robs a fleeca with ginger",
+          "description": "x robs a Fleeca with Ginger, Foxy and Ken, x and Ginger drill the lockers (no diagnostic kits), they exchange the hostage and the chase begins (x is driving), they split up and eventually escape the cops",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_018_09_07_30.jpg",
+          "imageCaption": "Stream snapshot @ 09:07:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=09h07m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=32848"
+        },
+        {
+          "id": "d52-evt-019",
+          "timestamp": "10:05:00",
+          "seconds": 36300,
+          "isMajor": false,
+          "title": "Taunts a cop into a chase",
+          "description": "x taunts a cop into a chase, he eventually escapes",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_019_10_05_00.jpg",
+          "imageCaption": "Stream snapshot @ 10:05:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=10h05m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=36298"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 515:17 / Pierre Paul: 22:16 / Total : 537:33",
+        "timeLoggedIn": "Jean Paul : ~ 525:03 / Pierre Paul: 22:16 / Total : 547:19",
         "timesJailed": "12 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
