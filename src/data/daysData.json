@@ -45842,7 +45842,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2921546465",
       "kickVod": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130",
       "kickStreamUrl": "",
-      "eventsCount": 7,
+      "eventsCount": 12,
       "events": [
         {
           "id": "d52-evt-001",
@@ -45985,6 +45985,105 @@
           "imageCaption": "Stream snapshot @ 01:54:00",
           "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=01h54m00s",
           "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=6838"
+        },
+        {
+          "id": "d52-evt-008",
+          "timestamp": "03:46:00",
+          "seconds": 13560,
+          "isMajor": false,
+          "title": "Looks at the prices to upgrade his car's brakes at mosl",
+          "description": "x looks at the prices to upgrade his car's brakes at Mosley's, to upgrade his brakes all the way to stage 5 it would cost 125k after discount",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_008_03_46_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:46:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=03h46m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=13558"
+        },
+        {
+          "id": "d52-evt-009",
+          "timestamp": "03:56:00",
+          "seconds": 14160,
+          "isMajor": false,
+          "title": "Buys materials off of ken",
+          "description": "x buys materials off of Ken",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_009_03_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=03h56m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=14158"
+        },
+        {
+          "id": "d52-evt-010",
+          "timestamp": "04:11:00",
+          "seconds": 15060,
+          "isMajor": true,
+          "title": "- 04:23:20 (funny rp bit) x meets up with shang to get ",
+          "description": "- 04:23:20 (funny RP bit) x meets up with Shang to get a Thermite charge",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d52_evt_010_04_11_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:11:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=04h11m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=15058"
+        },
+        {
+          "id": "d52-evt-011",
+          "timestamp": "04:29:50",
+          "seconds": 16190,
+          "isMajor": false,
+          "title": "The crew rob another fleeca",
+          "description": "the crew rob another Fleeca, x and Marty drill the lockers (no diagnostic kits), they exchange the hostage and the chase begins, they escape the cops shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d52_evt_011_04_29_50.jpg",
+          "imageCaption": "Stream snapshot @ 04:29:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=04h29m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=16188"
+        },
+        {
+          "id": "d52-evt-012",
+          "timestamp": "05:05:25",
+          "seconds": 18325,
+          "isMajor": true,
+          "title": "- 07:14:30 the crew is staging a scene at the casino to",
+          "description": "- 07:14:30 the crew is staging a scene at the casino to get access into the casino and try the new tools on the inside, the cops arrive and breach their way in, each crew member pretends to work at a part of the casino on the inside so they walk in with the cops, they try using the decoder around the casino but with no luck, Marty finds a door with a keypad they can use the decoder on but they have to wait for the cops to leave, x, Swan and Marty work together to decipher the code to locked door using the decoder and encrypted laptop, they open the locked door and go in, it leads to another locked door with a new code, they enter the incorrect code which causes the keypad security to be heightened, they manage to open another door which leads to the chips dealer/cashier area, they get casino promo chips, rolled bills and free spins vouchers, they also find another PC in the same area which leads to a new set of symbols and hack, x and Marty workout the symbols together and manage to hack into the last locked room, they find more casino promo chips and a huge amount of cash (170k) , x lures in Ron to use him as a hostage, the cops and C. Dawson arrive and they exchange the hostage, the chase begins, they escape the cops and divide the loot",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d52_evt_012_05_05_25.jpg",
+          "imageCaption": "Stream snapshot @ 05:05:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2921546465?t=05h05m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b308-7f68-76ba-83ad-c88cc3a54dcf?t=2130?t=18323"
         }
       ],
       "characterInfo": {
