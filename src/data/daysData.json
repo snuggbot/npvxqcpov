@@ -46230,6 +46230,343 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "53": {
+      "dayNumber": 53,
+      "title": "Day 53",
+      "redditTitle": "NoPixel V | Day 53 Recap Nov 7th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xq96fs/nopixel_v_day_53_recap_nov_7th_xqcs_pov_with/",
+      "updated": "2026-11-07T15:35:41+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2922588510",
+      "kickVod": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677",
+      "kickStreamUrl": "",
+      "eventsCount": 16,
+      "events": [
+        {
+          "id": "d53-evt-001",
+          "timestamp": "01:03:05",
+          "seconds": 3785,
+          "isMajor": false,
+          "title": "The crew's found a diagnostic kit robbing a fleeca",
+          "description": "The crew's found a diagnostic kit robbing a Fleeca",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d53_evt_001_01_03_05.jpg",
+          "imageCaption": "Stream snapshot @ 01:03:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=01h03m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=3783"
+        },
+        {
+          "id": "d53-evt-002",
+          "timestamp": "01:07:10",
+          "seconds": 4030,
+          "isMajor": true,
+          "title": "- 01:10:15 lang tells x to get a brick wall tattoo on h",
+          "description": "- 01:10:15 Lang tells x to get a brick wall tattoo on his hand as a sign of being a brick boi",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d53_evt_002_01_07_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:07:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=01h07m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=4028"
+        },
+        {
+          "id": "d53-evt-003",
+          "timestamp": "01:10:25",
+          "seconds": 4225,
+          "isMajor": true,
+          "title": "- 01:12:10 lang says there is a drama going on between ",
+          "description": "- 01:12:10 Lang says there is a drama going on between the doctors and the cops, the cops are trying to get all the doctors DNA on file, also Mr. C woke up today and was in the casino for 2 hours",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d53_evt_003_01_10_25.jpg",
+          "imageCaption": "Stream snapshot @ 01:10:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=01h10m25s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=4223"
+        },
+        {
+          "id": "d53-evt-004",
+          "timestamp": "01:14:10",
+          "seconds": 4450,
+          "isMajor": false,
+          "title": "And lang are robbing atms",
+          "description": "x and Lang are robbing ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d53_evt_004_01_14_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:14:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=01h14m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=4448"
+        },
+        {
+          "id": "d53-evt-005",
+          "timestamp": "01:51:40",
+          "seconds": 6700,
+          "isMajor": true,
+          "title": "- 01:52:50 x pays 75",
+          "description": "- 01:52:50 x pays 75,135$ out of 225,397$ of his fines",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d53_evt_005_01_51_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:51:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=01h51m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=6698"
+        },
+        {
+          "id": "d53-evt-006",
+          "timestamp": "02:09:30",
+          "seconds": 7770,
+          "isMajor": false,
+          "title": "Exchanges fleeca cards with benji",
+          "description": "x exchanges Fleeca cards with Benji",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d53_evt_006_02_09_30.jpg",
+          "imageCaption": "Stream snapshot @ 02:09:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=02h09m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=7768"
+        },
+        {
+          "id": "d53-evt-007",
+          "timestamp": "02:15:00",
+          "seconds": 8100,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Lang, Ginger and Swan rob a Fleeca, Swan and Ginger drill the lockers (no diagnostic kits), they exchange the hostage and the chase begins, it's a long chase but they escape eventually",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d53_evt_007_02_15_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:15:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=02h15m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=8098"
+        },
+        {
+          "id": "d53-evt-008",
+          "timestamp": "03:23:00",
+          "seconds": 12180,
+          "isMajor": false,
+          "title": "Goes bird hunting",
+          "description": "x goes bird hunting",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d53_evt_008_03_23_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:23:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=03h23m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=12178"
+        },
+        {
+          "id": "d53-evt-009",
+          "timestamp": "03:34:10",
+          "seconds": 12850,
+          "isMajor": false,
+          "title": "Beef calls x discussing the dna issue (the cops abusing",
+          "description": "Beef calls x discussing the DNA issue (the cops abusing DNA evidence to put out warrants and catch criminals)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d53_evt_009_03_34_10.jpg",
+          "imageCaption": "Stream snapshot @ 03:34:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=03h34m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=12848"
+        },
+        {
+          "id": "d53-evt-010",
+          "timestamp": "03:52:00",
+          "seconds": 13920,
+          "isMajor": false,
+          "title": "Rescues ginger from a cop chase",
+          "description": "x rescues Ginger from a cop chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d53_evt_010_03_52_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:52:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=03h52m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=13918"
+        },
+        {
+          "id": "d53-evt-011",
+          "timestamp": "04:56:00",
+          "seconds": 17760,
+          "isMajor": false,
+          "title": "And marty get spotted robbing atms they then spend a wh",
+          "description": "x and Marty get spotted robbing ATMs they then spend a while testing out places where they can drop items off of bridges during chases",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d53_evt_011_04_56_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:56:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=04h56m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=17758"
+        },
+        {
+          "id": "d53-evt-012",
+          "timestamp": "06:04:50",
+          "seconds": 21890,
+          "isMajor": true,
+          "title": "- 07:14:30 x",
+          "description": "- 07:14:30 x, Ginger, Marty and Tony are attempting Paleto, Marty intercepts both calls, x succeed with the Captchas, x Thermites the door, they get 2 notebook pages (not new) plus around 230k, they exchange the hostage and the chase begins, it's a long chase but everyone eventually escapes",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Tony"
+          ],
+          "image": "/images/frames/d53_evt_012_06_04_50.jpg",
+          "imageCaption": "Stream snapshot @ 06:04:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=06h04m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=21888"
+        },
+        {
+          "id": "d53-evt-013",
+          "timestamp": "07:25:10",
+          "seconds": 26710,
+          "isMajor": false,
+          "title": "And marty rob atms",
+          "description": "x and Marty rob ATMs",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d53_evt_013_07_25_10.jpg",
+          "imageCaption": "Stream snapshot @ 07:25:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=07h25m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=26708"
+        },
+        {
+          "id": "d53-evt-014",
+          "timestamp": "07:27:00",
+          "seconds": 26820,
+          "isMajor": false,
+          "title": "Lang wasn't there for paleto and he's asking about the ",
+          "description": "Lang wasn't there for Paleto and he's asking about the diagnostic kit he's got for them, he doesn't mind that it was used for Paleto",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d53_evt_014_07_27_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:27:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=07h27m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=26818"
+        },
+        {
+          "id": "d53-evt-015",
+          "timestamp": "07:41:00",
+          "seconds": 27660,
+          "isMajor": false,
+          "title": "And marty are robbing stores looking for fleeca cards",
+          "description": "x and Marty are robbing stores looking for Fleeca cards",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d53_evt_015_07_41_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:41:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=07h41m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=27658"
+        },
+        {
+          "id": "d53-evt-016",
+          "timestamp": "07:52:00",
+          "seconds": 28320,
+          "isMajor": false,
+          "title": "They're hitting more atms",
+          "description": "they're hitting more ATMs",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d53_evt_016_07_52_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:52:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2922588510?t=07h52m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1b83e-4c88-7c10-9bc3-683a94f70677?t=28318"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 525:03 / Pierre Paul: 22:16 / Total : 547:19",
+        "timesJailed": "12 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
+      }
     }
   }
 }
