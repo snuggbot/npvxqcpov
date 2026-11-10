@@ -46684,6 +46684,223 @@
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)"
       }
+    },
+    "54": {
+      "dayNumber": 54,
+      "title": "Day 54",
+      "redditTitle": "NoPixel V | Day 54 Recap Nov 9th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xrs9if/nopixel_v_day_54_recap_nov_9th_xqcs_pov_with/",
+      "updated": "2026-11-09T13:55:39+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2924308181",
+      "kickVod": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a",
+      "kickStreamUrl": "",
+      "eventsCount": 10,
+      "events": [
+        {
+          "id": "d54-evt-001",
+          "timestamp": "00:52:30",
+          "seconds": 3150,
+          "isMajor": false,
+          "title": "Logs in and starts day 54",
+          "description": "x logs in and starts day 54",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_001_00_52_30.jpg",
+          "imageCaption": "Stream snapshot @ 00:52:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=00h52m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=3148"
+        },
+        {
+          "id": "d54-evt-002",
+          "timestamp": "01:07:30",
+          "seconds": 4050,
+          "isMajor": false,
+          "title": "(x encounters an interesting bug)",
+          "description": "(x encounters an interesting bug)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_002_01_07_30.jpg",
+          "imageCaption": "Stream snapshot @ 01:07:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=01h07m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=4048"
+        },
+        {
+          "id": "d54-evt-003",
+          "timestamp": "01:12:10",
+          "seconds": 4330,
+          "isMajor": false,
+          "title": "Curtis calls x asking for a laptop",
+          "description": "Curtis calls x asking for a laptop",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_003_01_12_10.jpg",
+          "imageCaption": "Stream snapshot @ 01:12:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=01h12m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=4328"
+        },
+        {
+          "id": "d54-evt-004",
+          "timestamp": "01:17:15",
+          "seconds": 4635,
+          "isMajor": true,
+          "title": "- 01:43:40 x finally meets curtis in person for the fir",
+          "description": "- 01:43:40 x finally meets Curtis in person for the first time (discovery man) along with the italians to sell them a laptop, they discuss the deal for a while but they get a live offer at the same time which is better than x's so it falls through and x leaves with the laptop",
+          "category": "lore",
+          "tags": [
+            "lore",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_004_01_17_15.jpg",
+          "imageCaption": "Stream snapshot @ 01:17:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=01h17m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=4633"
+        },
+        {
+          "id": "d54-evt-005",
+          "timestamp": "01:47:58",
+          "seconds": 6478,
+          "isMajor": true,
+          "title": "- 01:49:30 marty says that sk is offering to clean roll",
+          "description": "- 01:49:30 Marty says that SK is offering to clean rolled money at 90% if x beats him in golf but if he looses then he will clean at 50% rate, x agrees and puts his golf fit on",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d54_evt_005_01_47_58.jpg",
+          "imageCaption": "Stream snapshot @ 01:47:58",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=01h47m58s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=6476"
+        },
+        {
+          "id": "d54-evt-006",
+          "timestamp": "01:51:40",
+          "seconds": 6700,
+          "isMajor": true,
+          "title": "- 01:55:00 x is going to play against someone called br",
+          "description": "- 01:55:00 x is going to play against someone called Brandon and (to clean 300k rolled)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_006_01_51_40.jpg",
+          "imageCaption": "Stream snapshot @ 01:51:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=01h51m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=6698"
+        },
+        {
+          "id": "d54-evt-007",
+          "timestamp": "01:56:50",
+          "seconds": 7010,
+          "isMajor": false,
+          "title": "- 02:13:00 x arrives at the golf course with marty to p",
+          "description": "- 02:13:00 x arrives at the golf course with Marty to practice a bit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d54_evt_007_01_56_50.jpg",
+          "imageCaption": "Stream snapshot @ 01:56:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=01h56m50s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=7008"
+        },
+        {
+          "id": "d54-evt-008",
+          "timestamp": "02:15:00",
+          "seconds": 8100,
+          "isMajor": false,
+          "title": "- 02:46:43 x vs brandon valentino starts",
+          "description": "- 02:46:43 x vs Brandon Valentino starts, Verdict:",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_008_02_15_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:15:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=02h15m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=8098"
+        },
+        {
+          "id": "d54-evt-009",
+          "timestamp": "02:54:48",
+          "seconds": 10488,
+          "isMajor": true,
+          "title": "- 02:55:50 x wants to replay the first hole again sayin",
+          "description": "- 02:55:50 x wants to replay the first hole again saying that it was scuffed for him",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_009_02_54_48.jpg",
+          "imageCaption": "Stream snapshot @ 02:54:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=02h54m48s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=10486"
+        },
+        {
+          "id": "d54-evt-010",
+          "timestamp": "02:58:20",
+          "seconds": 10700,
+          "isMajor": true,
+          "title": "- 03:16:00 x meets up with sk and brandon again",
+          "description": "- 03:16:00 x meets up with SK and Brandon again, they decide to replay the first hole but this time for 80% - 25% and if they draw they will play until someone wins the first hole, Verdict:",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_010_02_58_20.jpg",
+          "imageCaption": "Stream snapshot @ 02:58:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=02h58m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=10698"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 534:52 / Pierre Paul: 22:16 / Total : 557:08",
+        "timesJailed": "12 arrests",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
+        "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
+        "Player": "Hole# #1",
+        "X": "3",
+        "Brandon": "3"
+      }
     }
   }
 }
