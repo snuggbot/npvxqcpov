@@ -46695,7 +46695,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2924308181",
       "kickVod": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a",
       "kickStreamUrl": "",
-      "eventsCount": 18,
+      "eventsCount": 34,
       "events": [
         {
           "id": "d54-evt-001",
@@ -47050,6 +47050,325 @@
           "imageCaption": "Stream snapshot @ 04:43:48",
           "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h43m48s",
           "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=17026"
+        },
+        {
+          "id": "d54-evt-019",
+          "timestamp": "04:52:40",
+          "seconds": 17560,
+          "isMajor": false,
+          "title": "And marty meet up with ron",
+          "description": "x and Marty meet up with Ron, he gives them a heli ride and lands on top of the casino, they look around but it leads to Nathan, Marty falls off and gets incapacitated",
+          "category": "lore",
+          "tags": [
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d54_evt_019_04_52_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:52:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h52m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=17558"
+        },
+        {
+          "id": "d54-evt-020",
+          "timestamp": "05:05:00",
+          "seconds": 18300,
+          "isMajor": false,
+          "title": "Swan gets a heli and they rescue marty's body",
+          "description": "Swan gets a heli and they rescue Marty's body",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d54_evt_020_05_05_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:05:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=05h05m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=18298"
+        },
+        {
+          "id": "d54-evt-021",
+          "timestamp": "05:13:20",
+          "seconds": 18800,
+          "isMajor": false,
+          "title": "(a jean fall momento)",
+          "description": "(a Jean Fall momento)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_021_05_13_20.jpg",
+          "imageCaption": "Stream snapshot @ 05:13:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=05h13m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=18798"
+        },
+        {
+          "id": "d54-evt-022",
+          "timestamp": "05:27:00",
+          "seconds": 19620,
+          "isMajor": false,
+          "title": "Curtis calls x",
+          "description": "Curtis calls x, they discuss the stores being robbed and ATMs and a few more things (nothing major but Curtis is entertaining and funny)",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_022_05_27_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:27:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=05h27m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=19618"
+        },
+        {
+          "id": "d54-evt-023",
+          "timestamp": "05:59:00",
+          "seconds": 21540,
+          "isMajor": false,
+          "title": "Encounters druz (nothing major just a normal convo)",
+          "description": "x encounters Druz (nothing major just a normal convo)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_023_05_59_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:59:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=05h59m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=21538"
+        },
+        {
+          "id": "d54-evt-024",
+          "timestamp": "06:10:00",
+          "seconds": 22200,
+          "isMajor": false,
+          "title": "(x is looking for stores to rob while talking about the",
+          "description": "(x is looking for stores to rob while talking about the release of GTA 6)",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_024_06_10_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:10:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=06h10m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=22198"
+        },
+        {
+          "id": "d54-evt-025",
+          "timestamp": "06:24:00",
+          "seconds": 23040,
+          "isMajor": false,
+          "title": "Goes bird hunting",
+          "description": "x goes bird hunting",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_025_06_24_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:24:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=06h24m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=23038"
+        },
+        {
+          "id": "d54-evt-026",
+          "timestamp": "06:37:30",
+          "seconds": 23850,
+          "isMajor": true,
+          "title": "- 06:38:45 marty introduces his new italian friend to x",
+          "description": "- 06:38:45 Marty introduces his new italian friend to x",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d54_evt_026_06_37_30.jpg",
+          "imageCaption": "Stream snapshot @ 06:37:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=06h37m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=23848"
+        },
+        {
+          "id": "d54-evt-027",
+          "timestamp": "06:44:00",
+          "seconds": 24240,
+          "isMajor": true,
+          "title": "- 06:50:20 marty is looking to adopt a daughter with x",
+          "description": "- 06:50:20 Marty is looking to adopt a daughter with x, it's his friend Raia, Ken calls x saying he's about to work for G6, he's going to ping ATM spots for x to rob them",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "job",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks"
+          ],
+          "image": "/images/frames/d54_evt_027_06_44_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:44:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=06h44m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=24238"
+        },
+        {
+          "id": "d54-evt-028",
+          "timestamp": "06:57:15",
+          "seconds": 25035,
+          "isMajor": true,
+          "title": "- 06:57:35 ginger calls x",
+          "description": "- 06:57:35 Ginger calls x, she's in danger (she says 'I'm putting my hands up') and hangs up",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_028_06_57_15.jpg",
+          "imageCaption": "Stream snapshot @ 06:57:15",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=06h57m15s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=25033"
+        },
+        {
+          "id": "d54-evt-029",
+          "timestamp": "07:06:00",
+          "seconds": 25560,
+          "isMajor": true,
+          "title": "- 07:07:30 x finds ginger",
+          "description": "- 07:07:30 x finds Ginger, she was shot down while robbing a house",
+          "category": "crime",
+          "tags": [
+            "crime",
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_029_07_06_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:06:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=07h06m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=25558"
+        },
+        {
+          "id": "d54-evt-030",
+          "timestamp": "07:11:20",
+          "seconds": 25880,
+          "isMajor": true,
+          "title": "- 07:23:30 the crew link up with m1",
+          "description": "- 07:23:30 the crew link up with M1, M1 is looking for a usb, it's apparently at an underground weed farm that belongs to La Sierra, to find the location to said farm they need to go to the docks where the GB's are meeting La Sierra cartel and retrieve a duffel bag, the meeting is happening in 5-10 minutes from now",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_030_07_11_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:11:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=07h11m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=25878"
+        },
+        {
+          "id": "d54-evt-031",
+          "timestamp": "07:24:40",
+          "seconds": 26680,
+          "isMajor": true,
+          "title": "- 07:26:00 tony gets the bb's matching tattoo",
+          "description": "- 07:26:00 Tony gets the BB's matching tattoo",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d54_evt_031_07_24_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:24:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=07h24m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=26678"
+        },
+        {
+          "id": "d54-evt-032",
+          "timestamp": "07:39:30",
+          "seconds": 27570,
+          "isMajor": true,
+          "title": "- 07:41:40 they intercept the meeting at the docks and ",
+          "description": "- 07:41:40 they intercept the meeting at the docks and get the duffle bag",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_032_07_39_30.jpg",
+          "imageCaption": "Stream snapshot @ 07:39:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=07h39m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=27568"
+        },
+        {
+          "id": "d54-evt-033",
+          "timestamp": "07:44:40",
+          "seconds": 27880,
+          "isMajor": true,
+          "title": "- 08:30:10 they find the entrance to the underground we",
+          "description": "- 08:30:10 they find the entrance to the underground weed farm at a container located at the foundry, they raid the warehouse and set it on fire but find no USB anywhere, only a note that hints where the location of the USB might be at, x leaves the underground farm to find cops waiting for them on the outside, x gets into his car and drives off turning into a chase, the chase is very long and it leads to a shootout between the crew and the cops, x tries to parachute off of a roof of a building and gets incapacitated, Lang finds his body and rescues him, Lang leaves x's body in the canals and pings Swan to pick him up which she does and takes him to the hospital",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "medical",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d54_evt_033_07_44_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:44:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=07h44m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=27878"
+        },
+        {
+          "id": "d54-evt-034",
+          "timestamp": "08:36:20",
+          "seconds": 30980,
+          "isMajor": true,
+          "title": "- 08:43:20 the crew link up with m1 and tell him that t",
+          "description": "- 08:43:20 the crew link up with M1 and tell him that they couldn't find the USB but only a note, the note says that the USB was moved to a mansion, they decide to raid the mansion on Wednesday (x, Lang and Marty)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d54_evt_034_08_36_20.jpg",
+          "imageCaption": "Stream snapshot @ 08:36:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=08h36m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=30978"
         }
       ],
       "characterInfo": {
