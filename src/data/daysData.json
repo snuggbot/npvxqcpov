@@ -46695,7 +46695,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2924308181",
       "kickVod": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a",
       "kickStreamUrl": "",
-      "eventsCount": 10,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d54-evt-001",
@@ -46889,6 +46889,167 @@
           "imageCaption": "Stream snapshot @ 02:58:20",
           "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=02h58m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=10698"
+        },
+        {
+          "id": "d54-evt-011",
+          "timestamp": "03:47:00",
+          "seconds": 13620,
+          "isMajor": false,
+          "title": "(x encounters the same bug again)",
+          "description": "(x encounters the same bug again)",
+          "category": "social",
+          "tags": [
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_011_03_47_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:47:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=03h47m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=13618"
+        },
+        {
+          "id": "d54-evt-012",
+          "timestamp": "04:08:00",
+          "seconds": 14880,
+          "isMajor": false,
+          "title": "X",
+          "description": "x, Marty, Swan, Lang and Tony rob a Fleeca, Lang and Marty drill the lockers (no diagnostic kits), they exchange the hostage and chase starts, they escape shortly after",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang",
+            "Tony"
+          ],
+          "image": "/images/frames/d54_evt_012_04_08_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:08:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h08m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=14878"
+        },
+        {
+          "id": "d54-evt-013",
+          "timestamp": "04:29:30",
+          "seconds": 16170,
+          "isMajor": true,
+          "title": "- 04:31:10 marty has a mission for ken-sama",
+          "description": "- 04:31:10 Marty has a mission for Ken-Sama, he asks him for his best Mr. C impression, they also want him to try on Mr. C's outfit",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Ken-Sama"
+          ],
+          "image": "/images/frames/d54_evt_013_04_29_30.jpg",
+          "imageCaption": "Stream snapshot @ 04:29:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h29m30s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=16168"
+        },
+        {
+          "id": "d54-evt-014",
+          "timestamp": "04:32:40",
+          "seconds": 16360,
+          "isMajor": true,
+          "title": "- 04:33:15 ken puts on mr",
+          "description": "- 04:33:15 Ken puts on Mr. C's outfit, he just needs to get a fake beard",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_014_04_32_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:32:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h32m40s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=16358"
+        },
+        {
+          "id": "d54-evt-015",
+          "timestamp": "04:35:10",
+          "seconds": 16510,
+          "isMajor": true,
+          "title": "- 04:36:45 ken puts on a fake beard",
+          "description": "- 04:36:45 Ken puts on a fake beard, he just needs the tattoos",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_015_04_35_10.jpg",
+          "imageCaption": "Stream snapshot @ 04:35:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h35m10s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=16508"
+        },
+        {
+          "id": "d54-evt-016",
+          "timestamp": "04:38:45",
+          "seconds": 16725,
+          "isMajor": true,
+          "title": "- 04:40:20 ken adds the tattoos too",
+          "description": "- 04:40:20 Ken adds the tattoos too",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_016_04_38_45.jpg",
+          "imageCaption": "Stream snapshot @ 04:38:45",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h38m45s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=16723"
+        },
+        {
+          "id": "d54-evt-017",
+          "timestamp": "04:42:05",
+          "seconds": 16925,
+          "isMajor": true,
+          "title": "- 04:43:00 x takes some photos of ken at the casino",
+          "description": "- 04:43:00 x takes some photos of Ken at the casino",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_017_04_42_05.jpg",
+          "imageCaption": "Stream snapshot @ 04:42:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h42m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=16923"
+        },
+        {
+          "id": "d54-evt-018",
+          "timestamp": "04:43:48",
+          "seconds": 17028,
+          "isMajor": true,
+          "title": "- 04:48:55 marty explains the plan to lang",
+          "description": "- 04:48:55 Marty explains the plan to Lang, they want to convince the cops to open the casino with the help of Ken impersonating Mr. C, x posts on socials that Mr. C is back, they decide not to go with this plan for now",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "lore"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Marty Banks",
+            "Mista Lang"
+          ],
+          "image": "/images/frames/d54_evt_018_04_43_48.jpg",
+          "imageCaption": "Stream snapshot @ 04:43:48",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=04h43m48s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=17026"
         }
       ],
       "characterInfo": {
