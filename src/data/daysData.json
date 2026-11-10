@@ -46695,7 +46695,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2924308181",
       "kickVod": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a",
       "kickStreamUrl": "",
-      "eventsCount": 34,
+      "eventsCount": 38,
       "events": [
         {
           "id": "d54-evt-001",
@@ -47369,11 +47369,90 @@
           "imageCaption": "Stream snapshot @ 08:36:20",
           "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=08h36m20s",
           "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=30978"
+        },
+        {
+          "id": "d54-evt-035",
+          "timestamp": "08:59:05",
+          "seconds": 32345,
+          "isMajor": false,
+          "title": "C",
+          "description": "C. Dawson calls x about his car being involved in a crime as usual, he asks x to give him a call shall he finds the car",
+          "category": "mechanic",
+          "tags": [
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_035_08_59_05.jpg",
+          "imageCaption": "Stream snapshot @ 08:59:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=08h59m05s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=32343"
+        },
+        {
+          "id": "d54-evt-036",
+          "timestamp": "09:03:20",
+          "seconds": 32600,
+          "isMajor": false,
+          "title": "Is robbing stores",
+          "description": "x is robbing stores",
+          "category": "crime",
+          "tags": [
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_036_09_03_20.jpg",
+          "imageCaption": "Stream snapshot @ 09:03:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=09h03m20s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=32598"
+        },
+        {
+          "id": "d54-evt-037",
+          "timestamp": "09:49:00",
+          "seconds": 35340,
+          "isMajor": false,
+          "title": "Curtis calls x looking to buy a drill",
+          "description": "Curtis calls x looking to buy a drill",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d54_evt_037_09_49_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:49:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=09h49m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=35338"
+        },
+        {
+          "id": "d54-evt-038",
+          "timestamp": "09:53:00",
+          "seconds": 35580,
+          "isMajor": true,
+          "title": "X",
+          "description": "x, Ginger, Rob and Ken rob a Fleeca, Ken and Ginger drill the lockers (Ken gets a diagnostic kit), they exchange the hostage and the chase begins (x is driving), they split up and Tony joins the chase to help, eventually they get out",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)",
+            "Tony"
+          ],
+          "image": "/images/frames/d54_evt_038_09_53_00.jpg",
+          "imageCaption": "Stream snapshot @ 09:53:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2924308181?t=09h53m00s",
+          "kickUrl": "https://kick.com/xqc/videos/01a1c1f6-5dd8-7684-ba8e-ea1737b63d0a?t=35578"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
-        "timeLoggedIn": "Jean Paul : ~ 534:52 / Pierre Paul: 22:16 / Total : 557:08",
+        "timeLoggedIn": "Jean Paul : ~ 544:42 / Pierre Paul: 22:16 / Total : 566:58",
         "timesJailed": "12 arrests",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "1-Mr. Cement & M1 / 2-Jacob (Lifeinvader's server room) / 3-The Epsilon Puzzle / 4-Sewer Watch (sewers)",
