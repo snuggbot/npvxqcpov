@@ -47460,6 +47460,241 @@
         "X": "3",
         "Brandon": "3"
       }
+    },
+    "55": {
+      "dayNumber": 55,
+      "title": "Day 55",
+      "redditTitle": "NoPixel V | Day 55 Recap Nov 11th | xQc's POV With Timestamps",
+      "redditUrl": "https://www.reddit.com/r/xqcow/comments/1xtdale/nopixel_v_day_55_recap_nov_11th_xqcs_pov_with/",
+      "updated": "2026-11-11T09:17:04+00:00",
+      "isLive": true,
+      "twitchVod": "https://www.twitch.tv/videos/2926188923",
+      "kickVod": "https://kick.com/xqc",
+      "kickStreamUrl": "",
+      "eventsCount": 11,
+      "events": [
+        {
+          "id": "d55-evt-001",
+          "timestamp": "02:30:40",
+          "seconds": 9040,
+          "isMajor": false,
+          "title": "Logs in and starts day 55",
+          "description": "x logs in and starts day 55",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_001_02_30_40.jpg",
+          "imageCaption": "Stream snapshot @ 02:30:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=02h30m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-002",
+          "timestamp": "02:38:00",
+          "seconds": 9480,
+          "isMajor": false,
+          "title": "Sells the italians a drill for 120k",
+          "description": "x sells the italians a drill for 120k",
+          "category": "job",
+          "tags": [
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_002_02_38_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:38:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=02h38m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-003",
+          "timestamp": "02:55:00",
+          "seconds": 10500,
+          "isMajor": false,
+          "title": "Joins an ongoing chase as secondary",
+          "description": "x joins an ongoing chase as secondary, they catch the suspect",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_003_02_55_00.jpg",
+          "imageCaption": "Stream snapshot @ 02:55:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=02h55m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-004",
+          "timestamp": "03:24:40",
+          "seconds": 12280,
+          "isMajor": false,
+          "title": "Joins another chase",
+          "description": "x joins another chase",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_004_03_24_40.jpg",
+          "imageCaption": "Stream snapshot @ 03:24:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=03h24m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-005",
+          "timestamp": "03:28:00",
+          "seconds": 12480,
+          "isMajor": false,
+          "title": "Spots an atm robbery that turns into a chase",
+          "description": "x spots an ATM robbery that turns into a chase, suspects escape",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_005_03_28_00.jpg",
+          "imageCaption": "Stream snapshot @ 03:28:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=03h28m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-006",
+          "timestamp": "03:42:30",
+          "seconds": 13350,
+          "isMajor": false,
+          "title": "They spot the same suspects robbing atms",
+          "description": "they spot the same suspects robbing ATMs, the chase continues but they escape again",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_006_03_42_30.jpg",
+          "imageCaption": "Stream snapshot @ 03:42:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=03h42m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-007",
+          "timestamp": "03:57:50",
+          "seconds": 14270,
+          "isMajor": false,
+          "title": "(x goes into admin mode testing a few cop cars)",
+          "description": "(x goes into admin mode testing a few cop cars)",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_007_03_57_50.jpg",
+          "imageCaption": "Stream snapshot @ 03:57:50",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=03h57m50s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-008",
+          "timestamp": "04:25:00",
+          "seconds": 15900,
+          "isMajor": false,
+          "title": "Attends a cops meeting at the pd",
+          "description": "x attends a cops meeting at the PD",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "social"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_008_04_25_00.jpg",
+          "imageCaption": "Stream snapshot @ 04:25:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=04h25m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-009",
+          "timestamp": "04:38:05",
+          "seconds": 16685,
+          "isMajor": true,
+          "title": "- 04:39:30 jason burns send a message to the police say",
+          "description": "- 04:39:30 Jason Burns send a message to the police saying that someone left their bags at the airport, x calls Jason to investigate",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_009_04_38_05.jpg",
+          "imageCaption": "Stream snapshot @ 04:38:05",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=04h38m05s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-010",
+          "timestamp": "04:44:40",
+          "seconds": 17080,
+          "isMajor": true,
+          "title": "- 04:57:00 x arrives at the airport to investigate",
+          "description": "- 04:57:00 x arrives at the airport to investigate, (x plants a C4 near the bag to roleplay) the bomb explodes taking x down",
+          "category": "medical",
+          "tags": [
+            "medical"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_010_04_44_40.jpg",
+          "imageCaption": "Stream snapshot @ 04:44:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=04h44m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-011",
+          "timestamp": "05:05:00",
+          "seconds": 18300,
+          "isMajor": false,
+          "title": "Spots an individual robbing a store and it turns into a",
+          "description": "x spots an individual robbing a store and it turns into a chase",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "job"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_011_05_05_00.jpg",
+          "imageCaption": "Stream snapshot @ 05:05:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=05h05m00s",
+          "kickUrl": "https://kick.com/xqc"
+        }
+      ],
+      "characterInfo": {
+        "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
+        "timeLoggedIn": "Jean Paul : ~ 544:42 / Pierre Paul: 22:16 / Total : 566:58",
+        "timesJailed": "3 (cuffing suspects successfully)",
+        "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
+        "Current Ongoing Quest Line(s)": "None Yet",
+        "Character": "Pierre Paul"
+      }
     }
   }
 }
