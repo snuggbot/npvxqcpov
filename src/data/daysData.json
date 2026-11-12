@@ -47471,7 +47471,7 @@
       "twitchVod": "https://www.twitch.tv/videos/2926188923",
       "kickVod": "https://kick.com/xqc",
       "kickStreamUrl": "",
-      "eventsCount": 11,
+      "eventsCount": 18,
       "events": [
         {
           "id": "d55-evt-001",
@@ -47667,11 +47667,11 @@
         },
         {
           "id": "d55-evt-011",
-          "timestamp": "05:05:00",
-          "seconds": 18300,
-          "isMajor": false,
-          "title": "Spots an individual robbing a store and it turns into a",
-          "description": "x spots an individual robbing a store and it turns into a chase",
+          "timestamp": "05:05:10",
+          "seconds": 18310,
+          "isMajor": true,
+          "title": "- 05:12:10 x spots an individual robbing a store and it",
+          "description": "- 05:12:10 x spots an individual robbing a store and it turns into a chase, x cuffs and arrests one of the individuals",
           "category": "chase",
           "tags": [
             "chase",
@@ -47681,16 +47681,151 @@
           "characters": [
             "Jean Paul (X)"
           ],
-          "image": "/images/frames/d55_evt_011_05_05_00.jpg",
-          "imageCaption": "Stream snapshot @ 05:05:00",
-          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=05h05m00s",
+          "image": "/images/frames/d55_evt_011_05_05_10.jpg",
+          "imageCaption": "Stream snapshot @ 05:05:10",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=05h05m10s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-012",
+          "timestamp": "05:12:40",
+          "seconds": 18760,
+          "isMajor": false,
+          "title": "Pierre pole momento",
+          "description": "Pierre Pole momento",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_012_05_12_40.jpg",
+          "imageCaption": "Stream snapshot @ 05:12:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=05h12m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-013",
+          "timestamp": "05:56:30",
+          "seconds": 21390,
+          "isMajor": false,
+          "title": "Responds to a house robbery",
+          "description": "x responds to a house robbery",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_013_05_56_30.jpg",
+          "imageCaption": "Stream snapshot @ 05:56:30",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=05h56m30s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-014",
+          "timestamp": "06:08:25",
+          "seconds": 22105,
+          "isMajor": false,
+          "title": "Responds to a house robbery and it turns into a chase",
+          "description": "x responds to a house robbery and it turns into a chase, suspect eventually escapes",
+          "category": "chase",
+          "tags": [
+            "chase"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_014_06_08_25.jpg",
+          "imageCaption": "Stream snapshot @ 06:08:25",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=06h08m25s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-015",
+          "timestamp": "06:22:00",
+          "seconds": 22920,
+          "isMajor": true,
+          "title": "- 07:27:00 x pulls over a stolen vehicle",
+          "description": "- 07:27:00 x pulls over a stolen vehicle, it turns into a chase, shortly after the suspect's vehicle gives out and he tries to steal x's cop car, the passenger is trying to help the suspect, x chases her on foot and puts her in cuffs, they escort the suspects to the PD and process them",
+          "category": "chase",
+          "tags": [
+            "chase",
+            "crime",
+            "mechanic"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_015_06_22_00.jpg",
+          "imageCaption": "Stream snapshot @ 06:22:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=06h22m00s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-016",
+          "timestamp": "07:27:40",
+          "seconds": 26860,
+          "isMajor": true,
+          "title": "- 07:31:20 (x opens a package sent from victor irl wish",
+          "description": "- 07:31:20 (x opens a package sent from Victor IRL wishing the Juicer a happy birthday)",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_016_07_27_40.jpg",
+          "imageCaption": "Stream snapshot @ 07:27:40",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=07h27m40s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-017",
+          "timestamp": "07:32:20",
+          "seconds": 27140,
+          "isMajor": false,
+          "title": "Pp ends for today",
+          "description": "PP ends for today",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_017_07_32_20.jpg",
+          "imageCaption": "Stream snapshot @ 07:32:20",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=07h32m20s",
+          "kickUrl": "https://kick.com/xqc"
+        },
+        {
+          "id": "d55-evt-018",
+          "timestamp": "07:33:00",
+          "seconds": 27180,
+          "isMajor": false,
+          "title": "Back to jp",
+          "description": "back to JP",
+          "category": "general",
+          "tags": [
+            "general"
+          ],
+          "characters": [
+            "Jean Paul (X)"
+          ],
+          "image": "/images/frames/d55_evt_018_07_33_00.jpg",
+          "imageCaption": "Stream snapshot @ 07:33:00",
+          "twitchUrl": "https://www.twitch.tv/videos/2926188923?t=07h33m00s",
           "kickUrl": "https://kick.com/xqc"
         }
       ],
       "characterInfo": {
         "background": "Jean Paul (X) is a well-known criminal and constant menace in the city. Even though he prefers working alone, he’s been part of several groups over the years. His most recent one was The Company, which he eventually betrayed — stealing a large amount of their assets before teaming up with his best friend Marty Banks near the end of NoPixel 4.0, it is also notable that Jean Paul has a brother called Pierre Paul (played by xqc as well) who is a police officer and a sister called Jolie Paul (played by Pokimane) and an in-game girlfriend called Ginger Ale (played by his IRL GF now Aikobliss).",
         "timeLoggedIn": "Jean Paul : ~ 544:42 / Pierre Paul: 22:16 / Total : 566:58",
-        "timesJailed": "3 (cuffing suspects successfully)",
+        "timesJailed": "5 (cuffing suspects successfully)",
         "Main Crew Members - Brick Bois (Currently)": "X, Marty, Lang, Tony, Speedy and Swan",
         "Current Ongoing Quest Line(s)": "None Yet",
         "Character": "Pierre Paul"
